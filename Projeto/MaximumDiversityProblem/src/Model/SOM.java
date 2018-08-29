@@ -4,29 +4,18 @@ package Model;
  *
  * @author Ivens
  */
-public class SOM {
+public class SOM extends Instance{
     
-    private int[][] matriz;
-    private int n;
-    private int m;    
+    private int[][] matriz;    
 
     public SOM(int n, int m) {
-        this.n = n;
-        this.m = m;
-        matriz = new int[n][n];
-    }   
+        super(n, m);
+        this.matriz = new int[n][n];
+    }
 
     public int[][] getMatriz() {
         return matriz;
     }
-
-    public int getN() {
-        return n;
-    }
-
-    public int getM() {
-        return m;
-    }   
 
     @Override
     public String toString() {

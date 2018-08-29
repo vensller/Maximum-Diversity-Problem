@@ -4,11 +4,11 @@ package Model;
  *
  * @author Ivens
  */
-public class MDG extends Instance{
-        
-    private double[][] matriz;    
-
-    public MDG(int n, int m) {
+public class GKD extends Instance{   
+    
+    private double[][] matriz;
+    
+    public GKD(int n, int m) {
         super(n, m);
         this.matriz = new double[n][n];
     }
@@ -19,19 +19,20 @@ public class MDG extends Instance{
 
     @Override
     public String toString() {
-        String result = "MDG INSTANCE \n";
-           
-        /* FICA MUITO LENTO O PRINT, CASO QUEIRA VISUALIZAR OS DADOS, DESCOMENTE ESTE BLOCO.
+        String result = "GKD INSTANCE \n";
+        
         for (int x = 0; x < n; x++){
             for (int y = 0; y < n; y++){
                 result += matriz[x][y] + " ";
             }
             
             result += "\n";
-        }*/
+        }
         
         result += "\n\n";
         
-        return result;        
-    }   
+        return result;   
+    }  
+    
+    
 }
