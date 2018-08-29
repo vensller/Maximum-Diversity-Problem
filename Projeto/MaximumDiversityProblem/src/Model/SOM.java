@@ -40,6 +40,8 @@ public class SOM {
             result += "\n";
         }
         
+        result += "\n\n";
+        
         return result;
     }    
     
