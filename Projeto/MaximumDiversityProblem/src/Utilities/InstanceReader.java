@@ -11,9 +11,9 @@ import javax.swing.JOptionPane;
  *
  * @author Ivens
  */
-public abstract class InstanceReader {
+public class InstanceReader {
     
-    protected Instance instance;
+    private Instance instance;
     
     public Instance getInstance(String archive){  
         instance = null;
@@ -25,7 +25,7 @@ public abstract class InstanceReader {
             String[] arrayStr = str.split(" ");
             
             if (arrayStr.length != 2){
-                throw new IOException("Archive not containt a " + getInstanceName() + " instance");
+                throw new IOException("Archive not containt an instance");
             }
             
             instance = createInstance(Integer.parseInt(arrayStr[0]), Integer.parseInt(arrayStr[1]));
@@ -34,7 +34,7 @@ public abstract class InstanceReader {
                 arrayStr = str.split(" ");
                 
                 if (arrayStr.length != 3){
-                    throw new IOException("Archive not containt a " + getInstanceName() + " instance");
+                    throw new IOException("Archive not containt an instance");
                 }
                 
                 populateMatrix(Integer.parseInt(arrayStr[0]), Integer.parseInt(arrayStr[1]), Double.parseDouble(arrayStr[2]));
@@ -50,10 +50,12 @@ public abstract class InstanceReader {
         return instance;
     }
     
-    protected abstract Instance createInstance(int n, int m);
-    
-    protected abstract String getInstanceName();
-    
-    protected abstract void populateMatrix(int x, int y, double val);
+    private Instance createInstance(int n, int m){
+        return new Instance(n, m);
+    }  
+        
+    private void populateMatrix(int x, int y, double val) {
+        instance.getMatrix()[x][y] = val;
+    }
     
 }

@@ -4,25 +4,18 @@ package Model;
  *
  * @author Ivens
  */
-public abstract class Instance {
+public class Instance {
     
-    protected int n;
-    protected int m;
-    protected int[] set;
+    private int n;
+    private int m;
+    private double[][] matrix;
 
     public Instance(int n, int m) {
         this.n = n;
         this.m = m;
-        this.set = new int[n];
-        populateSet();
+        this.matrix = new double[n][n];
     }
     
-    private void populateSet(){        
-        for (int x = 0; x < n; x++){
-            set[x] = 0;
-        }
-    }
-
     public int getN() {
         return n;
     }
@@ -31,9 +24,8 @@ public abstract class Instance {
         return m;
     }
 
-    public int[] getSet() {
-        return set;
-    } 
-    
+    public double[][] getMatrix() {
+        return matrix;
+    }  
     
 }

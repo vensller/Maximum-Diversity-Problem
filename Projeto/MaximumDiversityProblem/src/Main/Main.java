@@ -1,8 +1,6 @@
 package Main;
 
-import Utilities.GKDInstanceReader;
-import Utilities.MDGInstanceReader;
-import Utilities.SOMInstanceReader;
+import Utilities.InstanceReader;
 import javax.swing.JFileChooser;
 
 /**
@@ -16,20 +14,20 @@ public class Main {
         
         int result = fileChooser.showDialog(null, "Choose a SOM instance");        
         if (result == JFileChooser.APPROVE_OPTION){            
-            SOMInstanceReader somReader = new SOMInstanceReader();
-            System.out.println(somReader.getInstance(fileChooser.getSelectedFile().getAbsolutePath()));
+            InstanceReader somReader = new InstanceReader();
+            somReader.getInstance(fileChooser.getSelectedFile().getAbsolutePath());
         }    
         
         result = fileChooser.showDialog(null, "Choose a GKD instance!");        
         if (result == JFileChooser.APPROVE_OPTION){
-            GKDInstanceReader gkdReader = new GKDInstanceReader();
-            System.out.println(gkdReader.getInstance(fileChooser.getSelectedFile().getAbsolutePath()));
+            InstanceReader gkdReader = new InstanceReader();
+            gkdReader.getInstance(fileChooser.getSelectedFile().getAbsolutePath());
         }
         
         result = fileChooser.showDialog(null, "Choose a MDG instance!");        
         if (result == JFileChooser.APPROVE_OPTION){
-            MDGInstanceReader mdgReader = new MDGInstanceReader();
-            System.out.println(mdgReader.getInstance(fileChooser.getSelectedFile().getAbsolutePath()));
+            InstanceReader mdgReader = new InstanceReader();
+            mdgReader.getInstance(fileChooser.getSelectedFile().getAbsolutePath());
         }
                 
     }
