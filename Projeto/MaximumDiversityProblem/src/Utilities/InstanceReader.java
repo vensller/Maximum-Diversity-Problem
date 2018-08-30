@@ -37,8 +37,7 @@ public class InstanceReader {
                     throw new IOException("Archive not containt an instance");
                 }
                 
-                populateMatrix(Integer.parseInt(arrayStr[0]), Integer.parseInt(arrayStr[1]), Double.parseDouble(arrayStr[2]));
-                populateMatrix(Integer.parseInt(arrayStr[1]), Integer.parseInt(arrayStr[0]), Double.parseDouble(arrayStr[2]));
+                populateMatrix(Integer.parseInt(arrayStr[0]), Integer.parseInt(arrayStr[1]), Double.parseDouble(arrayStr[2]));             
             }
             
         } catch (FileNotFoundException ex) {

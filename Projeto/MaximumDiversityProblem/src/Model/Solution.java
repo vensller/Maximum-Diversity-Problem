@@ -7,8 +7,8 @@ package Model;
 public class Solution {
     
     private Instance instance;
-    private double value;    
-    private int[] set;
+    public double value;    
+    public int[] set;
 
     public Solution(Instance instance) {
         this.instance = instance;
@@ -16,15 +16,11 @@ public class Solution {
     }      
     
     public void evaluate(){
+        double[][] matrix = instance.getMatrix();
         for (int x = 0; x < instance.getN(); x++){
-            for (int y = 0; y < instance.getN(); y++){
-                value += instance.getMatrix()[x][y] * set[x] * set[y];
+            for (int y = x+1; y < instance.getN(); y++){
+                value += matrix[x][y] * set[x] * set[y];
             }
         }
     }
-
-    public double getValue() {
-        return value;
-    }   
-    
 }
