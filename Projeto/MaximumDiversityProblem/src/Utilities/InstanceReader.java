@@ -54,7 +54,7 @@ public class InstanceReader {
     }  
         
     private void populateMatrix(int x, int y, double val) {
-        instance.getMatrix()[x][y] = val;
+        instance.matrix[x][y] = val;
     }
     
 }

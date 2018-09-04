@@ -25,36 +25,22 @@ public class Main {
             int[] bestSet = new int[100];
             double inicio = System.currentTimeMillis();
             
-            while (System.currentTimeMillis() - inicio < 500000){
+            while (System.currentTimeMillis() - inicio < 150000){
                 List<Integer> numbers = new ArrayList<Integer>();
-                for (int i = 0; i < 100; i++) {
+                for (int i = 0; i < som.n; i++) {
                     numbers.add(i);
                 }                
-                
+                                                
                 Collections.shuffle(numbers);
-                int i1 = numbers.get(0);
-                int i2 = numbers.get(1);
-                int i3 = numbers.get(2);
-                int i4 = numbers.get(3);
-                int i5 = numbers.get(4);
-                int i6 = numbers.get(5);
-                int i7 = numbers.get(6);
-                int i8 = numbers.get(7);
-                int i9 = numbers.get(8);
-                int i10 = numbers.get(9);
                 
                 Solution sol = new Solution(som);
-                sol.set[i1] = 1;
-                sol.set[i2] = 1;
-                sol.set[i3] = 1;
-                sol.set[i4] = 1;
-                sol.set[i5] = 1;
-                sol.set[i6] = 1;
-                sol.set[i7] = 1;
-                sol.set[i8] = 1;
-                sol.set[i9] = 1;
-                sol.set[i10] = 1;
+                
+                for (int i = 0; i < som.m; i++){
+                    sol.set[numbers.get(i)] = 1;
+                }
+                
                 sol.evaluate();
+                
                 System.out.println("Solution: " + sol.value);
                 
                 if (sol.value > best){
