@@ -7,11 +7,10 @@ public class Guloso implements EstrategiaSelecao{
     
      @Override
      public void selecionar( List<Integer> indicesSelecionados, boolean[] solucao, double[][] matriz ){        
-        int n;
         if( indicesSelecionados.isEmpty() ){
             buscarComMaiorDiferenca( indicesSelecionados, solucao, matriz );
         }else{
-            buscarComMaiorDiferencaComRelacaoResposta( indicesSelecionados, solucao, matriz );
+            buscarComMaiorDiferencaComRelacaoSolucaoAtual( indicesSelecionados, solucao, matriz );
         }
     }
 
@@ -31,7 +30,7 @@ public class Guloso implements EstrategiaSelecao{
         solucao[ n ] = true;
     }
 
-    private void buscarComMaiorDiferencaComRelacaoResposta( List<Integer> indicesSelecionados, boolean[] solucao, double[][] matriz) {
+    private void buscarComMaiorDiferencaComRelacaoSolucaoAtual( List<Integer> indicesSelecionados, boolean[] solucao, double[][] matriz) {
         int soma, maior = 0, n = -1;
         for (int i = 0; i < matriz.length; i++) {
             if( !solucao[ i ] ){
