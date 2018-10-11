@@ -14,11 +14,38 @@ public class KGuloso implements EstrategiaSelecao{
 
     @Override
     public void selecionar(List<Integer> indiceSelecionados, boolean[] solucao, double[][] matriz) {
-        if( indiceSelecionados.isEmpty() ){
-            buscarComMaiorDiferenca( indiceSelecionados, solucao, matriz );
-        }else{
-            buscarComMaiorDiferencaComRelacaoSolucaoAtual( indiceSelecionados, solucao, matriz );
+//        if( indiceSelecionados.isEmpty() ){
+//            buscarComMaiorDiferenca( indiceSelecionados, solucao, matriz );
+//        }else{
+//            buscarComMaiorDiferencaComRelacaoSolucaoAtual( indiceSelecionados, solucao, matriz );
+//        }
+        int soma, n;
+        double[][] somaLinhas = new double[solucao.length][2];
+        Random sorteador = new Random();
+        
+        for (int i = 0; i < matriz.length; i++) {
+            soma = 0;
+            if( indiceSelecionados.isEmpty() ){
+                for (int j = 0; j < matriz[i].length; j++) {
+                    soma += matriz[i][j];
+                }
+            }else{
+                if( !solucao[ i ] ){
+                    for (int j = 0; j < indiceSelecionados.size(); j++) {
+                        soma += matriz[ i ][ indiceSelecionados.get( j ) ];                    
+                    }
+                }
+            }
+            
+            somaLinhas[i][0] = i;
+            somaLinhas[i][1] = soma;
         }
+        
+        quickSort(somaLinhas, 0, somaLinhas.length-1);
+        
+        n = sorteador.nextInt( this.k );
+        indiceSelecionados.add( n );
+        solucao[ n ] = true;
     }
 
     private void buscarComMaiorDiferenca(List<Integer> indiceSelecionados, boolean[] solucao, double[][] matriz) {
