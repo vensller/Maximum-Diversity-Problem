@@ -44,8 +44,8 @@ public class KGuloso implements EstrategiaSelecao{
         QuickSort.ordenar(somaLinhas, 0, somaLinhas.length-1);
         
         n = sorteador.nextInt( this.k );
-        indiceSelecionados.add( n );
-        solucao[ n ] = true;
+        indiceSelecionados.add( (int) somaLinhas[n][0] );
+        solucao[ (int) somaLinhas[n][0] ] = true;
     }
 
     private void buscarComMaiorDiferenca(List<Integer> indiceSelecionados, boolean[] solucao, double[][] matriz) {
