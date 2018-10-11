@@ -41,7 +41,7 @@ public class KGuloso implements EstrategiaSelecao{
             somaLinhas[i][1] = soma;
         }
         
-        quickSort(somaLinhas, 0, somaLinhas.length-1);
+        QuickSort.ordenar(somaLinhas, 0, somaLinhas.length-1);
         
         n = sorteador.nextInt( this.k );
         indiceSelecionados.add( n );
@@ -62,9 +62,10 @@ public class KGuloso implements EstrategiaSelecao{
             somaLinhas[i][1] = soma;
         }
         
-        quickSort(somaLinhas, 0, somaLinhas.length-1);
+        QuickSort.ordenar(somaLinhas, 0, somaLinhas.length-1);
         
         n = sorteador.nextInt( this.k );
+        n = (int) somaLinhas[n][0];
         indiceSelecionados.add( n );
         solucao[ n ] = true;
     }
@@ -83,60 +84,23 @@ public class KGuloso implements EstrategiaSelecao{
             somaLinhas[i][1] = soma;
         }
         
-        quickSort(somaLinhas, 0, somaLinhas.length-1);
+        QuickSort.ordenar(somaLinhas, 0, somaLinhas.length-1);
         
         n = sorteador.nextInt( this.k );
         indiceSelecionados.add( n );
         solucao[ n ] = true;
     }
     
-    private void quickSort(double[][] matriz, int inicio, int fim) {
-        if (inicio < fim) {
-            int posicaoPivo = separar(matriz, inicio, fim);
-            quickSort(matriz, inicio, posicaoPivo - 1);
-            quickSort(matriz, posicaoPivo + 1, fim);
-        }
-    }
-
-    private int separar(double[][] matriz, int inicio, int fim) {
-        double indicePivo = matriz[inicio][0];
-        double pivo = matriz[inicio][1];
-        int i = inicio + 1, f = fim;
-        
-        while (i <= f) {
-            if (matriz[i][1] >= pivo) {
-                i++;
-            } else if (pivo > matriz[f][1]) {
-                f--;
-            } else {
-                double troca;
-                troca = matriz[i][0];
-                matriz[i][0] = matriz[f][0];
-                matriz[f][0] = troca;
-                
-                troca = matriz[i][1];
-                matriz[i][1] = matriz[f][1];
-                matriz[f][1] = troca;
-                
-                i++;
-                f--;
-            }
-        }
-        matriz[inicio][0] = matriz[f][0];
-        matriz[f][0] = indicePivo;
-        matriz[inicio][1] = matriz[f][1];
-        matriz[f][1] = pivo;
-        return f;
-    }
     
-    public static void main(String[] args) {
-        List<Integer> indicesSelecionados = new ArrayList<>();
-        boolean[] solucao = { false, false, false, false };
-        double[][] matriz = { {0,2,4,5}, {2,0,3,1}, {4,3,0,2}, { 5,1,2,0}};
-        
-        EstrategiaSelecao estrategiaSelecao = new KGuloso(2);
-        estrategiaSelecao.selecionar( indicesSelecionados, solucao, matriz );
-        estrategiaSelecao.selecionar( indicesSelecionados, solucao, matriz );
-        estrategiaSelecao.selecionar( indicesSelecionados, solucao, matriz );
-    }
+    
+//    public static void main(String[] args) {
+//        List<Integer> indicesSelecionados = new ArrayList<>();
+//        boolean[] solucao = { false, false, false, false };
+//        double[][] matriz = { {0,2,4,5}, {2,0,3,1}, {4,3,0,2}, { 5,1,2,0}};
+//        
+//        EstrategiaSelecao estrategiaSelecao = new KGuloso(2);
+//        estrategiaSelecao.selecionar( indicesSelecionados, solucao, matriz );
+//        estrategiaSelecao.selecionar( indicesSelecionados, solucao, matriz );
+//        estrategiaSelecao.selecionar( indicesSelecionados, solucao, matriz );
+//    }
 }
