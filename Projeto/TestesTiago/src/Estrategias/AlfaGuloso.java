@@ -3,31 +3,33 @@ package Estrategias;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
+import model.Instancia;
 
-public class AlfaGuloso implements EstrategiaSelecao{
+public class AlfaGuloso extends EstrategiaSelecao{
 
     private double alfa;
 
-    public AlfaGuloso(double alfa) {
+    public AlfaGuloso(int quantidadeSelecionados, double alfa) {
+        super(quantidadeSelecionados);
         this.alfa = alfa;
     }
     
     @Override
-    public void selecionar(List<Integer> indiceSelecionados, boolean[] solucao, double[][] matriz) {
+    public void selecionar(List<Integer> indiceSelecionados, boolean[] solucao ) {
         int soma, n;
         double[][] somaLinhas = new double[solucao.length][2];
         Random sorteador = new Random();
         
-        for (int i = 0; i < matriz.length; i++) {
+        for (int i = 0; i < Instancia.matriz.length; i++) {
             soma = 0;
             if( indiceSelecionados.isEmpty() ){
-                for (int j = 0; j < matriz[i].length; j++) {
-                    soma += matriz[i][j];
+                for (int j = 0; j < Instancia.matriz[i].length; j++) {
+                    soma += Instancia.matriz[i][j];
                 }
             }else{
                 if( !solucao[ i ] ){
                     for (int j = 0; j < indiceSelecionados.size(); j++) {
-                        soma += matriz[ i ][ indiceSelecionados.get( j ) ];                    
+                        soma += Instancia.matriz[ i ][ indiceSelecionados.get( j ) ];                    
                     }
                 }
             }
@@ -50,10 +52,8 @@ public class AlfaGuloso implements EstrategiaSelecao{
         boolean[] solucao = { false, false, false, false };
         double[][] matriz = { {0,2,4,5}, {2,0,3,1}, {4,3,0,2}, { 5,1,2,0}};
         
-        EstrategiaSelecao estrategiaSelecao = new AlfaGuloso(0.3);
-        estrategiaSelecao.selecionar( indicesSelecionados, solucao, matriz );
-        estrategiaSelecao.selecionar( indicesSelecionados, solucao, matriz );
-        estrategiaSelecao.selecionar( indicesSelecionados, solucao, matriz );
+        EstrategiaSelecao estrategiaSelecao = new AlfaGuloso(3, 0.3);
+        estrategiaSelecao.selecionar( indicesSelecionados, solucao );
     }
 
 }

@@ -2,7 +2,13 @@ package Estrategias;
 
 import java.util.List;
 
-public interface EstrategiaSelecao {
+public abstract class EstrategiaSelecao {
     
-    public void selecionar( List<Integer> indiceSelecionados, boolean[] solucao, double[][] matriz );
+    protected int quantidadeSelecionados;
+
+    public EstrategiaSelecao(int quantidadeSelecionados) {
+        this.quantidadeSelecionados = quantidadeSelecionados;
+    }
+    
+    public abstract void selecionar( List<Integer> indicesSelecionados, boolean[] solucao );
 }
