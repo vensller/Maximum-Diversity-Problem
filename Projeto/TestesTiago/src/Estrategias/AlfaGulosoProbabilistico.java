@@ -1,14 +1,15 @@
 package Estrategias;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 import model.Instancia;
 
-public class AlfaGuloso extends EstrategiaSelecao{
-
+public class AlfaGulosoProbabilistico extends EstrategiaSelecao{
+    
     private double alfa;
 
-    public AlfaGuloso(int quantidadeSelecionados, double alfa) {
+    public AlfaGulosoProbabilistico(int quantidadeSelecionados, double alfa) {
         super(quantidadeSelecionados);
         this.alfa = alfa;
     }
@@ -16,6 +17,7 @@ public class AlfaGuloso extends EstrategiaSelecao{
     @Override
     public void selecionar(List<Integer> indiceSelecionados, boolean[] solucao ) {
         int soma, n, posicaoPior, tamanhoAlfa;
+        double somaPesos, somatorioPesos;
         double[][] alfaMelhores;
         Random sorteador = new Random();
         
@@ -28,11 +30,14 @@ public class AlfaGuloso extends EstrategiaSelecao{
         
         for (int i = 0; i < super.quantidadeSelecionados-1; i++) {
             // Limpa esse vetor para que o resultados anteriores não interfiram nessa interação.
-            alfaMelhores = new double[ tamanhoAlfa ][ 2 ];
+            alfaMelhores = new double[ tamanhoAlfa ][ 4 ];
             posicaoPior = 0;
+            somaPesos = 0;
+            somatorioPesos = 0;
             
             for (int j = 0; j < Instancia.matriz.length; j++) {
                 soma = 0;
+                
                 if( !solucao[ j ] ){
                     for (int l = 0; l < indiceSelecionados.size(); l++) {
                         soma += Instancia.matriz[ j ][ indiceSelecionados.get( l ) ];                    
@@ -52,9 +57,26 @@ public class AlfaGuloso extends EstrategiaSelecao{
                 }
 
             }
+            
+            QuickSort.ordenar(alfaMelhores, 0, alfaMelhores.length-1);
+            
+            for (int j = 0; j < alfaMelhores.length; j++) {
+                alfaMelhores[j][2] = 1.0/( (double) j+1);
+                somaPesos += alfaMelhores[j][2];
+            }
+            
+            for (int j = 0; j < alfaMelhores.length; j++) {
+                somatorioPesos += alfaMelhores[j][2] / somaPesos;
+                alfaMelhores[j][3] = somatorioPesos;
+            }
 
-            int s = sorteador.nextInt( tamanhoAlfa );
-            n = (int) alfaMelhores[s][0];
+            double s = sorteador.nextDouble();
+            for (int j = 0; j < alfaMelhores.length; j++) {
+                if( s <= alfaMelhores[j][3]){
+                    n = (int) alfaMelhores[j][0];
+                    break;
+                }
+            }
             indiceSelecionados.add( n );
             solucao[ n ] = true;
         }
@@ -62,14 +84,13 @@ public class AlfaGuloso extends EstrategiaSelecao{
     }
     
     
-//    public static void main(String[] args) {
-//        List<Integer> indicesSelecionados = new ArrayList<>();
-//        boolean[] solucao = { false, false, false, false };
-//        double[][] matriz = { {0,2,4,5}, {2,0,3,1}, {4,3,0,2}, { 5,1,2,0}};
-//        Instancia.matriz = matriz;
-//        
-//        EstrategiaSelecao estrategiaSelecao = new AlfaGuloso(3, 0.5);
-//        estrategiaSelecao.selecionar( indicesSelecionados, solucao );
-//    }
-
+    public static void main(String[] args) {
+        List<Integer> indicesSelecionados = new ArrayList<>();
+        boolean[] solucao = { false, false, false, false };
+        double[][] matriz = { {0,2,4,5}, {2,0,3,1}, {4,3,0,2}, { 5,1,2,0}};
+        Instancia.matriz = matriz;
+        
+        EstrategiaSelecao estrategiaSelecao = new AlfaGulosoProbabilistico(3, 0.5);
+        estrategiaSelecao.selecionar( indicesSelecionados, solucao );
+    }
 }
