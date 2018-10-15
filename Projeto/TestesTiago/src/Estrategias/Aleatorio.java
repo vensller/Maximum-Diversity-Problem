@@ -1,9 +1,8 @@
 package Estrategias;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
-import java.util.Random;
-import model.Instancia;
 
 public class Aleatorio extends EstrategiaSelecao{
 
@@ -12,15 +11,16 @@ public class Aleatorio extends EstrategiaSelecao{
     }
 
     @Override
-    public void selecionar( List<Integer> indicesSelecionados, boolean[] solucao ) {
-        int n;
-        Random sorteador = new Random();
-        for (int i = 0; i < super.quantidadeSelecionados; i++) {
-            do{
-                n = sorteador.nextInt( solucao.length );
-            }while( solucao[ n ] );
-            solucao[ n ] = true;
-        }
+    public void selecionar( List<Integer> indicesSelecionados, boolean[] solucao ) {        
+       List<Integer> numbers = new ArrayList<Integer>();
+        for (int i = 0; i < solucao.length; i++) {
+            numbers.add(i);
+        }                
+
+        Collections.shuffle(numbers);
+
+        for (int i = 0; i < super.quantidadeSelecionados; i++)
+            solucao[numbers.get(i)] = true;
     }
     
 //    public static void main(String[] args) {
