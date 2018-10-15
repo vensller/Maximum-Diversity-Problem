@@ -4,9 +4,9 @@ package Model;
  *
  * @author Ivens
  */
-public class Solution {
+public class Solution implements Cloneable{
     
-    private Instance instance;
+    public Instance instance;
     public double value;    
     public int[] set;
 
@@ -23,4 +23,11 @@ public class Solution {
             }
         }
     }
+
+    @Override
+    protected Object clone() throws CloneNotSupportedException {
+        return super.clone();
+    }
+    
+    
 }
