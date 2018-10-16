@@ -3,9 +3,9 @@ package Estrategias;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Guloso implements EstrategiaSelecao{
+public class Guloso{
     
-     @Override
+     
      public void selecionar( List<Integer> indicesSelecionados, boolean[] solucao, double[][] matriz ){        
         if( indicesSelecionados.isEmpty() ){
             buscarComMaiorDiferenca( indicesSelecionados, solucao, matriz );
@@ -53,10 +53,10 @@ public class Guloso implements EstrategiaSelecao{
         boolean[] solucao = { false, false, false, false };
         double[][] matriz = { {0,2,4,5}, {2,0,3,1}, {4,3,0,2}, { 5,1,2,0}};
         
-        EstrategiaSelecao estrategiaSelecao = new Guloso();
-        estrategiaSelecao.selecionar( indicesSelecionados, solucao, matriz );
-        estrategiaSelecao.selecionar( indicesSelecionados, solucao, matriz );
-        estrategiaSelecao.selecionar( indicesSelecionados, solucao, matriz );
+//        SelectionStrategy estrategiaSelecao = new Guloso();
+//        estrategiaSelecao.selecionar( indicesSelecionados, solucao, matriz );
+//        estrategiaSelecao.selecionar( indicesSelecionados, solucao, matriz );
+//        estrategiaSelecao.selecionar( indicesSelecionados, solucao, matriz );
         
     }
 }

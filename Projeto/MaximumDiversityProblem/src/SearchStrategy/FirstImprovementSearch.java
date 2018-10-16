@@ -6,7 +6,7 @@ import Model.Solution;
  *
  * @author Ivens
  */
-public class SwapLocalSearch implements SearchStrategy{
+public class FirstImprovementSearch implements SearchStrategy{
 
     @Override
     public void localSearch(Solution s) {        

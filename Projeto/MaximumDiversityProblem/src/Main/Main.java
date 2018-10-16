@@ -3,7 +3,7 @@ package Main;
 import Model.Instance;
 import Model.RandomicAlg;
 import Model.Solution;
-import SearchStrategy.SwapLocalSearch;
+import SearchStrategy.FirstImprovementSearch;
 import Utilities.InstanceReader;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -33,7 +33,7 @@ public class Main {
         solucao.set[0] = 1;
         solucao.set[2] = 1;
         solucao.evaluate();
-        SwapLocalSearch swap = new SwapLocalSearch();
+        FirstImprovementSearch swap = new FirstImprovementSearch();
         swap.localSearch(solucao);
    }
     

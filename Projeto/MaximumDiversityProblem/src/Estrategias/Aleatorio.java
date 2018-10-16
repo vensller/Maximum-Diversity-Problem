@@ -4,9 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class Aleatorio implements EstrategiaSelecao{
-    
-    @Override
+public class Aleatorio{
+        
     public void selecionar( List<Integer> indiceSelecionados, boolean[] solucao, double[][] matriz ){
         int n;
         Random sorteador = new Random();
@@ -22,9 +21,9 @@ public class Aleatorio implements EstrategiaSelecao{
         boolean[] solucao = { false, false, false };
         double[][] matriz = { {0,2,4}, {2,0,3}, {4,3,0}};
         
-        EstrategiaSelecao estrategiaSelecao = new Aleatorio();
-        estrategiaSelecao.selecionar(indicesSelecionados, solucao, matriz);
-        estrategiaSelecao.selecionar(indicesSelecionados, solucao, matriz);
+//        SelectionStrategy estrategiaSelecao = new Aleatorio();
+//        estrategiaSelecao.selecionar(indicesSelecionados, solucao, matriz);
+//        estrategiaSelecao.selecionar(indicesSelecionados, solucao, matriz);
         
     }
 }

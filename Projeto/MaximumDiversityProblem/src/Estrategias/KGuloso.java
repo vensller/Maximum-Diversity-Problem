@@ -7,7 +7,7 @@ import java.util.Map;
 import java.util.SortedSet;
 import java.util.TreeSet;
 
-public class KGuloso implements EstrategiaSelecao {
+public class KGuloso {
 
     private int k;
 
@@ -22,12 +22,12 @@ public class KGuloso implements EstrategiaSelecao {
         double[][] matriz = {{0, 2, 4, 5}, {2, 0, 3, 1}, {4, 3, 0, 2}, {5, 1, 2, 0}};
 
         //Instanciando a estratégia, escolhendo o K-Guloso passando 2 como k elementos
-        EstrategiaSelecao estrategiaSelecao = new KGuloso(2);
-        estrategiaSelecao.selecionar(indicesSelecionados, solucao, matriz);
+//        SelectionStrategy estrategiaSelecao = new KGuloso(2);
+//        estrategiaSelecao.selecionar(indicesSelecionados, solucao, matriz);
 
     }
 
-    @Override
+    
     public void selecionar(List<Integer> indiceSelecionados, boolean[] solucao, double[][] matriz) {
 
         if (indiceSelecionados.isEmpty()) {
