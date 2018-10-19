@@ -1,29 +1,25 @@
 package Estrategias;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
-import java.util.Random;
 
-public class Aleatorio{
-        
-    public void selecionar( List<Integer> indiceSelecionados, boolean[] solucao, double[][] matriz ){
-        int n;
-        Random sorteador = new Random();
-        do{
-            n = sorteador.nextInt( solucao.length );
-        }while( solucao[ n ] );
-        indiceSelecionados.add( n );
-        solucao[ n ] = true;
+public class Aleatorio extends ConstructionStrategy{
+
+    public Aleatorio(int quantidadeSelecionados) {
+        super(quantidadeSelecionados);
     }
     
-    public static void main(String[] args) {
-        List<Integer> indicesSelecionados = new ArrayList<>();
-        boolean[] solucao = { false, false, false };
-        double[][] matriz = { {0,2,4}, {2,0,3}, {4,3,0}};
-        
-//        SelectionStrategy estrategiaSelecao = new Aleatorio();
-//        estrategiaSelecao.selecionar(indicesSelecionados, solucao, matriz);
-//        estrategiaSelecao.selecionar(indicesSelecionados, solucao, matriz);
-        
+    @Override
+    public void select(int[] set, double[][] matriz) {
+        List<Integer> numbers = new ArrayList<>();
+        for (int i = 0; i < set.length; i++) {
+            numbers.add(i);
+        }
+        Collections.shuffle(numbers);
+        for (int i = 0; i < super.quantidadeSelecionados; i++){
+            set[numbers.get(i)] = 1;
+        }
     }
+
 }

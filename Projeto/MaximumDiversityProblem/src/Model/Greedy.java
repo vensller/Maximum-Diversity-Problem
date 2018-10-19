@@ -17,11 +17,14 @@ public class Greedy {
     public Solution construct(Instance instance){
         Solution s = new Solution(instance);
         
-        for (int x = 0; x < instance.m; x++){
-            s.set[strategy.select(s.set, instance.matrix)] = 1;
-        }
+        strategy.select( s.set, instance.matrix );
+        s.evaluate();
+//        for (int x = 0; x < instance.m; x++){
+//            s.set[strategy.select(s.set, instance.matrix)] = 1;
+//        }        
+//        s.evaluate();
+
         
-        s.evaluate();        
         return s;
     }
     

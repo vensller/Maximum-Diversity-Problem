@@ -1,6 +1,12 @@
 package Estrategias;
 
-public interface ConstructionStrategy {
+public abstract class ConstructionStrategy {
     
-    public int select(int[] set, double[][] matrix);
+    protected int quantidadeSelecionados;
+
+    public ConstructionStrategy(int quantidadeSelecionados) {
+        this.quantidadeSelecionados = quantidadeSelecionados;
+    }
+    
+    public abstract void select(int[] set, double[][] matriz);
 }

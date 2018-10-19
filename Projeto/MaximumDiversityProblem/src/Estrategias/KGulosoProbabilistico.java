@@ -4,11 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class KGuloso extends ConstructionStrategy{
+public class KGulosoProbabilistico extends ConstructionStrategy{
     
     private int k;
 
-    public KGuloso(int quantidadeSelecionados, int k) {
+    public KGulosoProbabilistico(int quantidadeSelecionados, int k) {
         super(quantidadeSelecionados);
         this.k = k;
     }
@@ -16,6 +16,7 @@ public class KGuloso extends ConstructionStrategy{
     @Override
     public void select(int[] solucao, double[][] matriz) {
         int soma, n, posicaoPior;
+        double somaPesos, somatorioPesos;
         double[][] kMelhores;
         Random sorteador = new Random();
         List<Integer> indicesSelecionados = new ArrayList<>();
@@ -33,8 +34,10 @@ public class KGuloso extends ConstructionStrategy{
         
         for (int i = 0; i < super.quantidadeSelecionados-1; i++) {
             // Limpa esse vetor para que o resultados anteriores não interfiram nessa interação.
-            kMelhores = new double[ this.k ][ 2 ];
+            kMelhores = new double[ this.k ][ 3 ];
             posicaoPior = 0;
+            somaPesos = 0;
+            somatorioPesos = 0;
             
             for (int j = 0; j < matriz.length; j++) {
                 soma = 0;
@@ -55,13 +58,27 @@ public class KGuloso extends ConstructionStrategy{
                         }
                     }
                 }
-                
+            }
+            
+            for (int j = 0; j < this.k; j++) {
+                somaPesos += kMelhores[j][1];
             }
 
-            n = sorteador.nextInt( this.k );
-            indicesSelecionados.add( (int) kMelhores[n][0] );
-            solucao[ (int) kMelhores[n][0] ] = 1;
+            for (int j = 0; j < this.k; j++) {
+                somatorioPesos += kMelhores[j][1] / somaPesos;
+                kMelhores[j][2] = somatorioPesos;
+            }
+
+            double s = sorteador.nextDouble();
+            for (int j = 0; j < k; j++) {
+                if( s <= kMelhores[j][2] ){
+                    n = (int) kMelhores[j][0];
+                    break;
+                }
+            }
+            indicesSelecionados.add( n );
+            solucao[ n ] = 1;
         }
     }
-
+    
 }

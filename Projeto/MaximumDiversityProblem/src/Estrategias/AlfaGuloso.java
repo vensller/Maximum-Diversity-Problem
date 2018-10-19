@@ -4,19 +4,19 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class KGuloso extends ConstructionStrategy{
-    
-    private int k;
+public class AlfaGuloso extends ConstructionStrategy{
 
-    public KGuloso(int quantidadeSelecionados, int k) {
+    private double alfa;
+
+    public AlfaGuloso(int quantidadeSelecionados, double alfa) {
         super(quantidadeSelecionados);
-        this.k = k;
+        this.alfa = alfa;
     }
     
     @Override
     public void select(int[] solucao, double[][] matriz) {
-        int soma, n, posicaoPior;
-        double[][] kMelhores;
+        int soma, n, posicaoPior, tamanhoAlfa;
+        double[][] alfaMelhores;
         Random sorteador = new Random();
         List<Integer> indicesSelecionados = new ArrayList<>();
         
@@ -31,36 +31,39 @@ public class KGuloso extends ConstructionStrategy{
         indicesSelecionados.add( n );
         solucao[ n ] = 1;
         
+        tamanhoAlfa = (int) Math.floor(solucao.length * alfa);
+        
         for (int i = 0; i < super.quantidadeSelecionados-1; i++) {
             // Limpa esse vetor para que o resultados anteriores não interfiram nessa interação.
-            kMelhores = new double[ this.k ][ 2 ];
+            alfaMelhores = new double[ tamanhoAlfa ][ 2 ];
             posicaoPior = 0;
             
             for (int j = 0; j < matriz.length; j++) {
                 soma = 0;
-                if( solucao[ j ] != 1 ){
+                if( solucao[ j ] != 1){
                     for (int l = 0; l < indicesSelecionados.size(); l++) {
                         soma += matriz[ j ][ indicesSelecionados.get( l ) ];                    
                     }
                     
-                    if( soma > kMelhores[ posicaoPior ][ 1 ] ){
-                        kMelhores[ posicaoPior ][ 0 ] = j;
-                        kMelhores[ posicaoPior ][ 1 ] = soma;
+                    if( soma > alfaMelhores[ posicaoPior ][ 1 ] ){
+                        alfaMelhores[ posicaoPior ][ 0 ] = j;
+                        alfaMelhores[ posicaoPior ][ 1 ] = soma;
                         double pior = Double.MAX_VALUE;
-                        for (int l = 0; l < kMelhores.length; l++) {
-                            if( kMelhores[ l ][ 1 ] < pior ){
-                                pior = kMelhores[ l ][ 1 ];
+                        for (int l = 0; l < alfaMelhores.length; l++) {
+                            if( alfaMelhores[ l ][ 1 ] < pior ){
+                                pior = alfaMelhores[ l ][ 1 ];
                                 posicaoPior = l;
                             }
                         }
                     }
                 }
-                
+
             }
 
-            n = sorteador.nextInt( this.k );
-            indicesSelecionados.add( (int) kMelhores[n][0] );
-            solucao[ (int) kMelhores[n][0] ] = 1;
+            int s = sorteador.nextInt( tamanhoAlfa );
+            n = (int) alfaMelhores[s][0];
+            indicesSelecionados.add( n );
+            solucao[ n ] = 1;
         }
     }
 
