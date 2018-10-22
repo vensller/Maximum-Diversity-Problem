@@ -8,5 +8,9 @@ public abstract class ConstructionStrategy {
         this.quantidadeSelecionados = quantidadeSelecionados;
     }
     
+    public void setQuantidadeSelecionados(int quantidadeSelecionados) {
+        this.quantidadeSelecionados = quantidadeSelecionados;
+    }
+    
     public abstract void select(int[] set, double[][] matriz);
 }

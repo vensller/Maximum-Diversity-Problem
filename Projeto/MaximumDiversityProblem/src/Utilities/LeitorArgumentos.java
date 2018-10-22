@@ -17,8 +17,8 @@ public class LeitorArgumentos {
     private String argumentos[];
     
     private String caminhoArquivo;
-    private ConstructionStrategy cs;
-    private SearchStrategy ss;
+    private ConstructionStrategy constructionStrategy;
+    private SearchStrategy searchStrategy;
     private int numeroRepeticoes;
     
     public LeitorArgumentos(String[] argumentos) {
@@ -39,9 +39,9 @@ public class LeitorArgumentos {
                     System.out.println("Valor após --nr não um valor númerico inteiro.");
                 }
             }else if( argumentos[ i ].equals( "--const" ) ){
-                cs = buscarConstructionStrategy( i+1 );
+                constructionStrategy = buscarConstructionStrategy( i+1 );
             }else if( argumentos[ i ].equals( "--search" ) ){
-                ss = buscarSearchStrategy( i+1 );
+                searchStrategy = buscarSearchStrategy( i+1 );
             }
         }
     }
@@ -65,15 +65,15 @@ public class LeitorArgumentos {
         ConstructionStrategy csLocal;
         switch ( argumentos[ i ] ){
             case "a":
-                csLocal = new Aleatorio(numeroRepeticoes);
+                csLocal = new Aleatorio( 0 );
                 break;
             case "g":
-                csLocal = new Guloso(numeroRepeticoes);
+                csLocal = new Guloso( 0 );
                 break;
             case "gp":
                 try{
                     csLocal = new GulosoPonderado(
-                        numeroRepeticoes, Double.parseDouble( argumentos[i+1] )
+                         0 , Double.parseDouble( argumentos[i+1] )
                     );
                 }catch (NumberFormatException ex ){
                     throw new IllegalArgumentException("Valor após --const gp não é númerico");
@@ -82,7 +82,7 @@ public class LeitorArgumentos {
             case "kg":
                 try{
                     csLocal = new KGuloso(
-                        numeroRepeticoes, Integer.parseInt(argumentos[i+1])
+                         0 , Integer.parseInt(argumentos[i+1])
                     );
                 }catch (NumberFormatException ex ){
                     throw new IllegalArgumentException("Valor após --const kp não é númerico");
@@ -91,7 +91,7 @@ public class LeitorArgumentos {
             case "kgp":
                 try{
                     csLocal = new KGulosoProbabilistico(
-                        numeroRepeticoes, Integer.parseInt(argumentos[i+1])
+                         0 , Integer.parseInt(argumentos[i+1])
                     );
                 }catch (NumberFormatException ex ){
                     throw new IllegalArgumentException("Valor após --const kgp não é númerico");
@@ -100,7 +100,7 @@ public class LeitorArgumentos {
             case "ag":
                 try{
                     csLocal = new AlfaGuloso(
-                        numeroRepeticoes, Double.parseDouble(argumentos[i+1])
+                         0 , Double.parseDouble(argumentos[i+1])
                     );
                 }catch (NumberFormatException ex ){
                     throw new IllegalArgumentException("Valor após --const ag não é númerico");
@@ -109,7 +109,7 @@ public class LeitorArgumentos {
             case "agp":
                 try{
                     csLocal = new AlfaGulosoProbabilistico(
-                        numeroRepeticoes, Double.parseDouble(argumentos[i+1])
+                         0 , Double.parseDouble(argumentos[i+1])
                     );
                 }catch (NumberFormatException ex ){
                     throw new IllegalArgumentException("Valor após --const agp não é númerico");
@@ -125,33 +125,16 @@ public class LeitorArgumentos {
         return caminhoArquivo;
     }
 
-    public void setCaminhoArquivo(String caminhoArquivo) {
-        this.caminhoArquivo = caminhoArquivo;
+    public ConstructionStrategy getConstructionStrategy() {
+        return constructionStrategy;
     }
 
-    public ConstructionStrategy getCs() {
-        return cs;
-    }
-
-    public void setCs(ConstructionStrategy cs) {
-        this.cs = cs;
-    }
-
-    public SearchStrategy getSs() {
-        return ss;
-    }
-
-    public void setSs(SearchStrategy ss) {
-        this.ss = ss;
+    public SearchStrategy getSearchStrategy() {
+        return searchStrategy;
     }
 
     public int getNumeroRepeticoes() {
         return numeroRepeticoes;
     }
-
-    public void setNumeroRepeticoes(int numeroRepeticoes) {
-        this.numeroRepeticoes = numeroRepeticoes;
-    }
-    
     
 }

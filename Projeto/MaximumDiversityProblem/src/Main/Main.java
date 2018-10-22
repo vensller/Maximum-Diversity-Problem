@@ -2,15 +2,8 @@ package Main;
 
 import Model.Grasp;
 import Model.Instance;
-import Model.RandomicAlg;
-import Model.Solution;
-import SearchStrategy.FirstImprovementSearch;
 import Utilities.InstanceReader;
 import Utilities.LeitorArgumentos;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-import javax.swing.JFileChooser;
 
 /**
  *
@@ -21,11 +14,13 @@ public class Main {
     public static void main(String[] args){
         LeitorArgumentos la = new LeitorArgumentos(args);
         la.processarArgumentos();
+        Instance instance = new InstanceReader().getInstance( la.getCaminhoArquivo() );
+        la.getConstructionStrategy().setQuantidadeSelecionados( instance.m );
         Grasp grasp = new Grasp(
             la.getNumeroRepeticoes(),
-            la.getCs(),
-            la.getSs(),
-            new InstanceReader().getInstance( la.getCaminhoArquivo() )
+            la.getConstructionStrategy(),
+            la.getSearchStrategy(),
+            instance
         );
 
 //        JFileChooser fileChooser = new JFileChooser(System.getProperty("user.dir"));;
