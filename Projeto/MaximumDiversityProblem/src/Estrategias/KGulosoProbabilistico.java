@@ -15,6 +15,7 @@ public class KGulosoProbabilistico extends ConstructionStrategy{
     
     @Override
     public void select(int[] solucao, double[][] matriz) {
+        this.k = (this.k / 100) * matriz.length;
         int soma, n, posicaoPior;
         double somaPesos, somatorioPesos;
         double[][] kMelhores;
