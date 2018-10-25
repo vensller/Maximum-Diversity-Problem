@@ -21,11 +21,15 @@ public class LeitorArgumentos {
     private SearchStrategy searchStrategy;
     private int numeroRepeticoes;
     
-    public LeitorArgumentos(String[] argumentos) {
-        if( argumentos.length != 7 && argumentos.length != 9 ){
-            throw new IllegalArgumentException("Número de parâmetros errado: " + argumentos.length );
+    public LeitorArgumentos(String[] arg) {
+        this.argumentos = new String[ arg.length - 3 ];
+        for (int i = 3; i < arg.length; i++) {
+            argumentos[i-3] = arg[i];
         }
-        this.argumentos = argumentos;
+        if( argumentos.length != 7 && argumentos.length != 9 ){
+            throw new IllegalArgumentException("Número de parâmetros errado: " + arg.length );
+        }
+        this.argumentos = arg;
     }
     
     public void processarArgumentos(){
