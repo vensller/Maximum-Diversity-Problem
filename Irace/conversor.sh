@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cat stub.sh MaximumDiversityProblem.jar > MaximumDiversityProblem.run && chmod +x MaximumDiversityProblem.run
+cat stub.sh MaximumDiversityProblem.jar > target-runner && chmod +x target-runner
