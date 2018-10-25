@@ -26,7 +26,9 @@ public class Grasp {
         
         for (int x = 0; x < repNum; x++){
             Solution s = greedy.construct(instance);
+            
             localSearch.localSearch(s);
+            
             if (best == null || s.value > best.value){
                 best = s;
             }

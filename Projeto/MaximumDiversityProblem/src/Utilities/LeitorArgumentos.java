@@ -22,21 +22,20 @@ public class LeitorArgumentos {
     private int numeroRepeticoes;
     
     public LeitorArgumentos(String[] argumentos) {
-        if( argumentos.length != 8 && argumentos.length != 9 ){
+        if( argumentos.length != 7 && argumentos.length != 9 ){
             throw new IllegalArgumentException("Número de parâmetros errado: " + argumentos.length );
         }
         this.argumentos = argumentos;
     }
     
     public void processarArgumentos(){
-        for (int i = 0; i < argumentos.length; i++) {
-            if( argumentos[ i ].equals( "--arq" ) ){
-                caminhoArquivo = argumentos[ i+1 ];
-            }else if( argumentos[ i ].equals( "--nr" ) ){
+        caminhoArquivo = argumentos[ 0 ];
+        for (int i = 1; i < argumentos.length; i++) {
+            if( argumentos[ i ].equals( "--nr" ) ){
                 try{
                     numeroRepeticoes = Integer.parseInt( argumentos[ i+1 ] );
                 }catch (NumberFormatException ex){
-                    System.out.println("Valor após --nr não um valor númerico inteiro.");
+                    System.out.println("Valor após --nr não é um valor númerico inteiro.");
                 }
             }else if( argumentos[ i ].equals( "--const" ) ){
                 constructionStrategy = buscarConstructionStrategy( i+1 );
@@ -67,54 +66,31 @@ public class LeitorArgumentos {
             case "a":
                 csLocal = new Aleatorio( 0 );
                 break;
+                
             case "g":
                 csLocal = new Guloso( 0 );
                 break;
+                
             case "gp":
-                try{
-                    csLocal = new GulosoPonderado(
-                         0 , Double.parseDouble( argumentos[i+1] )
-                    );
-                }catch (NumberFormatException ex ){
-                    throw new IllegalArgumentException("Valor após --const gp não é númerico");
-                }
+                csLocal = new GulosoPonderado( 0 , buscarArgumentoP( i+1 ) );
                 break;
+                
             case "kg":
-                try{
-                    csLocal = new KGuloso(
-                         0 , Integer.parseInt(argumentos[i+1])
-                    );
-                }catch (NumberFormatException ex ){
-                    throw new IllegalArgumentException("Valor após --const kp não é númerico");
-                }
+                csLocal = new KGuloso( 0 , buscarArgumentoK(i+1) );
                 break;
+                
             case "kgp":
-                try{
-                    csLocal = new KGulosoProbabilistico(
-                         0 , Integer.parseInt(argumentos[i+1])
-                    );
-                }catch (NumberFormatException ex ){
-                    throw new IllegalArgumentException("Valor após --const kgp não é númerico");
-                }
+                csLocal = new KGulosoProbabilistico( 0 , buscarArgumentoK( i+1 ) );
                 break;
+                
             case "ag":
-                try{
-                    csLocal = new AlfaGuloso(
-                         0 , Double.parseDouble(argumentos[i+1])
-                    );
-                }catch (NumberFormatException ex ){
-                    throw new IllegalArgumentException("Valor após --const ag não é númerico");
-                }
+                csLocal = new AlfaGuloso( 0 , buscarArgumentoP( i+1 ) );
                 break;
+                
             case "agp":
-                try{
-                    csLocal = new AlfaGulosoProbabilistico(
-                         0 , Double.parseDouble(argumentos[i+1])
-                    );
-                }catch (NumberFormatException ex ){
-                    throw new IllegalArgumentException("Valor após --const agp não é númerico");
-                }
+                csLocal = new AlfaGulosoProbabilistico( 0 , buscarArgumentoP( i+1 ) );
                 break;
+                
             default:
                 throw new IllegalArgumentException("Valor para --const não encontrado");
         }
@@ -135,6 +111,34 @@ public class LeitorArgumentos {
 
     public int getNumeroRepeticoes() {
         return numeroRepeticoes;
+    }
+
+    private double buscarArgumentoP(int posicao) {
+        double d;
+        if( argumentos[posicao].equals("--p") ){
+            try{
+                d = Double.parseDouble(argumentos[posicao+1]);
+            }catch (NumberFormatException ex ){
+                throw new IllegalArgumentException("Valor após --p não é númerico");
+            }
+        }else{
+            throw new IllegalArgumentException("Argumento --p não foi encontrado");
+        }
+        return d;
+    }
+    
+    private int buscarArgumentoK(int posicao) {
+        int i;
+        if( argumentos[posicao].equals("--k") ){
+            try{
+                i = Integer.parseInt(argumentos[posicao+1]);
+            }catch (NumberFormatException ex ){
+                throw new IllegalArgumentException("Valor após --k não é númerico");
+            }
+        }else{
+            throw new IllegalArgumentException("Argumento --k não foi encontrado");
+        }
+        return i;
     }
     
 }

@@ -2,6 +2,7 @@ package Main;
 
 import Model.Grasp;
 import Model.Instance;
+import Model.Solution;
 import Utilities.InstanceReader;
 import Utilities.LeitorArgumentos;
 
@@ -22,6 +23,9 @@ public class Main {
             la.getSearchStrategy(),
             instance
         );
+        Solution s = grasp.execute();
+        s.evaluate();
+        System.out.println( s.value );
 
 //        JFileChooser fileChooser = new JFileChooser(System.getProperty("user.dir"));;
 //        
