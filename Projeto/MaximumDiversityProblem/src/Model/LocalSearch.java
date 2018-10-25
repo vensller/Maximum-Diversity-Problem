@@ -15,19 +15,21 @@ public class LocalSearch {
     }
     
     public void localSearch(Solution s){
-        try{
-            Solution newSol = (Solution) s.clone();
-            newSol.set = s.set;
-            strategy.localSearch(newSol);
-            newSol.evaluate();
+        while (true) {
+            try{
+                Solution newSol = (Solution) s.clone();
+                newSol.set = s.set;
+                strategy.localSearch(newSol);
+                newSol.evaluate();
 
-            if (newSol.value > s.value) {
-                s = newSol;
-            } 
+                if (newSol.value > s.value) {
+                    s = newSol;
+                }else break; 
 
-        } catch (CloneNotSupportedException e) {
-            e.printStackTrace();
-        }    
+            } catch (CloneNotSupportedException e) {
+                e.printStackTrace();
+            }
+        }
     }
     
 }

@@ -16,6 +16,7 @@ public class Solution implements Cloneable{
     }      
     
     public void evaluate(){
+        value = 0;
         double[][] matrix = instance.matrix;
         for (int x = 0; x < instance.n; x++){
             for (int y = x+1; y < instance.n; y++){

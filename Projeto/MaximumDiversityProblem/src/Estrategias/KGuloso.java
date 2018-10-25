@@ -15,7 +15,9 @@ public class KGuloso extends ConstructionStrategy{
     
     @Override
     public void select(int[] solucao, double[][] matriz) {
-        this.k = (this.k / 100) * matriz.length;
+        
+        double d = ( (double) this.k / 100) * matriz.length;
+        this.k =  (int) Math.ceil( d );
         int soma, n, posicaoPior;
         double[][] kMelhores;
         Random sorteador = new Random();

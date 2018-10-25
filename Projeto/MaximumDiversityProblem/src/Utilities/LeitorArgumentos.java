@@ -29,7 +29,6 @@ public class LeitorArgumentos {
         if( argumentos.length != 7 && argumentos.length != 9 ){
             throw new IllegalArgumentException("Número de parâmetros errado: " + arg.length );
         }
-        this.argumentos = arg;
     }
     
     public void processarArgumentos(){
