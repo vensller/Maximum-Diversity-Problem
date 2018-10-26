@@ -1,6 +1,6 @@
 ### Parameter file for the ACOTSP software
 # name		switch		     type	values			[conditions (using R syntax)]
-repeticoes	"--nr "		     i          (100,1000)
+repeticoes	"--nr "		     i          (100,400)
 const       	"--const "           c		(a,g,gp,kg,kgp,ag, agp)
 probabilidade	"--p "		     r          (0.0,1.0)		| const == "gp" | const == "ag" | const == "agp"
 parcelaK	"--k "		     o		(1,5,10,15,20,25)	| const == "kg" | const == "kgp"
