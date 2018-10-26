@@ -24,6 +24,28 @@ public class Solution implements Cloneable{
             }
         }
     }
+    
+    public double delta(int remove, int put){        
+        double newValue = this.value;
+        
+        for (int x = 0; x < set.length; x++){
+            if (x != remove && set[x] == 1){
+                newValue -= instance.matrix[x][remove];                                
+                newValue += instance.matrix[x][put];
+            }
+        }
+        
+        return newValue - this.value;
+    }
+    
+    public void swap(int remove, int put){
+        for (int x = 0; x < set.length; x++){
+            if (x != remove && set[x] == 1){
+                this.value -= instance.matrix[x][remove];                                
+                this.value += instance.matrix[x][put];
+            }
+        }
+    }
 
     @Override
     protected Object clone() throws CloneNotSupportedException {
