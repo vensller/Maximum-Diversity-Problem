@@ -17,7 +17,7 @@ trainInstancesDir = "/home/douglas/Downloads/mdplib/mdplib_2010/"
 
 ## The maximum number of runs (invocations of targetRunner) that will performed. It
 ## determines the (maximum) budget of experiments for the tuning.
-maxExperiments = 5000
+maxExperiments = 500
 
 ## File that contains a set of initial configurations. If empty or NULL,
 ## all initial configurations are randomly generated.

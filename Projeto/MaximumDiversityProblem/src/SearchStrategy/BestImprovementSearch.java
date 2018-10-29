@@ -20,6 +20,7 @@ public class BestImprovementSearch extends SearchStrategy{
                         double delta = s.delta(i, j);
                         
                         if (delta > bestDelta){
+                            bestDelta = delta;
                             remove = i;
                             put = j;
                         }

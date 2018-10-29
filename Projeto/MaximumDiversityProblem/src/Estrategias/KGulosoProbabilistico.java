@@ -7,15 +7,16 @@ import java.util.Random;
 public class KGulosoProbabilistico extends ConstructionStrategy{
     
     private int k;
+    private int kParam;
 
     public KGulosoProbabilistico(int quantidadeSelecionados, int k) {
         super(quantidadeSelecionados);
-        this.k = k;
+        this.kParam = k;
     }
     
     @Override
     public void select(int[] solucao, double[][] matriz) {
-        double d = ( (double) this.k / 100) * matriz.length;
+        double d = ( (double) this.kParam / 100) * matriz.length;
         this.k =  (int) Math.ceil( d );
         int soma, n, posicaoPior;
         double somaPesos, somatorioPesos;

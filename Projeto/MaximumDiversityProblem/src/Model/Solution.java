@@ -31,7 +31,9 @@ public class Solution implements Cloneable{
         for (int x = 0; x < set.length; x++){
             if (x != remove && set[x] == 1){
                 newValue -= instance.matrix[x][remove];                                
+                newValue -= instance.matrix[remove][x];
                 newValue += instance.matrix[x][put];
+                newValue += instance.matrix[put][x];
             }
         }
         
@@ -45,6 +47,9 @@ public class Solution implements Cloneable{
                 this.value += instance.matrix[x][put];
             }
         }
+        
+        this.set[remove] = 0;
+        this.set[put] = 1;
     }
 
     @Override
