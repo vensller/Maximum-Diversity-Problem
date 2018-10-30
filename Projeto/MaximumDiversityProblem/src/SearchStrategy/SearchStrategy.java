@@ -6,7 +6,10 @@ import Model.Solution;
  *
  * @author Ivens
  */
-public interface SearchStrategy {
-            
-    void localSearch(Solution s);  
+public abstract class SearchStrategy {
+    
+    public int remove;
+    public int put;
+    
+    public abstract boolean movement(Solution s);  
 }

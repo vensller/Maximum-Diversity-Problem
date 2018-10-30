@@ -24,8 +24,7 @@ public class Main {
             instance
         );
         Solution s = grasp.execute();
-        s.evaluate();
-        System.out.println( s.value );
+        System.out.println( s.value * -1 );
 
 //        JFileChooser fileChooser = new JFileChooser(System.getProperty("user.dir"));;
 //        
