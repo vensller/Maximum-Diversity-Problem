@@ -21,8 +21,10 @@ public class Grasp {
     private static final double TEMPO_ARTIGO = 2*60*60*1000;
     
     private static final double COEF_I_7_UDESC = 9786;
+    private static final double CEOF_TIAGO = 1426;
 //    private static final int CEOF_DOUGLAS = 1;
-    private static final int TEMPO = (int) ( (COEF_I_7_UDESC*TEMPO_ARTIGO)/COEF_ARTIGO );
+    private static final long TEMPO = (long) ( (CEOF_TIAGO*TEMPO_ARTIGO)/COEF_ARTIGO );
+//    private static final long TEMPO = 5000;
 
     public Grasp(int repNum, ConstructionStrategy construct, SearchStrategy search, Instance instance) {
         this.repNum = repNum;
