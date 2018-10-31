@@ -33,7 +33,7 @@ public class AlfaGulosoProbabilistico extends ConstructionStrategy{
         indicesSelecionados.add( n );
         solucao[ n ] = 1;
         
-        tamanhoAlfa = (int) Math.floor(solucao.length * alfa);
+        tamanhoAlfa = (int) Math.ceil(solucao.length * alfa);
         
         for (int i = 0; i < super.quantidadeSelecionados-1; i++) {
             // Limpa esse vetor para que o resultados anteriores não interfiram nessa interação.
