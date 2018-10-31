@@ -25,6 +25,9 @@ public class LocalSearch {
                 e.printStackTrace();
                 break;
             }
+            if( Grasp.tempoInicial + Grasp.TEMPO < System.currentTimeMillis() ){
+                break;
+            }
         }
     }
     
