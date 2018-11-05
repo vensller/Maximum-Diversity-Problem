@@ -16,8 +16,9 @@ import java.util.logging.Logger;
  */
 public class FileText {
 
-    private final String NOME_ARQUIVO1 = "LogDeResultados1";
-    private final String NOME_ARQUIVO2 = "LogDeResultados2";
+    private final String CAMINHO = "/home/usuario/Repositorios/Github/Maximum-Diversity-Problem/";
+    private final String NOME_ARQUIVO1 = "LogDeResultados1.txt";
+    private final String NOME_ARQUIVO2 = "LogDeResultados2.txt";
 
     public void escrever(String dados, int opcao) {
 

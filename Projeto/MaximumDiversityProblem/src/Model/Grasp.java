@@ -25,8 +25,8 @@ public class Grasp {
     private static final double CEOF_TIAGO = 1426;
 //    private static final int CEOF_DOUGLAS = 1;
 
-    public static long tempoInicial = (long) ((COEF_I7_UDESC * TEMPO_ARTIGO) / COEF_ARTIGO);
-    public static final long TEMPO = (long) ((COEF_I7_UDESC * TEMPO_ARTIGO) / COEF_ARTIGO);
+    public static long tempoInicial;
+    public static final long TEMPO = (long) ((COEF_ARTIGO * TEMPO_ARTIGO) / COEF_I7_UDESC);
 //    public static final long TEMPO = 5000;
 
     public Grasp(int repNum, ConstructionStrategy construct, SearchStrategy search, Instance instance) {
@@ -37,6 +37,7 @@ public class Grasp {
     }
 
     public Solution execute() {
+        System.out.println(TEMPO);
         tempoInicial = System.currentTimeMillis();
         Solution best = null;
 
