@@ -1,13 +1,14 @@
 #!/bin/bash
 
-for i in {0..20};
+for i in 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
 do
+	echo "\n\n\n\n\nInteração $i"
 	for pasta in /home/usuario/Repositorios/Github/mdplib_2010/*
 	do
 		if [ -d "$pasta" ]
 		then
 			cd $pasta
-			echo "Entrou na pasta $pasta"
+			echo "\n\nEntrou na pasta $pasta"
 			for arquivo in $pasta/*
 			do
 				if [ -f "$arquivo" ]
