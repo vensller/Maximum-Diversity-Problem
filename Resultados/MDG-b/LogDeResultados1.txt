@@ -1,0 +1,1238 @@
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_10_n500_m50.txt
+Tempo total: 76395
+Melhor solução: 2186175.4400000027
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_1_n500_m50.txt
+Tempo total: 81636
+Melhor solução: 2061026.5100000044
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_2_n500_m50.txt
+Tempo total: 65989
+Melhor solução: 1973851.3500000008
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_3_n500_m50.txt
+Tempo total: 73559
+Melhor solução: 2019182.1100000038
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_4_n500_m50.txt
+Tempo total: 81381
+Melhor solução: 1998400.789999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_5_n500_m50.txt
+Tempo total: 75836
+Melhor solução: 2194334.4599999934
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_6_n500_m50.txt
+Tempo total: 67860
+Melhor solução: 2002004.7199999976
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_7_n500_m50.txt
+Tempo total: 78556
+Melhor solução: 1814441.719999998
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_8_n500_m50.txt
+Tempo total: 80416
+Melhor solução: 2042392.7300000002
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_9_n500_m50.txt
+Tempo total: 78380
+Melhor solução: 1977782.0799999926
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_10_n500_m50.txt
+Tempo total: 78382
+Melhor solução: 2186175.4400000027
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_1_n500_m50.txt
+Tempo total: 82286
+Melhor solução: 2018555.4600000023
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_2_n500_m50.txt
+Tempo total: 65606
+Melhor solução: 1975302.0399999914
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_3_n500_m50.txt
+Tempo total: 78224
+Melhor solução: 2002303.8899999987
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_4_n500_m50.txt
+Tempo total: 81591
+Melhor solução: 1936968.950000003
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_5_n500_m50.txt
+Tempo total: 74901
+Melhor solução: 2166404.789999993
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_6_n500_m50.txt
+Tempo total: 67786
+Melhor solução: 2145372.309999997
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_7_n500_m50.txt
+Tempo total: 79504
+Melhor solução: 1911627.7099999927
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_8_n500_m50.txt
+Tempo total: 79591
+Melhor solução: 2042392.7300000002
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_9_n500_m50.txt
+Tempo total: 78280
+Melhor solução: 1999968.5599999987
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_10_n500_m50.txt
+Tempo total: 78028
+Melhor solução: 2186175.4400000027
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_1_n500_m50.txt
+Tempo total: 82000
+Melhor solução: 2011793.4000000004
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_2_n500_m50.txt
+Tempo total: 70576
+Melhor solução: 1905536.4599999916
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_3_n500_m50.txt
+Tempo total: 76671
+Melhor solução: 2019182.1100000038
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_4_n500_m50.txt
+Tempo total: 80649
+Melhor solução: 1998400.789999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_5_n500_m50.txt
+Tempo total: 88073
+Melhor solução: 2194334.4599999934
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_6_n500_m50.txt
+Tempo total: 68206
+Melhor solução: 1978020.009999997
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_7_n500_m50.txt
+Tempo total: 75019
+Melhor solução: 1911627.7099999927
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_8_n500_m50.txt
+Tempo total: 78688
+Melhor solução: 2007280.9999999967
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_9_n500_m50.txt
+Tempo total: 77709
+Melhor solução: 1977782.0799999926
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_10_n500_m50.txt
+Tempo total: 86316
+Melhor solução: 2097699.5200000033
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_1_n500_m50.txt
+Tempo total: 82238
+Melhor solução: 2061026.5100000044
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_2_n500_m50.txt
+Tempo total: 68446
+Melhor solução: 2026244.389999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_3_n500_m50.txt
+Tempo total: 74406
+Melhor solução: 2019182.1100000038
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_4_n500_m50.txt
+Tempo total: 78971
+Melhor solução: 1998400.789999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_5_n500_m50.txt
+Tempo total: 75783
+Melhor solução: 2134280.6199999945
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_6_n500_m50.txt
+Tempo total: 67955
+Melhor solução: 2027558.580000001
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_7_n500_m50.txt
+Tempo total: 78054
+Melhor solução: 1820321.3999999955
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_8_n500_m50.txt
+Tempo total: 79142
+Melhor solução: 2042392.7300000002
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_9_n500_m50.txt
+Tempo total: 76513
+Melhor solução: 1999968.5599999987
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_10_n500_m50.txt
+Tempo total: 76389
+Melhor solução: 2117209.590000003
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_1_n500_m50.txt
+Tempo total: 81761
+Melhor solução: 2061026.5100000044
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_2_n500_m50.txt
+Tempo total: 70082
+Melhor solução: 1973851.3500000008
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_3_n500_m50.txt
+Tempo total: 73946
+Melhor solução: 2019182.1100000038
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_4_n500_m50.txt
+Tempo total: 82023
+Melhor solução: 1998400.789999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_5_n500_m50.txt
+Tempo total: 77896
+Melhor solução: 2194334.4599999934
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_6_n500_m50.txt
+Tempo total: 70060
+Melhor solução: 2074905.229999995
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_7_n500_m50.txt
+Tempo total: 79154
+Melhor solução: 1911627.7099999927
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_8_n500_m50.txt
+Tempo total: 78561
+Melhor solução: 1995189.8799999964
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_9_n500_m50.txt
+Tempo total: 76666
+Melhor solução: 1977782.0799999926
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_10_n500_m50.txt
+Tempo total: 77989
+Melhor solução: 2186175.4400000027
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_1_n500_m50.txt
+Tempo total: 82120
+Melhor solução: 2061026.5100000044
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_2_n500_m50.txt
+Tempo total: 71250
+Melhor solução: 1975302.0399999914
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_3_n500_m50.txt
+Tempo total: 74769
+Melhor solução: 2057419.770000001
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_4_n500_m50.txt
+Tempo total: 82779
+Melhor solução: 1936968.950000003
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_5_n500_m50.txt
+Tempo total: 77564
+Melhor solução: 2194334.4599999934
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_6_n500_m50.txt
+Tempo total: 67577
+Melhor solução: 2074905.229999995
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_7_n500_m50.txt
+Tempo total: 78017
+Melhor solução: 1911627.7099999927
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_8_n500_m50.txt
+Tempo total: 79290
+Melhor solução: 2042392.7300000002
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_9_n500_m50.txt
+Tempo total: 72962
+Melhor solução: 1999968.5599999987
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_10_n500_m50.txt
+Tempo total: 80039
+Melhor solução: 2105392.8200000036
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_1_n500_m50.txt
+Tempo total: 82591
+Melhor solução: 2004160.95
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_2_n500_m50.txt
+Tempo total: 71989
+Melhor solução: 2026244.389999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_3_n500_m50.txt
+Tempo total: 76404
+Melhor solução: 1970807.4099999974
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_4_n500_m50.txt
+Tempo total: 82138
+Melhor solução: 1960386.7400000056
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_5_n500_m50.txt
+Tempo total: 78140
+Melhor solução: 2194334.4599999934
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_6_n500_m50.txt
+Tempo total: 65319
+Melhor solução: 2027558.580000001
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_7_n500_m50.txt
+Tempo total: 78008
+Melhor solução: 1911627.7099999927
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_8_n500_m50.txt
+Tempo total: 80662
+Melhor solução: 2007280.9999999967
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_9_n500_m50.txt
+Tempo total: 78120
+Melhor solução: 1977782.0799999926
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_10_n500_m50.txt
+Tempo total: 81091
+Melhor solução: 2186175.4400000027
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_1_n500_m50.txt
+Tempo total: 83197
+Melhor solução: 1995787.0399999956
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_2_n500_m50.txt
+Tempo total: 71094
+Melhor solução: 2026244.389999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_3_n500_m50.txt
+Tempo total: 79535
+Melhor solução: 2057419.770000001
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_4_n500_m50.txt
+Tempo total: 84701
+Melhor solução: 1960386.7400000056
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_5_n500_m50.txt
+Tempo total: 75343
+Melhor solução: 2145488.95
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_6_n500_m50.txt
+Tempo total: 67487
+Melhor solução: 2145372.309999997
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_7_n500_m50.txt
+Tempo total: 78399
+Melhor solução: 1911627.7099999927
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_8_n500_m50.txt
+Tempo total: 81685
+Melhor solução: 1984854.170000003
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_9_n500_m50.txt
+Tempo total: 78546
+Melhor solução: 1999968.5599999987
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_10_n500_m50.txt
+Tempo total: 81742
+Melhor solução: 2110076.610000002
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_1_n500_m50.txt
+Tempo total: 80686
+Melhor solução: 2061026.5100000044
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_2_n500_m50.txt
+Tempo total: 71077
+Melhor solução: 1975302.0399999914
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_3_n500_m50.txt
+Tempo total: 75679
+Melhor solução: 2013577.149999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_4_n500_m50.txt
+Tempo total: 83935
+Melhor solução: 1998400.789999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_5_n500_m50.txt
+Tempo total: 75168
+Melhor solução: 2166404.789999993
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_6_n500_m50.txt
+Tempo total: 67817
+Melhor solução: 2074905.229999995
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_7_n500_m50.txt
+Tempo total: 78894
+Melhor solução: 1820321.3999999955
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_8_n500_m50.txt
+Tempo total: 78747
+Melhor solução: 1984854.170000003
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_9_n500_m50.txt
+Tempo total: 76453
+Melhor solução: 1960338.3299999973
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_10_n500_m50.txt
+Tempo total: 79631
+Melhor solução: 2186175.4400000027
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_1_n500_m50.txt
+Tempo total: 85923
+Melhor solução: 2051827.5899999987
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_2_n500_m50.txt
+Tempo total: 72573
+Melhor solução: 1975302.0399999914
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_3_n500_m50.txt
+Tempo total: 76468
+Melhor solução: 2019182.1100000038
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_4_n500_m50.txt
+Tempo total: 80544
+Melhor solução: 1931136.7400000002
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_5_n500_m50.txt
+Tempo total: 78351
+Melhor solução: 2194334.4599999934
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_6_n500_m50.txt
+Tempo total: 65896
+Melhor solução: 1978020.009999997
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_7_n500_m50.txt
+Tempo total: 78214
+Melhor solução: 1911627.7099999927
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_8_n500_m50.txt
+Tempo total: 82431
+Melhor solução: 2034979.5499999942
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_9_n500_m50.txt
+Tempo total: 77375
+Melhor solução: 1999968.5599999987
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_10_n500_m50.txt
+Tempo total: 78556
+Melhor solução: 2186175.4400000027
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_1_n500_m50.txt
+Tempo total: 82820
+Melhor solução: 2061026.5100000044
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_2_n500_m50.txt
+Tempo total: 72733
+Melhor solução: 2026244.389999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_3_n500_m50.txt
+Tempo total: 77136
+Melhor solução: 2019182.1100000038
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_4_n500_m50.txt
+Tempo total: 79085
+Melhor solução: 1998400.789999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_5_n500_m50.txt
+Tempo total: 76620
+Melhor solução: 2194334.4599999934
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_6_n500_m50.txt
+Tempo total: 68043
+Melhor solução: 2027558.580000001
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_7_n500_m50.txt
+Tempo total: 77374
+Melhor solução: 1815927.210000003
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_8_n500_m50.txt
+Tempo total: 79297
+Melhor solução: 2042392.7300000002
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_9_n500_m50.txt
+Tempo total: 76160
+Melhor solução: 1999968.5599999987
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_10_n500_m50.txt
+Tempo total: 78277
+Melhor solução: 2186175.4400000027
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_1_n500_m50.txt
+Tempo total: 82121
+Melhor solução: 2061026.5100000044
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_2_n500_m50.txt
+Tempo total: 72451
+Melhor solução: 1938528.309999996
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_3_n500_m50.txt
+Tempo total: 74217
+Melhor solução: 2057419.770000001
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_4_n500_m50.txt
+Tempo total: 81243
+Melhor solução: 1998400.789999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_5_n500_m50.txt
+Tempo total: 78598
+Melhor solução: 2194334.4599999934
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_6_n500_m50.txt
+Tempo total: 66720
+Melhor solução: 2002004.7199999976
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_7_n500_m50.txt
+Tempo total: 77767
+Melhor solução: 1911627.7099999927
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_8_n500_m50.txt
+Tempo total: 81328
+Melhor solução: 2042392.7300000002
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_9_n500_m50.txt
+Tempo total: 80450
+Melhor solução: 1977782.0799999926
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_10_n500_m50.txt
+Tempo total: 79122
+Melhor solução: 2117209.590000003
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_1_n500_m50.txt
+Tempo total: 81923
+Melhor solução: 2018555.4600000023
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_2_n500_m50.txt
+Tempo total: 70899
+Melhor solução: 2026244.389999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_3_n500_m50.txt
+Tempo total: 75865
+Melhor solução: 2019182.1100000038
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_4_n500_m50.txt
+Tempo total: 80578
+Melhor solução: 1960386.7400000056
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_5_n500_m50.txt
+Tempo total: 77945
+Melhor solução: 2166404.789999993
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_6_n500_m50.txt
+Tempo total: 67439
+Melhor solução: 2145372.309999997
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_7_n500_m50.txt
+Tempo total: 77255
+Melhor solução: 1863794.539999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_8_n500_m50.txt
+Tempo total: 78300
+Melhor solução: 1962085.0100000012
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_9_n500_m50.txt
+Tempo total: 76648
+Melhor solução: 1977782.0799999926
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_10_n500_m50.txt
+Tempo total: 77218
+Melhor solução: 2105392.8200000036
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_1_n500_m50.txt
+Tempo total: 82548
+Melhor solução: 2013372.8499999994
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_2_n500_m50.txt
+Tempo total: 68056
+Melhor solução: 2026244.389999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_3_n500_m50.txt
+Tempo total: 79298
+Melhor solução: 2057419.770000001
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_4_n500_m50.txt
+Tempo total: 81857
+Melhor solução: 1998400.789999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_5_n500_m50.txt
+Tempo total: 77415
+Melhor solução: 2134280.6199999945
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_6_n500_m50.txt
+Tempo total: 68350
+Melhor solução: 2145372.309999997
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_7_n500_m50.txt
+Tempo total: 80003
+Melhor solução: 1911627.7099999927
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_8_n500_m50.txt
+Tempo total: 79313
+Melhor solução: 2042392.7300000002
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_9_n500_m50.txt
+Tempo total: 78320
+Melhor solução: 1999968.5599999987
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_10_n500_m50.txt
+Tempo total: 76560
+Melhor solução: 2186175.4400000027
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_1_n500_m50.txt
+Tempo total: 81370
+Melhor solução: 2061026.5100000044
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_2_n500_m50.txt
+Tempo total: 71361
+Melhor solução: 1973851.3500000008
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_3_n500_m50.txt
+Tempo total: 79256
+Melhor solução: 2057419.770000001
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_4_n500_m50.txt
+Tempo total: 80511
+Melhor solução: 1950100.1600000036
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_5_n500_m50.txt
+Tempo total: 76121
+Melhor solução: 2194334.4599999934
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_6_n500_m50.txt
+Tempo total: 69180
+Melhor solução: 2074905.229999995
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_7_n500_m50.txt
+Tempo total: 79879
+Melhor solução: 1808300.5700000061
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_8_n500_m50.txt
+Tempo total: 78941
+Melhor solução: 2042392.7300000002
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_9_n500_m50.txt
+Tempo total: 75789
+Melhor solução: 1999968.5599999987
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_10_n500_m50.txt
+Tempo total: 79820
+Melhor solução: 2117209.590000003
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_1_n500_m50.txt
+Tempo total: 80238
+Melhor solução: 2061026.5100000044
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_2_n500_m50.txt
+Tempo total: 68713
+Melhor solução: 1973851.3500000008
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_3_n500_m50.txt
+Tempo total: 75455
+Melhor solução: 2013577.149999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_4_n500_m50.txt
+Tempo total: 80262
+Melhor solução: 1998400.789999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_5_n500_m50.txt
+Tempo total: 82190
+Melhor solução: 2145488.95
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_6_n500_m50.txt
+Tempo total: 67633
+Melhor solução: 2145372.309999997
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_7_n500_m50.txt
+Tempo total: 80969
+Melhor solução: 1911627.7099999927
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_8_n500_m50.txt
+Tempo total: 83419
+Melhor solução: 2034979.5499999942
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_9_n500_m50.txt
+Tempo total: 79205
+Melhor solução: 1999968.5599999987
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_10_n500_m50.txt
+Tempo total: 76182
+Melhor solução: 2117209.590000003
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_1_n500_m50.txt
+Tempo total: 80594
+Melhor solução: 2018555.4600000023
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_2_n500_m50.txt
+Tempo total: 71699
+Melhor solução: 1938528.309999996
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_3_n500_m50.txt
+Tempo total: 75738
+Melhor solução: 2057419.770000001
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_4_n500_m50.txt
+Tempo total: 80443
+Melhor solução: 1950100.1600000036
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_5_n500_m50.txt
+Tempo total: 77376
+Melhor solução: 2145488.95
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_6_n500_m50.txt
+Tempo total: 70236
+Melhor solução: 2145372.309999997
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_7_n500_m50.txt
+Tempo total: 77386
+Melhor solução: 1820321.3999999955
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_8_n500_m50.txt
+Tempo total: 79361
+Melhor solução: 2042392.7300000002
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_9_n500_m50.txt
+Tempo total: 75840
+Melhor solução: 1960338.3299999973
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_10_n500_m50.txt
+Tempo total: 78676
+Melhor solução: 2186175.4400000027
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_1_n500_m50.txt
+Tempo total: 85045
+Melhor solução: 2061026.5100000044
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_2_n500_m50.txt
+Tempo total: 71727
+Melhor solução: 2026244.389999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_3_n500_m50.txt
+Tempo total: 76432
+Melhor solução: 2057419.770000001
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_4_n500_m50.txt
+Tempo total: 81136
+Melhor solução: 1998400.789999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_5_n500_m50.txt
+Tempo total: 80043
+Melhor solução: 2120235.3899999913
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_6_n500_m50.txt
+Tempo total: 70609
+Melhor solução: 2145372.309999997
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_7_n500_m50.txt
+Tempo total: 82445
+Melhor solução: 1863794.539999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_8_n500_m50.txt
+Tempo total: 82740
+Melhor solução: 2034979.5499999942
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_9_n500_m50.txt
+Tempo total: 78590
+Melhor solução: 1999968.5599999987
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_10_n500_m50.txt
+Tempo total: 78946
+Melhor solução: 2186175.4400000027
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_1_n500_m50.txt
+Tempo total: 82687
+Melhor solução: 2051827.5899999987
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_2_n500_m50.txt
+Tempo total: 72811
+Melhor solução: 2026244.389999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_3_n500_m50.txt
+Tempo total: 78181
+Melhor solução: 2019182.1100000038
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_4_n500_m50.txt
+Tempo total: 80712
+Melhor solução: 1998400.789999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_5_n500_m50.txt
+Tempo total: 77215
+Melhor solução: 2194334.4599999934
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_6_n500_m50.txt
+Tempo total: 67097
+Melhor solução: 2145372.309999997
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_7_n500_m50.txt
+Tempo total: 81701
+Melhor solução: 1911627.7099999927
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_8_n500_m50.txt
+Tempo total: 80044
+Melhor solução: 2034979.5499999942
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_9_n500_m50.txt
+Tempo total: 75487
+Melhor solução: 1999968.5599999987
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_10_n500_m50.txt
+Tempo total: 79812
+Melhor solução: 2110076.610000002
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_1_n500_m50.txt
+Tempo total: 82137
+Melhor solução: 2013372.8499999994
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_2_n500_m50.txt
+Tempo total: 69006
+Melhor solução: 2026244.389999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_3_n500_m50.txt
+Tempo total: 75418
+Melhor solução: 2019182.1100000038
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_4_n500_m50.txt
+Tempo total: 79167
+Melhor solução: 1960386.7400000056
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_5_n500_m50.txt
+Tempo total: 76921
+Melhor solução: 2120613.4299999927
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_6_n500_m50.txt
+Tempo total: 70122
+Melhor solução: 2145372.309999997
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_7_n500_m50.txt
+Tempo total: 77642
+Melhor solução: 1863794.539999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_8_n500_m50.txt
+Tempo total: 75909
+Melhor solução: 2007280.9999999967
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/MDG-b/MDG-b_9_n500_m50.txt
+Tempo total: 79233
+Melhor solução: 1999968.5599999987
+ 
+ 
+

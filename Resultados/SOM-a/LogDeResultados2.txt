@@ -1,0 +1,8496 @@
+X - 0	Tempo: 15	Best.Value: 254.0
+X - 2	Tempo: 16	Best.Value: 262.0
+X - 3	Tempo: 16	Best.Value: 277.0
+X - 10	Tempo: 17	Best.Value: 281.0
+X - 17	Tempo: 18	Best.Value: 292.0
+X - 28	Tempo: 22	Best.Value: 307.0
+X - 42	Tempo: 23	Best.Value: 318.0
+
+ 
+ 
+
+X - 0	Tempo: 25	Best.Value: 134.0
+X - 1	Tempo: 26	Best.Value: 155.0
+X - 3	Tempo: 27	Best.Value: 194.0
+X - 22	Tempo: 41	Best.Value: 195.0
+X - 26	Tempo: 41	Best.Value: 206.0
+X - 61	Tempo: 45	Best.Value: 212.0
+X - 62	Tempo: 46	Best.Value: 217.0
+X - 109	Tempo: 49	Best.Value: 254.0
+
+ 
+ 
+
+X - 0	Tempo: 19	Best.Value: 168.0
+X - 13	Tempo: 26	Best.Value: 180.0
+X - 21	Tempo: 27	Best.Value: 206.0
+X - 23	Tempo: 30	Best.Value: 207.0
+X - 57	Tempo: 35	Best.Value: 225.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 177.0
+X - 1	Tempo: 15	Best.Value: 178.0
+X - 13	Tempo: 20	Best.Value: 184.0
+X - 14	Tempo: 20	Best.Value: 195.0
+X - 16	Tempo: 20	Best.Value: 200.0
+X - 24	Tempo: 21	Best.Value: 239.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 119.0
+X - 1	Tempo: 15	Best.Value: 135.0
+X - 2	Tempo: 16	Best.Value: 185.0
+X - 9	Tempo: 19	Best.Value: 186.0
+X - 10	Tempo: 19	Best.Value: 232.0
+X - 34	Tempo: 29	Best.Value: 233.0
+X - 52	Tempo: 32	Best.Value: 243.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 211.0
+X - 19	Tempo: 25	Best.Value: 231.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 1162.0
+X - 1	Tempo: 34	Best.Value: 1199.0
+X - 4	Tempo: 37	Best.Value: 1228.0
+X - 6	Tempo: 41	Best.Value: 1391.0
+
+ 
+ 
+
+X - 0	Tempo: 17	Best.Value: 1349.0
+X - 1	Tempo: 19	Best.Value: 1366.0
+X - 5	Tempo: 24	Best.Value: 1369.0
+X - 12	Tempo: 30	Best.Value: 1380.0
+X - 27	Tempo: 35	Best.Value: 1471.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1058.0
+X - 1	Tempo: 18	Best.Value: 1107.0
+X - 2	Tempo: 19	Best.Value: 1174.0
+X - 4	Tempo: 22	Best.Value: 1286.0
+X - 39	Tempo: 36	Best.Value: 1327.0
+
+ 
+ 
+
+X - 0	Tempo: 17	Best.Value: 1171.0
+X - 4	Tempo: 23	Best.Value: 1183.0
+X - 10	Tempo: 30	Best.Value: 1247.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 7.0
+X - 3	Tempo: 10	Best.Value: 10.0
+X - 4	Tempo: 10	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 976.0
+X - 1	Tempo: 18	Best.Value: 1038.0
+X - 2	Tempo: 19	Best.Value: 1175.0
+X - 3	Tempo: 20	Best.Value: 1217.0
+
+ 
+ 
+
+X - 0	Tempo: 39	Best.Value: 717.0
+X - 1	Tempo: 42	Best.Value: 722.0
+X - 3	Tempo: 47	Best.Value: 763.0
+X - 7	Tempo: 51	Best.Value: 779.0
+X - 9	Tempo: 55	Best.Value: 807.0
+X - 45	Tempo: 70	Best.Value: 825.0
+
+ 
+ 
+
+X - 0	Tempo: 28	Best.Value: 580.0
+X - 1	Tempo: 30	Best.Value: 722.0
+X - 2	Tempo: 33	Best.Value: 776.0
+X - 6	Tempo: 39	Best.Value: 816.0
+X - 27	Tempo: 51	Best.Value: 823.0
+X - 41	Tempo: 57	Best.Value: 855.0
+X - 57	Tempo: 63	Best.Value: 898.0
+X - 172	Tempo: 106	Best.Value: 947.0
+
+ 
+ 
+
+X - 0	Tempo: 35	Best.Value: 777.0
+X - 14	Tempo: 55	Best.Value: 793.0
+X - 36	Tempo: 66	Best.Value: 795.0
+X - 63	Tempo: 79	Best.Value: 797.0
+X - 83	Tempo: 88	Best.Value: 904.0
+
+ 
+ 
+
+X - 0	Tempo: 28	Best.Value: 680.0
+X - 3	Tempo: 35	Best.Value: 751.0
+X - 5	Tempo: 37	Best.Value: 813.0
+X - 12	Tempo: 45	Best.Value: 826.0
+X - 80	Tempo: 75	Best.Value: 848.0
+X - 220	Tempo: 130	Best.Value: 882.0
+
+ 
+ 
+
+X - 0	Tempo: 39	Best.Value: 738.0
+X - 5	Tempo: 51	Best.Value: 762.0
+X - 109	Tempo: 112	Best.Value: 810.0
+
+ 
+ 
+
+X - 0	Tempo: 41	Best.Value: 4831.0
+X - 2	Tempo: 49	Best.Value: 5424.0
+
+ 
+ 
+
+X - 0	Tempo: 36	Best.Value: 4703.0
+X - 3	Tempo: 48	Best.Value: 4735.0
+X - 5	Tempo: 55	Best.Value: 4878.0
+X - 84	Tempo: 230	Best.Value: 4946.0
+
+ 
+ 
+
+X - 0	Tempo: 39	Best.Value: 5149.0
+X - 2	Tempo: 48	Best.Value: 5319.0
+X - 13	Tempo: 86	Best.Value: 5589.0
+X - 180	Tempo: 637	Best.Value: 5597.0
+
+ 
+ 
+
+X - 0	Tempo: 41	Best.Value: 4711.0
+X - 1	Tempo: 46	Best.Value: 5186.0
+X - 24	Tempo: 96	Best.Value: 5452.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 7.0
+X - 1	Tempo: 10	Best.Value: 9.0
+X - 6	Tempo: 11	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 38	Best.Value: 4698.0
+X - 1	Tempo: 43	Best.Value: 4978.0
+X - 4	Tempo: 53	Best.Value: 5029.0
+X - 36	Tempo: 132	Best.Value: 5051.0
+X - 95	Tempo: 275	Best.Value: 5055.0
+
+ 
+ 
+
+X - 0	Tempo: 32	Best.Value: 1089.0
+X - 3	Tempo: 43	Best.Value: 1145.0
+X - 5	Tempo: 46	Best.Value: 1151.0
+X - 9	Tempo: 54	Best.Value: 1181.0
+X - 19	Tempo: 62	Best.Value: 1216.0
+X - 70	Tempo: 105	Best.Value: 1266.0
+X - 128	Tempo: 148	Best.Value: 1272.0
+X - 249	Tempo: 231	Best.Value: 1288.0
+
+ 
+ 
+
+X - 0	Tempo: 43	Best.Value: 975.0
+X - 2	Tempo: 57	Best.Value: 1041.0
+X - 7	Tempo: 72	Best.Value: 1046.0
+X - 8	Tempo: 73	Best.Value: 1135.0
+X - 11	Tempo: 76	Best.Value: 1190.0
+X - 24	Tempo: 87	Best.Value: 1193.0
+X - 211	Tempo: 233	Best.Value: 1218.0
+
+ 
+ 
+
+X - 0	Tempo: 38	Best.Value: 950.0
+X - 1	Tempo: 44	Best.Value: 1019.0
+X - 4	Tempo: 54	Best.Value: 1168.0
+X - 34	Tempo: 86	Best.Value: 1237.0
+X - 79	Tempo: 121	Best.Value: 1243.0
+
+ 
+ 
+
+X - 0	Tempo: 72	Best.Value: 1010.0
+X - 1	Tempo: 75	Best.Value: 1044.0
+X - 5	Tempo: 87	Best.Value: 1171.0
+X - 134	Tempo: 196	Best.Value: 1211.0
+X - 261	Tempo: 289	Best.Value: 1216.0
+
+ 
+ 
+
+X - 0	Tempo: 37	Best.Value: 1068.0
+X - 8	Tempo: 59	Best.Value: 1164.0
+X - 29	Tempo: 83	Best.Value: 1201.0
+X - 65	Tempo: 110	Best.Value: 1216.0
+X - 82	Tempo: 122	Best.Value: 1253.0
+X - 84	Tempo: 124	Best.Value: 1285.0
+X - 169	Tempo: 185	Best.Value: 1287.0
+X - 239	Tempo: 231	Best.Value: 1300.0
+
+ 
+ 
+
+X - 0	Tempo: 45	Best.Value: 7052.0
+X - 3	Tempo: 66	Best.Value: 7107.0
+X - 7	Tempo: 90	Best.Value: 7175.0
+
+ 
+ 
+
+X - 0	Tempo: 90	Best.Value: 7527.0
+X - 2	Tempo: 111	Best.Value: 7681.0
+X - 43	Tempo: 384	Best.Value: 7697.0
+
+ 
+ 
+
+X - 0	Tempo: 52	Best.Value: 6631.0
+X - 9	Tempo: 90	Best.Value: 6748.0
+X - 35	Tempo: 189	Best.Value: 6754.0
+X - 44	Tempo: 227	Best.Value: 6851.0
+X - 62	Tempo: 295	Best.Value: 7084.0
+
+ 
+ 
+
+X - 0	Tempo: 62	Best.Value: 6512.0
+X - 2	Tempo: 80	Best.Value: 6938.0
+X - 32	Tempo: 277	Best.Value: 6983.0
+X - 86	Tempo: 626	Best.Value: 7050.0
+X - 182	Tempo: 1266	Best.Value: 7280.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 17.0
+X - 15	Tempo: 10	Best.Value: 20.0
+
+ 
+ 
+
+X - 0	Tempo: 47	Best.Value: 7250.0
+X - 9	Tempo: 127	Best.Value: 7255.0
+X - 14	Tempo: 155	Best.Value: 7352.0
+X - 20	Tempo: 197	Best.Value: 7589.0
+X - 43	Tempo: 350	Best.Value: 7601.0
+
+ 
+ 
+
+X - 0	Tempo: 47	Best.Value: 1518.0
+X - 4	Tempo: 66	Best.Value: 1602.0
+X - 14	Tempo: 86	Best.Value: 1744.0
+X - 15	Tempo: 88	Best.Value: 2087.0
+
+ 
+ 
+
+X - 0	Tempo: 53	Best.Value: 1487.0
+X - 4	Tempo: 63	Best.Value: 1548.0
+X - 5	Tempo: 68	Best.Value: 1765.0
+X - 13	Tempo: 84	Best.Value: 1860.0
+X - 64	Tempo: 168	Best.Value: 1899.0
+X - 200	Tempo: 379	Best.Value: 1906.0
+
+ 
+ 
+
+X - 0	Tempo: 58	Best.Value: 1560.0
+X - 6	Tempo: 99	Best.Value: 1611.0
+X - 8	Tempo: 104	Best.Value: 1710.0
+X - 17	Tempo: 121	Best.Value: 1753.0
+X - 40	Tempo: 159	Best.Value: 1777.0
+X - 45	Tempo: 167	Best.Value: 1850.0
+X - 48	Tempo: 173	Best.Value: 1873.0
+
+ 
+ 
+
+X - 0	Tempo: 43	Best.Value: 1713.0
+X - 1	Tempo: 52	Best.Value: 2058.0
+X - 105	Tempo: 211	Best.Value: 2071.0
+
+ 
+ 
+
+X - 0	Tempo: 44	Best.Value: 1754.0
+X - 32	Tempo: 108	Best.Value: 1822.0
+X - 95	Tempo: 214	Best.Value: 1827.0
+
+ 
+ 
+
+X - 0	Tempo: 75	Best.Value: 9211.0
+X - 1	Tempo: 96	Best.Value: 9441.0
+X - 2	Tempo: 112	Best.Value: 9849.0
+X - 23	Tempo: 416	Best.Value: 10329.0
+X - 182	Tempo: 2652	Best.Value: 10449.0
+X - 253	Tempo: 3628	Best.Value: 10659.0
+
+ 
+ 
+
+X - 0	Tempo: 55	Best.Value: 10227.0
+X - 1	Tempo: 72	Best.Value: 10362.0
+X - 11	Tempo: 186	Best.Value: 10377.0
+X - 48	Tempo: 585	Best.Value: 10498.0
+X - 169	Tempo: 1905	Best.Value: 10534.0
+
+ 
+ 
+
+X - 0	Tempo: 61	Best.Value: 10319.0
+X - 1	Tempo: 80	Best.Value: 10365.0
+X - 8	Tempo: 165	Best.Value: 10404.0
+X - 15	Tempo: 253	Best.Value: 10746.0
+X - 53	Tempo: 706	Best.Value: 10835.0
+X - 64	Tempo: 833	Best.Value: 11034.0
+X - 68	Tempo: 882	Best.Value: 11190.0
+X - 122	Tempo: 1522	Best.Value: 11338.0
+
+ 
+ 
+
+X - 0	Tempo: 67	Best.Value: 10502.0
+X - 1	Tempo: 92	Best.Value: 10535.0
+X - 2	Tempo: 102	Best.Value: 11395.0
+X - 7	Tempo: 183	Best.Value: 11490.0
+X - 9	Tempo: 214	Best.Value: 11862.0
+X - 196	Tempo: 2861	Best.Value: 11866.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 15.0
+X - 1	Tempo: 10	Best.Value: 28.0
+
+ 
+ 
+
+X - 0	Tempo: 71	Best.Value: 9502.0
+X - 1	Tempo: 95	Best.Value: 9539.0
+X - 2	Tempo: 108	Best.Value: 9730.0
+X - 5	Tempo: 159	Best.Value: 9944.0
+X - 16	Tempo: 322	Best.Value: 10135.0
+X - 22	Tempo: 420	Best.Value: 10297.0
+X - 74	Tempo: 1286	Best.Value: 10593.0
+X - 123	Tempo: 2058	Best.Value: 10720.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 9.0
+X - 9	Tempo: 9	Best.Value: 21.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 240.0
+X - 4	Tempo: 11	Best.Value: 244.0
+X - 7	Tempo: 11	Best.Value: 247.0
+X - 8	Tempo: 11	Best.Value: 259.0
+X - 14	Tempo: 13	Best.Value: 271.0
+X - 24	Tempo: 14	Best.Value: 312.0
+X - 37	Tempo: 19	Best.Value: 323.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 241.0
+X - 1	Tempo: 15	Best.Value: 242.0
+X - 5	Tempo: 16	Best.Value: 246.0
+X - 32	Tempo: 22	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 219.0
+X - 3	Tempo: 11	Best.Value: 231.0
+X - 6	Tempo: 11	Best.Value: 243.0
+X - 8	Tempo: 12	Best.Value: 256.0
+X - 9	Tempo: 12	Best.Value: 299.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 10	Best.Value: 318.0
+
+ 
+ 
+
+X - 0	Tempo: 17	Best.Value: 126.0
+X - 1	Tempo: 20	Best.Value: 195.0
+X - 3	Tempo: 21	Best.Value: 254.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 119.0
+X - 1	Tempo: 17	Best.Value: 168.0
+X - 8	Tempo: 21	Best.Value: 180.0
+X - 15	Tempo: 23	Best.Value: 198.0
+X - 50	Tempo: 32	Best.Value: 207.0
+X - 52	Tempo: 33	Best.Value: 225.0
+
+ 
+ 
+
+X - 0	Tempo: 19	Best.Value: 129.0
+X - 1	Tempo: 21	Best.Value: 210.0
+X - 37	Tempo: 32	Best.Value: 231.0
+X - 48	Tempo: 34	Best.Value: 239.0
+
+ 
+ 
+
+X - 0	Tempo: 19	Best.Value: 164.0
+X - 1	Tempo: 20	Best.Value: 228.0
+X - 53	Tempo: 37	Best.Value: 233.0
+X - 88	Tempo: 40	Best.Value: 243.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 209.0
+X - 3	Tempo: 27	Best.Value: 211.0
+X - 120	Tempo: 49	Best.Value: 231.0
+
+ 
+ 
+
+X - 0	Tempo: 18	Best.Value: 1199.0
+X - 1	Tempo: 20	Best.Value: 1287.0
+X - 2	Tempo: 21	Best.Value: 1325.0
+X - 3	Tempo: 23	Best.Value: 1361.0
+X - 34	Tempo: 45	Best.Value: 1391.0
+
+ 
+ 
+
+X - 0	Tempo: 18	Best.Value: 1306.0
+X - 1	Tempo: 20	Best.Value: 1366.0
+X - 5	Tempo: 25	Best.Value: 1368.0
+X - 11	Tempo: 31	Best.Value: 1380.0
+X - 29	Tempo: 40	Best.Value: 1471.0
+
+ 
+ 
+
+X - 0	Tempo: 19	Best.Value: 1171.0
+X - 1	Tempo: 23	Best.Value: 1174.0
+X - 2	Tempo: 25	Best.Value: 1327.0
+
+ 
+ 
+
+X - 0	Tempo: 17	Best.Value: 1087.0
+X - 2	Tempo: 20	Best.Value: 1099.0
+X - 8	Tempo: 25	Best.Value: 1183.0
+X - 18	Tempo: 32	Best.Value: 1203.0
+X - 68	Tempo: 45	Best.Value: 1247.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 9.0
+X - 7	Tempo: 10	Best.Value: 13.0
+X - 13	Tempo: 10	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 1152.0
+X - 5	Tempo: 20	Best.Value: 1163.0
+X - 21	Tempo: 29	Best.Value: 1217.0
+
+ 
+ 
+
+X - 0	Tempo: 28	Best.Value: 773.0
+X - 6	Tempo: 38	Best.Value: 807.0
+X - 7	Tempo: 39	Best.Value: 824.0
+X - 83	Tempo: 77	Best.Value: 825.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 770.0
+X - 6	Tempo: 42	Best.Value: 771.0
+X - 11	Tempo: 48	Best.Value: 776.0
+X - 13	Tempo: 49	Best.Value: 816.0
+X - 32	Tempo: 59	Best.Value: 947.0
+
+ 
+ 
+
+X - 0	Tempo: 41	Best.Value: 649.0
+X - 9	Tempo: 55	Best.Value: 745.0
+X - 14	Tempo: 59	Best.Value: 797.0
+X - 18	Tempo: 60	Best.Value: 904.0
+
+ 
+ 
+
+X - 0	Tempo: 33	Best.Value: 591.0
+X - 1	Tempo: 37	Best.Value: 681.0
+X - 2	Tempo: 39	Best.Value: 714.0
+X - 7	Tempo: 47	Best.Value: 727.0
+X - 9	Tempo: 48	Best.Value: 769.0
+X - 16	Tempo: 51	Best.Value: 848.0
+X - 181	Tempo: 117	Best.Value: 882.0
+
+ 
+ 
+
+X - 0	Tempo: 29	Best.Value: 581.0
+X - 1	Tempo: 33	Best.Value: 602.0
+X - 2	Tempo: 35	Best.Value: 810.0
+
+ 
+ 
+
+X - 0	Tempo: 41	Best.Value: 4488.0
+X - 1	Tempo: 46	Best.Value: 5424.0
+
+ 
+ 
+
+X - 0	Tempo: 40	Best.Value: 4567.0
+X - 1	Tempo: 48	Best.Value: 4605.0
+X - 2	Tempo: 56	Best.Value: 4633.0
+X - 11	Tempo: 86	Best.Value: 4711.0
+X - 20	Tempo: 106	Best.Value: 4814.0
+X - 22	Tempo: 112	Best.Value: 4878.0
+X - 81	Tempo: 242	Best.Value: 4901.0
+X - 99	Tempo: 283	Best.Value: 4946.0
+
+ 
+ 
+
+X - 0	Tempo: 56	Best.Value: 5183.0
+X - 14	Tempo: 111	Best.Value: 5331.0
+X - 27	Tempo: 157	Best.Value: 5464.0
+X - 44	Tempo: 214	Best.Value: 5589.0
+X - 207	Tempo: 843	Best.Value: 5597.0
+
+ 
+ 
+
+X - 0	Tempo: 42	Best.Value: 5045.0
+X - 4	Tempo: 57	Best.Value: 5329.0
+X - 144	Tempo: 375	Best.Value: 5452.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 44	Best.Value: 4917.0
+X - 4	Tempo: 60	Best.Value: 5051.0
+X - 7	Tempo: 67	Best.Value: 5055.0
+
+ 
+ 
+
+X - 0	Tempo: 37	Best.Value: 1041.0
+X - 1	Tempo: 41	Best.Value: 1083.0
+X - 4	Tempo: 50	Best.Value: 1135.0
+X - 6	Tempo: 55	Best.Value: 1151.0
+X - 7	Tempo: 56	Best.Value: 1215.0
+X - 21	Tempo: 68	Best.Value: 1223.0
+X - 79	Tempo: 113	Best.Value: 1288.0
+
+ 
+ 
+
+X - 0	Tempo: 50	Best.Value: 1026.0
+X - 5	Tempo: 65	Best.Value: 1071.0
+X - 7	Tempo: 70	Best.Value: 1091.0
+X - 8	Tempo: 71	Best.Value: 1193.0
+X - 46	Tempo: 107	Best.Value: 1218.0
+
+ 
+ 
+
+X - 0	Tempo: 29	Best.Value: 799.0
+X - 1	Tempo: 36	Best.Value: 1023.0
+X - 2	Tempo: 42	Best.Value: 1101.0
+X - 7	Tempo: 52	Best.Value: 1196.0
+X - 73	Tempo: 120	Best.Value: 1243.0
+
+ 
+ 
+
+X - 0	Tempo: 42	Best.Value: 980.0
+X - 12	Tempo: 82	Best.Value: 983.0
+X - 15	Tempo: 86	Best.Value: 1137.0
+X - 18	Tempo: 90	Best.Value: 1211.0
+
+ 
+ 
+
+X - 0	Tempo: 36	Best.Value: 994.0
+X - 1	Tempo: 40	Best.Value: 1099.0
+X - 7	Tempo: 59	Best.Value: 1285.0
+X - 25	Tempo: 73	Best.Value: 1287.0
+X - 215	Tempo: 202	Best.Value: 1300.0
+
+ 
+ 
+
+X - 0	Tempo: 69	Best.Value: 7107.0
+X - 13	Tempo: 152	Best.Value: 7175.0
+X - 79	Tempo: 512	Best.Value: 7191.0
+
+ 
+ 
+
+X - 0	Tempo: 73	Best.Value: 6637.0
+X - 1	Tempo: 83	Best.Value: 7681.0
+X - 65	Tempo: 524	Best.Value: 7697.0
+
+ 
+ 
+
+X - 0	Tempo: 57	Best.Value: 6748.0
+X - 12	Tempo: 110	Best.Value: 6918.0
+X - 70	Tempo: 340	Best.Value: 6939.0
+X - 88	Tempo: 406	Best.Value: 7082.0
+X - 188	Tempo: 791	Best.Value: 7084.0
+
+ 
+ 
+
+X - 0	Tempo: 56	Best.Value: 6503.0
+X - 1	Tempo: 64	Best.Value: 6938.0
+X - 77	Tempo: 567	Best.Value: 7050.0
+X - 117	Tempo: 843	Best.Value: 7280.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 6.0
+X - 1	Tempo: 10	Best.Value: 17.0
+X - 53	Tempo: 13	Best.Value: 20.0
+
+ 
+ 
+
+X - 0	Tempo: 85	Best.Value: 6898.0
+X - 2	Tempo: 120	Best.Value: 7096.0
+X - 3	Tempo: 129	Best.Value: 7203.0
+X - 7	Tempo: 166	Best.Value: 7302.0
+X - 50	Tempo: 490	Best.Value: 7394.0
+X - 69	Tempo: 624	Best.Value: 7601.0
+
+ 
+ 
+
+X - 0	Tempo: 60	Best.Value: 1417.0
+X - 1	Tempo: 78	Best.Value: 1630.0
+X - 22	Tempo: 138	Best.Value: 1631.0
+X - 28	Tempo: 148	Best.Value: 1751.0
+X - 48	Tempo: 178	Best.Value: 1807.0
+X - 60	Tempo: 198	Best.Value: 1979.0
+X - 209	Tempo: 452	Best.Value: 2087.0
+
+ 
+ 
+
+X - 0	Tempo: 55	Best.Value: 1602.0
+X - 3	Tempo: 66	Best.Value: 1860.0
+X - 186	Tempo: 413	Best.Value: 1906.0
+
+ 
+ 
+
+X - 0	Tempo: 49	Best.Value: 1536.0
+X - 1	Tempo: 64	Best.Value: 1581.0
+X - 3	Tempo: 70	Best.Value: 1721.0
+X - 9	Tempo: 85	Best.Value: 1873.0
+
+ 
+ 
+
+X - 0	Tempo: 48	Best.Value: 1693.0
+X - 9	Tempo: 69	Best.Value: 1737.0
+X - 14	Tempo: 76	Best.Value: 1829.0
+X - 32	Tempo: 104	Best.Value: 1890.0
+X - 141	Tempo: 263	Best.Value: 2058.0
+X - 174	Tempo: 315	Best.Value: 2071.0
+
+ 
+ 
+
+X - 0	Tempo: 48	Best.Value: 1376.0
+X - 1	Tempo: 54	Best.Value: 1551.0
+X - 2	Tempo: 55	Best.Value: 1614.0
+X - 3	Tempo: 58	Best.Value: 1672.0
+X - 6	Tempo: 68	Best.Value: 1773.0
+X - 16	Tempo: 85	Best.Value: 1807.0
+X - 90	Tempo: 209	Best.Value: 1822.0
+X - 141	Tempo: 301	Best.Value: 1880.0
+
+ 
+ 
+
+X - 0	Tempo: 72	Best.Value: 9687.0
+X - 5	Tempo: 148	Best.Value: 9797.0
+X - 8	Tempo: 177	Best.Value: 10058.0
+X - 20	Tempo: 329	Best.Value: 10060.0
+X - 50	Tempo: 752	Best.Value: 10449.0
+X - 135	Tempo: 1976	Best.Value: 10659.0
+
+ 
+ 
+
+X - 0	Tempo: 51	Best.Value: 10227.0
+X - 4	Tempo: 99	Best.Value: 10235.0
+X - 10	Tempo: 166	Best.Value: 10534.0
+
+ 
+ 
+
+X - 0	Tempo: 62	Best.Value: 9683.0
+X - 1	Tempo: 79	Best.Value: 10666.0
+X - 10	Tempo: 172	Best.Value: 10902.0
+X - 48	Tempo: 612	Best.Value: 11068.0
+X - 262	Tempo: 3084	Best.Value: 11338.0
+
+ 
+ 
+
+X - 0	Tempo: 66	Best.Value: 10600.0
+X - 1	Tempo: 81	Best.Value: 10751.0
+X - 2	Tempo: 97	Best.Value: 10918.0
+X - 7	Tempo: 170	Best.Value: 11506.0
+X - 10	Tempo: 206	Best.Value: 11862.0
+X - 141	Tempo: 2040	Best.Value: 11866.0
+X - 207	Tempo: 2947	Best.Value: 12050.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 9.0
+X - 1	Tempo: 9	Best.Value: 14.0
+X - 6	Tempo: 9	Best.Value: 17.0
+X - 12	Tempo: 9	Best.Value: 18.0
+X - 61	Tempo: 11	Best.Value: 28.0
+
+ 
+ 
+
+X - 0	Tempo: 71	Best.Value: 9502.0
+X - 1	Tempo: 98	Best.Value: 9909.0
+X - 7	Tempo: 204	Best.Value: 10095.0
+X - 22	Tempo: 435	Best.Value: 10502.0
+X - 25	Tempo: 483	Best.Value: 10565.0
+X - 198	Tempo: 3387	Best.Value: 10593.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 9.0
+X - 15	Tempo: 10	Best.Value: 17.0
+X - 61	Tempo: 12	Best.Value: 21.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 283.0
+X - 7	Tempo: 10	Best.Value: 312.0
+X - 35	Tempo: 16	Best.Value: 323.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 241.0
+X - 5	Tempo: 11	Best.Value: 242.0
+X - 7	Tempo: 12	Best.Value: 258.0
+X - 35	Tempo: 17	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 187.0
+X - 1	Tempo: 10	Best.Value: 243.0
+X - 3	Tempo: 10	Best.Value: 256.0
+X - 4	Tempo: 10	Best.Value: 299.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 267.0
+X - 2	Tempo: 9	Best.Value: 277.0
+X - 7	Tempo: 10	Best.Value: 318.0
+
+ 
+ 
+
+X - 0	Tempo: 13	Best.Value: 155.0
+X - 1	Tempo: 15	Best.Value: 160.0
+X - 3	Tempo: 15	Best.Value: 185.0
+X - 6	Tempo: 17	Best.Value: 206.0
+X - 20	Tempo: 27	Best.Value: 217.0
+X - 59	Tempo: 32	Best.Value: 254.0
+
+ 
+ 
+
+X - 0	Tempo: 33	Best.Value: 108.0
+X - 1	Tempo: 42	Best.Value: 126.0
+X - 2	Tempo: 43	Best.Value: 180.0
+X - 8	Tempo: 45	Best.Value: 206.0
+X - 80	Tempo: 56	Best.Value: 207.0
+X - 91	Tempo: 56	Best.Value: 225.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 130.0
+X - 1	Tempo: 15	Best.Value: 155.0
+X - 3	Tempo: 16	Best.Value: 170.0
+X - 4	Tempo: 17	Best.Value: 200.0
+X - 20	Tempo: 22	Best.Value: 239.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 181.0
+X - 3	Tempo: 18	Best.Value: 228.0
+X - 13	Tempo: 22	Best.Value: 232.0
+X - 35	Tempo: 29	Best.Value: 243.0
+
+ 
+ 
+
+X - 0	Tempo: 13	Best.Value: 189.0
+X - 1	Tempo: 15	Best.Value: 211.0
+X - 50	Tempo: 29	Best.Value: 231.0
+
+ 
+ 
+
+X - 0	Tempo: 40	Best.Value: 1228.0
+X - 2	Tempo: 44	Best.Value: 1338.0
+X - 3	Tempo: 44	Best.Value: 1391.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 1244.0
+X - 1	Tempo: 17	Best.Value: 1366.0
+X - 10	Tempo: 28	Best.Value: 1386.0
+X - 27	Tempo: 32	Best.Value: 1400.0
+X - 40	Tempo: 35	Best.Value: 1471.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1174.0
+X - 1	Tempo: 19	Best.Value: 1197.0
+X - 14	Tempo: 29	Best.Value: 1203.0
+X - 19	Tempo: 31	Best.Value: 1323.0
+X - 25	Tempo: 33	Best.Value: 1327.0
+
+ 
+ 
+
+X - 0	Tempo: 27	Best.Value: 1099.0
+X - 2	Tempo: 30	Best.Value: 1199.0
+X - 5	Tempo: 38	Best.Value: 1242.0
+X - 112	Tempo: 84	Best.Value: 1247.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 7.0
+X - 1	Tempo: 9	Best.Value: 10.0
+X - 2	Tempo: 9	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 1038.0
+X - 1	Tempo: 17	Best.Value: 1152.0
+X - 6	Tempo: 21	Best.Value: 1163.0
+X - 7	Tempo: 22	Best.Value: 1175.0
+X - 14	Tempo: 27	Best.Value: 1217.0
+
+ 
+ 
+
+X - 0	Tempo: 29	Best.Value: 700.0
+X - 1	Tempo: 32	Best.Value: 763.0
+X - 8	Tempo: 41	Best.Value: 776.0
+X - 13	Tempo: 47	Best.Value: 784.0
+X - 27	Tempo: 53	Best.Value: 825.0
+
+ 
+ 
+
+X - 0	Tempo: 28	Best.Value: 797.0
+X - 3	Tempo: 35	Best.Value: 816.0
+X - 62	Tempo: 64	Best.Value: 855.0
+X - 67	Tempo: 66	Best.Value: 898.0
+X - 158	Tempo: 100	Best.Value: 947.0
+
+ 
+ 
+
+X - 0	Tempo: 26	Best.Value: 777.0
+X - 2	Tempo: 29	Best.Value: 848.0
+X - 230	Tempo: 152	Best.Value: 894.0
+X - 303	Tempo: 187	Best.Value: 904.0
+
+ 
+ 
+
+X - 0	Tempo: 26	Best.Value: 759.0
+X - 1	Tempo: 30	Best.Value: 760.0
+X - 9	Tempo: 42	Best.Value: 769.0
+X - 17	Tempo: 46	Best.Value: 882.0
+
+ 
+ 
+
+X - 0	Tempo: 32	Best.Value: 695.0
+X - 7	Tempo: 44	Best.Value: 762.0
+X - 178	Tempo: 115	Best.Value: 810.0
+
+ 
+ 
+
+X - 0	Tempo: 51	Best.Value: 4831.0
+X - 1	Tempo: 56	Best.Value: 5150.0
+X - 3	Tempo: 64	Best.Value: 5183.0
+X - 53	Tempo: 170	Best.Value: 5412.0
+X - 57	Tempo: 180	Best.Value: 5424.0
+
+ 
+ 
+
+X - 0	Tempo: 36	Best.Value: 4605.0
+X - 2	Tempo: 44	Best.Value: 4901.0
+X - 170	Tempo: 415	Best.Value: 4946.0
+
+ 
+ 
+
+X - 0	Tempo: 36	Best.Value: 4488.0
+X - 2	Tempo: 48	Best.Value: 4942.0
+X - 3	Tempo: 50	Best.Value: 5160.0
+X - 27	Tempo: 128	Best.Value: 5250.0
+X - 40	Tempo: 171	Best.Value: 5589.0
+X - 184	Tempo: 656	Best.Value: 5597.0
+
+ 
+ 
+
+X - 0	Tempo: 34	Best.Value: 4711.0
+X - 5	Tempo: 51	Best.Value: 4909.0
+X - 8	Tempo: 60	Best.Value: 5037.0
+X - 15	Tempo: 75	Best.Value: 5183.0
+X - 103	Tempo: 272	Best.Value: 5186.0
+X - 114	Tempo: 296	Best.Value: 5452.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 38	Best.Value: 4484.0
+X - 1	Tempo: 42	Best.Value: 5051.0
+X - 79	Tempo: 240	Best.Value: 5054.0
+X - 110	Tempo: 328	Best.Value: 5055.0
+
+ 
+ 
+
+X - 0	Tempo: 62	Best.Value: 1125.0
+X - 20	Tempo: 105	Best.Value: 1151.0
+X - 26	Tempo: 111	Best.Value: 1191.0
+X - 28	Tempo: 113	Best.Value: 1216.0
+X - 43	Tempo: 124	Best.Value: 1266.0
+X - 65	Tempo: 140	Best.Value: 1288.0
+
+ 
+ 
+
+X - 0	Tempo: 38	Best.Value: 833.0
+X - 1	Tempo: 43	Best.Value: 945.0
+X - 2	Tempo: 49	Best.Value: 981.0
+X - 3	Tempo: 52	Best.Value: 1135.0
+X - 5	Tempo: 60	Best.Value: 1152.0
+X - 9	Tempo: 67	Best.Value: 1169.0
+X - 11	Tempo: 69	Best.Value: 1218.0
+
+ 
+ 
+
+X - 0	Tempo: 58	Best.Value: 1004.0
+X - 1	Tempo: 62	Best.Value: 1170.0
+X - 27	Tempo: 94	Best.Value: 1196.0
+X - 85	Tempo: 141	Best.Value: 1209.0
+X - 154	Tempo: 194	Best.Value: 1213.0
+X - 189	Tempo: 220	Best.Value: 1270.0
+
+ 
+ 
+
+X - 0	Tempo: 39	Best.Value: 905.0
+X - 1	Tempo: 48	Best.Value: 934.0
+X - 3	Tempo: 52	Best.Value: 1085.0
+X - 18	Tempo: 70	Best.Value: 1137.0
+X - 31	Tempo: 79	Best.Value: 1150.0
+X - 71	Tempo: 109	Best.Value: 1164.0
+X - 164	Tempo: 178	Best.Value: 1211.0
+X - 198	Tempo: 203	Best.Value: 1216.0
+
+ 
+ 
+
+X - 0	Tempo: 39	Best.Value: 774.0
+X - 1	Tempo: 47	Best.Value: 1078.0
+X - 7	Tempo: 74	Best.Value: 1201.0
+X - 20	Tempo: 88	Best.Value: 1253.0
+X - 68	Tempo: 135	Best.Value: 1287.0
+X - 205	Tempo: 234	Best.Value: 1300.0
+
+ 
+ 
+
+X - 0	Tempo: 46	Best.Value: 7107.0
+X - 49	Tempo: 335	Best.Value: 7148.0
+X - 115	Tempo: 693	Best.Value: 7191.0
+
+ 
+ 
+
+X - 0	Tempo: 56	Best.Value: 6975.0
+X - 1	Tempo: 74	Best.Value: 7228.0
+X - 2	Tempo: 80	Best.Value: 7229.0
+X - 3	Tempo: 88	Best.Value: 7443.0
+X - 4	Tempo: 95	Best.Value: 7681.0
+X - 50	Tempo: 415	Best.Value: 7697.0
+
+ 
+ 
+
+X - 0	Tempo: 78	Best.Value: 6402.0
+X - 1	Tempo: 86	Best.Value: 6431.0
+X - 2	Tempo: 95	Best.Value: 6511.0
+X - 9	Tempo: 124	Best.Value: 6693.0
+X - 11	Tempo: 135	Best.Value: 6720.0
+X - 14	Tempo: 147	Best.Value: 6744.0
+X - 15	Tempo: 150	Best.Value: 6781.0
+X - 26	Tempo: 190	Best.Value: 6851.0
+X - 28	Tempo: 197	Best.Value: 7045.0
+X - 79	Tempo: 396	Best.Value: 7082.0
+X - 299	Tempo: 1195	Best.Value: 7084.0
+
+ 
+ 
+
+X - 0	Tempo: 45	Best.Value: 6613.0
+X - 3	Tempo: 69	Best.Value: 6893.0
+X - 4	Tempo: 74	Best.Value: 6938.0
+X - 64	Tempo: 492	Best.Value: 6983.0
+X - 65	Tempo: 499	Best.Value: 6998.0
+X - 84	Tempo: 615	Best.Value: 7050.0
+X - 126	Tempo: 888	Best.Value: 7280.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 9.0
+X - 13	Tempo: 9	Best.Value: 17.0
+X - 64	Tempo: 11	Best.Value: 20.0
+
+ 
+ 
+
+X - 0	Tempo: 59	Best.Value: 7125.0
+X - 1	Tempo: 67	Best.Value: 7126.0
+X - 5	Tempo: 97	Best.Value: 7601.0
+
+ 
+ 
+
+X - 0	Tempo: 51	Best.Value: 1384.0
+X - 2	Tempo: 60	Best.Value: 2087.0
+
+ 
+ 
+
+X - 0	Tempo: 36	Best.Value: 1607.0
+X - 1	Tempo: 44	Best.Value: 1724.0
+X - 2	Tempo: 47	Best.Value: 1780.0
+X - 58	Tempo: 136	Best.Value: 1860.0
+X - 224	Tempo: 386	Best.Value: 1906.0
+
+ 
+ 
+
+X - 0	Tempo: 50	Best.Value: 1677.0
+X - 23	Tempo: 102	Best.Value: 1721.0
+X - 50	Tempo: 146	Best.Value: 1822.0
+X - 91	Tempo: 213	Best.Value: 1873.0
+
+ 
+ 
+
+X - 0	Tempo: 43	Best.Value: 1366.0
+X - 1	Tempo: 54	Best.Value: 1490.0
+X - 3	Tempo: 64	Best.Value: 1719.0
+X - 6	Tempo: 74	Best.Value: 1737.0
+X - 11	Tempo: 81	Best.Value: 2071.0
+
+ 
+ 
+
+X - 0	Tempo: 50	Best.Value: 1470.0
+X - 2	Tempo: 60	Best.Value: 1619.0
+X - 7	Tempo: 73	Best.Value: 1625.0
+X - 12	Tempo: 85	Best.Value: 1827.0
+X - 26	Tempo: 112	Best.Value: 1880.0
+
+ 
+ 
+
+X - 0	Tempo: 90	Best.Value: 9287.0
+X - 1	Tempo: 108	Best.Value: 9441.0
+X - 4	Tempo: 157	Best.Value: 9733.0
+X - 13	Tempo: 298	Best.Value: 9807.0
+X - 14	Tempo: 310	Best.Value: 9880.0
+X - 15	Tempo: 322	Best.Value: 9912.0
+X - 22	Tempo: 426	Best.Value: 10449.0
+
+ 
+ 
+
+X - 0	Tempo: 61	Best.Value: 10193.0
+X - 1	Tempo: 74	Best.Value: 10227.0
+X - 14	Tempo: 213	Best.Value: 10235.0
+X - 29	Tempo: 375	Best.Value: 10498.0
+X - 76	Tempo: 912	Best.Value: 10534.0
+
+ 
+ 
+
+X - 0	Tempo: 97	Best.Value: 10319.0
+X - 3	Tempo: 146	Best.Value: 10373.0
+X - 4	Tempo: 155	Best.Value: 10545.0
+X - 16	Tempo: 284	Best.Value: 10570.0
+X - 20	Tempo: 322	Best.Value: 11190.0
+X - 45	Tempo: 589	Best.Value: 11338.0
+
+ 
+ 
+
+X - 0	Tempo: 69	Best.Value: 11567.0
+X - 14	Tempo: 287	Best.Value: 11866.0
+X - 112	Tempo: 1702	Best.Value: 12050.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 28.0
+
+ 
+ 
+
+X - 0	Tempo: 77	Best.Value: 10260.0
+X - 12	Tempo: 299	Best.Value: 10297.0
+X - 27	Tempo: 542	Best.Value: 10502.0
+X - 132	Tempo: 2240	Best.Value: 10593.0
+X - 152	Tempo: 2548	Best.Value: 10720.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 8.0
+X - 1	Tempo: 9	Best.Value: 16.0
+X - 12	Tempo: 10	Best.Value: 17.0
+X - 72	Tempo: 13	Best.Value: 21.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 271.0
+X - 7	Tempo: 11	Best.Value: 272.0
+X - 23	Tempo: 19	Best.Value: 312.0
+X - 99	Tempo: 22	Best.Value: 323.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 242.0
+X - 2	Tempo: 10	Best.Value: 246.0
+X - 4	Tempo: 11	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 256.0
+X - 3	Tempo: 10	Best.Value: 299.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 217.0
+X - 1	Tempo: 9	Best.Value: 235.0
+X - 2	Tempo: 9	Best.Value: 245.0
+X - 3	Tempo: 10	Best.Value: 251.0
+X - 16	Tempo: 12	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 267.0
+X - 3	Tempo: 9	Best.Value: 318.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 170.0
+X - 3	Tempo: 18	Best.Value: 176.0
+X - 5	Tempo: 19	Best.Value: 186.0
+X - 7	Tempo: 20	Best.Value: 212.0
+X - 61	Tempo: 35	Best.Value: 254.0
+
+ 
+ 
+
+X - 0	Tempo: 17	Best.Value: 138.0
+X - 1	Tempo: 19	Best.Value: 159.0
+X - 2	Tempo: 20	Best.Value: 168.0
+X - 3	Tempo: 21	Best.Value: 198.0
+X - 39	Tempo: 37	Best.Value: 206.0
+X - 48	Tempo: 43	Best.Value: 207.0
+X - 78	Tempo: 49	Best.Value: 225.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 170.0
+X - 1	Tempo: 16	Best.Value: 188.0
+X - 22	Tempo: 24	Best.Value: 239.0
+
+ 
+ 
+
+X - 0	Tempo: 13	Best.Value: 195.0
+X - 8	Tempo: 17	Best.Value: 228.0
+X - 14	Tempo: 19	Best.Value: 243.0
+
+ 
+ 
+
+X - 0	Tempo: 13	Best.Value: 146.0
+X - 3	Tempo: 16	Best.Value: 231.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1129.0
+X - 1	Tempo: 18	Best.Value: 1181.0
+X - 2	Tempo: 20	Best.Value: 1287.0
+X - 7	Tempo: 26	Best.Value: 1361.0
+X - 15	Tempo: 31	Best.Value: 1389.0
+X - 120	Tempo: 71	Best.Value: 1391.0
+
+ 
+ 
+
+X - 0	Tempo: 18	Best.Value: 1256.0
+X - 2	Tempo: 21	Best.Value: 1386.0
+X - 12	Tempo: 33	Best.Value: 1400.0
+X - 21	Tempo: 36	Best.Value: 1471.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1087.0
+X - 2	Tempo: 19	Best.Value: 1174.0
+X - 5	Tempo: 21	Best.Value: 1327.0
+
+ 
+ 
+
+X - 0	Tempo: 20	Best.Value: 1059.0
+X - 1	Tempo: 22	Best.Value: 1099.0
+X - 4	Tempo: 25	Best.Value: 1141.0
+X - 8	Tempo: 39	Best.Value: 1165.0
+X - 10	Tempo: 43	Best.Value: 1242.0
+X - 13	Tempo: 44	Best.Value: 1247.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 9.0
+X - 7	Tempo: 9	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1038.0
+X - 5	Tempo: 23	Best.Value: 1164.0
+X - 67	Tempo: 44	Best.Value: 1217.0
+
+ 
+ 
+
+X - 0	Tempo: 24	Best.Value: 673.0
+X - 1	Tempo: 29	Best.Value: 738.0
+X - 6	Tempo: 34	Best.Value: 752.0
+X - 7	Tempo: 35	Best.Value: 757.0
+X - 12	Tempo: 40	Best.Value: 763.0
+X - 23	Tempo: 45	Best.Value: 766.0
+X - 29	Tempo: 48	Best.Value: 776.0
+X - 118	Tempo: 84	Best.Value: 807.0
+X - 131	Tempo: 90	Best.Value: 825.0
+
+ 
+ 
+
+X - 0	Tempo: 26	Best.Value: 768.0
+X - 7	Tempo: 36	Best.Value: 770.0
+X - 8	Tempo: 39	Best.Value: 816.0
+X - 14	Tempo: 42	Best.Value: 831.0
+X - 23	Tempo: 46	Best.Value: 898.0
+
+ 
+ 
+
+X - 0	Tempo: 28	Best.Value: 723.0
+X - 9	Tempo: 43	Best.Value: 848.0
+X - 31	Tempo: 55	Best.Value: 904.0
+
+ 
+ 
+
+X - 0	Tempo: 24	Best.Value: 748.0
+X - 1	Tempo: 26	Best.Value: 810.0
+X - 3	Tempo: 32	Best.Value: 848.0
+X - 28	Tempo: 50	Best.Value: 882.0
+
+ 
+ 
+
+X - 0	Tempo: 25	Best.Value: 592.0
+X - 3	Tempo: 33	Best.Value: 751.0
+X - 8	Tempo: 38	Best.Value: 762.0
+X - 32	Tempo: 50	Best.Value: 810.0
+
+ 
+ 
+
+X - 0	Tempo: 54	Best.Value: 4452.0
+X - 1	Tempo: 60	Best.Value: 4953.0
+X - 7	Tempo: 81	Best.Value: 5357.0
+X - 48	Tempo: 176	Best.Value: 5412.0
+X - 181	Tempo: 461	Best.Value: 5424.0
+
+ 
+ 
+
+X - 0	Tempo: 78	Best.Value: 4605.0
+X - 2	Tempo: 99	Best.Value: 4674.0
+X - 4	Tempo: 108	Best.Value: 4762.0
+X - 12	Tempo: 128	Best.Value: 4832.0
+X - 25	Tempo: 158	Best.Value: 4901.0
+X - 189	Tempo: 507	Best.Value: 4946.0
+
+ 
+ 
+
+X - 0	Tempo: 64	Best.Value: 5380.0
+X - 27	Tempo: 159	Best.Value: 5597.0
+
+ 
+ 
+
+X - 0	Tempo: 43	Best.Value: 4943.0
+X - 9	Tempo: 66	Best.Value: 5054.0
+X - 25	Tempo: 99	Best.Value: 5186.0
+X - 31	Tempo: 110	Best.Value: 5452.0
+
+ 
+ 
+
+X - 0	Tempo: 22	Best.Value: 12.0
+X - 1	Tempo: 24	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 37	Best.Value: 4985.0
+X - 2	Tempo: 44	Best.Value: 5054.0
+X - 44	Tempo: 153	Best.Value: 5055.0
+
+ 
+ 
+
+X - 0	Tempo: 64	Best.Value: 1072.0
+X - 1	Tempo: 68	Best.Value: 1288.0
+
+ 
+ 
+
+X - 0	Tempo: 43	Best.Value: 1028.0
+X - 1	Tempo: 49	Best.Value: 1062.0
+X - 5	Tempo: 63	Best.Value: 1075.0
+X - 7	Tempo: 67	Best.Value: 1093.0
+X - 13	Tempo: 72	Best.Value: 1097.0
+X - 27	Tempo: 85	Best.Value: 1137.0
+X - 42	Tempo: 98	Best.Value: 1176.0
+X - 45	Tempo: 101	Best.Value: 1218.0
+
+ 
+ 
+
+X - 0	Tempo: 53	Best.Value: 1209.0
+X - 17	Tempo: 90	Best.Value: 1243.0
+X - 73	Tempo: 136	Best.Value: 1270.0
+
+ 
+ 
+
+X - 0	Tempo: 36	Best.Value: 863.0
+X - 1	Tempo: 43	Best.Value: 942.0
+X - 3	Tempo: 63	Best.Value: 1007.0
+X - 4	Tempo: 65	Best.Value: 1034.0
+X - 6	Tempo: 66	Best.Value: 1075.0
+X - 8	Tempo: 73	Best.Value: 1085.0
+X - 9	Tempo: 74	Best.Value: 1119.0
+X - 13	Tempo: 77	Best.Value: 1150.0
+X - 16	Tempo: 80	Best.Value: 1171.0
+X - 79	Tempo: 133	Best.Value: 1216.0
+
+ 
+ 
+
+X - 0	Tempo: 52	Best.Value: 1001.0
+X - 1	Tempo: 61	Best.Value: 1006.0
+X - 3	Tempo: 72	Best.Value: 1216.0
+X - 12	Tempo: 84	Best.Value: 1287.0
+
+ 
+ 
+
+X - 0	Tempo: 64	Best.Value: 6878.0
+X - 1	Tempo: 71	Best.Value: 6893.0
+X - 3	Tempo: 85	Best.Value: 7107.0
+X - 62	Tempo: 394	Best.Value: 7175.0
+X - 183	Tempo: 1017	Best.Value: 7191.0
+
+ 
+ 
+
+X - 0	Tempo: 47	Best.Value: 7672.0
+X - 3	Tempo: 75	Best.Value: 7681.0
+X - 4	Tempo: 84	Best.Value: 7697.0
+
+ 
+ 
+
+X - 0	Tempo: 52	Best.Value: 6667.0
+X - 8	Tempo: 90	Best.Value: 6844.0
+X - 11	Tempo: 104	Best.Value: 6918.0
+X - 24	Tempo: 153	Best.Value: 7045.0
+X - 55	Tempo: 273	Best.Value: 7084.0
+
+ 
+ 
+
+X - 0	Tempo: 44	Best.Value: 6760.0
+X - 1	Tempo: 51	Best.Value: 6938.0
+X - 6	Tempo: 90	Best.Value: 6998.0
+X - 54	Tempo: 400	Best.Value: 7280.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 9.0
+X - 3	Tempo: 9	Best.Value: 17.0
+X - 6	Tempo: 9	Best.Value: 20.0
+
+ 
+ 
+
+X - 0	Tempo: 76	Best.Value: 7143.0
+X - 8	Tempo: 137	Best.Value: 7356.0
+X - 30	Tempo: 295	Best.Value: 7589.0
+X - 164	Tempo: 1172	Best.Value: 7601.0
+
+ 
+ 
+
+X - 0	Tempo: 46	Best.Value: 1367.0
+X - 1	Tempo: 50	Best.Value: 1397.0
+X - 6	Tempo: 68	Best.Value: 1608.0
+X - 11	Tempo: 80	Best.Value: 1611.0
+X - 12	Tempo: 83	Best.Value: 1631.0
+X - 14	Tempo: 87	Best.Value: 1979.0
+X - 101	Tempo: 228	Best.Value: 2087.0
+
+ 
+ 
+
+X - 0	Tempo: 85	Best.Value: 1618.0
+X - 6	Tempo: 108	Best.Value: 1839.0
+X - 33	Tempo: 152	Best.Value: 1860.0
+X - 41	Tempo: 165	Best.Value: 1899.0
+X - 54	Tempo: 184	Best.Value: 1906.0
+
+ 
+ 
+
+X - 0	Tempo: 40	Best.Value: 1533.0
+X - 2	Tempo: 50	Best.Value: 1710.0
+X - 24	Tempo: 93	Best.Value: 1753.0
+X - 67	Tempo: 161	Best.Value: 1822.0
+X - 73	Tempo: 169	Best.Value: 1850.0
+X - 90	Tempo: 198	Best.Value: 1873.0
+
+ 
+ 
+
+X - 0	Tempo: 81	Best.Value: 1552.0
+X - 5	Tempo: 106	Best.Value: 1633.0
+X - 6	Tempo: 107	Best.Value: 1863.0
+X - 82	Tempo: 249	Best.Value: 2058.0
+X - 104	Tempo: 278	Best.Value: 2071.0
+
+ 
+ 
+
+X - 0	Tempo: 57	Best.Value: 1754.0
+X - 41	Tempo: 156	Best.Value: 1773.0
+X - 106	Tempo: 270	Best.Value: 1827.0
+X - 224	Tempo: 475	Best.Value: 1880.0
+
+ 
+ 
+
+X - 0	Tempo: 61	Best.Value: 9201.0
+X - 1	Tempo: 78	Best.Value: 9835.0
+X - 21	Tempo: 345	Best.Value: 10120.0
+X - 25	Tempo: 419	Best.Value: 10659.0
+
+ 
+ 
+
+X - 0	Tempo: 88	Best.Value: 10227.0
+X - 2	Tempo: 131	Best.Value: 10266.0
+X - 45	Tempo: 592	Best.Value: 10360.0
+X - 60	Tempo: 769	Best.Value: 10498.0
+X - 73	Tempo: 917	Best.Value: 10518.0
+X - 148	Tempo: 1703	Best.Value: 10534.0
+
+ 
+ 
+
+X - 0	Tempo: 61	Best.Value: 10358.0
+X - 2	Tempo: 86	Best.Value: 10553.0
+X - 5	Tempo: 128	Best.Value: 10687.0
+X - 12	Tempo: 216	Best.Value: 11034.0
+X - 26	Tempo: 373	Best.Value: 11190.0
+X - 183	Tempo: 2211	Best.Value: 11338.0
+
+ 
+ 
+
+X - 0	Tempo: 54	Best.Value: 10000.0
+X - 1	Tempo: 71	Best.Value: 11100.0
+X - 11	Tempo: 234	Best.Value: 11104.0
+X - 15	Tempo: 280	Best.Value: 11191.0
+X - 20	Tempo: 355	Best.Value: 11264.0
+X - 21	Tempo: 371	Best.Value: 11265.0
+X - 22	Tempo: 385	Best.Value: 11460.0
+X - 40	Tempo: 641	Best.Value: 11505.0
+X - 52	Tempo: 826	Best.Value: 11866.0
+X - 208	Tempo: 2930	Best.Value: 12050.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 8.0
+X - 1	Tempo: 8	Best.Value: 10.0
+X - 2	Tempo: 9	Best.Value: 13.0
+X - 9	Tempo: 9	Best.Value: 17.0
+X - 10	Tempo: 9	Best.Value: 28.0
+
+ 
+ 
+
+X - 0	Tempo: 80	Best.Value: 9883.0
+X - 14	Tempo: 317	Best.Value: 9926.0
+X - 15	Tempo: 330	Best.Value: 10169.0
+X - 17	Tempo: 364	Best.Value: 10593.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 9.0
+X - 4	Tempo: 9	Best.Value: 12.0
+X - 8	Tempo: 10	Best.Value: 16.0
+X - 13	Tempo: 10	Best.Value: 21.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 209.0
+X - 1	Tempo: 10	Best.Value: 247.0
+X - 4	Tempo: 10	Best.Value: 259.0
+X - 11	Tempo: 12	Best.Value: 323.0
+
+ 
+ 
+
+X - 0	Tempo: 27	Best.Value: 249.0
+X - 17	Tempo: 31	Best.Value: 258.0
+X - 40	Tempo: 37	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 203.0
+X - 1	Tempo: 10	Best.Value: 208.0
+X - 3	Tempo: 10	Best.Value: 220.0
+X - 4	Tempo: 10	Best.Value: 257.0
+X - 6	Tempo: 11	Best.Value: 299.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 251.0
+X - 1	Tempo: 11	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 277.0
+X - 5	Tempo: 10	Best.Value: 307.0
+X - 6	Tempo: 10	Best.Value: 318.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 176.0
+X - 1	Tempo: 16	Best.Value: 186.0
+X - 2	Tempo: 16	Best.Value: 206.0
+X - 12	Tempo: 20	Best.Value: 212.0
+X - 32	Tempo: 30	Best.Value: 217.0
+X - 76	Tempo: 33	Best.Value: 254.0
+
+ 
+ 
+
+X - 0	Tempo: 12	Best.Value: 137.0
+X - 2	Tempo: 15	Best.Value: 156.0
+X - 5	Tempo: 16	Best.Value: 162.0
+X - 8	Tempo: 17	Best.Value: 169.0
+X - 13	Tempo: 19	Best.Value: 180.0
+X - 25	Tempo: 23	Best.Value: 206.0
+X - 42	Tempo: 26	Best.Value: 207.0
+X - 64	Tempo: 28	Best.Value: 225.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 81.0
+X - 1	Tempo: 17	Best.Value: 168.0
+X - 2	Tempo: 18	Best.Value: 200.0
+X - 6	Tempo: 20	Best.Value: 219.0
+X - 16	Tempo: 23	Best.Value: 231.0
+X - 86	Tempo: 34	Best.Value: 239.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 164.0
+X - 1	Tempo: 16	Best.Value: 172.0
+X - 12	Tempo: 20	Best.Value: 211.0
+X - 13	Tempo: 20	Best.Value: 243.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 157.0
+X - 1	Tempo: 15	Best.Value: 173.0
+X - 9	Tempo: 19	Best.Value: 179.0
+X - 11	Tempo: 20	Best.Value: 192.0
+X - 17	Tempo: 22	Best.Value: 211.0
+X - 34	Tempo: 29	Best.Value: 231.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 1148.0
+X - 1	Tempo: 40	Best.Value: 1349.0
+X - 4	Tempo: 43	Best.Value: 1389.0
+X - 51	Tempo: 61	Best.Value: 1391.0
+
+ 
+ 
+
+X - 0	Tempo: 18	Best.Value: 1308.0
+X - 3	Tempo: 21	Best.Value: 1368.0
+X - 14	Tempo: 27	Best.Value: 1374.0
+X - 18	Tempo: 29	Best.Value: 1380.0
+X - 39	Tempo: 34	Best.Value: 1386.0
+X - 56	Tempo: 38	Best.Value: 1471.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1156.0
+X - 1	Tempo: 18	Best.Value: 1264.0
+X - 2	Tempo: 19	Best.Value: 1327.0
+
+ 
+ 
+
+X - 0	Tempo: 23	Best.Value: 1099.0
+X - 1	Tempo: 25	Best.Value: 1166.0
+X - 10	Tempo: 41	Best.Value: 1183.0
+X - 11	Tempo: 42	Best.Value: 1203.0
+X - 48	Tempo: 54	Best.Value: 1247.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 9.0
+X - 4	Tempo: 9	Best.Value: 13.0
+X - 9	Tempo: 9	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1038.0
+X - 2	Tempo: 19	Best.Value: 1165.0
+X - 7	Tempo: 24	Best.Value: 1217.0
+
+ 
+ 
+
+X - 0	Tempo: 44	Best.Value: 693.0
+X - 1	Tempo: 47	Best.Value: 722.0
+X - 4	Tempo: 54	Best.Value: 763.0
+X - 6	Tempo: 57	Best.Value: 776.0
+X - 20	Tempo: 68	Best.Value: 825.0
+
+ 
+ 
+
+X - 0	Tempo: 29	Best.Value: 800.0
+X - 1	Tempo: 32	Best.Value: 851.0
+X - 101	Tempo: 79	Best.Value: 898.0
+X - 105	Tempo: 81	Best.Value: 947.0
+
+ 
+ 
+
+X - 0	Tempo: 34	Best.Value: 671.0
+X - 1	Tempo: 37	Best.Value: 698.0
+X - 3	Tempo: 40	Best.Value: 793.0
+X - 12	Tempo: 51	Best.Value: 797.0
+X - 22	Tempo: 56	Best.Value: 815.0
+X - 47	Tempo: 67	Best.Value: 848.0
+X - 68	Tempo: 76	Best.Value: 894.0
+X - 119	Tempo: 101	Best.Value: 904.0
+
+ 
+ 
+
+X - 0	Tempo: 25	Best.Value: 659.0
+X - 2	Tempo: 29	Best.Value: 748.0
+X - 3	Tempo: 31	Best.Value: 810.0
+X - 18	Tempo: 43	Best.Value: 813.0
+X - 74	Tempo: 66	Best.Value: 826.0
+X - 144	Tempo: 96	Best.Value: 882.0
+
+ 
+ 
+
+X - 0	Tempo: 26	Best.Value: 584.0
+X - 2	Tempo: 31	Best.Value: 603.0
+X - 3	Tempo: 33	Best.Value: 604.0
+X - 4	Tempo: 35	Best.Value: 706.0
+X - 6	Tempo: 36	Best.Value: 748.0
+X - 35	Tempo: 52	Best.Value: 756.0
+X - 41	Tempo: 54	Best.Value: 762.0
+X - 50	Tempo: 58	Best.Value: 810.0
+
+ 
+ 
+
+X - 0	Tempo: 34	Best.Value: 4831.0
+X - 2	Tempo: 46	Best.Value: 4892.0
+X - 5	Tempo: 55	Best.Value: 4934.0
+X - 8	Tempo: 65	Best.Value: 5054.0
+X - 30	Tempo: 122	Best.Value: 5215.0
+X - 37	Tempo: 137	Best.Value: 5247.0
+X - 103	Tempo: 273	Best.Value: 5424.0
+
+ 
+ 
+
+X - 0	Tempo: 46	Best.Value: 4825.0
+X - 4	Tempo: 61	Best.Value: 4874.0
+X - 22	Tempo: 106	Best.Value: 4901.0
+X - 89	Tempo: 266	Best.Value: 4946.0
+
+ 
+ 
+
+X - 0	Tempo: 50	Best.Value: 4911.0
+X - 2	Tempo: 62	Best.Value: 5116.0
+X - 6	Tempo: 75	Best.Value: 5319.0
+X - 23	Tempo: 127	Best.Value: 5597.0
+
+ 
+ 
+
+X - 0	Tempo: 41	Best.Value: 4583.0
+X - 1	Tempo: 45	Best.Value: 4711.0
+X - 2	Tempo: 48	Best.Value: 4890.0
+X - 4	Tempo: 57	Best.Value: 5032.0
+X - 26	Tempo: 105	Best.Value: 5074.0
+X - 51	Tempo: 155	Best.Value: 5186.0
+X - 58	Tempo: 167	Best.Value: 5210.0
+X - 85	Tempo: 224	Best.Value: 5452.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 4.0
+X - 1	Tempo: 10	Best.Value: 7.0
+X - 2	Tempo: 10	Best.Value: 8.0
+X - 6	Tempo: 10	Best.Value: 11.0
+X - 10	Tempo: 11	Best.Value: 15.0
+X - 12	Tempo: 11	Best.Value: 16.0
+X - 16	Tempo: 11	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 35	Best.Value: 4121.0
+X - 1	Tempo: 40	Best.Value: 5054.0
+X - 133	Tempo: 372	Best.Value: 5055.0
+
+ 
+ 
+
+X - 0	Tempo: 60	Best.Value: 987.0
+X - 1	Tempo: 65	Best.Value: 1223.0
+X - 5	Tempo: 78	Best.Value: 1249.0
+X - 10	Tempo: 92	Best.Value: 1272.0
+X - 53	Tempo: 129	Best.Value: 1288.0
+
+ 
+ 
+
+X - 0	Tempo: 40	Best.Value: 1003.0
+X - 2	Tempo: 46	Best.Value: 1076.0
+X - 8	Tempo: 59	Best.Value: 1093.0
+X - 9	Tempo: 60	Best.Value: 1169.0
+X - 27	Tempo: 76	Best.Value: 1190.0
+X - 40	Tempo: 86	Best.Value: 1192.0
+X - 126	Tempo: 157	Best.Value: 1193.0
+X - 179	Tempo: 208	Best.Value: 1218.0
+
+ 
+ 
+
+X - 0	Tempo: 33	Best.Value: 866.0
+X - 1	Tempo: 39	Best.Value: 940.0
+X - 2	Tempo: 44	Best.Value: 1101.0
+X - 5	Tempo: 47	Best.Value: 1137.0
+X - 6	Tempo: 51	Best.Value: 1170.0
+X - 10	Tempo: 54	Best.Value: 1209.0
+X - 64	Tempo: 95	Best.Value: 1243.0
+X - 118	Tempo: 136	Best.Value: 1270.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 1078.0
+X - 1	Tempo: 39	Best.Value: 1171.0
+X - 60	Tempo: 90	Best.Value: 1211.0
+X - 64	Tempo: 94	Best.Value: 1216.0
+
+ 
+ 
+
+X - 0	Tempo: 30	Best.Value: 1078.0
+X - 4	Tempo: 47	Best.Value: 1287.0
+
+ 
+ 
+
+X - 0	Tempo: 56	Best.Value: 6629.0
+X - 1	Tempo: 63	Best.Value: 7191.0
+
+ 
+ 
+
+X - 0	Tempo: 84	Best.Value: 7109.0
+X - 2	Tempo: 105	Best.Value: 7681.0
+X - 142	Tempo: 1053	Best.Value: 7697.0
+
+ 
+ 
+
+X - 0	Tempo: 46	Best.Value: 6431.0
+X - 1	Tempo: 51	Best.Value: 6667.0
+X - 12	Tempo: 99	Best.Value: 6720.0
+X - 17	Tempo: 120	Best.Value: 7084.0
+
+ 
+ 
+
+X - 0	Tempo: 74	Best.Value: 6938.0
+X - 43	Tempo: 356	Best.Value: 6998.0
+X - 154	Tempo: 1029	Best.Value: 7280.0
+
+ 
+ 
+
+X - 0	Tempo: 7	Best.Value: 17.0
+X - 12	Tempo: 9	Best.Value: 20.0
+
+ 
+ 
+
+X - 0	Tempo: 59	Best.Value: 7204.0
+X - 1	Tempo: 71	Best.Value: 7365.0
+X - 11	Tempo: 151	Best.Value: 7579.0
+X - 255	Tempo: 1798	Best.Value: 7589.0
+
+ 
+ 
+
+X - 0	Tempo: 67	Best.Value: 1552.0
+X - 1	Tempo: 71	Best.Value: 1594.0
+X - 2	Tempo: 73	Best.Value: 1751.0
+X - 43	Tempo: 149	Best.Value: 1946.0
+X - 67	Tempo: 186	Best.Value: 1979.0
+
+ 
+ 
+
+X - 0	Tempo: 101	Best.Value: 1436.0
+X - 1	Tempo: 106	Best.Value: 1459.0
+X - 3	Tempo: 111	Best.Value: 1537.0
+X - 5	Tempo: 118	Best.Value: 1607.0
+X - 7	Tempo: 122	Best.Value: 1738.0
+X - 12	Tempo: 132	Best.Value: 1786.0
+X - 15	Tempo: 137	Best.Value: 1906.0
+
+ 
+ 
+
+X - 0	Tempo: 35	Best.Value: 1348.0
+X - 1	Tempo: 42	Best.Value: 1495.0
+X - 2	Tempo: 46	Best.Value: 1687.0
+X - 11	Tempo: 68	Best.Value: 1737.0
+X - 19	Tempo: 81	Best.Value: 1738.0
+X - 54	Tempo: 139	Best.Value: 1873.0
+
+ 
+ 
+
+X - 0	Tempo: 41	Best.Value: 1593.0
+X - 3	Tempo: 51	Best.Value: 1633.0
+X - 4	Tempo: 52	Best.Value: 2071.0
+
+ 
+ 
+
+X - 0	Tempo: 45	Best.Value: 1354.0
+X - 1	Tempo: 57	Best.Value: 1605.0
+X - 3	Tempo: 61	Best.Value: 1650.0
+X - 5	Tempo: 68	Best.Value: 1754.0
+X - 28	Tempo: 110	Best.Value: 1791.0
+X - 57	Tempo: 158	Best.Value: 1807.0
+X - 92	Tempo: 219	Best.Value: 1880.0
+
+ 
+ 
+
+X - 0	Tempo: 103	Best.Value: 9441.0
+X - 2	Tempo: 136	Best.Value: 9577.0
+X - 3	Tempo: 150	Best.Value: 9699.0
+X - 4	Tempo: 166	Best.Value: 10206.0
+X - 43	Tempo: 707	Best.Value: 10449.0
+
+ 
+ 
+
+X - 0	Tempo: 72	Best.Value: 10227.0
+X - 12	Tempo: 234	Best.Value: 10498.0
+X - 90	Tempo: 1079	Best.Value: 10534.0
+
+ 
+ 
+
+X - 0	Tempo: 60	Best.Value: 10413.0
+X - 1	Tempo: 72	Best.Value: 10416.0
+X - 6	Tempo: 128	Best.Value: 10452.0
+X - 14	Tempo: 233	Best.Value: 10902.0
+X - 23	Tempo: 337	Best.Value: 11034.0
+X - 67	Tempo: 835	Best.Value: 11190.0
+X - 135	Tempo: 1615	Best.Value: 11338.0
+
+ 
+ 
+
+X - 0	Tempo: 83	Best.Value: 10324.0
+X - 1	Tempo: 98	Best.Value: 11395.0
+X - 8	Tempo: 199	Best.Value: 11506.0
+X - 17	Tempo: 324	Best.Value: 11567.0
+X - 33	Tempo: 545	Best.Value: 12050.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 9.0
+X - 1	Tempo: 9	Best.Value: 17.0
+X - 2	Tempo: 9	Best.Value: 18.0
+X - 16	Tempo: 9	Best.Value: 28.0
+
+ 
+ 
+
+X - 0	Tempo: 78	Best.Value: 9703.0
+X - 1	Tempo: 99	Best.Value: 9713.0
+X - 5	Tempo: 176	Best.Value: 9715.0
+X - 6	Tempo: 191	Best.Value: 10095.0
+X - 8	Tempo: 225	Best.Value: 10593.0
+X - 276	Tempo: 4519	Best.Value: 10720.0
+
+ 
+ 
+
+X - 0	Tempo: 11	Best.Value: 12.0
+X - 2	Tempo: 12	Best.Value: 16.0
+X - 16	Tempo: 13	Best.Value: 21.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 272.0
+X - 16	Tempo: 15	Best.Value: 283.0
+X - 23	Tempo: 16	Best.Value: 312.0
+X - 24	Tempo: 17	Best.Value: 323.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 258.0
+X - 13	Tempo: 11	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 7	Best.Value: 212.0
+X - 1	Tempo: 8	Best.Value: 299.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 251.0
+X - 1	Tempo: 10	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 208.0
+X - 1	Tempo: 9	Best.Value: 255.0
+X - 2	Tempo: 9	Best.Value: 277.0
+X - 6	Tempo: 10	Best.Value: 280.0
+X - 15	Tempo: 12	Best.Value: 318.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 147.0
+X - 9	Tempo: 22	Best.Value: 206.0
+X - 71	Tempo: 38	Best.Value: 212.0
+X - 109	Tempo: 44	Best.Value: 217.0
+X - 123	Tempo: 45	Best.Value: 254.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 108.0
+X - 1	Tempo: 16	Best.Value: 169.0
+X - 3	Tempo: 17	Best.Value: 180.0
+X - 34	Tempo: 27	Best.Value: 207.0
+X - 74	Tempo: 30	Best.Value: 225.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 163.0
+X - 4	Tempo: 16	Best.Value: 188.0
+X - 5	Tempo: 17	Best.Value: 231.0
+X - 30	Tempo: 26	Best.Value: 239.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 181.0
+X - 5	Tempo: 18	Best.Value: 243.0
+
+ 
+ 
+
+X - 0	Tempo: 25	Best.Value: 128.0
+X - 1	Tempo: 27	Best.Value: 166.0
+X - 3	Tempo: 29	Best.Value: 185.0
+X - 4	Tempo: 29	Best.Value: 211.0
+X - 73	Tempo: 50	Best.Value: 231.0
+
+ 
+ 
+
+X - 0	Tempo: 17	Best.Value: 1389.0
+X - 34	Tempo: 35	Best.Value: 1391.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1351.0
+X - 1	Tempo: 18	Best.Value: 1366.0
+X - 2	Tempo: 19	Best.Value: 1393.0
+X - 37	Tempo: 32	Best.Value: 1400.0
+X - 65	Tempo: 39	Best.Value: 1471.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1174.0
+X - 3	Tempo: 21	Best.Value: 1197.0
+X - 9	Tempo: 27	Best.Value: 1213.0
+X - 16	Tempo: 29	Best.Value: 1286.0
+X - 20	Tempo: 31	Best.Value: 1321.0
+X - 31	Tempo: 33	Best.Value: 1327.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 1002.0
+X - 1	Tempo: 17	Best.Value: 1099.0
+X - 3	Tempo: 20	Best.Value: 1128.0
+X - 5	Tempo: 20	Best.Value: 1247.0
+
+ 
+ 
+
+X - 0	Tempo: 7	Best.Value: 9.0
+X - 4	Tempo: 8	Best.Value: 10.0
+X - 9	Tempo: 8	Best.Value: 13.0
+X - 16	Tempo: 9	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 1165.0
+X - 10	Tempo: 24	Best.Value: 1175.0
+X - 108	Tempo: 47	Best.Value: 1217.0
+
+ 
+ 
+
+X - 0	Tempo: 48	Best.Value: 758.0
+X - 1	Tempo: 52	Best.Value: 807.0
+X - 22	Tempo: 73	Best.Value: 825.0
+
+ 
+ 
+
+X - 0	Tempo: 28	Best.Value: 580.0
+X - 1	Tempo: 32	Best.Value: 697.0
+X - 2	Tempo: 34	Best.Value: 742.0
+X - 8	Tempo: 43	Best.Value: 749.0
+X - 11	Tempo: 45	Best.Value: 772.0
+X - 14	Tempo: 49	Best.Value: 816.0
+X - 17	Tempo: 50	Best.Value: 855.0
+X - 52	Tempo: 65	Best.Value: 947.0
+
+ 
+ 
+
+X - 0	Tempo: 44	Best.Value: 509.0
+X - 1	Tempo: 51	Best.Value: 656.0
+X - 4	Tempo: 65	Best.Value: 686.0
+X - 5	Tempo: 66	Best.Value: 698.0
+X - 9	Tempo: 72	Best.Value: 705.0
+X - 13	Tempo: 74	Best.Value: 894.0
+X - 281	Tempo: 205	Best.Value: 904.0
+
+ 
+ 
+
+X - 0	Tempo: 26	Best.Value: 600.0
+X - 1	Tempo: 29	Best.Value: 685.0
+X - 7	Tempo: 37	Best.Value: 699.0
+X - 9	Tempo: 41	Best.Value: 732.0
+X - 11	Tempo: 42	Best.Value: 882.0
+
+ 
+ 
+
+X - 0	Tempo: 24	Best.Value: 505.0
+X - 1	Tempo: 28	Best.Value: 762.0
+X - 64	Tempo: 64	Best.Value: 810.0
+
+ 
+ 
+
+X - 0	Tempo: 33	Best.Value: 4706.0
+X - 3	Tempo: 47	Best.Value: 4722.0
+X - 4	Tempo: 50	Best.Value: 5055.0
+X - 19	Tempo: 82	Best.Value: 5357.0
+X - 45	Tempo: 138	Best.Value: 5424.0
+
+ 
+ 
+
+X - 0	Tempo: 35	Best.Value: 4494.0
+X - 1	Tempo: 40	Best.Value: 4605.0
+X - 2	Tempo: 46	Best.Value: 4814.0
+X - 4	Tempo: 50	Best.Value: 4901.0
+X - 36	Tempo: 124	Best.Value: 4946.0
+
+ 
+ 
+
+X - 0	Tempo: 38	Best.Value: 4942.0
+X - 1	Tempo: 42	Best.Value: 5309.0
+X - 23	Tempo: 118	Best.Value: 5589.0
+X - 52	Tempo: 206	Best.Value: 5597.0
+
+ 
+ 
+
+X - 0	Tempo: 37	Best.Value: 4711.0
+X - 1	Tempo: 42	Best.Value: 4768.0
+X - 2	Tempo: 44	Best.Value: 5033.0
+X - 17	Tempo: 80	Best.Value: 5210.0
+X - 75	Tempo: 201	Best.Value: 5452.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 4.0
+X - 1	Tempo: 10	Best.Value: 9.0
+X - 3	Tempo: 10	Best.Value: 12.0
+X - 6	Tempo: 10	Best.Value: 15.0
+X - 16	Tempo: 14	Best.Value: 16.0
+X - 29	Tempo: 15	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 35	Best.Value: 4541.0
+X - 3	Tempo: 47	Best.Value: 4847.0
+X - 4	Tempo: 49	Best.Value: 5029.0
+X - 13	Tempo: 70	Best.Value: 5051.0
+X - 38	Tempo: 130	Best.Value: 5055.0
+
+ 
+ 
+
+X - 0	Tempo: 73	Best.Value: 987.0
+X - 1	Tempo: 79	Best.Value: 1288.0
+
+ 
+ 
+
+X - 0	Tempo: 33	Best.Value: 952.0
+X - 2	Tempo: 43	Best.Value: 1050.0
+X - 3	Tempo: 45	Best.Value: 1170.0
+X - 4	Tempo: 46	Best.Value: 1176.0
+X - 9	Tempo: 53	Best.Value: 1193.0
+X - 200	Tempo: 208	Best.Value: 1218.0
+
+ 
+ 
+
+X - 0	Tempo: 35	Best.Value: 1015.0
+X - 3	Tempo: 47	Best.Value: 1243.0
+X - 10	Tempo: 61	Best.Value: 1270.0
+
+ 
+ 
+
+X - 0	Tempo: 34	Best.Value: 970.0
+X - 2	Tempo: 48	Best.Value: 1004.0
+X - 4	Tempo: 56	Best.Value: 1036.0
+X - 6	Tempo: 60	Best.Value: 1078.0
+X - 16	Tempo: 69	Best.Value: 1085.0
+X - 18	Tempo: 70	Best.Value: 1164.0
+X - 47	Tempo: 91	Best.Value: 1216.0
+
+ 
+ 
+
+X - 0	Tempo: 30	Best.Value: 854.0
+X - 3	Tempo: 45	Best.Value: 1032.0
+X - 6	Tempo: 61	Best.Value: 1034.0
+X - 7	Tempo: 66	Best.Value: 1047.0
+X - 8	Tempo: 67	Best.Value: 1096.0
+X - 10	Tempo: 69	Best.Value: 1161.0
+X - 54	Tempo: 111	Best.Value: 1253.0
+X - 66	Tempo: 121	Best.Value: 1287.0
+X - 67	Tempo: 122	Best.Value: 1300.0
+
+ 
+ 
+
+X - 0	Tempo: 56	Best.Value: 6665.0
+X - 1	Tempo: 68	Best.Value: 6906.0
+X - 2	Tempo: 79	Best.Value: 7107.0
+X - 26	Tempo: 210	Best.Value: 7115.0
+X - 30	Tempo: 233	Best.Value: 7175.0
+X - 52	Tempo: 335	Best.Value: 7191.0
+
+ 
+ 
+
+X - 0	Tempo: 91	Best.Value: 7426.0
+X - 1	Tempo: 103	Best.Value: 7681.0
+X - 19	Tempo: 236	Best.Value: 7697.0
+
+ 
+ 
+
+X - 0	Tempo: 49	Best.Value: 6570.0
+X - 7	Tempo: 90	Best.Value: 6580.0
+X - 9	Tempo: 100	Best.Value: 6939.0
+X - 14	Tempo: 120	Best.Value: 7045.0
+X - 204	Tempo: 831	Best.Value: 7084.0
+
+ 
+ 
+
+X - 0	Tempo: 45	Best.Value: 6938.0
+X - 67	Tempo: 475	Best.Value: 6998.0
+X - 71	Tempo: 498	Best.Value: 7280.0
+
+ 
+ 
+
+X - 0	Tempo: 11	Best.Value: 9.0
+X - 1	Tempo: 22	Best.Value: 17.0
+X - 35	Tempo: 25	Best.Value: 20.0
+
+ 
+ 
+
+X - 0	Tempo: 57	Best.Value: 7126.0
+X - 1	Tempo: 75	Best.Value: 7204.0
+X - 2	Tempo: 85	Best.Value: 7356.0
+X - 6	Tempo: 116	Best.Value: 7579.0
+X - 70	Tempo: 554	Best.Value: 7601.0
+
+ 
+ 
+
+X - 0	Tempo: 58	Best.Value: 1736.0
+X - 4	Tempo: 83	Best.Value: 1744.0
+X - 19	Tempo: 110	Best.Value: 1807.0
+X - 23	Tempo: 115	Best.Value: 1979.0
+X - 274	Tempo: 505	Best.Value: 2087.0
+
+ 
+ 
+
+X - 0	Tempo: 41	Best.Value: 1675.0
+X - 10	Tempo: 66	Best.Value: 1793.0
+X - 74	Tempo: 187	Best.Value: 1836.0
+X - 120	Tempo: 262	Best.Value: 1899.0
+X - 184	Tempo: 359	Best.Value: 1906.0
+
+ 
+ 
+
+X - 0	Tempo: 87	Best.Value: 1367.0
+X - 1	Tempo: 99	Best.Value: 1590.0
+X - 2	Tempo: 105	Best.Value: 1686.0
+X - 15	Tempo: 139	Best.Value: 1737.0
+X - 57	Tempo: 204	Best.Value: 1850.0
+X - 88	Tempo: 251	Best.Value: 1873.0
+
+ 
+ 
+
+X - 0	Tempo: 73	Best.Value: 1674.0
+X - 4	Tempo: 89	Best.Value: 1802.0
+X - 46	Tempo: 157	Best.Value: 2071.0
+
+ 
+ 
+
+X - 0	Tempo: 56	Best.Value: 1669.0
+X - 13	Tempo: 96	Best.Value: 1754.0
+X - 111	Tempo: 267	Best.Value: 1791.0
+X - 120	Tempo: 282	Best.Value: 1807.0
+X - 126	Tempo: 295	Best.Value: 1827.0
+X - 155	Tempo: 349	Best.Value: 1880.0
+
+ 
+ 
+
+X - 0	Tempo: 90	Best.Value: 9984.0
+X - 7	Tempo: 200	Best.Value: 10206.0
+X - 31	Tempo: 516	Best.Value: 10659.0
+
+ 
+ 
+
+X - 0	Tempo: 59	Best.Value: 10227.0
+X - 10	Tempo: 190	Best.Value: 10360.0
+X - 14	Tempo: 241	Best.Value: 10362.0
+X - 16	Tempo: 259	Best.Value: 10377.0
+X - 55	Tempo: 684	Best.Value: 10518.0
+X - 123	Tempo: 1432	Best.Value: 10534.0
+
+ 
+ 
+
+X - 0	Tempo: 51	Best.Value: 10001.0
+X - 1	Tempo: 69	Best.Value: 10341.0
+X - 9	Tempo: 154	Best.Value: 11034.0
+X - 116	Tempo: 1390	Best.Value: 11338.0
+
+ 
+ 
+
+X - 0	Tempo: 56	Best.Value: 11094.0
+X - 4	Tempo: 109	Best.Value: 11265.0
+X - 12	Tempo: 245	Best.Value: 11344.0
+X - 18	Tempo: 318	Best.Value: 11500.0
+X - 64	Tempo: 954	Best.Value: 11505.0
+X - 95	Tempo: 1385	Best.Value: 12050.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 17.0
+X - 21	Tempo: 10	Best.Value: 28.0
+
+ 
+ 
+
+X - 0	Tempo: 67	Best.Value: 10095.0
+X - 8	Tempo: 202	Best.Value: 10260.0
+X - 17	Tempo: 335	Best.Value: 10565.0
+X - 79	Tempo: 1334	Best.Value: 10720.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 7.0
+X - 2	Tempo: 9	Best.Value: 12.0
+X - 3	Tempo: 9	Best.Value: 16.0
+X - 18	Tempo: 10	Best.Value: 17.0
+X - 20	Tempo: 10	Best.Value: 21.0
+
+ 
+ 
+
+X - 0	Tempo: 11	Best.Value: 271.0
+X - 14	Tempo: 14	Best.Value: 312.0
+X - 24	Tempo: 18	Best.Value: 323.0
+
+ 
+ 
+
+X - 0	Tempo: 13	Best.Value: 232.0
+X - 3	Tempo: 17	Best.Value: 237.0
+X - 4	Tempo: 17	Best.Value: 242.0
+X - 8	Tempo: 18	Best.Value: 258.0
+X - 48	Tempo: 28	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 230.0
+X - 2	Tempo: 9	Best.Value: 243.0
+X - 4	Tempo: 10	Best.Value: 256.0
+X - 5	Tempo: 10	Best.Value: 299.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 221.0
+X - 2	Tempo: 10	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 11	Best.Value: 277.0
+X - 1	Tempo: 12	Best.Value: 281.0
+X - 2	Tempo: 12	Best.Value: 318.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 170.0
+X - 3	Tempo: 16	Best.Value: 254.0
+
+ 
+ 
+
+X - 0	Tempo: 32	Best.Value: 166.0
+X - 6	Tempo: 38	Best.Value: 180.0
+X - 16	Tempo: 41	Best.Value: 198.0
+X - 27	Tempo: 45	Best.Value: 206.0
+X - 57	Tempo: 49	Best.Value: 207.0
+X - 70	Tempo: 50	Best.Value: 225.0
+
+ 
+ 
+
+X - 0	Tempo: 13	Best.Value: 177.0
+X - 2	Tempo: 15	Best.Value: 178.0
+X - 6	Tempo: 16	Best.Value: 219.0
+X - 22	Tempo: 23	Best.Value: 231.0
+X - 27	Tempo: 23	Best.Value: 239.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 203.0
+X - 7	Tempo: 18	Best.Value: 224.0
+X - 18	Tempo: 21	Best.Value: 228.0
+X - 30	Tempo: 25	Best.Value: 232.0
+X - 31	Tempo: 26	Best.Value: 243.0
+
+ 
+ 
+
+X - 0	Tempo: 13	Best.Value: 211.0
+X - 15	Tempo: 20	Best.Value: 231.0
+
+ 
+ 
+
+X - 0	Tempo: 35	Best.Value: 1325.0
+X - 5	Tempo: 45	Best.Value: 1336.0
+X - 22	Tempo: 83	Best.Value: 1389.0
+X - 30	Tempo: 85	Best.Value: 1391.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 1326.0
+X - 2	Tempo: 19	Best.Value: 1366.0
+X - 26	Tempo: 32	Best.Value: 1374.0
+X - 33	Tempo: 34	Best.Value: 1380.0
+X - 50	Tempo: 38	Best.Value: 1386.0
+X - 51	Tempo: 39	Best.Value: 1471.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 1174.0
+X - 1	Tempo: 17	Best.Value: 1198.0
+X - 5	Tempo: 21	Best.Value: 1213.0
+X - 8	Tempo: 25	Best.Value: 1267.0
+X - 24	Tempo: 30	Best.Value: 1286.0
+X - 47	Tempo: 36	Best.Value: 1321.0
+X - 52	Tempo: 37	Best.Value: 1323.0
+X - 92	Tempo: 45	Best.Value: 1327.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1193.0
+X - 5	Tempo: 23	Best.Value: 1199.0
+X - 6	Tempo: 24	Best.Value: 1203.0
+X - 18	Tempo: 33	Best.Value: 1247.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 9.0
+X - 5	Tempo: 9	Best.Value: 10.0
+X - 13	Tempo: 9	Best.Value: 13.0
+X - 21	Tempo: 10	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1038.0
+X - 2	Tempo: 19	Best.Value: 1048.0
+X - 4	Tempo: 21	Best.Value: 1217.0
+
+ 
+ 
+
+X - 0	Tempo: 26	Best.Value: 655.0
+X - 1	Tempo: 30	Best.Value: 687.0
+X - 3	Tempo: 35	Best.Value: 712.0
+X - 4	Tempo: 36	Best.Value: 825.0
+
+ 
+ 
+
+X - 0	Tempo: 29	Best.Value: 557.0
+X - 1	Tempo: 33	Best.Value: 771.0
+X - 2	Tempo: 36	Best.Value: 776.0
+X - 8	Tempo: 44	Best.Value: 800.0
+X - 12	Tempo: 46	Best.Value: 851.0
+X - 107	Tempo: 83	Best.Value: 898.0
+X - 222	Tempo: 126	Best.Value: 947.0
+
+ 
+ 
+
+X - 0	Tempo: 26	Best.Value: 575.0
+X - 2	Tempo: 31	Best.Value: 639.0
+X - 4	Tempo: 34	Best.Value: 644.0
+X - 5	Tempo: 35	Best.Value: 648.0
+X - 10	Tempo: 41	Best.Value: 810.0
+X - 38	Tempo: 55	Best.Value: 815.0
+X - 52	Tempo: 62	Best.Value: 848.0
+X - 61	Tempo: 66	Best.Value: 894.0
+X - 71	Tempo: 71	Best.Value: 904.0
+
+ 
+ 
+
+X - 0	Tempo: 25	Best.Value: 769.0
+X - 5	Tempo: 34	Best.Value: 789.0
+X - 18	Tempo: 44	Best.Value: 822.0
+X - 39	Tempo: 54	Best.Value: 826.0
+X - 49	Tempo: 58	Best.Value: 882.0
+
+ 
+ 
+
+X - 0	Tempo: 33	Best.Value: 762.0
+X - 4	Tempo: 42	Best.Value: 810.0
+
+ 
+ 
+
+X - 0	Tempo: 60	Best.Value: 4800.0
+X - 1	Tempo: 64	Best.Value: 4919.0
+X - 10	Tempo: 90	Best.Value: 5215.0
+X - 20	Tempo: 111	Best.Value: 5247.0
+X - 51	Tempo: 178	Best.Value: 5357.0
+X - 191	Tempo: 483	Best.Value: 5412.0
+X - 227	Tempo: 562	Best.Value: 5424.0
+
+ 
+ 
+
+X - 0	Tempo: 34	Best.Value: 4595.0
+X - 1	Tempo: 40	Best.Value: 4605.0
+X - 2	Tempo: 43	Best.Value: 4789.0
+X - 23	Tempo: 93	Best.Value: 4946.0
+
+ 
+ 
+
+X - 0	Tempo: 44	Best.Value: 4927.0
+X - 1	Tempo: 50	Best.Value: 4955.0
+X - 4	Tempo: 65	Best.Value: 5072.0
+X - 11	Tempo: 89	Best.Value: 5088.0
+X - 17	Tempo: 106	Best.Value: 5589.0
+X - 79	Tempo: 324	Best.Value: 5597.0
+
+ 
+ 
+
+X - 0	Tempo: 36	Best.Value: 4736.0
+X - 2	Tempo: 43	Best.Value: 5329.0
+X - 10	Tempo: 64	Best.Value: 5452.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 8.0
+X - 1	Tempo: 16	Best.Value: 9.0
+X - 4	Tempo: 17	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 34	Best.Value: 5029.0
+X - 13	Tempo: 73	Best.Value: 5054.0
+X - 21	Tempo: 93	Best.Value: 5055.0
+
+ 
+ 
+
+X - 0	Tempo: 86	Best.Value: 1115.0
+X - 4	Tempo: 101	Best.Value: 1249.0
+X - 8	Tempo: 107	Best.Value: 1272.0
+X - 252	Tempo: 287	Best.Value: 1288.0
+
+ 
+ 
+
+X - 0	Tempo: 32	Best.Value: 1098.0
+X - 4	Tempo: 49	Best.Value: 1135.0
+X - 15	Tempo: 63	Best.Value: 1193.0
+X - 59	Tempo: 97	Best.Value: 1218.0
+
+ 
+ 
+
+X - 0	Tempo: 33	Best.Value: 1156.0
+X - 1	Tempo: 40	Best.Value: 1168.0
+X - 5	Tempo: 59	Best.Value: 1182.0
+X - 44	Tempo: 91	Best.Value: 1213.0
+X - 46	Tempo: 92	Best.Value: 1237.0
+X - 125	Tempo: 160	Best.Value: 1243.0
+X - 137	Tempo: 169	Best.Value: 1270.0
+
+ 
+ 
+
+X - 0	Tempo: 28	Best.Value: 1078.0
+X - 48	Tempo: 81	Best.Value: 1216.0
+
+ 
+ 
+
+X - 0	Tempo: 33	Best.Value: 1216.0
+X - 32	Tempo: 68	Best.Value: 1285.0
+X - 84	Tempo: 106	Best.Value: 1300.0
+
+ 
+ 
+
+X - 0	Tempo: 52	Best.Value: 6878.0
+X - 1	Tempo: 58	Best.Value: 7148.0
+X - 84	Tempo: 493	Best.Value: 7162.0
+X - 158	Tempo: 876	Best.Value: 7191.0
+
+ 
+ 
+
+X - 0	Tempo: 83	Best.Value: 7681.0
+X - 6	Tempo: 126	Best.Value: 7697.0
+
+ 
+ 
+
+X - 0	Tempo: 79	Best.Value: 6504.0
+X - 2	Tempo: 92	Best.Value: 6550.0
+X - 3	Tempo: 98	Best.Value: 6595.0
+X - 11	Tempo: 130	Best.Value: 6688.0
+X - 13	Tempo: 138	Best.Value: 6726.0
+X - 21	Tempo: 173	Best.Value: 7082.0
+X - 215	Tempo: 954	Best.Value: 7084.0
+
+ 
+ 
+
+X - 0	Tempo: 70	Best.Value: 6771.0
+X - 1	Tempo: 77	Best.Value: 6938.0
+X - 14	Tempo: 159	Best.Value: 6998.0
+X - 22	Tempo: 204	Best.Value: 7050.0
+X - 222	Tempo: 1539	Best.Value: 7280.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 6.0
+X - 1	Tempo: 9	Best.Value: 9.0
+X - 3	Tempo: 9	Best.Value: 20.0
+
+ 
+ 
+
+X - 0	Tempo: 80	Best.Value: 7177.0
+X - 3	Tempo: 106	Best.Value: 7356.0
+X - 8	Tempo: 145	Best.Value: 7579.0
+X - 30	Tempo: 308	Best.Value: 7601.0
+
+ 
+ 
+
+X - 0	Tempo: 83	Best.Value: 1341.0
+X - 1	Tempo: 88	Best.Value: 1979.0
+
+ 
+ 
+
+X - 0	Tempo: 48	Best.Value: 1330.0
+X - 1	Tempo: 61	Best.Value: 1670.0
+X - 6	Tempo: 72	Best.Value: 1724.0
+X - 48	Tempo: 136	Best.Value: 1789.0
+X - 125	Tempo: 249	Best.Value: 1813.0
+X - 144	Tempo: 278	Best.Value: 1899.0
+
+ 
+ 
+
+X - 0	Tempo: 40	Best.Value: 1399.0
+X - 2	Tempo: 48	Best.Value: 1541.0
+X - 3	Tempo: 50	Best.Value: 1618.0
+X - 6	Tempo: 59	Best.Value: 1753.0
+X - 39	Tempo: 118	Best.Value: 1850.0
+X - 145	Tempo: 310	Best.Value: 1873.0
+
+ 
+ 
+
+X - 0	Tempo: 38	Best.Value: 1670.0
+X - 17	Tempo: 90	Best.Value: 1713.0
+X - 18	Tempo: 91	Best.Value: 2017.0
+X - 47	Tempo: 138	Best.Value: 2058.0
+X - 54	Tempo: 147	Best.Value: 2071.0
+
+ 
+ 
+
+X - 0	Tempo: 41	Best.Value: 1504.0
+X - 1	Tempo: 45	Best.Value: 1563.0
+X - 6	Tempo: 58	Best.Value: 1880.0
+
+ 
+ 
+
+X - 0	Tempo: 53	Best.Value: 9880.0
+X - 1	Tempo: 69	Best.Value: 10329.0
+X - 33	Tempo: 491	Best.Value: 10659.0
+
+ 
+ 
+
+X - 0	Tempo: 51	Best.Value: 10227.0
+X - 7	Tempo: 146	Best.Value: 10360.0
+X - 38	Tempo: 498	Best.Value: 10498.0
+X - 44	Tempo: 559	Best.Value: 10534.0
+
+ 
+ 
+
+X - 0	Tempo: 78	Best.Value: 10319.0
+X - 5	Tempo: 143	Best.Value: 10396.0
+X - 6	Tempo: 156	Best.Value: 10687.0
+X - 12	Tempo: 242	Best.Value: 10902.0
+X - 25	Tempo: 397	Best.Value: 11338.0
+
+ 
+ 
+
+X - 0	Tempo: 113	Best.Value: 10600.0
+X - 2	Tempo: 146	Best.Value: 10803.0
+X - 7	Tempo: 213	Best.Value: 11300.0
+X - 25	Tempo: 456	Best.Value: 11464.0
+X - 46	Tempo: 748	Best.Value: 11500.0
+X - 100	Tempo: 1540	Best.Value: 11506.0
+X - 101	Tempo: 1553	Best.Value: 12050.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 28.0
+
+ 
+ 
+
+X - 0	Tempo: 81	Best.Value: 9713.0
+X - 5	Tempo: 168	Best.Value: 10153.0
+X - 8	Tempo: 213	Best.Value: 10436.0
+X - 15	Tempo: 313	Best.Value: 10565.0
+X - 23	Tempo: 449	Best.Value: 10720.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 9.0
+X - 5	Tempo: 9	Best.Value: 16.0
+X - 8	Tempo: 9	Best.Value: 17.0
+X - 11	Tempo: 10	Best.Value: 21.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 312.0
+X - 14	Tempo: 11	Best.Value: 323.0
+
+ 
+ 
+
+X - 0	Tempo: 24	Best.Value: 242.0
+X - 1	Tempo: 25	Best.Value: 249.0
+X - 8	Tempo: 28	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 299.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 235.0
+X - 2	Tempo: 9	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 189.0
+X - 1	Tempo: 9	Best.Value: 262.0
+X - 2	Tempo: 10	Best.Value: 307.0
+X - 30	Tempo: 15	Best.Value: 318.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 212.0
+X - 5	Tempo: 19	Best.Value: 254.0
+
+ 
+ 
+
+X - 0	Tempo: 13	Best.Value: 152.0
+X - 1	Tempo: 14	Best.Value: 155.0
+X - 5	Tempo: 16	Best.Value: 168.0
+X - 6	Tempo: 16	Best.Value: 198.0
+X - 20	Tempo: 21	Best.Value: 206.0
+X - 40	Tempo: 26	Best.Value: 207.0
+X - 100	Tempo: 30	Best.Value: 225.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 120.0
+X - 1	Tempo: 17	Best.Value: 176.0
+X - 4	Tempo: 18	Best.Value: 177.0
+X - 13	Tempo: 24	Best.Value: 178.0
+X - 16	Tempo: 25	Best.Value: 184.0
+X - 17	Tempo: 26	Best.Value: 200.0
+X - 21	Tempo: 26	Best.Value: 231.0
+X - 173	Tempo: 47	Best.Value: 239.0
+
+ 
+ 
+
+X - 0	Tempo: 28	Best.Value: 119.0
+X - 1	Tempo: 29	Best.Value: 146.0
+X - 4	Tempo: 31	Best.Value: 162.0
+X - 6	Tempo: 32	Best.Value: 189.0
+X - 12	Tempo: 35	Best.Value: 233.0
+X - 102	Tempo: 53	Best.Value: 243.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 152.0
+X - 1	Tempo: 15	Best.Value: 189.0
+X - 4	Tempo: 17	Best.Value: 211.0
+X - 59	Tempo: 28	Best.Value: 231.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1199.0
+X - 2	Tempo: 19	Best.Value: 1287.0
+X - 3	Tempo: 20	Best.Value: 1336.0
+X - 11	Tempo: 26	Best.Value: 1391.0
+
+ 
+ 
+
+X - 0	Tempo: 19	Best.Value: 1366.0
+X - 10	Tempo: 40	Best.Value: 1369.0
+X - 11	Tempo: 45	Best.Value: 1374.0
+X - 24	Tempo: 71	Best.Value: 1400.0
+X - 97	Tempo: 102	Best.Value: 1471.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 1174.0
+X - 3	Tempo: 19	Best.Value: 1205.0
+X - 6	Tempo: 23	Best.Value: 1246.0
+X - 9	Tempo: 25	Best.Value: 1267.0
+X - 12	Tempo: 26	Best.Value: 1327.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1099.0
+X - 1	Tempo: 18	Best.Value: 1247.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 9.0
+X - 9	Tempo: 10	Best.Value: 10.0
+X - 18	Tempo: 10	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1038.0
+X - 1	Tempo: 18	Best.Value: 1048.0
+X - 2	Tempo: 19	Best.Value: 1124.0
+X - 3	Tempo: 20	Best.Value: 1133.0
+X - 8	Tempo: 23	Best.Value: 1175.0
+X - 91	Tempo: 44	Best.Value: 1217.0
+
+ 
+ 
+
+X - 0	Tempo: 28	Best.Value: 573.0
+X - 1	Tempo: 30	Best.Value: 673.0
+X - 2	Tempo: 34	Best.Value: 752.0
+X - 13	Tempo: 43	Best.Value: 799.0
+X - 22	Tempo: 47	Best.Value: 807.0
+X - 91	Tempo: 78	Best.Value: 824.0
+X - 96	Tempo: 81	Best.Value: 825.0
+
+ 
+ 
+
+X - 0	Tempo: 32	Best.Value: 733.0
+X - 1	Tempo: 36	Best.Value: 772.0
+X - 6	Tempo: 46	Best.Value: 800.0
+X - 8	Tempo: 50	Best.Value: 816.0
+X - 9	Tempo: 51	Best.Value: 947.0
+
+ 
+ 
+
+X - 0	Tempo: 33	Best.Value: 784.0
+X - 6	Tempo: 44	Best.Value: 810.0
+X - 19	Tempo: 55	Best.Value: 815.0
+X - 158	Tempo: 117	Best.Value: 894.0
+X - 278	Tempo: 170	Best.Value: 904.0
+
+ 
+ 
+
+X - 0	Tempo: 36	Best.Value: 591.0
+X - 1	Tempo: 40	Best.Value: 727.0
+X - 3	Tempo: 44	Best.Value: 748.0
+X - 9	Tempo: 53	Best.Value: 822.0
+X - 18	Tempo: 59	Best.Value: 882.0
+
+ 
+ 
+
+X - 0	Tempo: 24	Best.Value: 581.0
+X - 1	Tempo: 26	Best.Value: 584.0
+X - 4	Tempo: 32	Best.Value: 703.0
+X - 7	Tempo: 34	Best.Value: 732.0
+X - 21	Tempo: 44	Best.Value: 756.0
+X - 22	Tempo: 45	Best.Value: 762.0
+X - 77	Tempo: 66	Best.Value: 810.0
+
+ 
+ 
+
+X - 0	Tempo: 37	Best.Value: 5183.0
+X - 6	Tempo: 55	Best.Value: 5247.0
+X - 35	Tempo: 120	Best.Value: 5412.0
+X - 74	Tempo: 208	Best.Value: 5424.0
+
+ 
+ 
+
+X - 0	Tempo: 32	Best.Value: 4605.0
+X - 1	Tempo: 36	Best.Value: 4689.0
+X - 3	Tempo: 44	Best.Value: 4699.0
+X - 6	Tempo: 51	Best.Value: 4749.0
+X - 7	Tempo: 53	Best.Value: 4832.0
+X - 18	Tempo: 77	Best.Value: 4860.0
+X - 21	Tempo: 82	Best.Value: 4946.0
+
+ 
+ 
+
+X - 0	Tempo: 37	Best.Value: 4488.0
+X - 5	Tempo: 60	Best.Value: 4896.0
+X - 9	Tempo: 74	Best.Value: 4961.0
+X - 11	Tempo: 87	Best.Value: 4969.0
+X - 12	Tempo: 91	Best.Value: 5072.0
+X - 13	Tempo: 95	Best.Value: 5380.0
+X - 19	Tempo: 117	Best.Value: 5589.0
+X - 113	Tempo: 427	Best.Value: 5597.0
+
+ 
+ 
+
+X - 0	Tempo: 89	Best.Value: 4911.0
+X - 3	Tempo: 102	Best.Value: 5054.0
+X - 39	Tempo: 181	Best.Value: 5183.0
+X - 57	Tempo: 218	Best.Value: 5452.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 8.0
+X - 3	Tempo: 9	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 36	Best.Value: 4930.0
+X - 4	Tempo: 51	Best.Value: 5055.0
+
+ 
+ 
+
+X - 0	Tempo: 30	Best.Value: 1019.0
+X - 1	Tempo: 34	Best.Value: 1117.0
+X - 2	Tempo: 37	Best.Value: 1125.0
+X - 5	Tempo: 45	Best.Value: 1209.0
+X - 7	Tempo: 50	Best.Value: 1223.0
+X - 30	Tempo: 68	Best.Value: 1249.0
+X - 208	Tempo: 195	Best.Value: 1266.0
+X - 224	Tempo: 205	Best.Value: 1272.0
+X - 248	Tempo: 225	Best.Value: 1288.0
+
+ 
+ 
+
+X - 0	Tempo: 30	Best.Value: 1131.0
+X - 15	Tempo: 58	Best.Value: 1169.0
+X - 44	Tempo: 80	Best.Value: 1170.0
+X - 45	Tempo: 81	Best.Value: 1193.0
+X - 197	Tempo: 198	Best.Value: 1218.0
+
+ 
+ 
+
+X - 0	Tempo: 33	Best.Value: 854.0
+X - 2	Tempo: 40	Best.Value: 1051.0
+X - 4	Tempo: 50	Best.Value: 1117.0
+X - 5	Tempo: 53	Best.Value: 1141.0
+X - 7	Tempo: 66	Best.Value: 1144.0
+X - 13	Tempo: 74	Best.Value: 1146.0
+X - 22	Tempo: 82	Best.Value: 1168.0
+X - 36	Tempo: 97	Best.Value: 1182.0
+X - 60	Tempo: 118	Best.Value: 1213.0
+X - 96	Tempo: 149	Best.Value: 1243.0
+X - 194	Tempo: 226	Best.Value: 1270.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 969.0
+X - 6	Tempo: 46	Best.Value: 1018.0
+X - 7	Tempo: 50	Best.Value: 1034.0
+X - 10	Tempo: 53	Best.Value: 1036.0
+X - 19	Tempo: 61	Best.Value: 1078.0
+X - 29	Tempo: 69	Best.Value: 1211.0
+X - 91	Tempo: 115	Best.Value: 1216.0
+
+ 
+ 
+
+X - 0	Tempo: 68	Best.Value: 1136.0
+X - 6	Tempo: 84	Best.Value: 1161.0
+X - 30	Tempo: 102	Best.Value: 1287.0
+X - 215	Tempo: 228	Best.Value: 1300.0
+
+ 
+ 
+
+X - 0	Tempo: 83	Best.Value: 6665.0
+X - 1	Tempo: 92	Best.Value: 7027.0
+X - 4	Tempo: 115	Best.Value: 7107.0
+X - 5	Tempo: 120	Best.Value: 7191.0
+
+ 
+ 
+
+X - 0	Tempo: 48	Best.Value: 7194.0
+X - 1	Tempo: 57	Best.Value: 7426.0
+X - 4	Tempo: 79	Best.Value: 7681.0
+
+ 
+ 
+
+X - 0	Tempo: 41	Best.Value: 6353.0
+X - 1	Tempo: 48	Best.Value: 6431.0
+X - 4	Tempo: 69	Best.Value: 6482.0
+X - 5	Tempo: 75	Best.Value: 6661.0
+X - 9	Tempo: 93	Best.Value: 6705.0
+X - 26	Tempo: 166	Best.Value: 6720.0
+X - 34	Tempo: 197	Best.Value: 6722.0
+X - 35	Tempo: 202	Best.Value: 6754.0
+X - 54	Tempo: 273	Best.Value: 6781.0
+X - 64	Tempo: 308	Best.Value: 7084.0
+
+ 
+ 
+
+X - 0	Tempo: 44	Best.Value: 6938.0
+X - 97	Tempo: 691	Best.Value: 7280.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 8.0
+X - 1	Tempo: 8	Best.Value: 9.0
+X - 2	Tempo: 9	Best.Value: 15.0
+X - 3	Tempo: 9	Best.Value: 16.0
+X - 11	Tempo: 9	Best.Value: 20.0
+
+ 
+ 
+
+X - 0	Tempo: 56	Best.Value: 6870.0
+X - 1	Tempo: 66	Best.Value: 6995.0
+X - 2	Tempo: 93	Best.Value: 7126.0
+X - 15	Tempo: 188	Best.Value: 7155.0
+X - 44	Tempo: 372	Best.Value: 7352.0
+X - 62	Tempo: 483	Best.Value: 7394.0
+X - 95	Tempo: 721	Best.Value: 7601.0
+
+ 
+ 
+
+X - 0	Tempo: 40	Best.Value: 1387.0
+X - 1	Tempo: 49	Best.Value: 1630.0
+X - 10	Tempo: 74	Best.Value: 1787.0
+X - 17	Tempo: 94	Best.Value: 1861.0
+X - 115	Tempo: 257	Best.Value: 2087.0
+
+ 
+ 
+
+X - 0	Tempo: 42	Best.Value: 1585.0
+X - 2	Tempo: 47	Best.Value: 1730.0
+X - 14	Tempo: 73	Best.Value: 1786.0
+X - 22	Tempo: 85	Best.Value: 1860.0
+X - 45	Tempo: 118	Best.Value: 1906.0
+
+ 
+ 
+
+X - 0	Tempo: 43	Best.Value: 1646.0
+X - 10	Tempo: 98	Best.Value: 1783.0
+X - 12	Tempo: 102	Best.Value: 1822.0
+X - 72	Tempo: 203	Best.Value: 1850.0
+X - 205	Tempo: 426	Best.Value: 1873.0
+
+ 
+ 
+
+X - 0	Tempo: 72	Best.Value: 1366.0
+X - 1	Tempo: 77	Best.Value: 1451.0
+X - 2	Tempo: 83	Best.Value: 1696.0
+X - 4	Tempo: 99	Best.Value: 2017.0
+X - 130	Tempo: 293	Best.Value: 2058.0
+X - 136	Tempo: 301	Best.Value: 2071.0
+
+ 
+ 
+
+X - 0	Tempo: 56	Best.Value: 1754.0
+X - 34	Tempo: 125	Best.Value: 1827.0
+X - 128	Tempo: 279	Best.Value: 1880.0
+
+ 
+ 
+
+X - 0	Tempo: 70	Best.Value: 9845.0
+X - 14	Tempo: 275	Best.Value: 9962.0
+X - 38	Tempo: 604	Best.Value: 10128.0
+X - 40	Tempo: 637	Best.Value: 10192.0
+X - 44	Tempo: 686	Best.Value: 10329.0
+X - 81	Tempo: 1210	Best.Value: 10659.0
+
+ 
+ 
+
+X - 0	Tempo: 61	Best.Value: 9999.0
+X - 3	Tempo: 96	Best.Value: 10227.0
+X - 4	Tempo: 106	Best.Value: 10235.0
+X - 9	Tempo: 163	Best.Value: 10266.0
+X - 20	Tempo: 281	Best.Value: 10534.0
+
+ 
+ 
+
+X - 0	Tempo: 60	Best.Value: 10003.0
+X - 1	Tempo: 78	Best.Value: 10319.0
+X - 5	Tempo: 123	Best.Value: 10439.0
+X - 16	Tempo: 249	Best.Value: 10687.0
+X - 24	Tempo: 339	Best.Value: 10746.0
+X - 40	Tempo: 528	Best.Value: 10811.0
+X - 87	Tempo: 1065	Best.Value: 10821.0
+X - 102	Tempo: 1233	Best.Value: 10902.0
+X - 128	Tempo: 1526	Best.Value: 10913.0
+X - 156	Tempo: 1854	Best.Value: 11034.0
+X - 167	Tempo: 1984	Best.Value: 11190.0
+X - 249	Tempo: 2966	Best.Value: 11338.0
+
+ 
+ 
+
+X - 0	Tempo: 75	Best.Value: 10600.0
+X - 1	Tempo: 92	Best.Value: 11134.0
+X - 5	Tempo: 151	Best.Value: 12050.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 7.0
+X - 1	Tempo: 9	Best.Value: 9.0
+X - 3	Tempo: 9	Best.Value: 15.0
+X - 4	Tempo: 9	Best.Value: 17.0
+X - 52	Tempo: 11	Best.Value: 28.0
+
+ 
+ 
+
+X - 0	Tempo: 55	Best.Value: 9566.0
+X - 2	Tempo: 89	Best.Value: 9936.0
+X - 17	Tempo: 348	Best.Value: 9940.0
+X - 21	Tempo: 405	Best.Value: 10436.0
+X - 56	Tempo: 989	Best.Value: 10593.0
+X - 172	Tempo: 2812	Best.Value: 10720.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 9.0
+X - 3	Tempo: 9	Best.Value: 12.0
+X - 9	Tempo: 9	Best.Value: 21.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 240.0
+X - 1	Tempo: 10	Best.Value: 323.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 232.0
+X - 1	Tempo: 9	Best.Value: 258.0
+X - 11	Tempo: 11	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 218.0
+X - 2	Tempo: 9	Best.Value: 230.0
+X - 6	Tempo: 10	Best.Value: 299.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 208.0
+X - 1	Tempo: 9	Best.Value: 235.0
+X - 7	Tempo: 10	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 277.0
+X - 2	Tempo: 10	Best.Value: 281.0
+X - 4	Tempo: 10	Best.Value: 307.0
+X - 83	Tempo: 20	Best.Value: 318.0
+
+ 
+ 
+
+X - 0	Tempo: 13	Best.Value: 155.0
+X - 12	Tempo: 20	Best.Value: 194.0
+X - 23	Tempo: 25	Best.Value: 206.0
+X - 62	Tempo: 46	Best.Value: 217.0
+X - 72	Tempo: 47	Best.Value: 254.0
+
+ 
+ 
+
+X - 0	Tempo: 13	Best.Value: 153.0
+X - 9	Tempo: 18	Best.Value: 169.0
+X - 14	Tempo: 19	Best.Value: 207.0
+X - 37	Tempo: 25	Best.Value: 225.0
+
+ 
+ 
+
+X - 0	Tempo: 13	Best.Value: 155.0
+X - 2	Tempo: 15	Best.Value: 188.0
+X - 6	Tempo: 16	Best.Value: 195.0
+X - 7	Tempo: 17	Best.Value: 200.0
+X - 40	Tempo: 28	Best.Value: 239.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 228.0
+X - 104	Tempo: 38	Best.Value: 233.0
+X - 186	Tempo: 42	Best.Value: 243.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 156.0
+X - 1	Tempo: 16	Best.Value: 185.0
+X - 7	Tempo: 19	Best.Value: 211.0
+X - 22	Tempo: 24	Best.Value: 231.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1199.0
+X - 1	Tempo: 18	Best.Value: 1389.0
+X - 57	Tempo: 40	Best.Value: 1391.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 1279.0
+X - 1	Tempo: 17	Best.Value: 1393.0
+X - 12	Tempo: 27	Best.Value: 1471.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1107.0
+X - 1	Tempo: 18	Best.Value: 1130.0
+X - 2	Tempo: 19	Best.Value: 1321.0
+X - 11	Tempo: 26	Best.Value: 1327.0
+
+ 
+ 
+
+X - 0	Tempo: 27	Best.Value: 1060.0
+X - 1	Tempo: 30	Best.Value: 1169.0
+X - 2	Tempo: 31	Best.Value: 1247.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 9.0
+X - 3	Tempo: 9	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 17	Best.Value: 1011.0
+X - 1	Tempo: 19	Best.Value: 1038.0
+X - 2	Tempo: 20	Best.Value: 1063.0
+X - 3	Tempo: 21	Best.Value: 1096.0
+X - 5	Tempo: 23	Best.Value: 1103.0
+X - 10	Tempo: 29	Best.Value: 1145.0
+X - 12	Tempo: 29	Best.Value: 1163.0
+X - 49	Tempo: 38	Best.Value: 1165.0
+X - 52	Tempo: 39	Best.Value: 1217.0
+
+ 
+ 
+
+X - 0	Tempo: 48	Best.Value: 773.0
+X - 10	Tempo: 69	Best.Value: 784.0
+X - 11	Tempo: 70	Best.Value: 824.0
+X - 75	Tempo: 102	Best.Value: 825.0
+
+ 
+ 
+
+X - 0	Tempo: 42	Best.Value: 649.0
+X - 1	Tempo: 45	Best.Value: 689.0
+X - 4	Tempo: 49	Best.Value: 786.0
+X - 6	Tempo: 50	Best.Value: 800.0
+X - 7	Tempo: 54	Best.Value: 816.0
+X - 34	Tempo: 65	Best.Value: 947.0
+
+ 
+ 
+
+X - 0	Tempo: 26	Best.Value: 639.0
+X - 1	Tempo: 29	Best.Value: 648.0
+X - 2	Tempo: 31	Best.Value: 703.0
+X - 4	Tempo: 35	Best.Value: 705.0
+X - 8	Tempo: 57	Best.Value: 793.0
+X - 12	Tempo: 60	Best.Value: 848.0
+X - 36	Tempo: 73	Best.Value: 894.0
+X - 71	Tempo: 91	Best.Value: 904.0
+
+ 
+ 
+
+X - 0	Tempo: 26	Best.Value: 789.0
+X - 10	Tempo: 42	Best.Value: 822.0
+X - 50	Tempo: 60	Best.Value: 848.0
+X - 55	Tempo: 63	Best.Value: 882.0
+
+ 
+ 
+
+X - 0	Tempo: 25	Best.Value: 732.0
+X - 5	Tempo: 35	Best.Value: 810.0
+
+ 
+ 
+
+X - 0	Tempo: 34	Best.Value: 4783.0
+X - 1	Tempo: 55	Best.Value: 5183.0
+X - 16	Tempo: 114	Best.Value: 5412.0
+X - 151	Tempo: 410	Best.Value: 5424.0
+
+ 
+ 
+
+X - 0	Tempo: 33	Best.Value: 4605.0
+X - 2	Tempo: 40	Best.Value: 4615.0
+X - 6	Tempo: 53	Best.Value: 4832.0
+X - 24	Tempo: 106	Best.Value: 4841.0
+X - 36	Tempo: 133	Best.Value: 4857.0
+X - 70	Tempo: 212	Best.Value: 4860.0
+X - 155	Tempo: 382	Best.Value: 4901.0
+X - 252	Tempo: 601	Best.Value: 4946.0
+
+ 
+ 
+
+X - 0	Tempo: 38	Best.Value: 4828.0
+X - 2	Tempo: 49	Best.Value: 4993.0
+X - 15	Tempo: 94	Best.Value: 5250.0
+X - 44	Tempo: 189	Best.Value: 5380.0
+X - 97	Tempo: 366	Best.Value: 5589.0
+X - 136	Tempo: 489	Best.Value: 5597.0
+
+ 
+ 
+
+X - 0	Tempo: 33	Best.Value: 4710.0
+X - 1	Tempo: 38	Best.Value: 4865.0
+X - 2	Tempo: 40	Best.Value: 4913.0
+X - 11	Tempo: 66	Best.Value: 5033.0
+X - 20	Tempo: 84	Best.Value: 5037.0
+X - 21	Tempo: 86	Best.Value: 5183.0
+X - 170	Tempo: 411	Best.Value: 5210.0
+X - 274	Tempo: 628	Best.Value: 5452.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 8.0
+X - 1	Tempo: 9	Best.Value: 11.0
+X - 6	Tempo: 9	Best.Value: 12.0
+X - 9	Tempo: 9	Best.Value: 15.0
+X - 11	Tempo: 9	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 38	Best.Value: 4703.0
+X - 1	Tempo: 42	Best.Value: 4847.0
+X - 2	Tempo: 45	Best.Value: 5002.0
+X - 3	Tempo: 50	Best.Value: 5029.0
+X - 46	Tempo: 172	Best.Value: 5055.0
+
+ 
+ 
+
+X - 0	Tempo: 55	Best.Value: 1151.0
+X - 1	Tempo: 59	Best.Value: 1199.0
+X - 14	Tempo: 90	Best.Value: 1249.0
+X - 45	Tempo: 114	Best.Value: 1288.0
+
+ 
+ 
+
+X - 0	Tempo: 32	Best.Value: 1150.0
+X - 2	Tempo: 42	Best.Value: 1192.0
+X - 54	Tempo: 89	Best.Value: 1193.0
+X - 75	Tempo: 106	Best.Value: 1218.0
+
+ 
+ 
+
+X - 0	Tempo: 35	Best.Value: 1144.0
+X - 2	Tempo: 47	Best.Value: 1182.0
+X - 35	Tempo: 86	Best.Value: 1213.0
+X - 83	Tempo: 125	Best.Value: 1270.0
+
+ 
+ 
+
+X - 0	Tempo: 44	Best.Value: 870.0
+X - 1	Tempo: 48	Best.Value: 920.0
+X - 2	Tempo: 50	Best.Value: 930.0
+X - 3	Tempo: 51	Best.Value: 998.0
+X - 7	Tempo: 58	Best.Value: 1119.0
+X - 37	Tempo: 82	Best.Value: 1216.0
+
+ 
+ 
+
+X - 0	Tempo: 63	Best.Value: 977.0
+X - 2	Tempo: 84	Best.Value: 1077.0
+X - 3	Tempo: 88	Best.Value: 1164.0
+X - 10	Tempo: 98	Best.Value: 1285.0
+X - 97	Tempo: 169	Best.Value: 1287.0
+
+ 
+ 
+
+X - 0	Tempo: 55	Best.Value: 6913.0
+X - 8	Tempo: 105	Best.Value: 7107.0
+X - 9	Tempo: 109	Best.Value: 7175.0
+X - 43	Tempo: 293	Best.Value: 7191.0
+
+ 
+ 
+
+X - 0	Tempo: 54	Best.Value: 6930.0
+X - 2	Tempo: 70	Best.Value: 7003.0
+X - 3	Tempo: 77	Best.Value: 7681.0
+X - 26	Tempo: 223	Best.Value: 7697.0
+
+ 
+ 
+
+X - 0	Tempo: 47	Best.Value: 6363.0
+X - 2	Tempo: 55	Best.Value: 6431.0
+X - 3	Tempo: 63	Best.Value: 6720.0
+X - 12	Tempo: 99	Best.Value: 7082.0
+X - 59	Tempo: 283	Best.Value: 7084.0
+
+ 
+ 
+
+X - 0	Tempo: 58	Best.Value: 6938.0
+X - 49	Tempo: 400	Best.Value: 7050.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 7.0
+X - 1	Tempo: 9	Best.Value: 9.0
+X - 5	Tempo: 10	Best.Value: 17.0
+X - 21	Tempo: 10	Best.Value: 20.0
+
+ 
+ 
+
+X - 0	Tempo: 46	Best.Value: 7126.0
+X - 2	Tempo: 65	Best.Value: 7204.0
+X - 6	Tempo: 90	Best.Value: 7601.0
+
+ 
+ 
+
+X - 0	Tempo: 73	Best.Value: 1487.0
+X - 6	Tempo: 112	Best.Value: 1738.0
+X - 41	Tempo: 171	Best.Value: 2087.0
+
+ 
+ 
+
+X - 0	Tempo: 69	Best.Value: 1899.0
+X - 158	Tempo: 343	Best.Value: 1906.0
+
+ 
+ 
+
+X - 0	Tempo: 90	Best.Value: 1415.0
+X - 1	Tempo: 95	Best.Value: 1643.0
+X - 2	Tempo: 98	Best.Value: 1675.0
+X - 6	Tempo: 110	Best.Value: 1737.0
+X - 19	Tempo: 134	Best.Value: 1783.0
+X - 50	Tempo: 190	Best.Value: 1850.0
+X - 52	Tempo: 194	Best.Value: 1873.0
+
+ 
+ 
+
+X - 0	Tempo: 44	Best.Value: 1599.0
+X - 4	Tempo: 58	Best.Value: 1617.0
+X - 9	Tempo: 69	Best.Value: 1802.0
+X - 10	Tempo: 71	Best.Value: 1829.0
+X - 19	Tempo: 84	Best.Value: 2058.0
+X - 30	Tempo: 100	Best.Value: 2071.0
+
+ 
+ 
+
+X - 0	Tempo: 52	Best.Value: 1471.0
+X - 1	Tempo: 59	Best.Value: 1610.0
+X - 2	Tempo: 63	Best.Value: 1754.0
+X - 7	Tempo: 79	Best.Value: 1880.0
+
+ 
+ 
+
+X - 0	Tempo: 101	Best.Value: 9864.0
+X - 21	Tempo: 391	Best.Value: 10058.0
+X - 37	Tempo: 639	Best.Value: 10329.0
+X - 61	Tempo: 968	Best.Value: 10659.0
+
+ 
+ 
+
+X - 0	Tempo: 54	Best.Value: 10227.0
+X - 10	Tempo: 212	Best.Value: 10301.0
+X - 12	Tempo: 238	Best.Value: 10362.0
+X - 66	Tempo: 848	Best.Value: 10366.0
+X - 116	Tempo: 1402	Best.Value: 10534.0
+
+ 
+ 
+
+X - 0	Tempo: 116	Best.Value: 10609.0
+X - 41	Tempo: 603	Best.Value: 10697.0
+X - 50	Tempo: 702	Best.Value: 11338.0
+
+ 
+ 
+
+X - 0	Tempo: 63	Best.Value: 10772.0
+X - 2	Tempo: 94	Best.Value: 11300.0
+X - 9	Tempo: 196	Best.Value: 11464.0
+X - 54	Tempo: 874	Best.Value: 11567.0
+X - 107	Tempo: 1574	Best.Value: 12050.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 7.0
+X - 1	Tempo: 9	Best.Value: 9.0
+X - 2	Tempo: 9	Best.Value: 15.0
+X - 6	Tempo: 10	Best.Value: 17.0
+X - 10	Tempo: 10	Best.Value: 18.0
+X - 41	Tempo: 11	Best.Value: 28.0
+
+ 
+ 
+
+X - 0	Tempo: 60	Best.Value: 9502.0
+X - 1	Tempo: 83	Best.Value: 9723.0
+X - 2	Tempo: 100	Best.Value: 10021.0
+X - 4	Tempo: 132	Best.Value: 10153.0
+X - 15	Tempo: 294	Best.Value: 10436.0
+X - 16	Tempo: 304	Best.Value: 10565.0
+X - 56	Tempo: 940	Best.Value: 10720.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 4.0
+X - 1	Tempo: 9	Best.Value: 16.0
+X - 2	Tempo: 9	Best.Value: 17.0
+X - 31	Tempo: 10	Best.Value: 21.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 259.0
+X - 2	Tempo: 9	Best.Value: 312.0
+X - 11	Tempo: 10	Best.Value: 323.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 237.0
+X - 2	Tempo: 9	Best.Value: 246.0
+X - 6	Tempo: 10	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 208.0
+X - 1	Tempo: 17	Best.Value: 219.0
+X - 2	Tempo: 17	Best.Value: 257.0
+X - 3	Tempo: 17	Best.Value: 299.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 221.0
+X - 1	Tempo: 9	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 277.0
+X - 5	Tempo: 9	Best.Value: 318.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 147.0
+X - 2	Tempo: 15	Best.Value: 195.0
+X - 12	Tempo: 19	Best.Value: 254.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 170.0
+X - 1	Tempo: 15	Best.Value: 206.0
+X - 94	Tempo: 30	Best.Value: 207.0
+X - 188	Tempo: 34	Best.Value: 225.0
+
+ 
+ 
+
+X - 0	Tempo: 13	Best.Value: 180.0
+X - 2	Tempo: 15	Best.Value: 184.0
+X - 10	Tempo: 18	Best.Value: 231.0
+X - 30	Tempo: 24	Best.Value: 239.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 149.0
+X - 3	Tempo: 16	Best.Value: 224.0
+X - 6	Tempo: 17	Best.Value: 228.0
+X - 21	Tempo: 24	Best.Value: 243.0
+
+ 
+ 
+
+X - 0	Tempo: 13	Best.Value: 231.0
+
+ 
+ 
+
+X - 0	Tempo: 28	Best.Value: 1338.0
+X - 13	Tempo: 41	Best.Value: 1391.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1366.0
+X - 8	Tempo: 25	Best.Value: 1369.0
+X - 27	Tempo: 34	Best.Value: 1393.0
+X - 54	Tempo: 42	Best.Value: 1400.0
+X - 152	Tempo: 60	Best.Value: 1471.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 1103.0
+X - 1	Tempo: 17	Best.Value: 1246.0
+X - 7	Tempo: 24	Best.Value: 1321.0
+X - 27	Tempo: 30	Best.Value: 1327.0
+
+ 
+ 
+
+X - 0	Tempo: 17	Best.Value: 1172.0
+X - 4	Tempo: 23	Best.Value: 1193.0
+X - 8	Tempo: 25	Best.Value: 1242.0
+X - 119	Tempo: 65	Best.Value: 1247.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 13.0
+X - 4	Tempo: 9	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1102.0
+X - 2	Tempo: 20	Best.Value: 1119.0
+X - 10	Tempo: 25	Best.Value: 1163.0
+X - 21	Tempo: 29	Best.Value: 1175.0
+X - 57	Tempo: 37	Best.Value: 1217.0
+
+ 
+ 
+
+X - 0	Tempo: 29	Best.Value: 690.0
+X - 2	Tempo: 33	Best.Value: 773.0
+X - 3	Tempo: 35	Best.Value: 774.0
+X - 10	Tempo: 47	Best.Value: 807.0
+X - 11	Tempo: 48	Best.Value: 825.0
+
+ 
+ 
+
+X - 0	Tempo: 33	Best.Value: 693.0
+X - 1	Tempo: 36	Best.Value: 753.0
+X - 7	Tempo: 47	Best.Value: 800.0
+X - 8	Tempo: 47	Best.Value: 947.0
+
+ 
+ 
+
+X - 0	Tempo: 25	Best.Value: 758.0
+X - 2	Tempo: 30	Best.Value: 810.0
+X - 6	Tempo: 36	Best.Value: 904.0
+
+ 
+ 
+
+X - 0	Tempo: 26	Best.Value: 810.0
+X - 2	Tempo: 33	Best.Value: 813.0
+X - 69	Tempo: 68	Best.Value: 882.0
+
+ 
+ 
+
+X - 0	Tempo: 25	Best.Value: 666.0
+X - 5	Tempo: 34	Best.Value: 762.0
+X - 64	Tempo: 61	Best.Value: 810.0
+
+ 
+ 
+
+X - 0	Tempo: 69	Best.Value: 4423.0
+X - 2	Tempo: 77	Best.Value: 4547.0
+X - 3	Tempo: 82	Best.Value: 5247.0
+X - 74	Tempo: 243	Best.Value: 5424.0
+
+ 
+ 
+
+X - 0	Tempo: 40	Best.Value: 4615.0
+X - 1	Tempo: 45	Best.Value: 4749.0
+X - 3	Tempo: 56	Best.Value: 4814.0
+X - 7	Tempo: 65	Best.Value: 4857.0
+X - 11	Tempo: 75	Best.Value: 4860.0
+X - 12	Tempo: 77	Best.Value: 4901.0
+X - 135	Tempo: 343	Best.Value: 4946.0
+
+ 
+ 
+
+X - 0	Tempo: 41	Best.Value: 4488.0
+X - 4	Tempo: 60	Best.Value: 5033.0
+X - 7	Tempo: 71	Best.Value: 5226.0
+X - 78	Tempo: 304	Best.Value: 5309.0
+X - 80	Tempo: 309	Best.Value: 5597.0
+
+ 
+ 
+
+X - 0	Tempo: 34	Best.Value: 4632.0
+X - 2	Tempo: 42	Best.Value: 5054.0
+X - 19	Tempo: 81	Best.Value: 5183.0
+X - 22	Tempo: 90	Best.Value: 5186.0
+X - 60	Tempo: 169	Best.Value: 5452.0
+
+ 
+ 
+
+X - 0	Tempo: 12	Best.Value: 15.0
+X - 3	Tempo: 13	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 32	Best.Value: 4712.0
+X - 1	Tempo: 37	Best.Value: 5029.0
+X - 12	Tempo: 67	Best.Value: 5055.0
+
+ 
+ 
+
+X - 0	Tempo: 61	Best.Value: 1074.0
+X - 1	Tempo: 70	Best.Value: 1127.0
+X - 3	Tempo: 81	Best.Value: 1223.0
+X - 6	Tempo: 88	Best.Value: 1226.0
+X - 19	Tempo: 102	Best.Value: 1249.0
+X - 31	Tempo: 112	Best.Value: 1288.0
+
+ 
+ 
+
+X - 0	Tempo: 38	Best.Value: 1062.0
+X - 1	Tempo: 43	Best.Value: 1075.0
+X - 7	Tempo: 63	Best.Value: 1093.0
+X - 8	Tempo: 64	Best.Value: 1113.0
+X - 16	Tempo: 70	Best.Value: 1135.0
+X - 19	Tempo: 73	Best.Value: 1176.0
+X - 22	Tempo: 76	Best.Value: 1192.0
+X - 46	Tempo: 96	Best.Value: 1218.0
+
+ 
+ 
+
+X - 0	Tempo: 32	Best.Value: 1130.0
+X - 1	Tempo: 37	Best.Value: 1132.0
+X - 5	Tempo: 48	Best.Value: 1141.0
+X - 6	Tempo: 51	Best.Value: 1168.0
+X - 10	Tempo: 55	Best.Value: 1196.0
+X - 19	Tempo: 63	Best.Value: 1243.0
+X - 230	Tempo: 225	Best.Value: 1270.0
+
+ 
+ 
+
+X - 0	Tempo: 30	Best.Value: 960.0
+X - 8	Tempo: 51	Best.Value: 1048.0
+X - 30	Tempo: 70	Best.Value: 1164.0
+X - 190	Tempo: 190	Best.Value: 1216.0
+
+ 
+ 
+
+X - 0	Tempo: 34	Best.Value: 1071.0
+X - 2	Tempo: 45	Best.Value: 1158.0
+X - 11	Tempo: 59	Best.Value: 1201.0
+X - 16	Tempo: 64	Best.Value: 1300.0
+
+ 
+ 
+
+X - 0	Tempo: 47	Best.Value: 7107.0
+X - 35	Tempo: 273	Best.Value: 7162.0
+X - 86	Tempo: 541	Best.Value: 7191.0
+
+ 
+ 
+
+X - 0	Tempo: 47	Best.Value: 7681.0
+X - 45	Tempo: 331	Best.Value: 7697.0
+
+ 
+ 
+
+X - 0	Tempo: 50	Best.Value: 6431.0
+X - 3	Tempo: 74	Best.Value: 6504.0
+X - 15	Tempo: 122	Best.Value: 7045.0
+X - 40	Tempo: 215	Best.Value: 7082.0
+X - 181	Tempo: 758	Best.Value: 7084.0
+
+ 
+ 
+
+X - 0	Tempo: 76	Best.Value: 6938.0
+X - 12	Tempo: 192	Best.Value: 6983.0
+X - 46	Tempo: 395	Best.Value: 6998.0
+X - 161	Tempo: 1148	Best.Value: 7050.0
+
+ 
+ 
+
+X - 0	Tempo: 17	Best.Value: 15.0
+X - 4	Tempo: 18	Best.Value: 17.0
+X - 26	Tempo: 19	Best.Value: 20.0
+
+ 
+ 
+
+X - 0	Tempo: 55	Best.Value: 7379.0
+X - 95	Tempo: 716	Best.Value: 7579.0
+X - 96	Tempo: 721	Best.Value: 7601.0
+
+ 
+ 
+
+X - 0	Tempo: 74	Best.Value: 1738.0
+X - 3	Tempo: 89	Best.Value: 1856.0
+X - 13	Tempo: 136	Best.Value: 1946.0
+X - 52	Tempo: 201	Best.Value: 1979.0
+X - 274	Tempo: 542	Best.Value: 2087.0
+
+ 
+ 
+
+X - 0	Tempo: 81	Best.Value: 1765.0
+X - 3	Tempo: 91	Best.Value: 1793.0
+X - 19	Tempo: 125	Best.Value: 1813.0
+X - 36	Tempo: 154	Best.Value: 1860.0
+X - 61	Tempo: 194	Best.Value: 1899.0
+X - 90	Tempo: 246	Best.Value: 1906.0
+
+ 
+ 
+
+X - 0	Tempo: 46	Best.Value: 1572.0
+X - 3	Tempo: 58	Best.Value: 1686.0
+X - 6	Tempo: 66	Best.Value: 1738.0
+X - 38	Tempo: 124	Best.Value: 1766.0
+X - 61	Tempo: 164	Best.Value: 1783.0
+X - 87	Tempo: 213	Best.Value: 1850.0
+X - 138	Tempo: 304	Best.Value: 1873.0
+
+ 
+ 
+
+X - 0	Tempo: 44	Best.Value: 1366.0
+X - 2	Tempo: 54	Best.Value: 1713.0
+X - 8	Tempo: 73	Best.Value: 1802.0
+X - 14	Tempo: 83	Best.Value: 2071.0
+
+ 
+ 
+
+X - 0	Tempo: 36	Best.Value: 1429.0
+X - 1	Tempo: 49	Best.Value: 1522.0
+X - 3	Tempo: 55	Best.Value: 1619.0
+X - 7	Tempo: 67	Best.Value: 1621.0
+X - 8	Tempo: 69	Best.Value: 1672.0
+X - 9	Tempo: 71	Best.Value: 1742.0
+X - 17	Tempo: 86	Best.Value: 1754.0
+X - 19	Tempo: 89	Best.Value: 1791.0
+X - 62	Tempo: 172	Best.Value: 1808.0
+X - 64	Tempo: 181	Best.Value: 1827.0
+X - 262	Tempo: 521	Best.Value: 1880.0
+
+ 
+ 
+
+X - 0	Tempo: 143	Best.Value: 9441.0
+X - 7	Tempo: 254	Best.Value: 10449.0
+X - 138	Tempo: 2039	Best.Value: 10659.0
+
+ 
+ 
+
+X - 0	Tempo: 71	Best.Value: 10227.0
+X - 6	Tempo: 176	Best.Value: 10301.0
+X - 8	Tempo: 197	Best.Value: 10366.0
+X - 15	Tempo: 284	Best.Value: 10518.0
+X - 90	Tempo: 1112	Best.Value: 10534.0
+
+ 
+ 
+
+X - 0	Tempo: 57	Best.Value: 9667.0
+X - 1	Tempo: 77	Best.Value: 10319.0
+X - 3	Tempo: 106	Best.Value: 11190.0
+X - 298	Tempo: 3530	Best.Value: 11338.0
+
+ 
+ 
+
+X - 0	Tempo: 61	Best.Value: 11282.0
+X - 3	Tempo: 110	Best.Value: 11525.0
+X - 7	Tempo: 163	Best.Value: 11866.0
+X - 32	Tempo: 517	Best.Value: 12050.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 17.0
+X - 16	Tempo: 11	Best.Value: 18.0
+X - 48	Tempo: 12	Best.Value: 28.0
+
+ 
+ 
+
+X - 0	Tempo: 61	Best.Value: 9502.0
+X - 1	Tempo: 79	Best.Value: 10167.0
+X - 13	Tempo: 299	Best.Value: 10260.0
+X - 17	Tempo: 352	Best.Value: 10436.0
+X - 21	Tempo: 420	Best.Value: 10502.0
+X - 78	Tempo: 1357	Best.Value: 10565.0
+X - 197	Tempo: 3301	Best.Value: 10593.0
+X - 272	Tempo: 4458	Best.Value: 10720.0
+
+ 
+ 
+
+X - 0	Tempo: 7	Best.Value: 21.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 240.0
+X - 2	Tempo: 10	Best.Value: 247.0
+X - 5	Tempo: 11	Best.Value: 263.0
+X - 8	Tempo: 11	Best.Value: 272.0
+X - 14	Tempo: 12	Best.Value: 283.0
+X - 21	Tempo: 13	Best.Value: 312.0
+X - 24	Tempo: 16	Best.Value: 323.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 242.0
+X - 2	Tempo: 9	Best.Value: 244.0
+X - 4	Tempo: 9	Best.Value: 246.0
+X - 6	Tempo: 10	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 219.0
+X - 1	Tempo: 9	Best.Value: 299.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 267.0
+X - 2	Tempo: 12	Best.Value: 307.0
+X - 5	Tempo: 13	Best.Value: 318.0
+
+ 
+ 
+
+X - 0	Tempo: 13	Best.Value: 142.0
+X - 2	Tempo: 15	Best.Value: 144.0
+X - 4	Tempo: 16	Best.Value: 194.0
+X - 6	Tempo: 17	Best.Value: 195.0
+X - 22	Tempo: 21	Best.Value: 212.0
+X - 27	Tempo: 22	Best.Value: 217.0
+X - 117	Tempo: 35	Best.Value: 254.0
+
+ 
+ 
+
+X - 0	Tempo: 19	Best.Value: 146.0
+X - 1	Tempo: 21	Best.Value: 198.0
+X - 4	Tempo: 22	Best.Value: 225.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 155.0
+X - 1	Tempo: 16	Best.Value: 163.0
+X - 2	Tempo: 16	Best.Value: 188.0
+X - 41	Tempo: 31	Best.Value: 219.0
+X - 56	Tempo: 32	Best.Value: 239.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 130.0
+X - 1	Tempo: 16	Best.Value: 146.0
+X - 2	Tempo: 17	Best.Value: 228.0
+X - 31	Tempo: 29	Best.Value: 243.0
+
+ 
+ 
+
+X - 0	Tempo: 13	Best.Value: 139.0
+X - 1	Tempo: 14	Best.Value: 179.0
+X - 8	Tempo: 17	Best.Value: 191.0
+X - 13	Tempo: 19	Best.Value: 231.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 1178.0
+X - 2	Tempo: 36	Best.Value: 1361.0
+X - 55	Tempo: 56	Best.Value: 1389.0
+X - 83	Tempo: 63	Best.Value: 1391.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 1366.0
+X - 5	Tempo: 21	Best.Value: 1393.0
+X - 42	Tempo: 38	Best.Value: 1400.0
+X - 65	Tempo: 43	Best.Value: 1471.0
+
+ 
+ 
+
+X - 0	Tempo: 18	Best.Value: 1093.0
+X - 1	Tempo: 21	Best.Value: 1327.0
+
+ 
+ 
+
+X - 0	Tempo: 34	Best.Value: 1165.0
+X - 17	Tempo: 49	Best.Value: 1199.0
+X - 49	Tempo: 61	Best.Value: 1247.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 9.0
+X - 1	Tempo: 9	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 1038.0
+X - 2	Tempo: 19	Best.Value: 1165.0
+X - 4	Tempo: 20	Best.Value: 1175.0
+X - 34	Tempo: 31	Best.Value: 1217.0
+
+ 
+ 
+
+X - 0	Tempo: 25	Best.Value: 679.0
+X - 1	Tempo: 27	Best.Value: 773.0
+X - 2	Tempo: 29	Best.Value: 824.0
+X - 31	Tempo: 54	Best.Value: 825.0
+
+ 
+ 
+
+X - 0	Tempo: 28	Best.Value: 768.0
+X - 1	Tempo: 32	Best.Value: 776.0
+X - 3	Tempo: 36	Best.Value: 816.0
+X - 19	Tempo: 46	Best.Value: 851.0
+X - 178	Tempo: 108	Best.Value: 947.0
+
+ 
+ 
+
+X - 0	Tempo: 29	Best.Value: 556.0
+X - 1	Tempo: 31	Best.Value: 624.0
+X - 2	Tempo: 33	Best.Value: 673.0
+X - 3	Tempo: 34	Best.Value: 741.0
+X - 17	Tempo: 47	Best.Value: 797.0
+X - 34	Tempo: 57	Best.Value: 904.0
+
+ 
+ 
+
+X - 0	Tempo: 26	Best.Value: 641.0
+X - 1	Tempo: 29	Best.Value: 715.0
+X - 2	Tempo: 31	Best.Value: 748.0
+X - 3	Tempo: 34	Best.Value: 789.0
+X - 17	Tempo: 44	Best.Value: 882.0
+
+ 
+ 
+
+X - 0	Tempo: 24	Best.Value: 556.0
+X - 2	Tempo: 30	Best.Value: 582.0
+X - 3	Tempo: 32	Best.Value: 595.0
+X - 4	Tempo: 33	Best.Value: 662.0
+X - 7	Tempo: 35	Best.Value: 762.0
+X - 14	Tempo: 41	Best.Value: 810.0
+
+ 
+ 
+
+X - 0	Tempo: 42	Best.Value: 4370.0
+X - 1	Tempo: 50	Best.Value: 5055.0
+X - 5	Tempo: 64	Best.Value: 5215.0
+X - 30	Tempo: 124	Best.Value: 5247.0
+X - 59	Tempo: 191	Best.Value: 5412.0
+X - 116	Tempo: 316	Best.Value: 5424.0
+
+ 
+ 
+
+X - 0	Tempo: 34	Best.Value: 4605.0
+X - 2	Tempo: 43	Best.Value: 4699.0
+X - 3	Tempo: 49	Best.Value: 4705.0
+X - 8	Tempo: 60	Best.Value: 4901.0
+X - 14	Tempo: 74	Best.Value: 4946.0
+
+ 
+ 
+
+X - 0	Tempo: 35	Best.Value: 5204.0
+X - 3	Tempo: 48	Best.Value: 5309.0
+X - 4	Tempo: 50	Best.Value: 5319.0
+X - 16	Tempo: 88	Best.Value: 5597.0
+
+ 
+ 
+
+X - 0	Tempo: 29	Best.Value: 4604.0
+X - 2	Tempo: 40	Best.Value: 4711.0
+X - 3	Tempo: 44	Best.Value: 5033.0
+X - 12	Tempo: 66	Best.Value: 5045.0
+X - 21	Tempo: 86	Best.Value: 5074.0
+X - 35	Tempo: 111	Best.Value: 5210.0
+X - 97	Tempo: 238	Best.Value: 5452.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 8.0
+X - 1	Tempo: 10	Best.Value: 12.0
+X - 7	Tempo: 10	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 30	Best.Value: 5029.0
+X - 1	Tempo: 36	Best.Value: 5036.0
+X - 11	Tempo: 68	Best.Value: 5051.0
+X - 70	Tempo: 210	Best.Value: 5055.0
+
+ 
+ 
+
+X - 0	Tempo: 37	Best.Value: 966.0
+X - 1	Tempo: 42	Best.Value: 1127.0
+X - 2	Tempo: 46	Best.Value: 1141.0
+X - 7	Tempo: 77	Best.Value: 1154.0
+X - 17	Tempo: 90	Best.Value: 1215.0
+X - 20	Tempo: 93	Best.Value: 1216.0
+X - 39	Tempo: 108	Best.Value: 1249.0
+X - 89	Tempo: 145	Best.Value: 1288.0
+
+ 
+ 
+
+X - 0	Tempo: 36	Best.Value: 812.0
+X - 1	Tempo: 43	Best.Value: 1097.0
+X - 2	Tempo: 45	Best.Value: 1170.0
+X - 23	Tempo: 68	Best.Value: 1193.0
+X - 43	Tempo: 83	Best.Value: 1218.0
+
+ 
+ 
+
+X - 0	Tempo: 37	Best.Value: 899.0
+X - 1	Tempo: 43	Best.Value: 1117.0
+X - 3	Tempo: 48	Best.Value: 1182.0
+X - 21	Tempo: 68	Best.Value: 1270.0
+
+ 
+ 
+
+X - 0	Tempo: 61	Best.Value: 722.0
+X - 1	Tempo: 66	Best.Value: 1004.0
+X - 4	Tempo: 73	Best.Value: 1085.0
+X - 26	Tempo: 109	Best.Value: 1150.0
+X - 85	Tempo: 155	Best.Value: 1164.0
+X - 133	Tempo: 195	Best.Value: 1211.0
+
+ 
+ 
+
+X - 0	Tempo: 37	Best.Value: 886.0
+X - 1	Tempo: 40	Best.Value: 1032.0
+X - 3	Tempo: 49	Best.Value: 1300.0
+
+ 
+ 
+
+X - 0	Tempo: 45	Best.Value: 6659.0
+X - 1	Tempo: 52	Best.Value: 6791.0
+X - 3	Tempo: 65	Best.Value: 7107.0
+X - 5	Tempo: 76	Best.Value: 7162.0
+X - 58	Tempo: 367	Best.Value: 7175.0
+X - 66	Tempo: 405	Best.Value: 7191.0
+
+ 
+ 
+
+X - 0	Tempo: 75	Best.Value: 7268.0
+X - 1	Tempo: 91	Best.Value: 7350.0
+X - 2	Tempo: 101	Best.Value: 7681.0
+X - 11	Tempo: 179	Best.Value: 7697.0
+
+ 
+ 
+
+X - 0	Tempo: 52	Best.Value: 6754.0
+X - 25	Tempo: 148	Best.Value: 6939.0
+X - 39	Tempo: 211	Best.Value: 7032.0
+X - 46	Tempo: 240	Best.Value: 7082.0
+X - 96	Tempo: 445	Best.Value: 7084.0
+
+ 
+ 
+
+X - 0	Tempo: 101	Best.Value: 6325.0
+X - 1	Tempo: 111	Best.Value: 7050.0
+X - 25	Tempo: 257	Best.Value: 7280.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 15.0
+X - 1	Tempo: 9	Best.Value: 17.0
+X - 54	Tempo: 11	Best.Value: 20.0
+
+ 
+ 
+
+X - 0	Tempo: 69	Best.Value: 7365.0
+X - 1	Tempo: 83	Best.Value: 7379.0
+X - 5	Tempo: 109	Best.Value: 7394.0
+X - 35	Tempo: 315	Best.Value: 7579.0
+X - 154	Tempo: 1114	Best.Value: 7589.0
+
+ 
+ 
+
+X - 0	Tempo: 51	Best.Value: 1979.0
+X - 38	Tempo: 158	Best.Value: 2087.0
+
+ 
+ 
+
+X - 0	Tempo: 65	Best.Value: 1445.0
+X - 3	Tempo: 86	Best.Value: 1502.0
+X - 4	Tempo: 92	Best.Value: 1610.0
+X - 13	Tempo: 106	Best.Value: 1836.0
+X - 65	Tempo: 182	Best.Value: 1839.0
+X - 73	Tempo: 195	Best.Value: 1906.0
+
+ 
+ 
+
+X - 0	Tempo: 87	Best.Value: 1595.0
+X - 1	Tempo: 95	Best.Value: 1596.0
+X - 3	Tempo: 106	Best.Value: 1659.0
+X - 4	Tempo: 112	Best.Value: 1687.0
+X - 15	Tempo: 134	Best.Value: 1751.0
+X - 38	Tempo: 175	Best.Value: 1777.0
+X - 75	Tempo: 233	Best.Value: 1850.0
+X - 218	Tempo: 484	Best.Value: 1873.0
+
+ 
+ 
+
+X - 0	Tempo: 40	Best.Value: 1428.0
+X - 1	Tempo: 47	Best.Value: 1533.0
+X - 2	Tempo: 52	Best.Value: 1651.0
+X - 7	Tempo: 68	Best.Value: 1737.0
+X - 8	Tempo: 69	Best.Value: 1761.0
+X - 42	Tempo: 115	Best.Value: 1802.0
+X - 72	Tempo: 157	Best.Value: 2058.0
+
+ 
+ 
+
+X - 0	Tempo: 44	Best.Value: 1676.0
+X - 6	Tempo: 65	Best.Value: 1708.0
+X - 17	Tempo: 95	Best.Value: 1754.0
+X - 45	Tempo: 151	Best.Value: 1773.0
+X - 62	Tempo: 181	Best.Value: 1808.0
+X - 81	Tempo: 213	Best.Value: 1827.0
+X - 155	Tempo: 338	Best.Value: 1880.0
+
+ 
+ 
+
+X - 0	Tempo: 70	Best.Value: 9797.0
+X - 2	Tempo: 103	Best.Value: 9912.0
+X - 4	Tempo: 128	Best.Value: 10120.0
+X - 6	Tempo: 163	Best.Value: 10192.0
+X - 25	Tempo: 440	Best.Value: 10255.0
+X - 32	Tempo: 539	Best.Value: 10449.0
+X - 91	Tempo: 1400	Best.Value: 10659.0
+
+ 
+ 
+
+X - 0	Tempo: 91	Best.Value: 9576.0
+X - 1	Tempo: 107	Best.Value: 9957.0
+X - 2	Tempo: 118	Best.Value: 10167.0
+X - 11	Tempo: 228	Best.Value: 10227.0
+X - 18	Tempo: 296	Best.Value: 10305.0
+X - 28	Tempo: 424	Best.Value: 10518.0
+X - 230	Tempo: 2616	Best.Value: 10534.0
+
+ 
+ 
+
+X - 0	Tempo: 57	Best.Value: 10319.0
+X - 1	Tempo: 77	Best.Value: 10423.0
+X - 7	Tempo: 171	Best.Value: 10737.0
+X - 15	Tempo: 263	Best.Value: 10902.0
+X - 30	Tempo: 452	Best.Value: 11190.0
+X - 212	Tempo: 2603	Best.Value: 11338.0
+
+ 
+ 
+
+X - 0	Tempo: 66	Best.Value: 10600.0
+X - 1	Tempo: 87	Best.Value: 10717.0
+X - 2	Tempo: 101	Best.Value: 11080.0
+X - 3	Tempo: 116	Best.Value: 11268.0
+X - 11	Tempo: 245	Best.Value: 11466.0
+X - 18	Tempo: 335	Best.Value: 11476.0
+X - 22	Tempo: 393	Best.Value: 12050.0
+
+ 
+ 
+
+X - 0	Tempo: 13	Best.Value: 17.0
+X - 1	Tempo: 14	Best.Value: 18.0
+X - 11	Tempo: 15	Best.Value: 28.0
+
+ 
+ 
+
+X - 0	Tempo: 74	Best.Value: 9774.0
+X - 3	Tempo: 123	Best.Value: 9936.0
+X - 4	Tempo: 140	Best.Value: 10019.0
+X - 29	Tempo: 548	Best.Value: 10565.0
+X - 180	Tempo: 3060	Best.Value: 10593.0
+X - 226	Tempo: 3818	Best.Value: 10720.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 9.0
+X - 3	Tempo: 10	Best.Value: 17.0
+X - 31	Tempo: 16	Best.Value: 21.0
+
+ 
+ 
+
+X - 0	Tempo: 23	Best.Value: 240.0
+X - 6	Tempo: 25	Best.Value: 259.0
+X - 13	Tempo: 27	Best.Value: 271.0
+X - 17	Tempo: 29	Best.Value: 323.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 218.0
+X - 1	Tempo: 9	Best.Value: 227.0
+X - 2	Tempo: 9	Best.Value: 244.0
+X - 4	Tempo: 10	Best.Value: 258.0
+X - 23	Tempo: 13	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 299.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 221.0
+X - 2	Tempo: 10	Best.Value: 235.0
+X - 3	Tempo: 10	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 274.0
+X - 3	Tempo: 9	Best.Value: 277.0
+X - 4	Tempo: 9	Best.Value: 281.0
+X - 12	Tempo: 10	Best.Value: 292.0
+X - 49	Tempo: 16	Best.Value: 318.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 186.0
+X - 10	Tempo: 21	Best.Value: 254.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 108.0
+X - 1	Tempo: 18	Best.Value: 180.0
+X - 35	Tempo: 27	Best.Value: 225.0
+
+ 
+ 
+
+X - 0	Tempo: 13	Best.Value: 177.0
+X - 5	Tempo: 16	Best.Value: 178.0
+X - 7	Tempo: 17	Best.Value: 210.0
+X - 11	Tempo: 21	Best.Value: 219.0
+X - 27	Tempo: 26	Best.Value: 231.0
+X - 80	Tempo: 33	Best.Value: 239.0
+
+ 
+ 
+
+X - 0	Tempo: 21	Best.Value: 154.0
+X - 3	Tempo: 32	Best.Value: 228.0
+X - 7	Tempo: 35	Best.Value: 233.0
+X - 45	Tempo: 49	Best.Value: 243.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 138.0
+X - 1	Tempo: 17	Best.Value: 192.0
+X - 19	Tempo: 22	Best.Value: 231.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1199.0
+X - 12	Tempo: 26	Best.Value: 1349.0
+X - 16	Tempo: 28	Best.Value: 1355.0
+X - 20	Tempo: 29	Best.Value: 1391.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 1366.0
+X - 2	Tempo: 17	Best.Value: 1380.0
+X - 3	Tempo: 19	Best.Value: 1393.0
+X - 19	Tempo: 27	Best.Value: 1471.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1155.0
+X - 3	Tempo: 20	Best.Value: 1156.0
+X - 4	Tempo: 21	Best.Value: 1264.0
+X - 8	Tempo: 26	Best.Value: 1323.0
+X - 38	Tempo: 35	Best.Value: 1327.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1058.0
+X - 1	Tempo: 18	Best.Value: 1099.0
+X - 3	Tempo: 20	Best.Value: 1242.0
+X - 44	Tempo: 36	Best.Value: 1247.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 9.0
+X - 3	Tempo: 10	Best.Value: 13.0
+X - 6	Tempo: 10	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 38	Best.Value: 1104.0
+X - 10	Tempo: 50	Best.Value: 1175.0
+X - 38	Tempo: 64	Best.Value: 1217.0
+
+ 
+ 
+
+X - 0	Tempo: 27	Best.Value: 632.0
+X - 3	Tempo: 35	Best.Value: 689.0
+X - 4	Tempo: 35	Best.Value: 763.0
+X - 29	Tempo: 51	Best.Value: 774.0
+X - 37	Tempo: 55	Best.Value: 824.0
+X - 73	Tempo: 69	Best.Value: 825.0
+
+ 
+ 
+
+X - 0	Tempo: 42	Best.Value: 626.0
+X - 1	Tempo: 46	Best.Value: 637.0
+X - 2	Tempo: 49	Best.Value: 753.0
+X - 5	Tempo: 53	Best.Value: 816.0
+X - 7	Tempo: 57	Best.Value: 855.0
+X - 97	Tempo: 96	Best.Value: 947.0
+
+ 
+ 
+
+X - 0	Tempo: 26	Best.Value: 639.0
+X - 1	Tempo: 28	Best.Value: 810.0
+X - 10	Tempo: 43	Best.Value: 848.0
+X - 31	Tempo: 53	Best.Value: 894.0
+X - 96	Tempo: 82	Best.Value: 904.0
+
+ 
+ 
+
+X - 0	Tempo: 32	Best.Value: 602.0
+X - 1	Tempo: 36	Best.Value: 690.0
+X - 2	Tempo: 41	Best.Value: 760.0
+X - 8	Tempo: 49	Best.Value: 766.0
+X - 12	Tempo: 51	Best.Value: 769.0
+X - 23	Tempo: 56	Best.Value: 810.0
+X - 37	Tempo: 63	Best.Value: 813.0
+X - 40	Tempo: 64	Best.Value: 822.0
+X - 73	Tempo: 77	Best.Value: 826.0
+X - 80	Tempo: 80	Best.Value: 848.0
+X - 155	Tempo: 109	Best.Value: 882.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 660.0
+X - 1	Tempo: 35	Best.Value: 762.0
+X - 31	Tempo: 57	Best.Value: 810.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 4831.0
+X - 1	Tempo: 39	Best.Value: 5424.0
+
+ 
+ 
+
+X - 0	Tempo: 35	Best.Value: 4689.0
+X - 2	Tempo: 44	Best.Value: 4901.0
+X - 201	Tempo: 480	Best.Value: 4946.0
+
+ 
+ 
+
+X - 0	Tempo: 32	Best.Value: 5589.0
+
+ 
+ 
+
+X - 0	Tempo: 39	Best.Value: 4971.0
+X - 1	Tempo: 43	Best.Value: 5074.0
+X - 5	Tempo: 54	Best.Value: 5210.0
+X - 26	Tempo: 100	Best.Value: 5329.0
+X - 138	Tempo: 385	Best.Value: 5452.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 8.0
+X - 1	Tempo: 9	Best.Value: 9.0
+X - 4	Tempo: 9	Best.Value: 12.0
+X - 8	Tempo: 10	Best.Value: 15.0
+X - 10	Tempo: 10	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 58	Best.Value: 5029.0
+X - 5	Tempo: 77	Best.Value: 5051.0
+X - 38	Tempo: 157	Best.Value: 5054.0
+X - 153	Tempo: 441	Best.Value: 5055.0
+
+ 
+ 
+
+X - 0	Tempo: 41	Best.Value: 1124.0
+X - 3	Tempo: 53	Best.Value: 1125.0
+X - 6	Tempo: 59	Best.Value: 1191.0
+X - 12	Tempo: 64	Best.Value: 1215.0
+X - 14	Tempo: 66	Best.Value: 1249.0
+X - 33	Tempo: 80	Best.Value: 1288.0
+
+ 
+ 
+
+X - 0	Tempo: 90	Best.Value: 1130.0
+X - 15	Tempo: 119	Best.Value: 1131.0
+X - 19	Tempo: 123	Best.Value: 1169.0
+X - 37	Tempo: 138	Best.Value: 1170.0
+X - 52	Tempo: 149	Best.Value: 1190.0
+X - 159	Tempo: 230	Best.Value: 1218.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 916.0
+X - 3	Tempo: 41	Best.Value: 1003.0
+X - 5	Tempo: 47	Best.Value: 1182.0
+X - 8	Tempo: 53	Best.Value: 1209.0
+X - 15	Tempo: 59	Best.Value: 1213.0
+X - 39	Tempo: 84	Best.Value: 1237.0
+
+ 
+ 
+
+X - 0	Tempo: 39	Best.Value: 948.0
+X - 1	Tempo: 44	Best.Value: 981.0
+X - 2	Tempo: 49	Best.Value: 1027.0
+X - 7	Tempo: 58	Best.Value: 1041.0
+X - 10	Tempo: 62	Best.Value: 1211.0
+X - 53	Tempo: 97	Best.Value: 1216.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 978.0
+X - 3	Tempo: 40	Best.Value: 1065.0
+X - 10	Tempo: 50	Best.Value: 1285.0
+X - 63	Tempo: 106	Best.Value: 1300.0
+
+ 
+ 
+
+X - 0	Tempo: 65	Best.Value: 6270.0
+X - 1	Tempo: 78	Best.Value: 6628.0
+X - 3	Tempo: 91	Best.Value: 6791.0
+X - 4	Tempo: 98	Best.Value: 7107.0
+X - 27	Tempo: 226	Best.Value: 7162.0
+X - 88	Tempo: 536	Best.Value: 7175.0
+X - 125	Tempo: 723	Best.Value: 7191.0
+
+ 
+ 
+
+X - 0	Tempo: 43	Best.Value: 6974.0
+X - 1	Tempo: 52	Best.Value: 7681.0
+X - 54	Tempo: 413	Best.Value: 7697.0
+
+ 
+ 
+
+X - 0	Tempo: 41	Best.Value: 6431.0
+X - 2	Tempo: 51	Best.Value: 6688.0
+X - 4	Tempo: 65	Best.Value: 6705.0
+X - 5	Tempo: 70	Best.Value: 6720.0
+X - 20	Tempo: 125	Best.Value: 7045.0
+X - 37	Tempo: 188	Best.Value: 7084.0
+
+ 
+ 
+
+X - 0	Tempo: 49	Best.Value: 6685.0
+X - 7	Tempo: 102	Best.Value: 6938.0
+X - 22	Tempo: 193	Best.Value: 6998.0
+X - 43	Tempo: 330	Best.Value: 7050.0
+X - 258	Tempo: 1732	Best.Value: 7280.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 7.0
+X - 1	Tempo: 9	Best.Value: 9.0
+X - 2	Tempo: 9	Best.Value: 17.0
+X - 19	Tempo: 10	Best.Value: 20.0
+
+ 
+ 
+
+X - 0	Tempo: 56	Best.Value: 7126.0
+X - 2	Tempo: 75	Best.Value: 7579.0
+X - 16	Tempo: 189	Best.Value: 7601.0
+
+ 
+ 
+
+X - 0	Tempo: 44	Best.Value: 1581.0
+X - 3	Tempo: 56	Best.Value: 1610.0
+X - 5	Tempo: 63	Best.Value: 1787.0
+X - 19	Tempo: 86	Best.Value: 1861.0
+X - 35	Tempo: 111	Best.Value: 2087.0
+
+ 
+ 
+
+X - 0	Tempo: 41	Best.Value: 1585.0
+X - 3	Tempo: 59	Best.Value: 1899.0
+X - 101	Tempo: 218	Best.Value: 1906.0
+
+ 
+ 
+
+X - 0	Tempo: 45	Best.Value: 1753.0
+X - 9	Tempo: 75	Best.Value: 1850.0
+
+ 
+ 
+
+X - 0	Tempo: 39	Best.Value: 1366.0
+X - 1	Tempo: 49	Best.Value: 1528.0
+X - 2	Tempo: 51	Best.Value: 1646.0
+X - 4	Tempo: 55	Best.Value: 1719.0
+X - 11	Tempo: 72	Best.Value: 1737.0
+X - 13	Tempo: 75	Best.Value: 1745.0
+X - 24	Tempo: 94	Best.Value: 1890.0
+X - 283	Tempo: 470	Best.Value: 2071.0
+
+ 
+ 
+
+X - 0	Tempo: 69	Best.Value: 1547.0
+X - 1	Tempo: 77	Best.Value: 1754.0
+X - 14	Tempo: 111	Best.Value: 1773.0
+X - 24	Tempo: 131	Best.Value: 1791.0
+X - 29	Tempo: 140	Best.Value: 1827.0
+X - 67	Tempo: 205	Best.Value: 1880.0
+
+ 
+ 
+
+X - 0	Tempo: 58	Best.Value: 8673.0
+X - 1	Tempo: 81	Best.Value: 10255.0
+X - 22	Tempo: 357	Best.Value: 10659.0
+
+ 
+ 
+
+X - 0	Tempo: 71	Best.Value: 9625.0
+X - 1	Tempo: 95	Best.Value: 9727.0
+X - 2	Tempo: 104	Best.Value: 10227.0
+X - 9	Tempo: 189	Best.Value: 10518.0
+X - 26	Tempo: 371	Best.Value: 10534.0
+
+ 
+ 
+
+X - 0	Tempo: 86	Best.Value: 10360.0
+X - 2	Tempo: 117	Best.Value: 10835.0
+X - 9	Tempo: 195	Best.Value: 11190.0
+
+ 
+ 
+
+X - 0	Tempo: 49	Best.Value: 11506.0
+X - 8	Tempo: 168	Best.Value: 11549.0
+X - 84	Tempo: 1251	Best.Value: 11694.0
+X - 180	Tempo: 2615	Best.Value: 11866.0
+X - 205	Tempo: 2953	Best.Value: 12050.0
+
+ 
+ 
+
+X - 0	Tempo: 19	Best.Value: 8.0
+X - 2	Tempo: 20	Best.Value: 9.0
+X - 5	Tempo: 21	Best.Value: 17.0
+X - 50	Tempo: 22	Best.Value: 28.0
+
+ 
+ 
+
+X - 0	Tempo: 61	Best.Value: 9354.0
+X - 1	Tempo: 81	Best.Value: 9961.0
+X - 6	Tempo: 160	Best.Value: 10565.0
+X - 33	Tempo: 587	Best.Value: 10593.0
+X - 118	Tempo: 1968	Best.Value: 10720.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 12.0
+X - 5	Tempo: 10	Best.Value: 16.0
+X - 14	Tempo: 10	Best.Value: 17.0
+X - 16	Tempo: 10	Best.Value: 21.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 194.0
+X - 1	Tempo: 9	Best.Value: 240.0
+X - 2	Tempo: 9	Best.Value: 259.0
+X - 4	Tempo: 10	Best.Value: 272.0
+X - 21	Tempo: 13	Best.Value: 323.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 242.0
+X - 3	Tempo: 10	Best.Value: 244.0
+X - 9	Tempo: 11	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 202.0
+X - 1	Tempo: 9	Best.Value: 299.0
+
+ 
+ 
+
+X - 0	Tempo: 25	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 262.0
+X - 1	Tempo: 10	Best.Value: 277.0
+X - 3	Tempo: 10	Best.Value: 307.0
+X - 6	Tempo: 11	Best.Value: 318.0
+
+ 
+ 
+
+X - 0	Tempo: 26	Best.Value: 175.0
+X - 1	Tempo: 29	Best.Value: 206.0
+X - 6	Tempo: 31	Best.Value: 212.0
+X - 7	Tempo: 32	Best.Value: 217.0
+X - 26	Tempo: 46	Best.Value: 254.0
+
+ 
+ 
+
+X - 0	Tempo: 30	Best.Value: 206.0
+X - 16	Tempo: 38	Best.Value: 207.0
+X - 26	Tempo: 41	Best.Value: 225.0
+
+ 
+ 
+
+X - 0	Tempo: 13	Best.Value: 153.0
+X - 1	Tempo: 15	Best.Value: 231.0
+X - 31	Tempo: 27	Best.Value: 239.0
+
+ 
+ 
+
+X - 0	Tempo: 13	Best.Value: 153.0
+X - 2	Tempo: 15	Best.Value: 157.0
+X - 3	Tempo: 15	Best.Value: 195.0
+X - 7	Tempo: 17	Best.Value: 228.0
+X - 19	Tempo: 23	Best.Value: 243.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 171.0
+X - 2	Tempo: 17	Best.Value: 211.0
+X - 136	Tempo: 34	Best.Value: 231.0
+
+ 
+ 
+
+X - 0	Tempo: 17	Best.Value: 1389.0
+X - 58	Tempo: 42	Best.Value: 1391.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 1208.0
+X - 2	Tempo: 19	Best.Value: 1366.0
+X - 8	Tempo: 25	Best.Value: 1369.0
+X - 15	Tempo: 28	Best.Value: 1400.0
+X - 26	Tempo: 31	Best.Value: 1471.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1174.0
+X - 5	Tempo: 21	Best.Value: 1321.0
+X - 6	Tempo: 21	Best.Value: 1327.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 1099.0
+X - 2	Tempo: 19	Best.Value: 1171.0
+X - 12	Tempo: 25	Best.Value: 1193.0
+X - 19	Tempo: 27	Best.Value: 1201.0
+X - 25	Tempo: 29	Best.Value: 1247.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 1152.0
+X - 7	Tempo: 21	Best.Value: 1163.0
+X - 32	Tempo: 50	Best.Value: 1175.0
+X - 93	Tempo: 65	Best.Value: 1217.0
+
+ 
+ 
+
+X - 0	Tempo: 48	Best.Value: 745.0
+X - 4	Tempo: 56	Best.Value: 763.0
+X - 14	Tempo: 67	Best.Value: 784.0
+X - 29	Tempo: 76	Best.Value: 807.0
+X - 40	Tempo: 80	Best.Value: 825.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 556.0
+X - 1	Tempo: 35	Best.Value: 559.0
+X - 2	Tempo: 38	Best.Value: 665.0
+X - 4	Tempo: 40	Best.Value: 674.0
+X - 5	Tempo: 41	Best.Value: 733.0
+X - 7	Tempo: 45	Best.Value: 770.0
+X - 17	Tempo: 49	Best.Value: 786.0
+X - 21	Tempo: 51	Best.Value: 801.0
+X - 31	Tempo: 56	Best.Value: 816.0
+X - 42	Tempo: 61	Best.Value: 851.0
+X - 48	Tempo: 63	Best.Value: 855.0
+X - 111	Tempo: 87	Best.Value: 947.0
+
+ 
+ 
+
+X - 0	Tempo: 30	Best.Value: 677.0
+X - 2	Tempo: 38	Best.Value: 685.0
+X - 6	Tempo: 43	Best.Value: 712.0
+X - 10	Tempo: 48	Best.Value: 741.0
+X - 28	Tempo: 58	Best.Value: 793.0
+X - 48	Tempo: 86	Best.Value: 815.0
+X - 96	Tempo: 108	Best.Value: 848.0
+X - 106	Tempo: 112	Best.Value: 904.0
+
+ 
+ 
+
+X - 0	Tempo: 29	Best.Value: 671.0
+X - 1	Tempo: 33	Best.Value: 675.0
+X - 2	Tempo: 35	Best.Value: 727.0
+X - 4	Tempo: 37	Best.Value: 810.0
+X - 18	Tempo: 48	Best.Value: 826.0
+X - 60	Tempo: 67	Best.Value: 848.0
+X - 125	Tempo: 93	Best.Value: 882.0
+
+ 
+ 
+
+X - 0	Tempo: 29	Best.Value: 703.0
+X - 1	Tempo: 31	Best.Value: 732.0
+X - 4	Tempo: 36	Best.Value: 756.0
+X - 10	Tempo: 44	Best.Value: 757.0
+X - 12	Tempo: 45	Best.Value: 762.0
+X - 148	Tempo: 102	Best.Value: 810.0
+
+ 
+ 
+
+X - 0	Tempo: 35	Best.Value: 4831.0
+X - 10	Tempo: 65	Best.Value: 4953.0
+X - 22	Tempo: 92	Best.Value: 5055.0
+X - 28	Tempo: 108	Best.Value: 5424.0
+
+ 
+ 
+
+X - 0	Tempo: 38	Best.Value: 4516.0
+X - 1	Tempo: 42	Best.Value: 4615.0
+X - 9	Tempo: 66	Best.Value: 4655.0
+X - 11	Tempo: 71	Best.Value: 4832.0
+X - 15	Tempo: 81	Best.Value: 4841.0
+X - 21	Tempo: 97	Best.Value: 4874.0
+X - 90	Tempo: 247	Best.Value: 4946.0
+
+ 
+ 
+
+X - 0	Tempo: 38	Best.Value: 5183.0
+X - 12	Tempo: 83	Best.Value: 5319.0
+X - 33	Tempo: 148	Best.Value: 5464.0
+X - 49	Tempo: 199	Best.Value: 5597.0
+
+ 
+ 
+
+X - 0	Tempo: 44	Best.Value: 5452.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 8.0
+X - 3	Tempo: 9	Best.Value: 12.0
+X - 9	Tempo: 9	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 66	Best.Value: 4834.0
+X - 1	Tempo: 69	Best.Value: 5029.0
+X - 24	Tempo: 131	Best.Value: 5054.0
+X - 33	Tempo: 154	Best.Value: 5055.0
+
+ 
+ 
+
+X - 0	Tempo: 57	Best.Value: 1032.0
+X - 1	Tempo: 62	Best.Value: 1078.0
+X - 2	Tempo: 66	Best.Value: 1124.0
+X - 6	Tempo: 74	Best.Value: 1215.0
+X - 7	Tempo: 75	Best.Value: 1219.0
+X - 25	Tempo: 89	Best.Value: 1272.0
+X - 49	Tempo: 107	Best.Value: 1288.0
+
+ 
+ 
+
+X - 0	Tempo: 33	Best.Value: 1029.0
+X - 1	Tempo: 37	Best.Value: 1059.0
+X - 11	Tempo: 54	Best.Value: 1086.0
+X - 15	Tempo: 57	Best.Value: 1152.0
+X - 38	Tempo: 78	Best.Value: 1176.0
+X - 41	Tempo: 81	Best.Value: 1192.0
+X - 61	Tempo: 98	Best.Value: 1218.0
+
+ 
+ 
+
+X - 0	Tempo: 36	Best.Value: 1088.0
+X - 1	Tempo: 41	Best.Value: 1146.0
+X - 6	Tempo: 52	Best.Value: 1179.0
+X - 30	Tempo: 73	Best.Value: 1243.0
+X - 125	Tempo: 147	Best.Value: 1270.0
+
+ 
+ 
+
+X - 0	Tempo: 28	Best.Value: 1019.0
+X - 9	Tempo: 53	Best.Value: 1072.0
+X - 13	Tempo: 57	Best.Value: 1078.0
+X - 14	Tempo: 58	Best.Value: 1171.0
+X - 45	Tempo: 99	Best.Value: 1216.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 904.0
+X - 1	Tempo: 36	Best.Value: 1015.0
+X - 2	Tempo: 39	Best.Value: 1032.0
+X - 4	Tempo: 49	Best.Value: 1033.0
+X - 6	Tempo: 57	Best.Value: 1054.0
+X - 8	Tempo: 66	Best.Value: 1117.0
+X - 11	Tempo: 70	Best.Value: 1285.0
+X - 197	Tempo: 205	Best.Value: 1287.0
+
+ 
+ 
+
+X - 0	Tempo: 48	Best.Value: 6963.0
+X - 3	Tempo: 68	Best.Value: 7148.0
+X - 6	Tempo: 87	Best.Value: 7162.0
+X - 7	Tempo: 91	Best.Value: 7191.0
+
+ 
+ 
+
+X - 0	Tempo: 64	Best.Value: 7233.0
+X - 1	Tempo: 78	Best.Value: 7443.0
+X - 5	Tempo: 106	Best.Value: 7681.0
+X - 225	Tempo: 1574	Best.Value: 7697.0
+
+ 
+ 
+
+X - 0	Tempo: 42	Best.Value: 6431.0
+X - 1	Tempo: 48	Best.Value: 6504.0
+X - 3	Tempo: 60	Best.Value: 6556.0
+X - 4	Tempo: 65	Best.Value: 6631.0
+X - 9	Tempo: 85	Best.Value: 6720.0
+X - 10	Tempo: 90	Best.Value: 7045.0
+X - 20	Tempo: 128	Best.Value: 7084.0
+
+ 
+ 
+
+X - 0	Tempo: 88	Best.Value: 6231.0
+X - 1	Tempo: 96	Best.Value: 6347.0
+X - 2	Tempo: 104	Best.Value: 6938.0
+X - 16	Tempo: 197	Best.Value: 7050.0
+X - 25	Tempo: 267	Best.Value: 7280.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 7.0
+X - 2	Tempo: 9	Best.Value: 16.0
+X - 3	Tempo: 9	Best.Value: 17.0
+X - 7	Tempo: 9	Best.Value: 20.0
+
+ 
+ 
+
+X - 0	Tempo: 48	Best.Value: 7126.0
+X - 3	Tempo: 76	Best.Value: 7181.0
+X - 9	Tempo: 122	Best.Value: 7204.0
+X - 15	Tempo: 161	Best.Value: 7589.0
+X - 113	Tempo: 836	Best.Value: 7601.0
+
+ 
+ 
+
+X - 0	Tempo: 47	Best.Value: 1610.0
+X - 9	Tempo: 101	Best.Value: 1722.0
+X - 44	Tempo: 158	Best.Value: 1744.0
+X - 48	Tempo: 164	Best.Value: 1769.0
+X - 90	Tempo: 233	Best.Value: 1979.0
+X - 299	Tempo: 569	Best.Value: 2087.0
+
+ 
+ 
+
+X - 0	Tempo: 42	Best.Value: 1502.0
+X - 1	Tempo: 48	Best.Value: 1525.0
+X - 2	Tempo: 55	Best.Value: 1536.0
+X - 3	Tempo: 57	Best.Value: 1747.0
+X - 31	Tempo: 107	Best.Value: 1899.0
+X - 127	Tempo: 270	Best.Value: 1906.0
+
+ 
+ 
+
+X - 0	Tempo: 54	Best.Value: 1591.0
+X - 1	Tempo: 58	Best.Value: 1673.0
+X - 11	Tempo: 79	Best.Value: 1710.0
+X - 12	Tempo: 82	Best.Value: 1737.0
+X - 31	Tempo: 114	Best.Value: 1777.0
+X - 63	Tempo: 171	Best.Value: 1822.0
+X - 89	Tempo: 217	Best.Value: 1873.0
+
+ 
+ 
+
+X - 0	Tempo: 49	Best.Value: 1633.0
+X - 7	Tempo: 72	Best.Value: 2017.0
+X - 19	Tempo: 95	Best.Value: 2071.0
+
+ 
+ 
+
+X - 0	Tempo: 50	Best.Value: 1503.0
+X - 1	Tempo: 55	Best.Value: 1807.0
+X - 56	Tempo: 182	Best.Value: 1808.0
+X - 184	Tempo: 389	Best.Value: 1822.0
+
+ 
+ 
+
+X - 0	Tempo: 63	Best.Value: 8679.0
+X - 1	Tempo: 80	Best.Value: 9441.0
+X - 4	Tempo: 123	Best.Value: 9633.0
+X - 6	Tempo: 151	Best.Value: 9962.0
+X - 15	Tempo: 279	Best.Value: 9984.0
+X - 21	Tempo: 374	Best.Value: 10192.0
+X - 28	Tempo: 476	Best.Value: 10329.0
+X - 75	Tempo: 1135	Best.Value: 10659.0
+
+ 
+ 
+
+X - 0	Tempo: 63	Best.Value: 10227.0
+X - 14	Tempo: 193	Best.Value: 10498.0
+X - 156	Tempo: 1778	Best.Value: 10534.0
+
+ 
+ 
+
+X - 0	Tempo: 55	Best.Value: 10300.0
+X - 1	Tempo: 73	Best.Value: 10913.0
+X - 45	Tempo: 592	Best.Value: 11034.0
+X - 55	Tempo: 709	Best.Value: 11190.0
+
+ 
+ 
+
+X - 0	Tempo: 57	Best.Value: 10932.0
+X - 1	Tempo: 71	Best.Value: 10940.0
+X - 3	Tempo: 92	Best.Value: 11490.0
+X - 40	Tempo: 666	Best.Value: 11862.0
+X - 158	Tempo: 2373	Best.Value: 12050.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 7.0
+X - 1	Tempo: 9	Best.Value: 9.0
+X - 3	Tempo: 9	Best.Value: 17.0
+X - 8	Tempo: 10	Best.Value: 28.0
+
+ 
+ 
+
+X - 0	Tempo: 59	Best.Value: 9582.0
+X - 1	Tempo: 81	Best.Value: 10019.0
+X - 4	Tempo: 127	Best.Value: 10066.0
+X - 60	Tempo: 1107	Best.Value: 10095.0
+X - 63	Tempo: 1158	Best.Value: 10502.0
+X - 87	Tempo: 1554	Best.Value: 10720.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 9.0
+X - 5	Tempo: 9	Best.Value: 17.0
+X - 75	Tempo: 15	Best.Value: 21.0
+
+ 
+ 
+
+X - 0	Tempo: 19	Best.Value: 240.0
+X - 4	Tempo: 21	Best.Value: 283.0
+X - 17	Tempo: 25	Best.Value: 312.0
+X - 67	Tempo: 31	Best.Value: 323.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 237.0
+X - 2	Tempo: 11	Best.Value: 246.0
+X - 9	Tempo: 13	Best.Value: 249.0
+X - 32	Tempo: 19	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 299.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 220.0
+X - 1	Tempo: 9	Best.Value: 235.0
+X - 2	Tempo: 9	Best.Value: 236.0
+X - 8	Tempo: 11	Best.Value: 245.0
+X - 11	Tempo: 11	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 274.0
+X - 1	Tempo: 9	Best.Value: 277.0
+X - 6	Tempo: 10	Best.Value: 307.0
+X - 73	Tempo: 19	Best.Value: 318.0
+
+ 
+ 
+
+X - 0	Tempo: 18	Best.Value: 183.0
+X - 1	Tempo: 19	Best.Value: 194.0
+X - 21	Tempo: 27	Best.Value: 206.0
+X - 23	Tempo: 28	Best.Value: 212.0
+X - 58	Tempo: 61	Best.Value: 217.0
+X - 95	Tempo: 64	Best.Value: 254.0
+
+ 
+ 
+
+X - 0	Tempo: 40	Best.Value: 125.0
+X - 1	Tempo: 42	Best.Value: 129.0
+X - 3	Tempo: 48	Best.Value: 155.0
+X - 4	Tempo: 48	Best.Value: 180.0
+X - 23	Tempo: 58	Best.Value: 206.0
+X - 24	Tempo: 63	Best.Value: 207.0
+X - 51	Tempo: 67	Best.Value: 225.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 170.0
+X - 4	Tempo: 18	Best.Value: 200.0
+X - 20	Tempo: 25	Best.Value: 239.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 124.0
+X - 1	Tempo: 16	Best.Value: 146.0
+X - 4	Tempo: 19	Best.Value: 195.0
+X - 5	Tempo: 19	Best.Value: 228.0
+X - 7	Tempo: 20	Best.Value: 233.0
+X - 38	Tempo: 31	Best.Value: 243.0
+
+ 
+ 
+
+X - 0	Tempo: 13	Best.Value: 189.0
+X - 1	Tempo: 15	Best.Value: 211.0
+X - 27	Tempo: 25	Best.Value: 231.0
+
+ 
+ 
+
+X - 0	Tempo: 28	Best.Value: 1287.0
+X - 4	Tempo: 37	Best.Value: 1336.0
+X - 7	Tempo: 39	Best.Value: 1355.0
+X - 23	Tempo: 66	Best.Value: 1361.0
+X - 52	Tempo: 75	Best.Value: 1389.0
+X - 122	Tempo: 94	Best.Value: 1391.0
+
+ 
+ 
+
+X - 0	Tempo: 23	Best.Value: 1208.0
+X - 1	Tempo: 29	Best.Value: 1366.0
+X - 3	Tempo: 31	Best.Value: 1368.0
+X - 12	Tempo: 39	Best.Value: 1393.0
+X - 46	Tempo: 49	Best.Value: 1471.0
+
+ 
+ 
+
+X - 0	Tempo: 17	Best.Value: 1103.0
+X - 1	Tempo: 19	Best.Value: 1264.0
+X - 37	Tempo: 35	Best.Value: 1286.0
+X - 60	Tempo: 40	Best.Value: 1323.0
+X - 98	Tempo: 48	Best.Value: 1327.0
+
+ 
+ 
+
+X - 0	Tempo: 17	Best.Value: 1099.0
+X - 2	Tempo: 21	Best.Value: 1169.0
+X - 8	Tempo: 30	Best.Value: 1203.0
+X - 10	Tempo: 31	Best.Value: 1247.0
+
+ 
+ 
+
+X - 0	Tempo: 11	Best.Value: 10.0
+X - 1	Tempo: 12	Best.Value: 13.0
+X - 5	Tempo: 12	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 1104.0
+X - 2	Tempo: 18	Best.Value: 1175.0
+X - 11	Tempo: 24	Best.Value: 1217.0
+
+ 
+ 
+
+X - 0	Tempo: 32	Best.Value: 763.0
+X - 21	Tempo: 57	Best.Value: 766.0
+X - 26	Tempo: 59	Best.Value: 776.0
+X - 30	Tempo: 60	Best.Value: 784.0
+X - 32	Tempo: 61	Best.Value: 825.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 816.0
+X - 9	Tempo: 47	Best.Value: 851.0
+X - 60	Tempo: 67	Best.Value: 947.0
+
+ 
+ 
+
+X - 0	Tempo: 24	Best.Value: 682.0
+X - 1	Tempo: 26	Best.Value: 705.0
+X - 3	Tempo: 31	Best.Value: 741.0
+X - 6	Tempo: 34	Best.Value: 815.0
+X - 26	Tempo: 48	Best.Value: 894.0
+X - 131	Tempo: 97	Best.Value: 904.0
+
+ 
+ 
+
+X - 0	Tempo: 29	Best.Value: 727.0
+X - 1	Tempo: 33	Best.Value: 755.0
+X - 4	Tempo: 38	Best.Value: 804.0
+X - 34	Tempo: 57	Best.Value: 882.0
+
+ 
+ 
+
+X - 0	Tempo: 43	Best.Value: 602.0
+X - 2	Tempo: 51	Best.Value: 719.0
+X - 7	Tempo: 59	Best.Value: 762.0
+X - 27	Tempo: 76	Best.Value: 810.0
+
+ 
+ 
+
+X - 0	Tempo: 32	Best.Value: 4831.0
+X - 8	Tempo: 57	Best.Value: 5150.0
+X - 11	Tempo: 64	Best.Value: 5412.0
+X - 54	Tempo: 150	Best.Value: 5424.0
+
+ 
+ 
+
+X - 0	Tempo: 38	Best.Value: 4296.0
+X - 1	Tempo: 43	Best.Value: 4832.0
+X - 2	Tempo: 45	Best.Value: 4860.0
+X - 8	Tempo: 64	Best.Value: 4946.0
+
+ 
+ 
+
+X - 0	Tempo: 36	Best.Value: 4927.0
+X - 10	Tempo: 78	Best.Value: 5116.0
+X - 30	Tempo: 142	Best.Value: 5597.0
+
+ 
+ 
+
+X - 0	Tempo: 40	Best.Value: 5032.0
+X - 23	Tempo: 95	Best.Value: 5037.0
+X - 31	Tempo: 114	Best.Value: 5054.0
+X - 39	Tempo: 128	Best.Value: 5210.0
+X - 60	Tempo: 172	Best.Value: 5329.0
+X - 65	Tempo: 181	Best.Value: 5452.0
+
+ 
+ 
+
+X - 0	Tempo: 10	Best.Value: 8.0
+X - 3	Tempo: 11	Best.Value: 15.0
+X - 9	Tempo: 11	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 38	Best.Value: 5029.0
+X - 4	Tempo: 53	Best.Value: 5051.0
+X - 13	Tempo: 74	Best.Value: 5055.0
+
+ 
+ 
+
+X - 0	Tempo: 77	Best.Value: 1145.0
+X - 3	Tempo: 86	Best.Value: 1154.0
+X - 8	Tempo: 102	Best.Value: 1168.0
+X - 10	Tempo: 107	Best.Value: 1181.0
+X - 12	Tempo: 109	Best.Value: 1205.0
+X - 13	Tempo: 110	Best.Value: 1288.0
+
+ 
+ 
+
+X - 0	Tempo: 43	Best.Value: 1006.0
+X - 1	Tempo: 51	Best.Value: 1009.0
+X - 2	Tempo: 55	Best.Value: 1023.0
+X - 3	Tempo: 59	Best.Value: 1060.0
+X - 7	Tempo: 73	Best.Value: 1113.0
+X - 23	Tempo: 89	Best.Value: 1137.0
+X - 26	Tempo: 92	Best.Value: 1169.0
+X - 32	Tempo: 97	Best.Value: 1193.0
+X - 235	Tempo: 282	Best.Value: 1218.0
+
+ 
+ 
+
+X - 0	Tempo: 35	Best.Value: 924.0
+X - 2	Tempo: 41	Best.Value: 1070.0
+X - 4	Tempo: 44	Best.Value: 1179.0
+X - 5	Tempo: 48	Best.Value: 1213.0
+X - 72	Tempo: 104	Best.Value: 1243.0
+X - 154	Tempo: 171	Best.Value: 1270.0
+
+ 
+ 
+
+X - 0	Tempo: 30	Best.Value: 754.0
+X - 1	Tempo: 39	Best.Value: 918.0
+X - 2	Tempo: 42	Best.Value: 1078.0
+X - 17	Tempo: 60	Best.Value: 1216.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 773.0
+X - 1	Tempo: 37	Best.Value: 826.0
+X - 2	Tempo: 43	Best.Value: 1161.0
+X - 4	Tempo: 46	Best.Value: 1285.0
+X - 61	Tempo: 111	Best.Value: 1287.0
+X - 286	Tempo: 264	Best.Value: 1300.0
+
+ 
+ 
+
+X - 0	Tempo: 47	Best.Value: 6823.0
+X - 1	Tempo: 56	Best.Value: 7107.0
+X - 18	Tempo: 157	Best.Value: 7191.0
+
+ 
+ 
+
+X - 0	Tempo: 97	Best.Value: 7681.0
+X - 78	Tempo: 628	Best.Value: 7697.0
+
+ 
+ 
+
+X - 0	Tempo: 43	Best.Value: 6569.0
+X - 7	Tempo: 74	Best.Value: 6726.0
+X - 20	Tempo: 135	Best.Value: 6851.0
+X - 26	Tempo: 159	Best.Value: 7045.0
+X - 61	Tempo: 298	Best.Value: 7084.0
+
+ 
+ 
+
+X - 0	Tempo: 49	Best.Value: 6698.0
+X - 1	Tempo: 57	Best.Value: 6938.0
+X - 20	Tempo: 202	Best.Value: 6983.0
+X - 24	Tempo: 224	Best.Value: 7050.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 16.0
+X - 7	Tempo: 15	Best.Value: 17.0
+X - 36	Tempo: 18	Best.Value: 20.0
+
+ 
+ 
+
+X - 0	Tempo: 54	Best.Value: 7125.0
+X - 1	Tempo: 62	Best.Value: 7126.0
+X - 2	Tempo: 72	Best.Value: 7378.0
+X - 10	Tempo: 125	Best.Value: 7589.0
+X - 76	Tempo: 576	Best.Value: 7601.0
+
+ 
+ 
+
+X - 0	Tempo: 36	Best.Value: 1265.0
+X - 2	Tempo: 49	Best.Value: 1396.0
+X - 4	Tempo: 52	Best.Value: 1417.0
+X - 5	Tempo: 54	Best.Value: 1787.0
+X - 40	Tempo: 113	Best.Value: 1979.0
+X - 129	Tempo: 268	Best.Value: 2087.0
+
+ 
+ 
+
+X - 0	Tempo: 63	Best.Value: 1390.0
+X - 1	Tempo: 78	Best.Value: 1569.0
+X - 6	Tempo: 108	Best.Value: 1860.0
+X - 207	Tempo: 425	Best.Value: 1899.0
+
+ 
+ 
+
+X - 0	Tempo: 92	Best.Value: 1595.0
+X - 9	Tempo: 128	Best.Value: 1753.0
+X - 34	Tempo: 174	Best.Value: 1850.0
+
+ 
+ 
+
+X - 0	Tempo: 37	Best.Value: 1353.0
+X - 1	Tempo: 42	Best.Value: 1651.0
+X - 3	Tempo: 46	Best.Value: 1709.0
+X - 6	Tempo: 54	Best.Value: 1802.0
+X - 10	Tempo: 61	Best.Value: 1829.0
+X - 67	Tempo: 139	Best.Value: 2017.0
+X - 68	Tempo: 141	Best.Value: 2071.0
+
+ 
+ 
+
+X - 0	Tempo: 41	Best.Value: 1590.0
+X - 1	Tempo: 55	Best.Value: 1601.0
+X - 4	Tempo: 62	Best.Value: 1632.0
+X - 8	Tempo: 72	Best.Value: 1754.0
+X - 18	Tempo: 91	Best.Value: 1808.0
+X - 29	Tempo: 107	Best.Value: 1822.0
+X - 220	Tempo: 441	Best.Value: 1880.0
+
+ 
+ 
+
+X - 0	Tempo: 59	Best.Value: 9441.0
+X - 2	Tempo: 97	Best.Value: 9530.0
+X - 4	Tempo: 134	Best.Value: 9591.0
+X - 5	Tempo: 146	Best.Value: 9625.0
+X - 6	Tempo: 164	Best.Value: 9633.0
+X - 7	Tempo: 178	Best.Value: 9849.0
+X - 8	Tempo: 193	Best.Value: 9850.0
+X - 48	Tempo: 764	Best.Value: 10058.0
+X - 55	Tempo: 857	Best.Value: 10329.0
+X - 101	Tempo: 1510	Best.Value: 10449.0
+
+ 
+ 
+
+X - 0	Tempo: 61	Best.Value: 10227.0
+X - 2	Tempo: 91	Best.Value: 10366.0
+X - 91	Tempo: 1056	Best.Value: 10534.0
+
+ 
+ 
+
+X - 0	Tempo: 60	Best.Value: 10319.0
+X - 1	Tempo: 76	Best.Value: 10609.0
+X - 17	Tempo: 259	Best.Value: 10821.0
+X - 22	Tempo: 336	Best.Value: 11068.0
+X - 31	Tempo: 440	Best.Value: 11190.0
+X - 81	Tempo: 1020	Best.Value: 11338.0
+
+ 
+ 
+
+X - 0	Tempo: 58	Best.Value: 12050.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 9.0
+X - 5	Tempo: 9	Best.Value: 13.0
+X - 9	Tempo: 10	Best.Value: 18.0
+X - 69	Tempo: 13	Best.Value: 28.0
+
+ 
+ 
+
+X - 0	Tempo: 56	Best.Value: 10095.0
+X - 20	Tempo: 396	Best.Value: 10260.0
+X - 22	Tempo: 426	Best.Value: 10720.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 9.0
+X - 6	Tempo: 10	Best.Value: 16.0
+X - 41	Tempo: 11	Best.Value: 21.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 209.0
+X - 1	Tempo: 10	Best.Value: 312.0
+X - 38	Tempo: 20	Best.Value: 323.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 202.0
+X - 1	Tempo: 10	Best.Value: 242.0
+X - 5	Tempo: 10	Best.Value: 258.0
+X - 48	Tempo: 16	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 223.0
+X - 1	Tempo: 9	Best.Value: 299.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 217.0
+X - 1	Tempo: 10	Best.Value: 236.0
+X - 6	Tempo: 11	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 208.0
+X - 1	Tempo: 9	Best.Value: 318.0
+
+ 
+ 
+
+X - 0	Tempo: 13	Best.Value: 129.0
+X - 1	Tempo: 17	Best.Value: 145.0
+X - 2	Tempo: 18	Best.Value: 206.0
+X - 12	Tempo: 22	Best.Value: 212.0
+X - 26	Tempo: 27	Best.Value: 254.0
+
+ 
+ 
+
+X - 0	Tempo: 18	Best.Value: 121.0
+X - 1	Tempo: 19	Best.Value: 145.0
+X - 2	Tempo: 19	Best.Value: 152.0
+X - 6	Tempo: 21	Best.Value: 168.0
+X - 8	Tempo: 22	Best.Value: 180.0
+X - 11	Tempo: 23	Best.Value: 198.0
+X - 15	Tempo: 25	Best.Value: 207.0
+X - 118	Tempo: 38	Best.Value: 225.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 231.0
+X - 8	Tempo: 19	Best.Value: 239.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 172.0
+X - 5	Tempo: 18	Best.Value: 186.0
+X - 8	Tempo: 19	Best.Value: 195.0
+X - 10	Tempo: 21	Best.Value: 228.0
+X - 24	Tempo: 26	Best.Value: 232.0
+X - 45	Tempo: 30	Best.Value: 243.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 112.0
+X - 1	Tempo: 15	Best.Value: 179.0
+X - 6	Tempo: 17	Best.Value: 211.0
+X - 86	Tempo: 35	Best.Value: 231.0
+
+ 
+ 
+
+X - 0	Tempo: 17	Best.Value: 1338.0
+X - 3	Tempo: 23	Best.Value: 1391.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1232.0
+X - 1	Tempo: 18	Best.Value: 1366.0
+X - 16	Tempo: 28	Best.Value: 1400.0
+X - 71	Tempo: 41	Best.Value: 1471.0
+
+ 
+ 
+
+X - 0	Tempo: 23	Best.Value: 1267.0
+X - 32	Tempo: 44	Best.Value: 1321.0
+X - 54	Tempo: 50	Best.Value: 1327.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 1002.0
+X - 1	Tempo: 18	Best.Value: 1099.0
+X - 2	Tempo: 19	Best.Value: 1141.0
+X - 8	Tempo: 27	Best.Value: 1203.0
+X - 41	Tempo: 39	Best.Value: 1242.0
+X - 55	Tempo: 43	Best.Value: 1247.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 8.0
+X - 2	Tempo: 8	Best.Value: 9.0
+X - 5	Tempo: 9	Best.Value: 13.0
+X - 26	Tempo: 10	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 1038.0
+X - 2	Tempo: 19	Best.Value: 1119.0
+X - 4	Tempo: 20	Best.Value: 1152.0
+X - 8	Tempo: 24	Best.Value: 1163.0
+X - 10	Tempo: 24	Best.Value: 1164.0
+X - 18	Tempo: 27	Best.Value: 1165.0
+X - 37	Tempo: 32	Best.Value: 1217.0
+
+ 
+ 
+
+X - 0	Tempo: 25	Best.Value: 707.0
+X - 1	Tempo: 28	Best.Value: 752.0
+X - 4	Tempo: 34	Best.Value: 807.0
+X - 28	Tempo: 51	Best.Value: 824.0
+X - 93	Tempo: 80	Best.Value: 825.0
+
+ 
+ 
+
+X - 0	Tempo: 28	Best.Value: 740.0
+X - 1	Tempo: 32	Best.Value: 749.0
+X - 2	Tempo: 35	Best.Value: 771.0
+X - 5	Tempo: 40	Best.Value: 898.0
+X - 14	Tempo: 48	Best.Value: 947.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 544.0
+X - 1	Tempo: 35	Best.Value: 656.0
+X - 2	Tempo: 38	Best.Value: 703.0
+X - 7	Tempo: 42	Best.Value: 723.0
+X - 8	Tempo: 45	Best.Value: 745.0
+X - 12	Tempo: 48	Best.Value: 769.0
+X - 44	Tempo: 63	Best.Value: 797.0
+X - 79	Tempo: 78	Best.Value: 815.0
+X - 106	Tempo: 90	Best.Value: 894.0
+X - 144	Tempo: 107	Best.Value: 904.0
+
+ 
+ 
+
+X - 0	Tempo: 33	Best.Value: 727.0
+X - 2	Tempo: 40	Best.Value: 759.0
+X - 4	Tempo: 42	Best.Value: 813.0
+X - 5	Tempo: 43	Best.Value: 826.0
+X - 110	Tempo: 89	Best.Value: 848.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 541.0
+X - 1	Tempo: 35	Best.Value: 738.0
+X - 2	Tempo: 37	Best.Value: 762.0
+X - 102	Tempo: 83	Best.Value: 810.0
+
+ 
+ 
+
+X - 0	Tempo: 30	Best.Value: 4340.0
+X - 1	Tempo: 38	Best.Value: 4831.0
+X - 6	Tempo: 53	Best.Value: 5178.0
+X - 56	Tempo: 168	Best.Value: 5247.0
+X - 85	Tempo: 229	Best.Value: 5412.0
+X - 134	Tempo: 344	Best.Value: 5424.0
+
+ 
+ 
+
+X - 0	Tempo: 34	Best.Value: 4579.0
+X - 1	Tempo: 44	Best.Value: 4649.0
+X - 3	Tempo: 51	Best.Value: 4746.0
+X - 19	Tempo: 86	Best.Value: 4901.0
+X - 64	Tempo: 186	Best.Value: 4946.0
+
+ 
+ 
+
+X - 0	Tempo: 42	Best.Value: 5078.0
+X - 2	Tempo: 53	Best.Value: 5309.0
+X - 34	Tempo: 156	Best.Value: 5597.0
+
+ 
+ 
+
+X - 0	Tempo: 32	Best.Value: 4937.0
+X - 1	Tempo: 37	Best.Value: 5054.0
+X - 23	Tempo: 88	Best.Value: 5329.0
+X - 203	Tempo: 472	Best.Value: 5452.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 8.0
+X - 1	Tempo: 9	Best.Value: 9.0
+X - 2	Tempo: 9	Best.Value: 15.0
+X - 14	Tempo: 10	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 37	Best.Value: 5029.0
+X - 54	Tempo: 171	Best.Value: 5054.0
+X - 93	Tempo: 271	Best.Value: 5055.0
+
+ 
+ 
+
+X - 0	Tempo: 32	Best.Value: 1082.0
+X - 3	Tempo: 46	Best.Value: 1249.0
+X - 6	Tempo: 54	Best.Value: 1272.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 1078.0
+X - 2	Tempo: 41	Best.Value: 1218.0
+
+ 
+ 
+
+X - 0	Tempo: 33	Best.Value: 1168.0
+X - 14	Tempo: 58	Best.Value: 1196.0
+X - 59	Tempo: 93	Best.Value: 1243.0
+X - 114	Tempo: 133	Best.Value: 1270.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 1004.0
+X - 6	Tempo: 50	Best.Value: 1048.0
+X - 27	Tempo: 68	Best.Value: 1164.0
+X - 63	Tempo: 97	Best.Value: 1211.0
+X - 234	Tempo: 233	Best.Value: 1216.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 1032.0
+X - 2	Tempo: 38	Best.Value: 1033.0
+X - 4	Tempo: 44	Best.Value: 1112.0
+X - 5	Tempo: 45	Best.Value: 1161.0
+X - 26	Tempo: 64	Best.Value: 1287.0
+X - 30	Tempo: 67	Best.Value: 1300.0
+
+ 
+ 
+
+X - 0	Tempo: 44	Best.Value: 6517.0
+X - 1	Tempo: 52	Best.Value: 6626.0
+X - 2	Tempo: 62	Best.Value: 6715.0
+X - 4	Tempo: 76	Best.Value: 7060.0
+X - 14	Tempo: 127	Best.Value: 7107.0
+X - 31	Tempo: 216	Best.Value: 7148.0
+X - 49	Tempo: 309	Best.Value: 7191.0
+
+ 
+ 
+
+X - 0	Tempo: 53	Best.Value: 7459.0
+X - 1	Tempo: 64	Best.Value: 7681.0
+X - 186	Tempo: 1241	Best.Value: 7697.0
+
+ 
+ 
+
+X - 0	Tempo: 42	Best.Value: 6504.0
+X - 5	Tempo: 71	Best.Value: 6693.0
+X - 6	Tempo: 77	Best.Value: 7082.0
+X - 193	Tempo: 769	Best.Value: 7084.0
+
+ 
+ 
+
+X - 0	Tempo: 45	Best.Value: 6938.0
+X - 19	Tempo: 172	Best.Value: 6983.0
+X - 63	Tempo: 429	Best.Value: 7050.0
+X - 75	Tempo: 503	Best.Value: 7280.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 6.0
+X - 1	Tempo: 9	Best.Value: 9.0
+X - 3	Tempo: 9	Best.Value: 15.0
+X - 5	Tempo: 9	Best.Value: 16.0
+X - 14	Tempo: 10	Best.Value: 20.0
+
+ 
+ 
+
+X - 0	Tempo: 45	Best.Value: 7257.0
+X - 17	Tempo: 164	Best.Value: 7365.0
+X - 18	Tempo: 171	Best.Value: 7378.0
+X - 19	Tempo: 176	Best.Value: 7601.0
+
+ 
+ 
+
+X - 0	Tempo: 48	Best.Value: 1598.0
+X - 1	Tempo: 59	Best.Value: 1856.0
+X - 15	Tempo: 88	Best.Value: 1861.0
+X - 68	Tempo: 176	Best.Value: 2087.0
+
+ 
+ 
+
+X - 0	Tempo: 43	Best.Value: 1436.0
+X - 1	Tempo: 58	Best.Value: 1620.0
+X - 2	Tempo: 63	Best.Value: 1765.0
+X - 11	Tempo: 84	Best.Value: 1780.0
+X - 28	Tempo: 112	Best.Value: 1860.0
+X - 95	Tempo: 223	Best.Value: 1899.0
+X - 144	Tempo: 302	Best.Value: 1906.0
+
+ 
+ 
+
+X - 0	Tempo: 60	Best.Value: 1694.0
+X - 53	Tempo: 151	Best.Value: 1710.0
+X - 71	Tempo: 182	Best.Value: 1751.0
+X - 134	Tempo: 285	Best.Value: 1873.0
+
+ 
+ 
+
+X - 0	Tempo: 47	Best.Value: 2058.0
+X - 39	Tempo: 118	Best.Value: 2071.0
+
+ 
+ 
+
+X - 0	Tempo: 41	Best.Value: 1590.0
+X - 2	Tempo: 52	Best.Value: 1601.0
+X - 3	Tempo: 54	Best.Value: 1676.0
+X - 12	Tempo: 74	Best.Value: 1773.0
+X - 41	Tempo: 125	Best.Value: 1822.0
+X - 111	Tempo: 261	Best.Value: 1880.0
+
+ 
+ 
+
+X - 0	Tempo: 58	Best.Value: 9401.0
+X - 1	Tempo: 79	Best.Value: 9441.0
+X - 3	Tempo: 109	Best.Value: 10449.0
+X - 84	Tempo: 1214	Best.Value: 10659.0
+
+ 
+ 
+
+X - 0	Tempo: 62	Best.Value: 9740.0
+X - 1	Tempo: 72	Best.Value: 10227.0
+X - 16	Tempo: 221	Best.Value: 10231.0
+X - 18	Tempo: 242	Best.Value: 10235.0
+X - 64	Tempo: 755	Best.Value: 10377.0
+X - 100	Tempo: 1166	Best.Value: 10534.0
+
+ 
+ 
+
+X - 0	Tempo: 71	Best.Value: 10104.0
+X - 1	Tempo: 91	Best.Value: 10108.0
+X - 2	Tempo: 104	Best.Value: 10319.0
+X - 10	Tempo: 192	Best.Value: 10373.0
+X - 13	Tempo: 223	Best.Value: 10439.0
+X - 22	Tempo: 322	Best.Value: 10821.0
+X - 43	Tempo: 578	Best.Value: 11034.0
+X - 82	Tempo: 1020	Best.Value: 11068.0
+X - 144	Tempo: 1736	Best.Value: 11190.0
+
+ 
+ 
+
+X - 0	Tempo: 70	Best.Value: 10502.0
+X - 1	Tempo: 84	Best.Value: 10740.0
+X - 2	Tempo: 98	Best.Value: 11100.0
+X - 14	Tempo: 274	Best.Value: 11395.0
+X - 22	Tempo: 373	Best.Value: 11694.0
+X - 113	Tempo: 1592	Best.Value: 11862.0
+X - 277	Tempo: 3873	Best.Value: 11866.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 10.0
+X - 5	Tempo: 10	Best.Value: 14.0
+X - 6	Tempo: 10	Best.Value: 18.0
+X - 24	Tempo: 10	Best.Value: 28.0
+
+ 
+ 
+
+X - 0	Tempo: 68	Best.Value: 9502.0
+X - 1	Tempo: 88	Best.Value: 9734.0
+X - 3	Tempo: 124	Best.Value: 10153.0
+X - 17	Tempo: 358	Best.Value: 10502.0
+X - 35	Tempo: 662	Best.Value: 10720.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 9.0
+X - 6	Tempo: 9	Best.Value: 21.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 312.0
+X - 2	Tempo: 10	Best.Value: 323.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 242.0
+X - 4	Tempo: 10	Best.Value: 246.0
+X - 19	Tempo: 12	Best.Value: 258.0
+X - 21	Tempo: 13	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 181.0
+X - 1	Tempo: 10	Best.Value: 299.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 209.0
+X - 1	Tempo: 10	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 254.0
+X - 1	Tempo: 10	Best.Value: 307.0
+X - 5	Tempo: 11	Best.Value: 318.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 145.0
+X - 1	Tempo: 15	Best.Value: 147.0
+X - 2	Tempo: 16	Best.Value: 254.0
+
+ 
+ 
+
+X - 0	Tempo: 23	Best.Value: 122.0
+X - 1	Tempo: 25	Best.Value: 130.0
+X - 2	Tempo: 29	Best.Value: 152.0
+X - 12	Tempo: 34	Best.Value: 207.0
+X - 139	Tempo: 47	Best.Value: 225.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 109.0
+X - 1	Tempo: 15	Best.Value: 168.0
+X - 4	Tempo: 17	Best.Value: 177.0
+X - 6	Tempo: 19	Best.Value: 180.0
+X - 10	Tempo: 21	Best.Value: 231.0
+X - 22	Tempo: 25	Best.Value: 239.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 130.0
+X - 1	Tempo: 16	Best.Value: 144.0
+X - 2	Tempo: 17	Best.Value: 146.0
+X - 9	Tempo: 19	Best.Value: 232.0
+X - 65	Tempo: 29	Best.Value: 233.0
+X - 101	Tempo: 31	Best.Value: 243.0
+
+ 
+ 
+
+X - 0	Tempo: 13	Best.Value: 156.0
+X - 2	Tempo: 15	Best.Value: 170.0
+X - 9	Tempo: 18	Best.Value: 211.0
+X - 18	Tempo: 21	Best.Value: 231.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1199.0
+X - 3	Tempo: 20	Best.Value: 1232.0
+X - 4	Tempo: 21	Best.Value: 1338.0
+X - 5	Tempo: 24	Best.Value: 1389.0
+X - 82	Tempo: 51	Best.Value: 1391.0
+
+ 
+ 
+
+X - 0	Tempo: 17	Best.Value: 1393.0
+X - 25	Tempo: 31	Best.Value: 1471.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1156.0
+X - 1	Tempo: 18	Best.Value: 1174.0
+X - 4	Tempo: 22	Best.Value: 1264.0
+X - 7	Tempo: 27	Best.Value: 1286.0
+X - 19	Tempo: 31	Best.Value: 1327.0
+
+ 
+ 
+
+X - 0	Tempo: 33	Best.Value: 1099.0
+X - 2	Tempo: 37	Best.Value: 1242.0
+X - 41	Tempo: 60	Best.Value: 1247.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 9.0
+X - 5	Tempo: 10	Best.Value: 10.0
+X - 9	Tempo: 10	Best.Value: 13.0
+X - 23	Tempo: 11	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 1152.0
+X - 22	Tempo: 31	Best.Value: 1175.0
+X - 29	Tempo: 32	Best.Value: 1217.0
+
+ 
+ 
+
+X - 0	Tempo: 25	Best.Value: 629.0
+X - 1	Tempo: 28	Best.Value: 779.0
+X - 28	Tempo: 49	Best.Value: 784.0
+X - 36	Tempo: 52	Best.Value: 825.0
+
+ 
+ 
+
+X - 0	Tempo: 46	Best.Value: 652.0
+X - 1	Tempo: 53	Best.Value: 816.0
+X - 10	Tempo: 65	Best.Value: 851.0
+X - 25	Tempo: 73	Best.Value: 898.0
+X - 211	Tempo: 147	Best.Value: 947.0
+
+ 
+ 
+
+X - 0	Tempo: 28	Best.Value: 660.0
+X - 1	Tempo: 30	Best.Value: 682.0
+X - 5	Tempo: 37	Best.Value: 904.0
+
+ 
+ 
+
+X - 0	Tempo: 51	Best.Value: 813.0
+X - 12	Tempo: 68	Best.Value: 826.0
+X - 41	Tempo: 81	Best.Value: 882.0
+
+ 
+ 
+
+X - 0	Tempo: 25	Best.Value: 510.0
+X - 1	Tempo: 31	Best.Value: 659.0
+X - 8	Tempo: 37	Best.Value: 703.0
+X - 9	Tempo: 40	Best.Value: 810.0
+
+ 
+ 
+
+X - 0	Tempo: 40	Best.Value: 4746.0
+X - 2	Tempo: 48	Best.Value: 5179.0
+X - 11	Tempo: 74	Best.Value: 5215.0
+X - 67	Tempo: 200	Best.Value: 5424.0
+
+ 
+ 
+
+X - 0	Tempo: 37	Best.Value: 4776.0
+X - 13	Tempo: 76	Best.Value: 4789.0
+X - 15	Tempo: 81	Best.Value: 4874.0
+X - 49	Tempo: 154	Best.Value: 4946.0
+
+ 
+ 
+
+X - 0	Tempo: 44	Best.Value: 4488.0
+X - 1	Tempo: 51	Best.Value: 4973.0
+X - 2	Tempo: 57	Best.Value: 5078.0
+X - 7	Tempo: 80	Best.Value: 5307.0
+X - 32	Tempo: 182	Best.Value: 5319.0
+X - 41	Tempo: 210	Best.Value: 5331.0
+X - 82	Tempo: 342	Best.Value: 5589.0
+X - 120	Tempo: 465	Best.Value: 5597.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 4711.0
+X - 6	Tempo: 55	Best.Value: 5054.0
+X - 27	Tempo: 99	Best.Value: 5074.0
+X - 34	Tempo: 113	Best.Value: 5452.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 8.0
+X - 6	Tempo: 9	Best.Value: 9.0
+X - 11	Tempo: 10	Best.Value: 12.0
+X - 21	Tempo: 10	Best.Value: 15.0
+X - 27	Tempo: 10	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 37	Best.Value: 5029.0
+X - 51	Tempo: 195	Best.Value: 5051.0
+X - 167	Tempo: 502	Best.Value: 5055.0
+
+ 
+ 
+
+X - 0	Tempo: 37	Best.Value: 1145.0
+X - 1	Tempo: 43	Best.Value: 1272.0
+X - 188	Tempo: 202	Best.Value: 1288.0
+
+ 
+ 
+
+X - 0	Tempo: 38	Best.Value: 960.0
+X - 2	Tempo: 47	Best.Value: 1046.0
+X - 6	Tempo: 61	Best.Value: 1131.0
+X - 9	Tempo: 64	Best.Value: 1176.0
+X - 10	Tempo: 65	Best.Value: 1193.0
+
+ 
+ 
+
+X - 0	Tempo: 43	Best.Value: 1015.0
+X - 1	Tempo: 50	Best.Value: 1117.0
+X - 6	Tempo: 61	Best.Value: 1182.0
+X - 86	Tempo: 131	Best.Value: 1270.0
+
+ 
+ 
+
+X - 0	Tempo: 44	Best.Value: 1164.0
+X - 29	Tempo: 97	Best.Value: 1211.0
+X - 84	Tempo: 142	Best.Value: 1216.0
+
+ 
+ 
+
+X - 0	Tempo: 34	Best.Value: 1253.0
+X - 77	Tempo: 101	Best.Value: 1287.0
+X - 213	Tempo: 201	Best.Value: 1300.0
+
+ 
+ 
+
+X - 0	Tempo: 46	Best.Value: 7002.0
+X - 2	Tempo: 61	Best.Value: 7175.0
+X - 72	Tempo: 446	Best.Value: 7191.0
+
+ 
+ 
+
+X - 0	Tempo: 49	Best.Value: 7261.0
+X - 1	Tempo: 63	Best.Value: 7681.0
+X - 30	Tempo: 282	Best.Value: 7697.0
+
+ 
+ 
+
+X - 0	Tempo: 46	Best.Value: 6400.0
+X - 3	Tempo: 64	Best.Value: 6646.0
+X - 13	Tempo: 101	Best.Value: 7084.0
+
+ 
+ 
+
+X - 0	Tempo: 44	Best.Value: 6938.0
+X - 98	Tempo: 677	Best.Value: 6998.0
+X - 231	Tempo: 1517	Best.Value: 7050.0
+X - 271	Tempo: 1784	Best.Value: 7280.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 7.0
+X - 1	Tempo: 9	Best.Value: 17.0
+X - 45	Tempo: 11	Best.Value: 20.0
+
+ 
+ 
+
+X - 0	Tempo: 77	Best.Value: 7126.0
+X - 3	Tempo: 105	Best.Value: 7217.0
+X - 4	Tempo: 113	Best.Value: 7378.0
+X - 10	Tempo: 152	Best.Value: 7379.0
+X - 43	Tempo: 379	Best.Value: 7579.0
+X - 75	Tempo: 599	Best.Value: 7601.0
+
+ 
+ 
+
+X - 0	Tempo: 37	Best.Value: 1393.0
+X - 1	Tempo: 45	Best.Value: 1590.0
+X - 2	Tempo: 52	Best.Value: 1736.0
+X - 38	Tempo: 112	Best.Value: 1979.0
+X - 239	Tempo: 439	Best.Value: 2087.0
+
+ 
+ 
+
+X - 0	Tempo: 37	Best.Value: 1477.0
+X - 1	Tempo: 46	Best.Value: 1540.0
+X - 6	Tempo: 61	Best.Value: 1545.0
+X - 8	Tempo: 65	Best.Value: 1899.0
+X - 98	Tempo: 214	Best.Value: 1906.0
+
+ 
+ 
+
+X - 0	Tempo: 48	Best.Value: 1472.0
+X - 3	Tempo: 66	Best.Value: 1531.0
+X - 4	Tempo: 71	Best.Value: 1710.0
+X - 13	Tempo: 91	Best.Value: 1766.0
+X - 14	Tempo: 92	Best.Value: 1822.0
+X - 45	Tempo: 154	Best.Value: 1850.0
+X - 49	Tempo: 162	Best.Value: 1873.0
+
+ 
+ 
+
+X - 0	Tempo: 37	Best.Value: 1674.0
+X - 1	Tempo: 47	Best.Value: 1709.0
+X - 5	Tempo: 62	Best.Value: 1804.0
+X - 9	Tempo: 67	Best.Value: 1890.0
+X - 56	Tempo: 141	Best.Value: 2058.0
+X - 224	Tempo: 374	Best.Value: 2071.0
+
+ 
+ 
+
+X - 0	Tempo: 51	Best.Value: 1370.0
+X - 1	Tempo: 62	Best.Value: 1532.0
+X - 2	Tempo: 65	Best.Value: 1714.0
+X - 5	Tempo: 75	Best.Value: 1880.0
+
+ 
+ 
+
+X - 0	Tempo: 84	Best.Value: 9441.0
+X - 3	Tempo: 132	Best.Value: 10329.0
+X - 24	Tempo: 435	Best.Value: 10449.0
+
+ 
+ 
+
+X - 0	Tempo: 49	Best.Value: 10227.0
+X - 12	Tempo: 194	Best.Value: 10235.0
+X - 18	Tempo: 263	Best.Value: 10498.0
+X - 28	Tempo: 375	Best.Value: 10518.0
+X - 223	Tempo: 2599	Best.Value: 10534.0
+
+ 
+ 
+
+X - 0	Tempo: 74	Best.Value: 10061.0
+X - 1	Tempo: 90	Best.Value: 10917.0
+X - 22	Tempo: 353	Best.Value: 11190.0
+X - 57	Tempo: 762	Best.Value: 11338.0
+
+ 
+ 
+
+X - 0	Tempo: 86	Best.Value: 10253.0
+X - 1	Tempo: 111	Best.Value: 10344.0
+X - 2	Tempo: 129	Best.Value: 10600.0
+X - 3	Tempo: 141	Best.Value: 11208.0
+X - 4	Tempo: 153	Best.Value: 11497.0
+X - 10	Tempo: 232	Best.Value: 11500.0
+X - 29	Tempo: 462	Best.Value: 11567.0
+X - 86	Tempo: 1305	Best.Value: 11862.0
+X - 142	Tempo: 2075	Best.Value: 11866.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 9.0
+X - 1	Tempo: 9	Best.Value: 17.0
+X - 2	Tempo: 9	Best.Value: 18.0
+X - 42	Tempo: 11	Best.Value: 28.0
+
+ 
+ 
+
+X - 0	Tempo: 84	Best.Value: 9502.0
+X - 2	Tempo: 123	Best.Value: 9732.0
+X - 9	Tempo: 227	Best.Value: 10436.0
+X - 83	Tempo: 1395	Best.Value: 10565.0
+X - 85	Tempo: 1424	Best.Value: 10720.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 6.0
+X - 1	Tempo: 9	Best.Value: 21.0
+
+ 
+ 
+
+X - 0	Tempo: 10	Best.Value: 231.0
+X - 1	Tempo: 11	Best.Value: 272.0
+X - 13	Tempo: 13	Best.Value: 283.0
+X - 22	Tempo: 20	Best.Value: 312.0
+X - 28	Tempo: 20	Best.Value: 323.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 221.0
+X - 1	Tempo: 10	Best.Value: 244.0
+X - 4	Tempo: 10	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 203.0
+X - 2	Tempo: 10	Best.Value: 299.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 219.0
+X - 1	Tempo: 9	Best.Value: 235.0
+X - 3	Tempo: 10	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 18	Best.Value: 208.0
+X - 1	Tempo: 19	Best.Value: 262.0
+X - 3	Tempo: 20	Best.Value: 280.0
+X - 9	Tempo: 21	Best.Value: 292.0
+X - 16	Tempo: 22	Best.Value: 307.0
+X - 33	Tempo: 28	Best.Value: 318.0
+
+ 
+ 
+
+X - 0	Tempo: 13	Best.Value: 129.0
+X - 1	Tempo: 15	Best.Value: 160.0
+X - 11	Tempo: 19	Best.Value: 178.0
+X - 27	Tempo: 24	Best.Value: 194.0
+X - 57	Tempo: 29	Best.Value: 254.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 169.0
+X - 5	Tempo: 18	Best.Value: 198.0
+X - 35	Tempo: 26	Best.Value: 206.0
+X - 53	Tempo: 29	Best.Value: 225.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 177.0
+X - 5	Tempo: 17	Best.Value: 188.0
+X - 30	Tempo: 25	Best.Value: 195.0
+X - 51	Tempo: 30	Best.Value: 210.0
+X - 76	Tempo: 31	Best.Value: 231.0
+X - 84	Tempo: 32	Best.Value: 239.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 189.0
+X - 11	Tempo: 20	Best.Value: 228.0
+X - 28	Tempo: 24	Best.Value: 233.0
+X - 49	Tempo: 27	Best.Value: 243.0
+
+ 
+ 
+
+X - 0	Tempo: 18	Best.Value: 102.0
+X - 1	Tempo: 20	Best.Value: 185.0
+X - 7	Tempo: 23	Best.Value: 189.0
+X - 18	Tempo: 27	Best.Value: 192.0
+X - 22	Tempo: 30	Best.Value: 211.0
+X - 43	Tempo: 34	Best.Value: 231.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1220.0
+X - 1	Tempo: 18	Best.Value: 1389.0
+X - 127	Tempo: 56	Best.Value: 1391.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1366.0
+X - 1	Tempo: 18	Best.Value: 1368.0
+X - 2	Tempo: 20	Best.Value: 1386.0
+X - 14	Tempo: 30	Best.Value: 1393.0
+X - 17	Tempo: 31	Best.Value: 1471.0
+
+ 
+ 
+
+X - 0	Tempo: 20	Best.Value: 1155.0
+X - 3	Tempo: 27	Best.Value: 1174.0
+X - 4	Tempo: 28	Best.Value: 1233.0
+X - 37	Tempo: 45	Best.Value: 1286.0
+X - 47	Tempo: 48	Best.Value: 1323.0
+X - 117	Tempo: 65	Best.Value: 1327.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 1099.0
+X - 3	Tempo: 21	Best.Value: 1183.0
+X - 18	Tempo: 34	Best.Value: 1242.0
+X - 54	Tempo: 44	Best.Value: 1247.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 9.0
+X - 1	Tempo: 9	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 1163.0
+X - 9	Tempo: 27	Best.Value: 1164.0
+X - 44	Tempo: 46	Best.Value: 1165.0
+X - 51	Tempo: 48	Best.Value: 1217.0
+
+ 
+ 
+
+X - 0	Tempo: 27	Best.Value: 678.0
+X - 1	Tempo: 30	Best.Value: 746.0
+X - 3	Tempo: 35	Best.Value: 784.0
+X - 4	Tempo: 36	Best.Value: 825.0
+
+ 
+ 
+
+X - 0	Tempo: 32	Best.Value: 741.0
+X - 3	Tempo: 40	Best.Value: 771.0
+X - 4	Tempo: 41	Best.Value: 796.0
+X - 6	Tempo: 45	Best.Value: 816.0
+X - 20	Tempo: 61	Best.Value: 831.0
+X - 78	Tempo: 85	Best.Value: 855.0
+X - 174	Tempo: 122	Best.Value: 947.0
+
+ 
+ 
+
+X - 0	Tempo: 25	Best.Value: 741.0
+X - 2	Tempo: 31	Best.Value: 795.0
+X - 38	Tempo: 67	Best.Value: 848.0
+X - 56	Tempo: 76	Best.Value: 904.0
+
+ 
+ 
+
+X - 0	Tempo: 30	Best.Value: 634.0
+X - 2	Tempo: 34	Best.Value: 664.0
+X - 3	Tempo: 36	Best.Value: 760.0
+X - 4	Tempo: 38	Best.Value: 826.0
+X - 52	Tempo: 67	Best.Value: 848.0
+
+ 
+ 
+
+X - 0	Tempo: 32	Best.Value: 748.0
+X - 8	Tempo: 43	Best.Value: 762.0
+X - 111	Tempo: 87	Best.Value: 810.0
+
+ 
+ 
+
+X - 0	Tempo: 32	Best.Value: 4831.0
+X - 7	Tempo: 53	Best.Value: 5178.0
+X - 9	Tempo: 58	Best.Value: 5215.0
+X - 48	Tempo: 139	Best.Value: 5412.0
+X - 208	Tempo: 495	Best.Value: 5424.0
+
+ 
+ 
+
+X - 0	Tempo: 36	Best.Value: 4722.0
+X - 1	Tempo: 43	Best.Value: 4857.0
+X - 38	Tempo: 145	Best.Value: 4878.0
+X - 68	Tempo: 211	Best.Value: 4946.0
+
+ 
+ 
+
+X - 0	Tempo: 67	Best.Value: 4770.0
+X - 1	Tempo: 71	Best.Value: 5589.0
+X - 12	Tempo: 111	Best.Value: 5597.0
+
+ 
+ 
+
+X - 0	Tempo: 36	Best.Value: 5183.0
+X - 1	Tempo: 54	Best.Value: 5186.0
+X - 46	Tempo: 162	Best.Value: 5452.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 47	Best.Value: 4763.0
+X - 5	Tempo: 66	Best.Value: 4834.0
+X - 11	Tempo: 84	Best.Value: 5029.0
+X - 22	Tempo: 109	Best.Value: 5036.0
+X - 27	Tempo: 120	Best.Value: 5051.0
+X - 47	Tempo: 168	Best.Value: 5054.0
+X - 114	Tempo: 341	Best.Value: 5055.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 1249.0
+X - 7	Tempo: 50	Best.Value: 1288.0
+
+ 
+ 
+
+X - 0	Tempo: 33	Best.Value: 945.0
+X - 1	Tempo: 39	Best.Value: 1192.0
+X - 74	Tempo: 109	Best.Value: 1218.0
+
+ 
+ 
+
+X - 0	Tempo: 37	Best.Value: 1146.0
+X - 2	Tempo: 60	Best.Value: 1156.0
+X - 47	Tempo: 108	Best.Value: 1168.0
+X - 48	Tempo: 108	Best.Value: 1213.0
+X - 54	Tempo: 114	Best.Value: 1237.0
+X - 101	Tempo: 150	Best.Value: 1270.0
+
+ 
+ 
+
+X - 0	Tempo: 35	Best.Value: 907.0
+X - 3	Tempo: 48	Best.Value: 983.0
+X - 6	Tempo: 58	Best.Value: 998.0
+X - 13	Tempo: 66	Best.Value: 1043.0
+X - 20	Tempo: 72	Best.Value: 1078.0
+X - 23	Tempo: 75	Best.Value: 1087.0
+X - 41	Tempo: 90	Best.Value: 1164.0
+X - 57	Tempo: 102	Best.Value: 1211.0
+X - 85	Tempo: 122	Best.Value: 1216.0
+
+ 
+ 
+
+X - 0	Tempo: 33	Best.Value: 994.0
+X - 2	Tempo: 41	Best.Value: 1032.0
+X - 3	Tempo: 44	Best.Value: 1064.0
+X - 5	Tempo: 48	Best.Value: 1113.0
+X - 6	Tempo: 49	Best.Value: 1164.0
+X - 16	Tempo: 62	Best.Value: 1199.0
+X - 25	Tempo: 68	Best.Value: 1300.0
+
+ 
+ 
+
+X - 0	Tempo: 49	Best.Value: 6276.0
+X - 1	Tempo: 57	Best.Value: 6795.0
+X - 3	Tempo: 72	Best.Value: 7107.0
+X - 27	Tempo: 219	Best.Value: 7191.0
+
+ 
+ 
+
+X - 0	Tempo: 48	Best.Value: 7681.0
+X - 231	Tempo: 1591	Best.Value: 7697.0
+
+ 
+ 
+
+X - 0	Tempo: 45	Best.Value: 6488.0
+X - 1	Tempo: 55	Best.Value: 6503.0
+X - 5	Tempo: 77	Best.Value: 6609.0
+X - 6	Tempo: 84	Best.Value: 7082.0
+X - 100	Tempo: 445	Best.Value: 7084.0
+
+ 
+ 
+
+X - 0	Tempo: 69	Best.Value: 6938.0
+X - 17	Tempo: 199	Best.Value: 7050.0
+X - 85	Tempo: 622	Best.Value: 7280.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 8.0
+X - 2	Tempo: 15	Best.Value: 20.0
+
+ 
+ 
+
+X - 0	Tempo: 54	Best.Value: 7181.0
+X - 4	Tempo: 89	Best.Value: 7204.0
+X - 5	Tempo: 97	Best.Value: 7579.0
+X - 16	Tempo: 174	Best.Value: 7589.0
+
+ 
+ 
+
+X - 0	Tempo: 40	Best.Value: 1581.0
+X - 1	Tempo: 51	Best.Value: 1632.0
+X - 18	Tempo: 84	Best.Value: 2087.0
+
+ 
+ 
+
+X - 0	Tempo: 45	Best.Value: 1436.0
+X - 1	Tempo: 54	Best.Value: 1607.0
+X - 4	Tempo: 60	Best.Value: 1647.0
+X - 5	Tempo: 65	Best.Value: 1719.0
+X - 8	Tempo: 71	Best.Value: 1839.0
+X - 15	Tempo: 84	Best.Value: 1906.0
+
+ 
+ 
+
+X - 0	Tempo: 69	Best.Value: 1556.0
+X - 1	Tempo: 77	Best.Value: 1766.0
+X - 48	Tempo: 159	Best.Value: 1783.0
+X - 142	Tempo: 321	Best.Value: 1873.0
+
+ 
+ 
+
+X - 0	Tempo: 36	Best.Value: 1802.0
+X - 9	Tempo: 66	Best.Value: 2071.0
+
+ 
+ 
+
+X - 0	Tempo: 48	Best.Value: 1373.0
+X - 1	Tempo: 51	Best.Value: 1498.0
+X - 3	Tempo: 55	Best.Value: 1610.0
+X - 4	Tempo: 57	Best.Value: 1621.0
+X - 6	Tempo: 64	Best.Value: 1650.0
+X - 9	Tempo: 70	Best.Value: 1754.0
+X - 29	Tempo: 105	Best.Value: 1791.0
+X - 45	Tempo: 132	Best.Value: 1822.0
+X - 284	Tempo: 543	Best.Value: 1827.0
+
+ 
+ 
+
+X - 0	Tempo: 72	Best.Value: 9175.0
+X - 3	Tempo: 120	Best.Value: 9836.0
+X - 5	Tempo: 149	Best.Value: 10329.0
+X - 35	Tempo: 551	Best.Value: 10449.0
+X - 130	Tempo: 1890	Best.Value: 10659.0
+
+ 
+ 
+
+X - 0	Tempo: 56	Best.Value: 10227.0
+X - 12	Tempo: 193	Best.Value: 10357.0
+X - 19	Tempo: 266	Best.Value: 10377.0
+X - 22	Tempo: 312	Best.Value: 10498.0
+
+ 
+ 
+
+X - 0	Tempo: 60	Best.Value: 10319.0
+X - 1	Tempo: 76	Best.Value: 10570.0
+X - 6	Tempo: 137	Best.Value: 10609.0
+X - 16	Tempo: 257	Best.Value: 10913.0
+X - 60	Tempo: 763	Best.Value: 11190.0
+X - 239	Tempo: 2789	Best.Value: 11338.0
+
+ 
+ 
+
+X - 0	Tempo: 75	Best.Value: 10600.0
+X - 3	Tempo: 132	Best.Value: 11490.0
+X - 15	Tempo: 308	Best.Value: 11505.0
+X - 20	Tempo: 372	Best.Value: 11525.0
+X - 48	Tempo: 743	Best.Value: 11549.0
+X - 103	Tempo: 1519	Best.Value: 11862.0
+X - 281	Tempo: 4028	Best.Value: 12050.0
+
+ 
+ 
+
+X - 0	Tempo: 10	Best.Value: 17.0
+X - 14	Tempo: 11	Best.Value: 28.0
+
+ 
+ 
+
+X - 0	Tempo: 63	Best.Value: 10502.0
+X - 54	Tempo: 977	Best.Value: 10593.0
+X - 154	Tempo: 2582	Best.Value: 10720.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 9.0
+X - 5	Tempo: 10	Best.Value: 12.0
+X - 13	Tempo: 10	Best.Value: 21.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 240.0
+X - 1	Tempo: 10	Best.Value: 283.0
+X - 4	Tempo: 11	Best.Value: 323.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 242.0
+X - 2	Tempo: 10	Best.Value: 246.0
+X - 6	Tempo: 11	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 212.0
+X - 1	Tempo: 10	Best.Value: 243.0
+X - 5	Tempo: 11	Best.Value: 299.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 251.0
+X - 6	Tempo: 11	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 10	Best.Value: 189.0
+X - 1	Tempo: 11	Best.Value: 318.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 142.0
+X - 3	Tempo: 17	Best.Value: 178.0
+X - 7	Tempo: 19	Best.Value: 195.0
+X - 11	Tempo: 21	Best.Value: 212.0
+X - 25	Tempo: 27	Best.Value: 254.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 169.0
+X - 2	Tempo: 18	Best.Value: 225.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 130.0
+X - 1	Tempo: 17	Best.Value: 157.0
+X - 3	Tempo: 18	Best.Value: 163.0
+X - 4	Tempo: 18	Best.Value: 200.0
+X - 12	Tempo: 21	Best.Value: 219.0
+X - 29	Tempo: 30	Best.Value: 239.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 119.0
+X - 1	Tempo: 15	Best.Value: 127.0
+X - 2	Tempo: 16	Best.Value: 134.0
+X - 3	Tempo: 17	Best.Value: 149.0
+X - 5	Tempo: 18	Best.Value: 181.0
+X - 11	Tempo: 21	Best.Value: 195.0
+X - 12	Tempo: 21	Best.Value: 228.0
+X - 39	Tempo: 32	Best.Value: 233.0
+X - 85	Tempo: 35	Best.Value: 243.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 149.0
+X - 1	Tempo: 16	Best.Value: 189.0
+X - 9	Tempo: 19	Best.Value: 211.0
+X - 135	Tempo: 33	Best.Value: 231.0
+
+ 
+ 
+
+X - 0	Tempo: 17	Best.Value: 1391.0
+
+ 
+ 
+
+X - 0	Tempo: 19	Best.Value: 1369.0
+X - 6	Tempo: 27	Best.Value: 1374.0
+X - 39	Tempo: 37	Best.Value: 1380.0
+X - 40	Tempo: 38	Best.Value: 1400.0
+X - 56	Tempo: 41	Best.Value: 1471.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1174.0
+X - 1	Tempo: 19	Best.Value: 1197.0
+X - 5	Tempo: 23	Best.Value: 1323.0
+X - 64	Tempo: 46	Best.Value: 1327.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1141.0
+X - 2	Tempo: 19	Best.Value: 1203.0
+X - 56	Tempo: 39	Best.Value: 1242.0
+X - 132	Tempo: 57	Best.Value: 1247.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 5.0
+X - 1	Tempo: 14	Best.Value: 9.0
+X - 2	Tempo: 14	Best.Value: 10.0
+X - 8	Tempo: 15	Best.Value: 13.0
+X - 18	Tempo: 16	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1038.0
+X - 5	Tempo: 21	Best.Value: 1175.0
+X - 82	Tempo: 42	Best.Value: 1217.0
+
+ 
+ 
+
+X - 0	Tempo: 28	Best.Value: 655.0
+X - 2	Tempo: 34	Best.Value: 690.0
+X - 3	Tempo: 36	Best.Value: 712.0
+X - 5	Tempo: 39	Best.Value: 752.0
+X - 10	Tempo: 45	Best.Value: 776.0
+X - 13	Tempo: 46	Best.Value: 799.0
+X - 29	Tempo: 54	Best.Value: 824.0
+
+ 
+ 
+
+X - 0	Tempo: 29	Best.Value: 722.0
+X - 1	Tempo: 33	Best.Value: 753.0
+X - 2	Tempo: 35	Best.Value: 797.0
+X - 6	Tempo: 43	Best.Value: 947.0
+
+ 
+ 
+
+X - 0	Tempo: 34	Best.Value: 638.0
+X - 1	Tempo: 37	Best.Value: 810.0
+X - 5	Tempo: 46	Best.Value: 848.0
+X - 6	Tempo: 47	Best.Value: 894.0
+X - 96	Tempo: 96	Best.Value: 904.0
+
+ 
+ 
+
+X - 0	Tempo: 28	Best.Value: 476.0
+X - 1	Tempo: 31	Best.Value: 685.0
+X - 2	Tempo: 38	Best.Value: 727.0
+X - 7	Tempo: 46	Best.Value: 732.0
+X - 8	Tempo: 49	Best.Value: 813.0
+X - 35	Tempo: 68	Best.Value: 882.0
+
+ 
+ 
+
+X - 0	Tempo: 24	Best.Value: 608.0
+X - 1	Tempo: 27	Best.Value: 732.0
+X - 5	Tempo: 36	Best.Value: 762.0
+X - 22	Tempo: 48	Best.Value: 810.0
+
+ 
+ 
+
+X - 0	Tempo: 39	Best.Value: 4432.0
+X - 1	Tempo: 43	Best.Value: 4831.0
+X - 6	Tempo: 59	Best.Value: 4892.0
+X - 15	Tempo: 78	Best.Value: 5179.0
+X - 29	Tempo: 107	Best.Value: 5412.0
+X - 157	Tempo: 386	Best.Value: 5424.0
+
+ 
+ 
+
+X - 0	Tempo: 53	Best.Value: 4595.0
+X - 3	Tempo: 67	Best.Value: 4901.0
+X - 189	Tempo: 472	Best.Value: 4946.0
+
+ 
+ 
+
+X - 0	Tempo: 46	Best.Value: 4969.0
+X - 2	Tempo: 57	Best.Value: 5041.0
+X - 3	Tempo: 66	Best.Value: 5080.0
+X - 4	Tempo: 70	Best.Value: 5319.0
+X - 51	Tempo: 236	Best.Value: 5331.0
+X - 66	Tempo: 289	Best.Value: 5589.0
+X - 205	Tempo: 743	Best.Value: 5597.0
+
+ 
+ 
+
+X - 0	Tempo: 39	Best.Value: 4441.0
+X - 1	Tempo: 44	Best.Value: 5054.0
+X - 21	Tempo: 95	Best.Value: 5329.0
+X - 250	Tempo: 594	Best.Value: 5452.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 8.0
+X - 1	Tempo: 10	Best.Value: 16.0
+X - 4	Tempo: 10	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 38	Best.Value: 4194.0
+X - 1	Tempo: 55	Best.Value: 4598.0
+X - 2	Tempo: 60	Best.Value: 5029.0
+X - 7	Tempo: 75	Best.Value: 5051.0
+X - 79	Tempo: 269	Best.Value: 5054.0
+X - 85	Tempo: 284	Best.Value: 5055.0
+
+ 
+ 
+
+X - 0	Tempo: 38	Best.Value: 1041.0
+X - 2	Tempo: 53	Best.Value: 1209.0
+X - 9	Tempo: 62	Best.Value: 1266.0
+X - 60	Tempo: 103	Best.Value: 1272.0
+
+ 
+ 
+
+X - 0	Tempo: 43	Best.Value: 1080.0
+X - 7	Tempo: 63	Best.Value: 1117.0
+X - 10	Tempo: 65	Best.Value: 1135.0
+X - 11	Tempo: 66	Best.Value: 1150.0
+X - 21	Tempo: 76	Best.Value: 1193.0
+X - 237	Tempo: 255	Best.Value: 1218.0
+
+ 
+ 
+
+X - 0	Tempo: 32	Best.Value: 1146.0
+X - 1	Tempo: 37	Best.Value: 1243.0
+
+ 
+ 
+
+X - 0	Tempo: 45	Best.Value: 889.0
+X - 1	Tempo: 48	Best.Value: 907.0
+X - 5	Tempo: 56	Best.Value: 950.0
+X - 13	Tempo: 67	Best.Value: 988.0
+X - 15	Tempo: 69	Best.Value: 1010.0
+X - 21	Tempo: 80	Best.Value: 1043.0
+X - 22	Tempo: 82	Best.Value: 1164.0
+X - 28	Tempo: 88	Best.Value: 1216.0
+
+ 
+ 
+
+X - 0	Tempo: 38	Best.Value: 821.0
+X - 1	Tempo: 44	Best.Value: 1201.0
+X - 79	Tempo: 113	Best.Value: 1287.0
+X - 110	Tempo: 138	Best.Value: 1300.0
+
+ 
+ 
+
+X - 0	Tempo: 55	Best.Value: 6529.0
+X - 1	Tempo: 62	Best.Value: 6659.0
+X - 3	Tempo: 77	Best.Value: 7107.0
+X - 4	Tempo: 82	Best.Value: 7148.0
+X - 31	Tempo: 226	Best.Value: 7191.0
+
+ 
+ 
+
+X - 0	Tempo: 65	Best.Value: 6684.0
+X - 1	Tempo: 72	Best.Value: 7242.0
+X - 5	Tempo: 105	Best.Value: 7681.0
+X - 80	Tempo: 619	Best.Value: 7697.0
+
+ 
+ 
+
+X - 0	Tempo: 48	Best.Value: 6570.0
+X - 5	Tempo: 72	Best.Value: 6658.0
+X - 16	Tempo: 114	Best.Value: 6754.0
+X - 37	Tempo: 200	Best.Value: 6841.0
+X - 43	Tempo: 222	Best.Value: 6939.0
+X - 166	Tempo: 695	Best.Value: 7045.0
+X - 258	Tempo: 1063	Best.Value: 7084.0
+
+ 
+ 
+
+X - 0	Tempo: 47	Best.Value: 6004.0
+X - 1	Tempo: 63	Best.Value: 6854.0
+X - 2	Tempo: 74	Best.Value: 6938.0
+X - 36	Tempo: 322	Best.Value: 6983.0
+X - 40	Tempo: 346	Best.Value: 7280.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 20.0
+
+ 
+ 
+
+X - 0	Tempo: 48	Best.Value: 7065.0
+X - 1	Tempo: 57	Best.Value: 7126.0
+X - 2	Tempo: 68	Best.Value: 7302.0
+X - 9	Tempo: 118	Best.Value: 7467.0
+X - 74	Tempo: 586	Best.Value: 7579.0
+X - 186	Tempo: 1359	Best.Value: 7601.0
+
+ 
+ 
+
+X - 0	Tempo: 46	Best.Value: 1587.0
+X - 6	Tempo: 73	Best.Value: 1630.0
+X - 9	Tempo: 81	Best.Value: 1631.0
+X - 13	Tempo: 88	Best.Value: 1663.0
+X - 15	Tempo: 91	Best.Value: 1856.0
+X - 40	Tempo: 137	Best.Value: 1861.0
+X - 74	Tempo: 194	Best.Value: 1946.0
+X - 151	Tempo: 320	Best.Value: 1979.0
+X - 160	Tempo: 336	Best.Value: 2087.0
+
+ 
+ 
+
+X - 0	Tempo: 44	Best.Value: 1295.0
+X - 1	Tempo: 50	Best.Value: 1384.0
+X - 2	Tempo: 57	Best.Value: 1589.0
+X - 6	Tempo: 67	Best.Value: 1607.0
+X - 13	Tempo: 77	Best.Value: 1813.0
+X - 33	Tempo: 109	Best.Value: 1836.0
+X - 57	Tempo: 149	Best.Value: 1839.0
+X - 165	Tempo: 325	Best.Value: 1899.0
+X - 254	Tempo: 471	Best.Value: 1906.0
+
+ 
+ 
+
+X - 0	Tempo: 49	Best.Value: 1457.0
+X - 1	Tempo: 53	Best.Value: 1557.0
+X - 2	Tempo: 57	Best.Value: 1626.0
+X - 4	Tempo: 64	Best.Value: 1751.0
+X - 20	Tempo: 93	Best.Value: 1753.0
+X - 21	Tempo: 94	Best.Value: 1822.0
+X - 80	Tempo: 197	Best.Value: 1873.0
+
+ 
+ 
+
+X - 0	Tempo: 45	Best.Value: 1236.0
+X - 1	Tempo: 48	Best.Value: 1670.0
+X - 3	Tempo: 52	Best.Value: 1761.0
+X - 16	Tempo: 78	Best.Value: 1890.0
+X - 27	Tempo: 92	Best.Value: 2071.0
+
+ 
+ 
+
+X - 0	Tempo: 43	Best.Value: 1661.0
+X - 1	Tempo: 57	Best.Value: 1754.0
+X - 29	Tempo: 111	Best.Value: 1807.0
+X - 89	Tempo: 219	Best.Value: 1822.0
+X - 97	Tempo: 240	Best.Value: 1827.0
+X - 251	Tempo: 511	Best.Value: 1880.0
+
+ 
+ 
+
+X - 0	Tempo: 78	Best.Value: 9228.0
+X - 2	Tempo: 121	Best.Value: 9441.0
+X - 7	Tempo: 203	Best.Value: 9515.0
+X - 8	Tempo: 217	Best.Value: 9845.0
+X - 20	Tempo: 396	Best.Value: 10449.0
+X - 112	Tempo: 1698	Best.Value: 10659.0
+
+ 
+ 
+
+X - 0	Tempo: 85	Best.Value: 9760.0
+X - 1	Tempo: 97	Best.Value: 10227.0
+X - 22	Tempo: 342	Best.Value: 10305.0
+X - 23	Tempo: 358	Best.Value: 10518.0
+X - 261	Tempo: 3169	Best.Value: 10534.0
+
+ 
+ 
+
+X - 0	Tempo: 72	Best.Value: 10319.0
+X - 4	Tempo: 123	Best.Value: 10609.0
+X - 19	Tempo: 297	Best.Value: 10917.0
+X - 94	Tempo: 1208	Best.Value: 11068.0
+X - 128	Tempo: 1626	Best.Value: 11338.0
+
+ 
+ 
+
+X - 0	Tempo: 74	Best.Value: 10600.0
+X - 1	Tempo: 93	Best.Value: 10817.0
+X - 3	Tempo: 126	Best.Value: 10900.0
+X - 4	Tempo: 135	Best.Value: 11506.0
+X - 38	Tempo: 621	Best.Value: 11549.0
+X - 92	Tempo: 1377	Best.Value: 11862.0
+X - 93	Tempo: 1400	Best.Value: 11866.0
+X - 115	Tempo: 1706	Best.Value: 12050.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 8.0
+X - 1	Tempo: 9	Best.Value: 13.0
+X - 3	Tempo: 9	Best.Value: 15.0
+X - 7	Tempo: 10	Best.Value: 17.0
+X - 19	Tempo: 10	Best.Value: 18.0
+X - 93	Tempo: 16	Best.Value: 28.0
+
+ 
+ 
+
+X - 0	Tempo: 74	Best.Value: 10593.0
+X - 198	Tempo: 3445	Best.Value: 10720.0
+
+ 
+ 
+
+X - 0	Tempo: 10	Best.Value: 9.0
+X - 5	Tempo: 11	Best.Value: 12.0
+X - 15	Tempo: 12	Best.Value: 17.0
+X - 43	Tempo: 13	Best.Value: 21.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 254.0
+X - 2	Tempo: 10	Best.Value: 323.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 242.0
+X - 4	Tempo: 10	Best.Value: 249.0
+X - 32	Tempo: 16	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 203.0
+X - 1	Tempo: 9	Best.Value: 243.0
+X - 4	Tempo: 10	Best.Value: 299.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 209.0
+X - 1	Tempo: 9	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 189.0
+X - 1	Tempo: 10	Best.Value: 281.0
+X - 2	Tempo: 10	Best.Value: 292.0
+X - 11	Tempo: 11	Best.Value: 318.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 147.0
+X - 3	Tempo: 17	Best.Value: 254.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 169.0
+X - 14	Tempo: 21	Best.Value: 180.0
+X - 31	Tempo: 23	Best.Value: 207.0
+X - 125	Tempo: 33	Best.Value: 225.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 132.0
+X - 1	Tempo: 16	Best.Value: 162.0
+X - 2	Tempo: 20	Best.Value: 176.0
+X - 5	Tempo: 21	Best.Value: 177.0
+X - 7	Tempo: 22	Best.Value: 200.0
+X - 12	Tempo: 24	Best.Value: 231.0
+X - 74	Tempo: 36	Best.Value: 239.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 157.0
+X - 2	Tempo: 17	Best.Value: 228.0
+X - 5	Tempo: 18	Best.Value: 233.0
+X - 211	Tempo: 37	Best.Value: 243.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 128.0
+X - 1	Tempo: 15	Best.Value: 152.0
+X - 2	Tempo: 15	Best.Value: 165.0
+X - 6	Tempo: 17	Best.Value: 166.0
+X - 10	Tempo: 19	Best.Value: 168.0
+X - 21	Tempo: 21	Best.Value: 211.0
+X - 49	Tempo: 27	Best.Value: 231.0
+
+ 
+ 
+
+X - 0	Tempo: 27	Best.Value: 1336.0
+X - 3	Tempo: 34	Best.Value: 1355.0
+X - 7	Tempo: 43	Best.Value: 1391.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1326.0
+X - 2	Tempo: 19	Best.Value: 1329.0
+X - 3	Tempo: 21	Best.Value: 1393.0
+X - 71	Tempo: 44	Best.Value: 1400.0
+X - 89	Tempo: 47	Best.Value: 1471.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 943.0
+X - 1	Tempo: 18	Best.Value: 1171.0
+X - 2	Tempo: 19	Best.Value: 1203.0
+X - 6	Tempo: 22	Best.Value: 1321.0
+X - 58	Tempo: 39	Best.Value: 1327.0
+
+ 
+ 
+
+X - 0	Tempo: 17	Best.Value: 1082.0
+X - 1	Tempo: 20	Best.Value: 1201.0
+X - 28	Tempo: 41	Best.Value: 1203.0
+X - 39	Tempo: 44	Best.Value: 1242.0
+X - 99	Tempo: 58	Best.Value: 1247.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 7.0
+X - 3	Tempo: 9	Best.Value: 9.0
+X - 5	Tempo: 9	Best.Value: 10.0
+X - 7	Tempo: 9	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 1081.0
+X - 10	Tempo: 23	Best.Value: 1145.0
+X - 11	Tempo: 24	Best.Value: 1152.0
+X - 32	Tempo: 32	Best.Value: 1165.0
+X - 36	Tempo: 33	Best.Value: 1175.0
+X - 60	Tempo: 38	Best.Value: 1217.0
+
+ 
+ 
+
+X - 0	Tempo: 32	Best.Value: 687.0
+X - 1	Tempo: 35	Best.Value: 690.0
+X - 2	Tempo: 37	Best.Value: 764.0
+X - 15	Tempo: 56	Best.Value: 825.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 737.0
+X - 2	Tempo: 38	Best.Value: 797.0
+X - 4	Tempo: 40	Best.Value: 801.0
+X - 12	Tempo: 49	Best.Value: 816.0
+X - 31	Tempo: 61	Best.Value: 823.0
+X - 72	Tempo: 77	Best.Value: 831.0
+X - 83	Tempo: 82	Best.Value: 855.0
+X - 88	Tempo: 83	Best.Value: 947.0
+
+ 
+ 
+
+X - 0	Tempo: 29	Best.Value: 606.0
+X - 1	Tempo: 32	Best.Value: 615.0
+X - 2	Tempo: 35	Best.Value: 634.0
+X - 4	Tempo: 38	Best.Value: 647.0
+X - 5	Tempo: 39	Best.Value: 656.0
+X - 7	Tempo: 40	Best.Value: 758.0
+X - 11	Tempo: 45	Best.Value: 777.0
+X - 14	Tempo: 46	Best.Value: 904.0
+
+ 
+ 
+
+X - 0	Tempo: 48	Best.Value: 804.0
+X - 16	Tempo: 68	Best.Value: 826.0
+X - 33	Tempo: 77	Best.Value: 848.0
+X - 74	Tempo: 94	Best.Value: 882.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 650.0
+X - 3	Tempo: 37	Best.Value: 732.0
+X - 14	Tempo: 48	Best.Value: 762.0
+X - 39	Tempo: 60	Best.Value: 810.0
+
+ 
+ 
+
+X - 0	Tempo: 40	Best.Value: 4370.0
+X - 1	Tempo: 46	Best.Value: 5247.0
+X - 18	Tempo: 91	Best.Value: 5412.0
+X - 142	Tempo: 357	Best.Value: 5424.0
+
+ 
+ 
+
+X - 0	Tempo: 37	Best.Value: 4711.0
+X - 2	Tempo: 48	Best.Value: 4722.0
+X - 8	Tempo: 64	Best.Value: 4901.0
+X - 128	Tempo: 313	Best.Value: 4946.0
+
+ 
+ 
+
+X - 0	Tempo: 32	Best.Value: 5133.0
+X - 8	Tempo: 77	Best.Value: 5204.0
+X - 41	Tempo: 188	Best.Value: 5589.0
+X - 66	Tempo: 267	Best.Value: 5597.0
+
+ 
+ 
+
+X - 0	Tempo: 33	Best.Value: 4711.0
+X - 5	Tempo: 52	Best.Value: 4770.0
+X - 10	Tempo: 65	Best.Value: 4943.0
+X - 23	Tempo: 93	Best.Value: 5054.0
+X - 51	Tempo: 155	Best.Value: 5186.0
+X - 61	Tempo: 174	Best.Value: 5210.0
+X - 64	Tempo: 179	Best.Value: 5452.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 12.0
+X - 1	Tempo: 9	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 31	Best.Value: 5010.0
+X - 5	Tempo: 53	Best.Value: 5029.0
+X - 27	Tempo: 108	Best.Value: 5051.0
+X - 185	Tempo: 498	Best.Value: 5054.0
+X - 259	Tempo: 682	Best.Value: 5055.0
+
+ 
+ 
+
+X - 0	Tempo: 32	Best.Value: 1215.0
+X - 8	Tempo: 52	Best.Value: 1266.0
+X - 116	Tempo: 130	Best.Value: 1288.0
+
+ 
+ 
+
+X - 0	Tempo: 41	Best.Value: 1058.0
+X - 2	Tempo: 47	Best.Value: 1075.0
+X - 3	Tempo: 49	Best.Value: 1169.0
+X - 13	Tempo: 64	Best.Value: 1176.0
+X - 31	Tempo: 86	Best.Value: 1190.0
+X - 48	Tempo: 100	Best.Value: 1193.0
+X - 203	Tempo: 219	Best.Value: 1218.0
+
+ 
+ 
+
+X - 0	Tempo: 46	Best.Value: 1117.0
+X - 1	Tempo: 49	Best.Value: 1243.0
+X - 59	Tempo: 136	Best.Value: 1270.0
+
+ 
+ 
+
+X - 0	Tempo: 45	Best.Value: 918.0
+X - 2	Tempo: 57	Best.Value: 988.0
+X - 8	Tempo: 72	Best.Value: 1045.0
+X - 10	Tempo: 74	Best.Value: 1164.0
+X - 18	Tempo: 81	Best.Value: 1216.0
+
+ 
+ 
+
+X - 0	Tempo: 44	Best.Value: 1033.0
+X - 6	Tempo: 65	Best.Value: 1117.0
+X - 7	Tempo: 66	Best.Value: 1134.0
+X - 13	Tempo: 71	Best.Value: 1300.0
+
+ 
+ 
+
+X - 0	Tempo: 72	Best.Value: 7107.0
+X - 4	Tempo: 97	Best.Value: 7129.0
+X - 13	Tempo: 147	Best.Value: 7191.0
+
+ 
+ 
+
+X - 0	Tempo: 47	Best.Value: 6726.0
+X - 1	Tempo: 53	Best.Value: 6974.0
+X - 2	Tempo: 62	Best.Value: 7045.0
+X - 3	Tempo: 68	Best.Value: 7235.0
+X - 4	Tempo: 75	Best.Value: 7681.0
+X - 102	Tempo: 728	Best.Value: 7697.0
+
+ 
+ 
+
+X - 0	Tempo: 44	Best.Value: 6434.0
+X - 1	Tempo: 53	Best.Value: 6851.0
+X - 22	Tempo: 154	Best.Value: 7032.0
+X - 101	Tempo: 452	Best.Value: 7082.0
+X - 137	Tempo: 598	Best.Value: 7084.0
+
+ 
+ 
+
+X - 0	Tempo: 49	Best.Value: 6352.0
+X - 1	Tempo: 56	Best.Value: 6938.0
+X - 29	Tempo: 227	Best.Value: 6998.0
+X - 66	Tempo: 467	Best.Value: 7280.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 17.0
+X - 38	Tempo: 11	Best.Value: 20.0
+
+ 
+ 
+
+X - 0	Tempo: 40	Best.Value: 7250.0
+X - 1	Tempo: 49	Best.Value: 7378.0
+X - 17	Tempo: 164	Best.Value: 7601.0
+
+ 
+ 
+
+X - 0	Tempo: 40	Best.Value: 1417.0
+X - 2	Tempo: 60	Best.Value: 1602.0
+X - 10	Tempo: 85	Best.Value: 1946.0
+X - 158	Tempo: 323	Best.Value: 1979.0
+X - 209	Tempo: 404	Best.Value: 2087.0
+
+ 
+ 
+
+X - 0	Tempo: 42	Best.Value: 1899.0
+X - 60	Tempo: 149	Best.Value: 1906.0
+
+ 
+ 
+
+X - 0	Tempo: 43	Best.Value: 1402.0
+X - 1	Tempo: 51	Best.Value: 1646.0
+X - 5	Tempo: 64	Best.Value: 1673.0
+X - 28	Tempo: 101	Best.Value: 1737.0
+X - 29	Tempo: 103	Best.Value: 1783.0
+X - 57	Tempo: 152	Best.Value: 1873.0
+
+ 
+ 
+
+X - 0	Tempo: 41	Best.Value: 969.0
+X - 1	Tempo: 50	Best.Value: 1626.0
+X - 2	Tempo: 52	Best.Value: 1713.0
+X - 10	Tempo: 67	Best.Value: 2071.0
+
+ 
+ 
+
+X - 0	Tempo: 50	Best.Value: 1653.0
+X - 6	Tempo: 70	Best.Value: 1754.0
+X - 8	Tempo: 74	Best.Value: 1880.0
+
+ 
+ 
+
+X - 0	Tempo: 61	Best.Value: 9441.0
+X - 3	Tempo: 111	Best.Value: 9984.0
+X - 20	Tempo: 342	Best.Value: 10060.0
+X - 32	Tempo: 525	Best.Value: 10659.0
+
+ 
+ 
+
+X - 0	Tempo: 73	Best.Value: 10167.0
+X - 3	Tempo: 114	Best.Value: 10227.0
+X - 7	Tempo: 149	Best.Value: 10366.0
+X - 9	Tempo: 170	Best.Value: 10498.0
+X - 33	Tempo: 418	Best.Value: 10534.0
+
+ 
+ 
+
+X - 0	Tempo: 65	Best.Value: 9999.0
+X - 1	Tempo: 80	Best.Value: 10297.0
+X - 2	Tempo: 96	Best.Value: 10319.0
+X - 8	Tempo: 178	Best.Value: 11034.0
+X - 70	Tempo: 908	Best.Value: 11190.0
+X - 137	Tempo: 1707	Best.Value: 11338.0
+
+ 
+ 
+
+X - 0	Tempo: 58	Best.Value: 11497.0
+X - 3	Tempo: 126	Best.Value: 11866.0
+X - 144	Tempo: 2073	Best.Value: 12050.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 9.0
+X - 1	Tempo: 9	Best.Value: 28.0
+
+ 
+ 
+
+X - 0	Tempo: 62	Best.Value: 9678.0
+X - 3	Tempo: 123	Best.Value: 9708.0
+X - 5	Tempo: 149	Best.Value: 9713.0
+X - 10	Tempo: 232	Best.Value: 9723.0
+X - 13	Tempo: 283	Best.Value: 10120.0
+X - 30	Tempo: 572	Best.Value: 10169.0
+X - 48	Tempo: 865	Best.Value: 10565.0
+X - 139	Tempo: 2292	Best.Value: 10720.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 12.0
+X - 8	Tempo: 10	Best.Value: 17.0
+X - 46	Tempo: 12	Best.Value: 21.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 240.0
+X - 4	Tempo: 10	Best.Value: 254.0
+X - 5	Tempo: 11	Best.Value: 283.0
+X - 15	Tempo: 12	Best.Value: 323.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 237.0
+X - 1	Tempo: 9	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 181.0
+X - 1	Tempo: 10	Best.Value: 223.0
+X - 2	Tempo: 10	Best.Value: 299.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 208.0
+X - 1	Tempo: 9	Best.Value: 318.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 145.0
+X - 3	Tempo: 18	Best.Value: 176.0
+X - 15	Tempo: 24	Best.Value: 194.0
+X - 37	Tempo: 33	Best.Value: 217.0
+X - 62	Tempo: 35	Best.Value: 254.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 180.0
+X - 11	Tempo: 19	Best.Value: 206.0
+X - 18	Tempo: 22	Best.Value: 207.0
+X - 46	Tempo: 28	Best.Value: 225.0
+
+ 
+ 
+
+X - 0	Tempo: 14	Best.Value: 162.0
+X - 1	Tempo: 16	Best.Value: 163.0
+X - 3	Tempo: 17	Best.Value: 177.0
+X - 11	Tempo: 20	Best.Value: 195.0
+X - 19	Tempo: 24	Best.Value: 219.0
+X - 38	Tempo: 27	Best.Value: 231.0
+X - 75	Tempo: 31	Best.Value: 239.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 228.0
+X - 1	Tempo: 17	Best.Value: 243.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 165.0
+X - 1	Tempo: 16	Best.Value: 231.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1266.0
+X - 1	Tempo: 18	Best.Value: 1361.0
+X - 55	Tempo: 39	Best.Value: 1391.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1176.0
+X - 1	Tempo: 18	Best.Value: 1308.0
+X - 2	Tempo: 20	Best.Value: 1351.0
+X - 3	Tempo: 20	Best.Value: 1366.0
+X - 25	Tempo: 32	Best.Value: 1368.0
+X - 30	Tempo: 33	Best.Value: 1374.0
+X - 77	Tempo: 43	Best.Value: 1400.0
+X - 101	Tempo: 48	Best.Value: 1471.0
+
+ 
+ 
+
+X - 0	Tempo: 15	Best.Value: 1090.0
+X - 1	Tempo: 17	Best.Value: 1194.0
+X - 4	Tempo: 19	Best.Value: 1264.0
+X - 11	Tempo: 24	Best.Value: 1321.0
+X - 32	Tempo: 30	Best.Value: 1327.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1099.0
+X - 1	Tempo: 19	Best.Value: 1247.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 9.0
+X - 2	Tempo: 8	Best.Value: 13.0
+X - 27	Tempo: 9	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 16	Best.Value: 1063.0
+X - 3	Tempo: 21	Best.Value: 1110.0
+X - 4	Tempo: 22	Best.Value: 1175.0
+X - 37	Tempo: 35	Best.Value: 1217.0
+
+ 
+ 
+
+X - 0	Tempo: 33	Best.Value: 649.0
+X - 3	Tempo: 42	Best.Value: 774.0
+X - 8	Tempo: 49	Best.Value: 799.0
+X - 13	Tempo: 52	Best.Value: 825.0
+
+ 
+ 
+
+X - 0	Tempo: 43	Best.Value: 594.0
+X - 1	Tempo: 47	Best.Value: 714.0
+X - 4	Tempo: 52	Best.Value: 719.0
+X - 5	Tempo: 52	Best.Value: 898.0
+X - 274	Tempo: 159	Best.Value: 947.0
+
+ 
+ 
+
+X - 0	Tempo: 42	Best.Value: 556.0
+X - 1	Tempo: 46	Best.Value: 699.0
+X - 6	Tempo: 53	Best.Value: 712.0
+X - 13	Tempo: 59	Best.Value: 777.0
+X - 22	Tempo: 64	Best.Value: 904.0
+
+ 
+ 
+
+X - 0	Tempo: 26	Best.Value: 685.0
+X - 2	Tempo: 31	Best.Value: 743.0
+X - 3	Tempo: 33	Best.Value: 765.0
+X - 12	Tempo: 42	Best.Value: 826.0
+X - 115	Tempo: 84	Best.Value: 882.0
+
+ 
+ 
+
+X - 0	Tempo: 29	Best.Value: 616.0
+X - 3	Tempo: 39	Best.Value: 695.0
+X - 12	Tempo: 50	Best.Value: 762.0
+X - 294	Tempo: 162	Best.Value: 810.0
+
+ 
+ 
+
+X - 0	Tempo: 38	Best.Value: 4831.0
+X - 5	Tempo: 57	Best.Value: 5054.0
+X - 7	Tempo: 63	Best.Value: 5150.0
+X - 58	Tempo: 173	Best.Value: 5215.0
+X - 86	Tempo: 235	Best.Value: 5357.0
+X - 172	Tempo: 441	Best.Value: 5424.0
+
+ 
+ 
+
+X - 0	Tempo: 45	Best.Value: 4605.0
+X - 1	Tempo: 64	Best.Value: 4814.0
+X - 2	Tempo: 68	Best.Value: 4860.0
+X - 19	Tempo: 113	Best.Value: 4878.0
+X - 131	Tempo: 350	Best.Value: 4946.0
+
+ 
+ 
+
+X - 0	Tempo: 41	Best.Value: 4871.0
+X - 7	Tempo: 72	Best.Value: 5072.0
+X - 10	Tempo: 82	Best.Value: 5078.0
+X - 18	Tempo: 107	Best.Value: 5597.0
+
+ 
+ 
+
+X - 0	Tempo: 42	Best.Value: 4681.0
+X - 2	Tempo: 49	Best.Value: 4865.0
+X - 6	Tempo: 65	Best.Value: 4921.0
+X - 24	Tempo: 110	Best.Value: 5054.0
+X - 53	Tempo: 177	Best.Value: 5329.0
+X - 59	Tempo: 190	Best.Value: 5452.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 8.0
+X - 1	Tempo: 9	Best.Value: 16.0
+X - 8	Tempo: 9	Best.Value: 17.0
+
+ 
+ 
+
+X - 0	Tempo: 49	Best.Value: 4451.0
+X - 1	Tempo: 53	Best.Value: 4715.0
+X - 4	Tempo: 64	Best.Value: 5029.0
+X - 139	Tempo: 393	Best.Value: 5054.0
+X - 165	Tempo: 456	Best.Value: 5055.0
+
+ 
+ 
+
+X - 0	Tempo: 33	Best.Value: 1169.0
+X - 13	Tempo: 55	Best.Value: 1191.0
+X - 17	Tempo: 57	Best.Value: 1272.0
+X - 77	Tempo: 103	Best.Value: 1288.0
+
+ 
+ 
+
+X - 0	Tempo: 43	Best.Value: 945.0
+X - 1	Tempo: 49	Best.Value: 1098.0
+X - 5	Tempo: 61	Best.Value: 1102.0
+X - 9	Tempo: 68	Best.Value: 1218.0
+
+ 
+ 
+
+X - 0	Tempo: 58	Best.Value: 1213.0
+X - 8	Tempo: 84	Best.Value: 1270.0
+
+ 
+ 
+
+X - 0	Tempo: 40	Best.Value: 1137.0
+X - 36	Tempo: 80	Best.Value: 1211.0
+X - 51	Tempo: 90	Best.Value: 1216.0
+
+ 
+ 
+
+X - 0	Tempo: 64	Best.Value: 1253.0
+X - 22	Tempo: 98	Best.Value: 1300.0
+
+ 
+ 
+
+X - 0	Tempo: 56	Best.Value: 7107.0
+X - 98	Tempo: 581	Best.Value: 7148.0
+X - 119	Tempo: 695	Best.Value: 7162.0
+X - 122	Tempo: 711	Best.Value: 7175.0
+X - 198	Tempo: 1106	Best.Value: 7191.0
+
+ 
+ 
+
+X - 0	Tempo: 50	Best.Value: 7526.0
+X - 1	Tempo: 61	Best.Value: 7681.0
+X - 40	Tempo: 306	Best.Value: 7697.0
+
+ 
+ 
+
+X - 0	Tempo: 39	Best.Value: 6431.0
+X - 9	Tempo: 80	Best.Value: 6531.0
+X - 11	Tempo: 86	Best.Value: 6541.0
+X - 12	Tempo: 90	Best.Value: 6595.0
+X - 14	Tempo: 96	Best.Value: 6616.0
+X - 20	Tempo: 118	Best.Value: 6720.0
+X - 23	Tempo: 130	Best.Value: 6844.0
+X - 75	Tempo: 315	Best.Value: 7045.0
+X - 225	Tempo: 879	Best.Value: 7082.0
+
+ 
+ 
+
+X - 0	Tempo: 52	Best.Value: 6404.0
+X - 1	Tempo: 59	Best.Value: 6938.0
+X - 9	Tempo: 107	Best.Value: 7050.0
+X - 50	Tempo: 376	Best.Value: 7280.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 8.0
+X - 2	Tempo: 9	Best.Value: 9.0
+X - 7	Tempo: 10	Best.Value: 17.0
+X - 30	Tempo: 11	Best.Value: 20.0
+
+ 
+ 
+
+X - 0	Tempo: 65	Best.Value: 7096.0
+X - 1	Tempo: 73	Best.Value: 7126.0
+X - 11	Tempo: 149	Best.Value: 7128.0
+X - 14	Tempo: 168	Best.Value: 7257.0
+X - 51	Tempo: 420	Best.Value: 7379.0
+X - 63	Tempo: 502	Best.Value: 7601.0
+
+ 
+ 
+
+X - 0	Tempo: 53	Best.Value: 1179.0
+X - 1	Tempo: 62	Best.Value: 1241.0
+X - 2	Tempo: 67	Best.Value: 1350.0
+X - 3	Tempo: 68	Best.Value: 1394.0
+X - 4	Tempo: 71	Best.Value: 1549.0
+X - 7	Tempo: 80	Best.Value: 1630.0
+X - 15	Tempo: 94	Best.Value: 2087.0
+
+ 
+ 
+
+X - 0	Tempo: 50	Best.Value: 1487.0
+X - 1	Tempo: 54	Best.Value: 1550.0
+X - 5	Tempo: 65	Best.Value: 1607.0
+X - 8	Tempo: 71	Best.Value: 1610.0
+X - 13	Tempo: 80	Best.Value: 1813.0
+X - 52	Tempo: 143	Best.Value: 1860.0
+X - 58	Tempo: 152	Best.Value: 1899.0
+
+ 
+ 
+
+X - 0	Tempo: 42	Best.Value: 1694.0
+X - 7	Tempo: 66	Best.Value: 1751.0
+X - 30	Tempo: 110	Best.Value: 1850.0
+X - 71	Tempo: 175	Best.Value: 1873.0
+
+ 
+ 
+
+X - 0	Tempo: 54	Best.Value: 1658.0
+X - 7	Tempo: 72	Best.Value: 1682.0
+X - 8	Tempo: 73	Best.Value: 1761.0
+X - 14	Tempo: 83	Best.Value: 1808.0
+X - 19	Tempo: 89	Best.Value: 1863.0
+X - 99	Tempo: 195	Best.Value: 2017.0
+X - 146	Tempo: 264	Best.Value: 2058.0
+
+ 
+ 
+
+X - 0	Tempo: 42	Best.Value: 1722.0
+X - 4	Tempo: 56	Best.Value: 1754.0
+X - 7	Tempo: 63	Best.Value: 1773.0
+X - 9	Tempo: 67	Best.Value: 1807.0
+X - 32	Tempo: 107	Best.Value: 1880.0
+
+ 
+ 
+
+X - 0	Tempo: 59	Best.Value: 9228.0
+X - 1	Tempo: 77	Best.Value: 9815.0
+X - 2	Tempo: 87	Best.Value: 9962.0
+X - 8	Tempo: 174	Best.Value: 10449.0
+X - 79	Tempo: 1177	Best.Value: 10659.0
+
+ 
+ 
+
+X - 0	Tempo: 64	Best.Value: 9625.0
+X - 1	Tempo: 77	Best.Value: 10227.0
+X - 9	Tempo: 165	Best.Value: 10266.0
+X - 13	Tempo: 220	Best.Value: 10366.0
+X - 17	Tempo: 264	Best.Value: 10377.0
+X - 30	Tempo: 421	Best.Value: 10518.0
+X - 137	Tempo: 1473	Best.Value: 10534.0
+
+ 
+ 
+
+X - 0	Tempo: 71	Best.Value: 9667.0
+X - 1	Tempo: 83	Best.Value: 9895.0
+X - 2	Tempo: 98	Best.Value: 10223.0
+X - 3	Tempo: 110	Best.Value: 10319.0
+X - 5	Tempo: 137	Best.Value: 10341.0
+X - 8	Tempo: 172	Best.Value: 10666.0
+X - 10	Tempo: 192	Best.Value: 10821.0
+X - 26	Tempo: 384	Best.Value: 11034.0
+X - 108	Tempo: 1314	Best.Value: 11338.0
+
+ 
+ 
+
+X - 0	Tempo: 60	Best.Value: 11567.0
+X - 9	Tempo: 182	Best.Value: 11862.0
+X - 177	Tempo: 2547	Best.Value: 11866.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 28.0
+
+ 
+ 
+
+X - 0	Tempo: 60	Best.Value: 9502.0
+X - 1	Tempo: 83	Best.Value: 9567.0
+X - 8	Tempo: 204	Best.Value: 9678.0
+X - 17	Tempo: 371	Best.Value: 10167.0
+X - 18	Tempo: 381	Best.Value: 10565.0
+X - 192	Tempo: 3219	Best.Value: 10720.0
+
+ 
+ 
+
+X - 0	Tempo: 8	Best.Value: 9.0
+X - 1	Tempo: 9	Best.Value: 21.0
+
+ 
+ 
+
+X - 0	Tempo: 10	Best.Value: 272.0
+X - 1	Tempo: 11	Best.Value: 312.0
+X - 4	Tempo: 12	Best.Value: 323.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 258.0
+X - 2	Tempo: 10	Best.Value: 265.0
+
+ 
+ 
+
+X - 0	Tempo: 9	Best.Value: 223.0
+X - 2	Tempo: 10	Best.Value: 256.0
+X - 5	Tempo: 10	Best.Value: 299.0
+
+ 
+ 
+
+X - 0	Tempo: 10	Best.Value: 251.0
+X - 7	Tempo: 14	Best.Value: 265.0
+
+ 
+ 
+

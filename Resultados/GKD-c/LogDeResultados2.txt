@@ -1,0 +1,1953 @@
+X - 0	Tempo: 202	Best.Value: 48497.37777999999
+X - 1	Tempo: 314	Best.Value: 49378.34483000002
+X - 2	Tempo: 399	Best.Value: 50040.06596999992
+X - 3	Tempo: 475	Best.Value: 50597.864380000035
+X - 27	Tempo: 2287	Best.Value: 50636.642669999994
+X - 30	Tempo: 2496	Best.Value: 51287.17425000008
+X - 44	Tempo: 3554	Best.Value: 51375.61050999999
+X - 77	Tempo: 5857	Best.Value: 51497.92224000002
+X - 257	Tempo: 19115	Best.Value: 52110.27720999997
+
+ 
+ 
+
+X - 0	Tempo: 251	Best.Value: 54151.59757000007
+X - 1	Tempo: 392	Best.Value: 54326.629760000076
+X - 3	Tempo: 612	Best.Value: 54396.97155000004
+X - 6	Tempo: 924	Best.Value: 55302.28184000004
+X - 25	Tempo: 2917	Best.Value: 55565.39023000003
+X - 35	Tempo: 3889	Best.Value: 55684.73497000005
+X - 146	Tempo: 15212	Best.Value: 55871.97913999998
+X - 238	Tempo: 24495	Best.Value: 56705.09717000003
+
+ 
+ 
+
+X - 0	Tempo: 435	Best.Value: 49292.57542000002
+X - 3	Tempo: 774	Best.Value: 49619.355800000056
+X - 76	Tempo: 8220	Best.Value: 50049.374059999915
+
+ 
+ 
+
+X - 0	Tempo: 234	Best.Value: 47994.710790000005
+X - 1	Tempo: 337	Best.Value: 48341.16535999997
+X - 13	Tempo: 1416	Best.Value: 48453.51600999997
+X - 62	Tempo: 5281	Best.Value: 48623.71788999997
+X - 72	Tempo: 6078	Best.Value: 48882.62150999994
+X - 138	Tempo: 11258	Best.Value: 49069.52949999998
+
+ 
+ 
+
+X - 0	Tempo: 272	Best.Value: 45076.94311999997
+X - 1	Tempo: 398	Best.Value: 45959.944159999905
+X - 2	Tempo: 496	Best.Value: 46126.34220999993
+X - 3	Tempo: 615	Best.Value: 46711.656789999906
+X - 4	Tempo: 722	Best.Value: 46765.80296999992
+X - 7	Tempo: 1038	Best.Value: 46802.6908899999
+X - 22	Tempo: 2567	Best.Value: 46875.16197999987
+X - 31	Tempo: 3491	Best.Value: 47018.01248999987
+X - 34	Tempo: 3830	Best.Value: 47021.74379999989
+X - 126	Tempo: 13873	Best.Value: 47034.16044999999
+
+ 
+ 
+
+X - 0	Tempo: 221	Best.Value: 59735.488729999815
+X - 1	Tempo: 309	Best.Value: 59992.59184999981
+X - 171	Tempo: 14358	Best.Value: 60086.52748999982
+X - 270	Tempo: 22485	Best.Value: 60109.48497999985
+
+ 
+ 
+
+X - 0	Tempo: 250	Best.Value: 54319.63264999986
+X - 5	Tempo: 824	Best.Value: 55835.18826999985
+X - 234	Tempo: 26101	Best.Value: 56000.67124999983
+
+ 
+ 
+
+X - 0	Tempo: 283	Best.Value: 47117.78738000003
+X - 3	Tempo: 733	Best.Value: 49856.33269000008
+X - 4	Tempo: 877	Best.Value: 50012.96943000002
+X - 30	Tempo: 5025	Best.Value: 50521.48241999997
+X - 48	Tempo: 7758	Best.Value: 50694.04359000005
+X - 192	Tempo: 29843	Best.Value: 51111.77861000005
+
+ 
+ 
+
+X - 0	Tempo: 235	Best.Value: 54940.829840000115
+X - 2	Tempo: 503	Best.Value: 55142.252120000085
+X - 15	Tempo: 1897	Best.Value: 55611.19980000014
+X - 45	Tempo: 5203	Best.Value: 55864.76890000019
+X - 70	Tempo: 7903	Best.Value: 56026.258280000126
+X - 129	Tempo: 14821	Best.Value: 56357.956240000094
+X - 156	Tempo: 18244	Best.Value: 56601.60826000015
+
+ 
+ 
+
+X - 0	Tempo: 228	Best.Value: 48214.27094000006
+X - 1	Tempo: 294	Best.Value: 49765.90519000006
+X - 3	Tempo: 408	Best.Value: 49913.97621999998
+X - 5	Tempo: 517	Best.Value: 50009.16803000001
+X - 6	Tempo: 581	Best.Value: 50559.287320000025
+X - 14	Tempo: 1056	Best.Value: 50577.083500000015
+X - 34	Tempo: 2276	Best.Value: 51594.83755000007
+X - 146	Tempo: 9044	Best.Value: 51650.14860999995
+
+ 
+ 
+
+X - 0	Tempo: 219	Best.Value: 49339.94668999996
+X - 1	Tempo: 338	Best.Value: 50638.578519999974
+X - 11	Tempo: 1108	Best.Value: 50807.411650000045
+X - 25	Tempo: 2073	Best.Value: 51497.92224000002
+X - 112	Tempo: 8485	Best.Value: 52110.27720999997
+
+ 
+ 
+
+X - 0	Tempo: 217	Best.Value: 54822.031530000066
+X - 1	Tempo: 353	Best.Value: 55302.28184000004
+X - 7	Tempo: 1024	Best.Value: 56212.266760000006
+X - 165	Tempo: 16933	Best.Value: 56705.09717000003
+
+ 
+ 
+
+X - 0	Tempo: 228	Best.Value: 48674.99783000004
+X - 1	Tempo: 347	Best.Value: 48689.92607999994
+X - 2	Tempo: 436	Best.Value: 49248.60920000008
+X - 9	Tempo: 1186	Best.Value: 49347.80143000001
+X - 24	Tempo: 2733	Best.Value: 49792.12355000002
+X - 54	Tempo: 5730	Best.Value: 50049.374059999915
+
+ 
+ 
+
+X - 0	Tempo: 215	Best.Value: 48221.47816999992
+X - 11	Tempo: 1176	Best.Value: 49137.5053899999
+X - 256	Tempo: 20847	Best.Value: 49426.945069999856
+
+ 
+ 
+
+X - 0	Tempo: 225	Best.Value: 46182.85397999993
+X - 1	Tempo: 345	Best.Value: 46802.6908899999
+X - 30	Tempo: 3403	Best.Value: 47123.54659999992
+X - 288	Tempo: 31375	Best.Value: 47276.34462999992
+
+ 
+ 
+
+X - 0	Tempo: 217	Best.Value: 59015.53664999978
+X - 10	Tempo: 1059	Best.Value: 59735.488729999815
+X - 23	Tempo: 2057	Best.Value: 60015.791569999834
+X - 187	Tempo: 15568	Best.Value: 60086.52748999982
+X - 291	Tempo: 23951	Best.Value: 60202.39518999978
+
+ 
+ 
+
+X - 0	Tempo: 222	Best.Value: 54319.76277999991
+X - 4	Tempo: 696	Best.Value: 55194.99650999994
+X - 16	Tempo: 1977	Best.Value: 55378.99825999985
+X - 35	Tempo: 4199	Best.Value: 55400.50030999982
+X - 37	Tempo: 4443	Best.Value: 56048.99836999982
+
+ 
+ 
+
+X - 0	Tempo: 272	Best.Value: 48748.67294000005
+X - 3	Tempo: 769	Best.Value: 49184.30878000007
+X - 21	Tempo: 3602	Best.Value: 49250.81985999998
+X - 25	Tempo: 4217	Best.Value: 50558.472830000035
+X - 181	Tempo: 28635	Best.Value: 50646.26869999998
+
+ 
+ 
+
+X - 0	Tempo: 231	Best.Value: 54412.82557000012
+X - 1	Tempo: 346	Best.Value: 55389.12093000011
+X - 4	Tempo: 695	Best.Value: 56117.32651000014
+X - 36	Tempo: 4312	Best.Value: 56598.282390000146
+
+ 
+ 
+
+X - 0	Tempo: 191	Best.Value: 49967.30749000004
+X - 5	Tempo: 593	Best.Value: 50080.22710000004
+X - 6	Tempo: 649	Best.Value: 50577.083500000015
+X - 62	Tempo: 4194	Best.Value: 50715.26728999994
+X - 72	Tempo: 4831	Best.Value: 50963.04616999998
+X - 83	Tempo: 5487	Best.Value: 51206.60332999998
+X - 91	Tempo: 5971	Best.Value: 51571.17059
+X - 118	Tempo: 7729	Best.Value: 51804.75158000004
+
+ 
+ 
+
+X - 0	Tempo: 230	Best.Value: 50636.642669999994
+X - 4	Tempo: 616	Best.Value: 51375.61050999999
+X - 166	Tempo: 12616	Best.Value: 51497.92224000002
+
+ 
+ 
+
+X - 0	Tempo: 273	Best.Value: 55302.28184000004
+X - 33	Tempo: 3805	Best.Value: 55551.105770000024
+X - 47	Tempo: 5239	Best.Value: 56212.266760000006
+X - 172	Tempo: 18128	Best.Value: 56705.09717000003
+
+ 
+ 
+
+X - 0	Tempo: 269	Best.Value: 48093.22679000006
+X - 1	Tempo: 376	Best.Value: 49231.44382000003
+X - 8	Tempo: 1145	Best.Value: 49491.571889999934
+X - 12	Tempo: 1550	Best.Value: 49562.67992999991
+X - 34	Tempo: 3731	Best.Value: 49623.23618999991
+X - 121	Tempo: 12646	Best.Value: 49749.25965000009
+X - 186	Tempo: 18919	Best.Value: 49906.81771
+
+ 
+ 
+
+X - 0	Tempo: 271	Best.Value: 47686.45089999996
+X - 2	Tempo: 447	Best.Value: 47994.710790000005
+X - 11	Tempo: 1165	Best.Value: 48111.20510999997
+X - 19	Tempo: 1790	Best.Value: 49069.52949999998
+X - 204	Tempo: 17066	Best.Value: 49426.945069999856
+
+ 
+ 
+
+X - 0	Tempo: 287	Best.Value: 46464.490600000034
+X - 10	Tempo: 1535	Best.Value: 46802.6908899999
+X - 31	Tempo: 4056	Best.Value: 46971.81575999991
+X - 85	Tempo: 10588	Best.Value: 47018.01248999987
+
+ 
+ 
+
+X - 0	Tempo: 235	Best.Value: 57736.54056999984
+X - 1	Tempo: 329	Best.Value: 59500.00439999982
+X - 14	Tempo: 1474	Best.Value: 59735.488729999815
+X - 189	Tempo: 16094	Best.Value: 60015.791569999834
+X - 213	Tempo: 18062	Best.Value: 60063.434099999824
+
+ 
+ 
+
+X - 0	Tempo: 233	Best.Value: 54191.74977999984
+X - 1	Tempo: 344	Best.Value: 54343.76808999979
+X - 5	Tempo: 808	Best.Value: 54457.167089999886
+X - 6	Tempo: 945	Best.Value: 54477.68938999988
+X - 7	Tempo: 1034	Best.Value: 54856.80946999984
+X - 11	Tempo: 1446	Best.Value: 55073.47846999983
+X - 12	Tempo: 1534	Best.Value: 55194.99650999994
+X - 27	Tempo: 3192	Best.Value: 55308.835639999845
+X - 32	Tempo: 3795	Best.Value: 55338.16492999994
+X - 40	Tempo: 4651	Best.Value: 55418.746539999906
+X - 66	Tempo: 7571	Best.Value: 55835.18826999985
+X - 189	Tempo: 21352	Best.Value: 56048.99836999982
+
+ 
+ 
+
+X - 0	Tempo: 312	Best.Value: 48943.1271200001
+X - 8	Tempo: 1748	Best.Value: 49827.409410000146
+X - 18	Tempo: 3598	Best.Value: 50195.562460000074
+X - 79	Tempo: 14792	Best.Value: 50646.26869999998
+X - 212	Tempo: 38979	Best.Value: 50909.45524000002
+
+ 
+ 
+
+X - 0	Tempo: 234	Best.Value: 55503.84597000015
+X - 4	Tempo: 721	Best.Value: 55611.19980000014
+X - 5	Tempo: 818	Best.Value: 55650.670170000085
+X - 39	Tempo: 4432	Best.Value: 56214.57439000013
+
+ 
+ 
+
+X - 0	Tempo: 279	Best.Value: 50577.083500000015
+X - 19	Tempo: 1506	Best.Value: 50951.645860000004
+X - 31	Tempo: 2232	Best.Value: 51421.02512000003
+X - 130	Tempo: 8294	Best.Value: 51650.14860999995
+
+ 
+ 
+
+X - 0	Tempo: 205	Best.Value: 50546.28105000005
+X - 2	Tempo: 366	Best.Value: 50636.642669999994
+X - 9	Tempo: 913	Best.Value: 50848.98145999992
+X - 14	Tempo: 1287	Best.Value: 51060.402220000025
+X - 21	Tempo: 1870	Best.Value: 52110.27720999997
+
+ 
+ 
+
+X - 0	Tempo: 293	Best.Value: 55302.28184000004
+X - 23	Tempo: 2593	Best.Value: 55669.04972000007
+X - 32	Tempo: 3569	Best.Value: 56705.09717000003
+X - 41	Tempo: 4471	Best.Value: 56768.182530000005
+
+ 
+ 
+
+X - 0	Tempo: 302	Best.Value: 47745.07290000016
+X - 1	Tempo: 432	Best.Value: 48751.91038000011
+X - 2	Tempo: 531	Best.Value: 48971.81523000004
+X - 5	Tempo: 859	Best.Value: 49791.56485999995
+X - 11	Tempo: 1503	Best.Value: 49906.81771
+X - 87	Tempo: 9320	Best.Value: 50049.374059999915
+
+ 
+ 
+
+X - 0	Tempo: 254	Best.Value: 47935.05120999998
+X - 21	Tempo: 1925	Best.Value: 48228.8538399999
+X - 38	Tempo: 3339	Best.Value: 48304.380280000005
+X - 66	Tempo: 5622	Best.Value: 48341.16535999997
+X - 70	Tempo: 5983	Best.Value: 48882.62150999994
+X - 126	Tempo: 10487	Best.Value: 49426.945069999856
+
+ 
+ 
+
+X - 0	Tempo: 233	Best.Value: 46802.6908899999
+X - 3	Tempo: 664	Best.Value: 46883.85327999987
+X - 6	Tempo: 996	Best.Value: 47034.16044999999
+
+ 
+ 
+
+X - 0	Tempo: 307	Best.Value: 56939.08095999981
+X - 1	Tempo: 412	Best.Value: 58212.03208999985
+X - 2	Tempo: 499	Best.Value: 58535.82230999981
+X - 8	Tempo: 985	Best.Value: 59735.488729999815
+X - 164	Tempo: 13722	Best.Value: 59910.61380999983
+X - 237	Tempo: 19759	Best.Value: 60202.39518999978
+
+ 
+ 
+
+X - 0	Tempo: 283	Best.Value: 53708.82683999988
+X - 1	Tempo: 460	Best.Value: 55273.91061999989
+X - 9	Tempo: 1461	Best.Value: 55506.285349999845
+X - 119	Tempo: 13885	Best.Value: 55835.18826999985
+X - 189	Tempo: 21563	Best.Value: 56000.67124999983
+X - 224	Tempo: 25556	Best.Value: 56048.99836999982
+
+ 
+ 
+
+X - 0	Tempo: 348	Best.Value: 47361.06868000014
+X - 1	Tempo: 571	Best.Value: 49079.0082600001
+X - 8	Tempo: 1629	Best.Value: 49266.71953000006
+X - 10	Tempo: 1979	Best.Value: 49275.765610000024
+X - 16	Tempo: 2857	Best.Value: 49652.03229000001
+X - 26	Tempo: 4440	Best.Value: 50075.479740000075
+X - 61	Tempo: 10033	Best.Value: 50175.88659000008
+X - 84	Tempo: 13674	Best.Value: 50195.562460000074
+X - 110	Tempo: 17792	Best.Value: 50881.12383000003
+X - 145	Tempo: 23374	Best.Value: 51111.77861000005
+
+ 
+ 
+
+X - 0	Tempo: 276	Best.Value: 54844.24812000012
+X - 1	Tempo: 399	Best.Value: 55145.62746000011
+X - 13	Tempo: 1708	Best.Value: 55305.1238100002
+X - 14	Tempo: 1818	Best.Value: 55611.19980000014
+X - 23	Tempo: 2881	Best.Value: 56453.602180000205
+X - 192	Tempo: 21553	Best.Value: 56598.282390000146
+
+ 
+ 
+
+X - 0	Tempo: 195	Best.Value: 49490.73702000008
+X - 1	Tempo: 286	Best.Value: 49840.77405000012
+X - 2	Tempo: 344	Best.Value: 50364.23977000003
+X - 8	Tempo: 672	Best.Value: 50596.96312
+X - 21	Tempo: 1429	Best.Value: 51804.75158000004
+
+ 
+ 
+
+X - 0	Tempo: 203	Best.Value: 49865.83822000002
+X - 10	Tempo: 1004	Best.Value: 50515.99489000001
+X - 14	Tempo: 1307	Best.Value: 50533.16959000005
+X - 22	Tempo: 1924	Best.Value: 50534.278070000015
+X - 24	Tempo: 2055	Best.Value: 50636.642669999994
+X - 25	Tempo: 2131	Best.Value: 51645.08329000005
+X - 184	Tempo: 14151	Best.Value: 52110.27720999997
+
+ 
+ 
+
+X - 0	Tempo: 243	Best.Value: 54097.34733000001
+X - 2	Tempo: 486	Best.Value: 54176.229000000036
+X - 6	Tempo: 877	Best.Value: 54799.82469999999
+X - 9	Tempo: 1191	Best.Value: 55200.22808
+X - 13	Tempo: 1567	Best.Value: 55200.27562000004
+X - 14	Tempo: 1685	Best.Value: 55562.105220000056
+X - 26	Tempo: 2885	Best.Value: 55565.39026000009
+X - 38	Tempo: 4118	Best.Value: 56121.26287000011
+X - 196	Tempo: 20322	Best.Value: 56705.09717000003
+
+ 
+ 
+
+X - 0	Tempo: 243	Best.Value: 48373.35440000007
+X - 1	Tempo: 370	Best.Value: 49248.60920000008
+X - 7	Tempo: 1002	Best.Value: 49347.80143000001
+X - 22	Tempo: 2470	Best.Value: 49699.745949999946
+X - 111	Tempo: 11543	Best.Value: 49713.93029999989
+X - 143	Tempo: 14907	Best.Value: 49791.56485999995
+X - 174	Tempo: 18047	Best.Value: 50049.374059999915
+
+ 
+ 
+
+X - 0	Tempo: 326	Best.Value: 46709.133330000004
+X - 1	Tempo: 449	Best.Value: 47279.21270999999
+X - 2	Tempo: 556	Best.Value: 47935.05120999998
+X - 6	Tempo: 925	Best.Value: 48085.16479999996
+X - 10	Tempo: 1327	Best.Value: 48086.14663999996
+X - 11	Tempo: 1421	Best.Value: 48194.390209999976
+X - 20	Tempo: 2252	Best.Value: 48333.70114000001
+X - 22	Tempo: 2409	Best.Value: 48567.24358999992
+X - 34	Tempo: 3585	Best.Value: 49426.945069999856
+
+ 
+ 
+
+X - 0	Tempo: 269	Best.Value: 46802.6908899999
+X - 1	Tempo: 412	Best.Value: 46890.39854999998
+X - 67	Tempo: 7682	Best.Value: 47036.15400000002
+
+ 
+ 
+
+X - 0	Tempo: 229	Best.Value: 56707.784959999786
+X - 1	Tempo: 324	Best.Value: 58799.143169999865
+X - 6	Tempo: 762	Best.Value: 59735.488729999815
+X - 10	Tempo: 1076	Best.Value: 60015.791569999834
+X - 213	Tempo: 17951	Best.Value: 60109.48497999985
+
+ 
+ 
+
+X - 0	Tempo: 304	Best.Value: 54457.167089999886
+X - 4	Tempo: 766	Best.Value: 55073.47846999983
+X - 8	Tempo: 1226	Best.Value: 55418.74816999982
+X - 28	Tempo: 3523	Best.Value: 55430.893589999825
+X - 67	Tempo: 8180	Best.Value: 55701.009769999815
+X - 243	Tempo: 28612	Best.Value: 55835.18826999985
+
+ 
+ 
+
+X - 0	Tempo: 374	Best.Value: 49079.0082600001
+X - 3	Tempo: 864	Best.Value: 49401.3132200001
+X - 24	Tempo: 4017	Best.Value: 50881.12383000003
+X - 34	Tempo: 5537	Best.Value: 51111.77861000005
+
+ 
+ 
+
+X - 0	Tempo: 229	Best.Value: 55554.60594000007
+X - 1	Tempo: 369	Best.Value: 55826.10391000006
+X - 2	Tempo: 538	Best.Value: 55853.765160000105
+X - 12	Tempo: 1712	Best.Value: 55864.76890000019
+X - 13	Tempo: 1811	Best.Value: 55912.62708000015
+X - 20	Tempo: 2668	Best.Value: 56601.60826000015
+
+ 
+ 
+
+X - 0	Tempo: 212	Best.Value: 49756.19817000009
+X - 1	Tempo: 333	Best.Value: 50915.64439
+X - 25	Tempo: 1775	Best.Value: 51804.75158000004
+
+ 
+ 
+
+X - 0	Tempo: 221	Best.Value: 49853.085279999956
+X - 3	Tempo: 447	Best.Value: 50636.642669999994
+X - 6	Tempo: 664	Best.Value: 50717.051200000016
+X - 30	Tempo: 2502	Best.Value: 52110.27720999997
+
+ 
+ 
+
+X - 0	Tempo: 304	Best.Value: 55302.28184000004
+X - 1	Tempo: 437	Best.Value: 55859.39501000004
+X - 128	Tempo: 13516	Best.Value: 55871.97913999998
+X - 187	Tempo: 19672	Best.Value: 56768.182530000005
+
+ 
+ 
+
+X - 0	Tempo: 217	Best.Value: 49003.64790999995
+X - 2	Tempo: 472	Best.Value: 49089.7543799999
+X - 4	Tempo: 656	Best.Value: 49292.08016999991
+X - 5	Tempo: 732	Best.Value: 49562.67992999991
+X - 86	Tempo: 8982	Best.Value: 49713.93029999989
+X - 144	Tempo: 14850	Best.Value: 50049.374059999915
+
+ 
+ 
+
+X - 0	Tempo: 250	Best.Value: 47328.74067999997
+X - 1	Tempo: 357	Best.Value: 47935.05120999998
+X - 2	Tempo: 429	Best.Value: 47972.38391999992
+X - 6	Tempo: 757	Best.Value: 48230.95715999989
+X - 7	Tempo: 851	Best.Value: 49137.5053899999
+
+ 
+ 
+
+X - 0	Tempo: 233	Best.Value: 45705.94273999997
+X - 1	Tempo: 364	Best.Value: 46507.485919999934
+X - 4	Tempo: 701	Best.Value: 47012.00109999993
+X - 17	Tempo: 2184	Best.Value: 47123.54659999992
+X - 209	Tempo: 23092	Best.Value: 47276.34462999992
+
+ 
+ 
+
+X - 0	Tempo: 196	Best.Value: 58128.06677999976
+X - 2	Tempo: 387	Best.Value: 59221.19520999989
+X - 3	Tempo: 474	Best.Value: 59735.488729999815
+X - 40	Tempo: 3535	Best.Value: 59742.31841999985
+X - 43	Tempo: 3756	Best.Value: 59743.29649999982
+X - 107	Tempo: 9037	Best.Value: 59910.61380999983
+X - 149	Tempo: 12570	Best.Value: 60202.39518999978
+
+ 
+ 
+
+X - 0	Tempo: 271	Best.Value: 53803.76960999995
+X - 1	Tempo: 383	Best.Value: 55194.99650999994
+X - 19	Tempo: 2270	Best.Value: 55311.50943999986
+X - 63	Tempo: 7181	Best.Value: 55395.450879999815
+X - 108	Tempo: 12293	Best.Value: 55701.009769999815
+X - 118	Tempo: 13504	Best.Value: 55806.41401999983
+X - 211	Tempo: 23788	Best.Value: 55835.18826999985
+X - 257	Tempo: 28809	Best.Value: 56000.67124999983
+
+ 
+ 
+
+X - 0	Tempo: 286	Best.Value: 47914.03039000018
+X - 1	Tempo: 507	Best.Value: 49079.0082600001
+X - 11	Tempo: 2074	Best.Value: 49523.26823000002
+X - 22	Tempo: 3819	Best.Value: 49764.8413800001
+X - 42	Tempo: 6875	Best.Value: 50646.26869999998
+X - 291	Tempo: 45771	Best.Value: 51111.77861000005
+
+ 
+ 
+
+X - 0	Tempo: 269	Best.Value: 54931.78913000005
+X - 2	Tempo: 512	Best.Value: 55001.50460000016
+X - 6	Tempo: 934	Best.Value: 55611.19980000014
+X - 57	Tempo: 6651	Best.Value: 56598.282390000146
+X - 119	Tempo: 13626	Best.Value: 56601.60826000015
+
+ 
+ 
+
+X - 0	Tempo: 192	Best.Value: 50843.13806000001
+X - 15	Tempo: 1140	Best.Value: 51012.53711000002
+X - 26	Tempo: 1783	Best.Value: 51571.17059
+X - 69	Tempo: 4357	Best.Value: 51772.28535
+X - 276	Tempo: 16771	Best.Value: 51804.75158000004
+
+ 
+ 
+
+X - 0	Tempo: 235	Best.Value: 48968.95293999999
+X - 1	Tempo: 321	Best.Value: 50636.642669999994
+X - 36	Tempo: 2878	Best.Value: 50832.67886
+X - 104	Tempo: 7822	Best.Value: 51628.11333000005
+X - 238	Tempo: 17653	Best.Value: 51645.08329000005
+
+ 
+ 
+
+X - 0	Tempo: 224	Best.Value: 54463.22317999999
+X - 1	Tempo: 372	Best.Value: 54475.53621000002
+X - 2	Tempo: 468	Best.Value: 55299.37935999999
+X - 6	Tempo: 910	Best.Value: 55302.28184000004
+X - 7	Tempo: 1010	Best.Value: 55669.04972000007
+X - 82	Tempo: 8802	Best.Value: 55859.39501000004
+
+ 
+ 
+
+X - 0	Tempo: 261	Best.Value: 49906.81771
+X - 3	Tempo: 561	Best.Value: 50049.374059999915
+
+ 
+ 
+
+X - 0	Tempo: 210	Best.Value: 47434.303929999944
+X - 2	Tempo: 400	Best.Value: 47935.05120999998
+X - 13	Tempo: 1284	Best.Value: 47950.669499999996
+X - 14	Tempo: 1368	Best.Value: 48623.71788999997
+X - 15	Tempo: 1460	Best.Value: 48792.26531999991
+X - 89	Tempo: 7351	Best.Value: 48861.72044999998
+X - 141	Tempo: 11476	Best.Value: 49426.945069999856
+
+ 
+ 
+
+X - 0	Tempo: 288	Best.Value: 45682.62267999998
+X - 1	Tempo: 433	Best.Value: 46421.60576999995
+X - 4	Tempo: 774	Best.Value: 46775.457959999876
+X - 6	Tempo: 989	Best.Value: 46802.6908899999
+X - 13	Tempo: 1728	Best.Value: 46875.16197999987
+X - 20	Tempo: 2457	Best.Value: 46906.26308999986
+X - 28	Tempo: 3420	Best.Value: 46971.06728999987
+X - 31	Tempo: 3749	Best.Value: 47005.13949000001
+X - 102	Tempo: 11490	Best.Value: 47123.54659999992
+
+ 
+ 
+
+X - 0	Tempo: 239	Best.Value: 59735.488729999815
+X - 99	Tempo: 8276	Best.Value: 59742.31841999985
+X - 136	Tempo: 11199	Best.Value: 60063.434099999824
+X - 153	Tempo: 12562	Best.Value: 60202.39518999978
+
+ 
+ 
+
+X - 0	Tempo: 260	Best.Value: 54221.89236999976
+X - 1	Tempo: 417	Best.Value: 54457.167089999886
+X - 2	Tempo: 533	Best.Value: 54721.11761999985
+X - 11	Tempo: 1454	Best.Value: 54764.96264999984
+X - 12	Tempo: 1568	Best.Value: 54967.70296999983
+X - 20	Tempo: 2531	Best.Value: 55073.47846999983
+X - 37	Tempo: 4356	Best.Value: 55176.57074999981
+X - 39	Tempo: 4582	Best.Value: 55194.99650999994
+X - 51	Tempo: 6054	Best.Value: 55418.74816999982
+X - 56	Tempo: 6620	Best.Value: 55430.893589999825
+X - 95	Tempo: 11036	Best.Value: 55652.053119999815
+X - 291	Tempo: 33192	Best.Value: 55745.09651999984
+
+ 
+ 
+
+X - 0	Tempo: 323	Best.Value: 50558.472830000035
+X - 65	Tempo: 10915	Best.Value: 50909.45524000002
+
+ 
+ 
+
+X - 0	Tempo: 251	Best.Value: 53642.726760000114
+X - 1	Tempo: 384	Best.Value: 55611.19980000014
+X - 7	Tempo: 991	Best.Value: 56214.57439000013
+X - 39	Tempo: 4710	Best.Value: 56416.048950000084
+
+ 
+ 
+
+X - 0	Tempo: 233	Best.Value: 49734.928420000026
+X - 1	Tempo: 307	Best.Value: 51218.19595999995
+X - 16	Tempo: 1254	Best.Value: 51271.79480999996
+X - 38	Tempo: 2589	Best.Value: 51571.17059
+X - 208	Tempo: 13114	Best.Value: 51594.83755000007
+X - 271	Tempo: 17044	Best.Value: 51804.75158000004
+
+ 
+ 
+
+X - 0	Tempo: 200	Best.Value: 50636.642669999994
+X - 24	Tempo: 2026	Best.Value: 51258.71885000006
+X - 148	Tempo: 11383	Best.Value: 51287.17425000008
+X - 167	Tempo: 12859	Best.Value: 51645.08329000005
+X - 237	Tempo: 17847	Best.Value: 52110.27720999997
+
+ 
+ 
+
+X - 0	Tempo: 237	Best.Value: 55565.39023000003
+X - 85	Tempo: 9051	Best.Value: 55669.04972000007
+X - 92	Tempo: 9826	Best.Value: 55680.054330000035
+X - 115	Tempo: 12126	Best.Value: 55865.169670000025
+X - 122	Tempo: 12940	Best.Value: 56121.26287000011
+X - 235	Tempo: 24335	Best.Value: 56212.266760000006
+
+ 
+ 
+
+X - 0	Tempo: 243	Best.Value: 48447.45771000001
+X - 4	Tempo: 686	Best.Value: 49056.218879999986
+X - 9	Tempo: 1243	Best.Value: 49521.286520000016
+X - 13	Tempo: 1656	Best.Value: 49567.33575000008
+X - 16	Tempo: 1974	Best.Value: 49696.01685000002
+X - 96	Tempo: 10246	Best.Value: 49713.93029999989
+X - 164	Tempo: 17126	Best.Value: 49906.81771
+
+ 
+ 
+
+X - 0	Tempo: 221	Best.Value: 47204.01947999989
+X - 6	Tempo: 718	Best.Value: 47935.05120999998
+X - 9	Tempo: 970	Best.Value: 48073.54122999995
+X - 11	Tempo: 1148	Best.Value: 48341.16535999997
+X - 21	Tempo: 1990	Best.Value: 48453.51600999997
+X - 25	Tempo: 2318	Best.Value: 49002.88433999991
+X - 228	Tempo: 18936	Best.Value: 49069.52949999998
+
+ 
+ 
+
+X - 0	Tempo: 280	Best.Value: 45937.24415000002
+X - 2	Tempo: 544	Best.Value: 47001.14649999992
+X - 11	Tempo: 1602	Best.Value: 47036.15400000002
+X - 78	Tempo: 9291	Best.Value: 47123.54659999992
+
+ 
+ 
+
+X - 0	Tempo: 227	Best.Value: 59735.488729999815
+X - 5	Tempo: 717	Best.Value: 60086.52748999982
+X - 102	Tempo: 8584	Best.Value: 60202.39518999978
+
+ 
+ 
+
+X - 0	Tempo: 265	Best.Value: 53320.24757999986
+X - 1	Tempo: 389	Best.Value: 55073.47846999983
+X - 18	Tempo: 2168	Best.Value: 55378.99825999985
+X - 186	Tempo: 21485	Best.Value: 56000.67124999983
+
+ 
+ 
+
+X - 0	Tempo: 307	Best.Value: 47816.65718000013
+X - 5	Tempo: 1110	Best.Value: 48951.50624000015
+X - 9	Tempo: 1657	Best.Value: 50318.81511000006
+X - 10	Tempo: 1834	Best.Value: 50909.45524000002
+X - 27	Tempo: 4453	Best.Value: 51111.77861000005
+
+ 
+ 
+
+X - 0	Tempo: 266	Best.Value: 55728.647390000144
+X - 8	Tempo: 1210	Best.Value: 55789.70768000021
+X - 14	Tempo: 1868	Best.Value: 56559.59863000022
+X - 253	Tempo: 28716	Best.Value: 56601.60826000015
+
+ 
+ 
+
+X - 0	Tempo: 202	Best.Value: 49490.73702000008
+X - 3	Tempo: 387	Best.Value: 49630.14354000011
+X - 4	Tempo: 441	Best.Value: 50109.02811000001
+X - 6	Tempo: 561	Best.Value: 50372.240050000015
+X - 9	Tempo: 798	Best.Value: 50915.64439
+X - 20	Tempo: 1493	Best.Value: 51400.954050000015
+X - 252	Tempo: 15898	Best.Value: 51421.02512000003
+X - 286	Tempo: 17994	Best.Value: 51454.1395999999
+
+ 
+ 
+
+X - 0	Tempo: 259	Best.Value: 49965.073810000016
+X - 1	Tempo: 341	Best.Value: 50349.66130999999
+X - 4	Tempo: 550	Best.Value: 50636.642669999994
+X - 11	Tempo: 1052	Best.Value: 51287.17425000008
+X - 96	Tempo: 7489	Best.Value: 51497.92224000002
+X - 117	Tempo: 9103	Best.Value: 52110.27720999997
+
+ 
+ 
+
+X - 0	Tempo: 261	Best.Value: 53907.44754000007
+X - 1	Tempo: 395	Best.Value: 55067.80523000005
+X - 3	Tempo: 605	Best.Value: 55302.28184000004
+X - 13	Tempo: 1665	Best.Value: 55592.146190000036
+X - 30	Tempo: 3420	Best.Value: 55880.59811000006
+X - 98	Tempo: 10467	Best.Value: 56121.26287000011
+X - 241	Tempo: 25689	Best.Value: 56705.09717000003
+
+ 
+ 
+
+X - 0	Tempo: 264	Best.Value: 48854.69965000001
+X - 5	Tempo: 810	Best.Value: 49384.68571999991
+X - 7	Tempo: 1033	Best.Value: 49623.23618999991
+X - 95	Tempo: 10740	Best.Value: 49998.44887000005
+
+ 
+ 
+
+X - 0	Tempo: 244	Best.Value: 47949.910229999965
+X - 1	Tempo: 349	Best.Value: 48091.10533999991
+X - 8	Tempo: 911	Best.Value: 48333.70114000001
+X - 54	Tempo: 4793	Best.Value: 49426.945069999856
+
+ 
+ 
+
+X - 0	Tempo: 316	Best.Value: 46906.26308999986
+X - 177	Tempo: 20269	Best.Value: 47012.00109999993
+X - 203	Tempo: 23094	Best.Value: 47036.15400000002
+X - 302	Tempo: 34085	Best.Value: 47123.54659999992
+
+ 
+ 
+
+X - 0	Tempo: 278	Best.Value: 57060.04600999982
+X - 1	Tempo: 401	Best.Value: 57573.18805999982
+X - 2	Tempo: 475	Best.Value: 58521.37519999982
+X - 7	Tempo: 919	Best.Value: 59616.23072999982
+X - 22	Tempo: 2184	Best.Value: 59735.488729999815
+X - 88	Tempo: 7623	Best.Value: 59742.31841999985
+X - 104	Tempo: 8866	Best.Value: 60109.48497999985
+
+ 
+ 
+
+X - 0	Tempo: 291	Best.Value: 53372.09792999989
+X - 1	Tempo: 409	Best.Value: 54264.56030999981
+X - 2	Tempo: 488	Best.Value: 54473.78328999985
+X - 3	Tempo: 607	Best.Value: 55013.7221199999
+X - 49	Tempo: 5838	Best.Value: 55835.18826999985
+X - 300	Tempo: 34472	Best.Value: 56000.67124999983
+
+ 
+ 
+
+X - 0	Tempo: 287	Best.Value: 45292.632110000064
+X - 1	Tempo: 468	Best.Value: 47599.82229000019
+X - 3	Tempo: 800	Best.Value: 47914.03039000018
+X - 4	Tempo: 985	Best.Value: 49079.0082600001
+X - 13	Tempo: 2317	Best.Value: 49645.22983000007
+X - 24	Tempo: 3996	Best.Value: 49863.96364000005
+X - 55	Tempo: 9177	Best.Value: 49929.904350000055
+X - 75	Tempo: 12353	Best.Value: 49958.189870000075
+X - 81	Tempo: 13318	Best.Value: 50318.81511000006
+X - 128	Tempo: 20775	Best.Value: 50442.88657000011
+X - 289	Tempo: 47053	Best.Value: 50534.25833000005
+
+ 
+ 
+
+X - 0	Tempo: 242	Best.Value: 54154.150690000075
+X - 3	Tempo: 549	Best.Value: 55624.66805000012
+X - 29	Tempo: 3635	Best.Value: 55853.765160000105
+X - 46	Tempo: 5513	Best.Value: 55901.38288000007
+X - 73	Tempo: 8690	Best.Value: 56601.60826000015
+
+ 
+ 
+
+X - 0	Tempo: 250	Best.Value: 49762.36008000003
+X - 1	Tempo: 323	Best.Value: 50413.27186000008
+X - 2	Tempo: 385	Best.Value: 50935.97929
+X - 36	Tempo: 2488	Best.Value: 51594.83755000007
+X - 73	Tempo: 4792	Best.Value: 51804.75158000004
+
+ 
+ 
+
+X - 0	Tempo: 218	Best.Value: 49801.144319999934
+X - 1	Tempo: 318	Best.Value: 51119.31492
+X - 31	Tempo: 2595	Best.Value: 51248.20323000007
+X - 59	Tempo: 4797	Best.Value: 51375.61050999999
+X - 68	Tempo: 5495	Best.Value: 51628.11333000005
+
+ 
+ 
+
+X - 0	Tempo: 292	Best.Value: 54497.51672999998
+X - 1	Tempo: 422	Best.Value: 55302.28184000004
+X - 6	Tempo: 928	Best.Value: 55345.173970000025
+X - 22	Tempo: 2517	Best.Value: 55680.054330000035
+X - 139	Tempo: 14643	Best.Value: 55865.169670000025
+X - 146	Tempo: 15427	Best.Value: 56768.182530000005
+
+ 
+ 
+
+X - 0	Tempo: 298	Best.Value: 47779.51971000003
+X - 1	Tempo: 419	Best.Value: 48971.81523000004
+X - 9	Tempo: 1267	Best.Value: 49292.08016999991
+X - 20	Tempo: 2398	Best.Value: 49502.47472
+X - 23	Tempo: 2726	Best.Value: 49623.23618999991
+X - 90	Tempo: 9861	Best.Value: 49713.93029999989
+X - 182	Tempo: 19388	Best.Value: 49998.44887000005
+
+ 
+ 
+
+X - 0	Tempo: 249	Best.Value: 47729.39233999999
+X - 1	Tempo: 352	Best.Value: 47935.05120999998
+X - 5	Tempo: 668	Best.Value: 48540.89632999995
+X - 61	Tempo: 5207	Best.Value: 48868.51304999986
+X - 146	Tempo: 12124	Best.Value: 48896.26724999988
+X - 150	Tempo: 12501	Best.Value: 49137.5053899999
+
+ 
+ 
+
+X - 0	Tempo: 231	Best.Value: 45694.837979999924
+X - 2	Tempo: 513	Best.Value: 46802.6908899999
+X - 24	Tempo: 3096	Best.Value: 47001.14649999992
+X - 68	Tempo: 7955	Best.Value: 47034.16044999999
+
+ 
+ 
+
+X - 0	Tempo: 207	Best.Value: 59407.31780999978
+X - 9	Tempo: 979	Best.Value: 59735.488729999815
+X - 25	Tempo: 2278	Best.Value: 60109.48497999985
+
+ 
+ 
+
+X - 0	Tempo: 320	Best.Value: 54457.167089999886
+X - 2	Tempo: 619	Best.Value: 54490.57823999988
+X - 3	Tempo: 714	Best.Value: 55073.47846999983
+X - 16	Tempo: 2235	Best.Value: 55081.47664999983
+X - 24	Tempo: 3273	Best.Value: 55253.63150999986
+X - 35	Tempo: 4488	Best.Value: 55308.835639999845
+X - 101	Tempo: 11759	Best.Value: 55835.18826999985
+X - 152	Tempo: 17499	Best.Value: 56048.99836999982
+
+ 
+ 
+
+X - 0	Tempo: 334	Best.Value: 47353.149600000055
+X - 2	Tempo: 663	Best.Value: 48579.84210000005
+X - 3	Tempo: 849	Best.Value: 49079.0082600001
+X - 17	Tempo: 3080	Best.Value: 49184.30878000007
+X - 38	Tempo: 6524	Best.Value: 49518.50921000014
+X - 39	Tempo: 6688	Best.Value: 50125.533940000074
+X - 60	Tempo: 9990	Best.Value: 50160.412570000015
+X - 79	Tempo: 12961	Best.Value: 50442.88657000011
+X - 87	Tempo: 14267	Best.Value: 50881.12383000003
+X - 124	Tempo: 20016	Best.Value: 51111.77861000005
+
+ 
+ 
+
+X - 0	Tempo: 314	Best.Value: 54902.59161000008
+X - 1	Tempo: 442	Best.Value: 55162.13386000008
+X - 3	Tempo: 659	Best.Value: 55968.64661000012
+X - 49	Tempo: 6051	Best.Value: 56601.60826000015
+
+ 
+ 
+
+X - 0	Tempo: 229	Best.Value: 48274.02881000014
+X - 1	Tempo: 314	Best.Value: 48550.39666000008
+X - 2	Tempo: 378	Best.Value: 49351.68840000006
+X - 3	Tempo: 444	Best.Value: 49734.928420000026
+X - 5	Tempo: 555	Best.Value: 50577.083500000015
+X - 12	Tempo: 981	Best.Value: 50769.060550000075
+X - 13	Tempo: 1055	Best.Value: 51594.83755000007
+
+ 
+ 
+
+X - 0	Tempo: 189	Best.Value: 50349.66130999999
+X - 2	Tempo: 346	Best.Value: 50515.51380000004
+X - 7	Tempo: 731	Best.Value: 50621.39609999997
+X - 23	Tempo: 1923	Best.Value: 51497.92224000002
+X - 65	Tempo: 5155	Best.Value: 51645.08329000005
+
+ 
+ 
+
+X - 0	Tempo: 215	Best.Value: 54368.158569999985
+X - 3	Tempo: 532	Best.Value: 54874.33522000005
+X - 5	Tempo: 732	Best.Value: 55558.70991999992
+X - 23	Tempo: 2641	Best.Value: 55859.39501000004
+X - 135	Tempo: 14450	Best.Value: 56768.182530000005
+
+ 
+ 
+
+X - 0	Tempo: 290	Best.Value: 49242.49359000001
+X - 16	Tempo: 2026	Best.Value: 49582.773120000114
+X - 64	Tempo: 6973	Best.Value: 49696.01685000002
+X - 99	Tempo: 10647	Best.Value: 49792.12355000002
+X - 136	Tempo: 14490	Best.Value: 49906.81771
+X - 145	Tempo: 15423	Best.Value: 50049.374059999915
+
+ 
+ 
+
+X - 0	Tempo: 220	Best.Value: 47935.05120999998
+X - 2	Tempo: 402	Best.Value: 48341.16535999997
+X - 35	Tempo: 3089	Best.Value: 50044.86798999994
+
+ 
+ 
+
+X - 0	Tempo: 264	Best.Value: 46802.6908899999
+X - 35	Tempo: 4240	Best.Value: 46911.65588999988
+X - 82	Tempo: 9316	Best.Value: 47276.34462999992
+
+ 
+ 
+
+X - 0	Tempo: 216	Best.Value: 59165.19014999983
+X - 1	Tempo: 338	Best.Value: 59735.488729999815
+X - 9	Tempo: 1003	Best.Value: 60202.39518999978
+
+ 
+ 
+
+X - 0	Tempo: 327	Best.Value: 53616.214429999876
+X - 2	Tempo: 562	Best.Value: 55311.50943999986
+X - 14	Tempo: 1888	Best.Value: 55395.450879999815
+X - 33	Tempo: 4007	Best.Value: 55701.009769999815
+X - 49	Tempo: 5874	Best.Value: 55806.41401999983
+X - 148	Tempo: 16785	Best.Value: 56048.99836999982
+
+ 
+ 
+
+X - 0	Tempo: 295	Best.Value: 46667.312280000064
+X - 2	Tempo: 601	Best.Value: 47325.052690000084
+X - 3	Tempo: 742	Best.Value: 49522.00210000012
+X - 7	Tempo: 1401	Best.Value: 49579.35771
+X - 11	Tempo: 1990	Best.Value: 49631.62077000003
+X - 17	Tempo: 2868	Best.Value: 49637.23838000006
+X - 32	Tempo: 5299	Best.Value: 49650.27331000007
+X - 33	Tempo: 5432	Best.Value: 50441.24925000008
+X - 54	Tempo: 8561	Best.Value: 50646.26869999998
+X - 83	Tempo: 13194	Best.Value: 50896.47362000001
+X - 126	Tempo: 19907	Best.Value: 51111.77861000005
+
+ 
+ 
+
+X - 0	Tempo: 310	Best.Value: 53690.92962000014
+X - 1	Tempo: 457	Best.Value: 54836.03861000012
+X - 2	Tempo: 568	Best.Value: 55611.19980000014
+X - 10	Tempo: 1449	Best.Value: 55901.38288000007
+X - 37	Tempo: 4524	Best.Value: 55964.204140000234
+X - 63	Tempo: 7563	Best.Value: 56453.602180000205
+
+ 
+ 
+
+X - 0	Tempo: 265	Best.Value: 50577.083500000015
+X - 7	Tempo: 765	Best.Value: 50793.576539999995
+X - 59	Tempo: 4023	Best.Value: 51594.83755000007
+
+ 
+ 
+
+X - 0	Tempo: 244	Best.Value: 49877.04926000007
+X - 3	Tempo: 530	Best.Value: 50605.03116000009
+X - 4	Tempo: 593	Best.Value: 50636.642669999994
+X - 13	Tempo: 1289	Best.Value: 50878.38695999998
+X - 14	Tempo: 1352	Best.Value: 51258.71885000006
+X - 32	Tempo: 2628	Best.Value: 51497.92224000002
+X - 49	Tempo: 3898	Best.Value: 51645.08329000005
+
+ 
+ 
+
+X - 0	Tempo: 249	Best.Value: 53794.25154
+X - 2	Tempo: 472	Best.Value: 54092.98357000005
+X - 3	Tempo: 565	Best.Value: 55027.8830100001
+X - 7	Tempo: 972	Best.Value: 55302.28184000004
+X - 10	Tempo: 1327	Best.Value: 55315.89131000005
+X - 20	Tempo: 2314	Best.Value: 55612.930649999995
+X - 41	Tempo: 4457	Best.Value: 55880.59811000006
+X - 172	Tempo: 18196	Best.Value: 56121.26287000011
+X - 219	Tempo: 22947	Best.Value: 56768.182530000005
+
+ 
+ 
+
+X - 0	Tempo: 246	Best.Value: 47748.89428999991
+X - 1	Tempo: 386	Best.Value: 48385.456020000005
+X - 2	Tempo: 493	Best.Value: 48447.88480999995
+X - 3	Tempo: 573	Best.Value: 49396.48304000002
+X - 14	Tempo: 1707	Best.Value: 49449.780809999975
+X - 30	Tempo: 3450	Best.Value: 49554.19897999987
+X - 76	Tempo: 8020	Best.Value: 49679.69224999992
+X - 82	Tempo: 8639	Best.Value: 49713.93029999989
+X - 88	Tempo: 9221	Best.Value: 50049.374059999915
+
+ 
+ 
+
+X - 0	Tempo: 247	Best.Value: 47789.08976999995
+X - 1	Tempo: 355	Best.Value: 48426.33389000002
+X - 19	Tempo: 1821	Best.Value: 48896.26724999988
+X - 77	Tempo: 6502	Best.Value: 49069.52949999998
+X - 113	Tempo: 9400	Best.Value: 49137.5053899999
+
+ 
+ 
+
+X - 0	Tempo: 259	Best.Value: 46740.870539999945
+X - 3	Tempo: 620	Best.Value: 47034.16044999999
+X - 91	Tempo: 10382	Best.Value: 47123.54659999992
+
+ 
+ 
+
+X - 0	Tempo: 263	Best.Value: 56435.98200999984
+X - 1	Tempo: 386	Best.Value: 57396.940359999826
+X - 2	Tempo: 461	Best.Value: 59628.7197499998
+X - 9	Tempo: 1025	Best.Value: 59735.488729999815
+X - 13	Tempo: 1381	Best.Value: 60109.48497999985
+
+ 
+ 
+
+X - 0	Tempo: 229	Best.Value: 54192.20351999986
+X - 1	Tempo: 364	Best.Value: 55017.64261999985
+X - 5	Tempo: 779	Best.Value: 55073.47846999983
+X - 20	Tempo: 2541	Best.Value: 55103.442079999884
+X - 39	Tempo: 4583	Best.Value: 55701.009769999815
+X - 50	Tempo: 5762	Best.Value: 56048.99836999982
+
+ 
+ 
+
+X - 0	Tempo: 315	Best.Value: 47359.82473000011
+X - 1	Tempo: 520	Best.Value: 48347.01697000007
+X - 4	Tempo: 987	Best.Value: 49827.409410000146
+X - 6	Tempo: 1346	Best.Value: 50175.88659000008
+X - 78	Tempo: 12842	Best.Value: 50909.45524000002
+
+ 
+ 
+
+X - 0	Tempo: 281	Best.Value: 54889.79111000012
+X - 3	Tempo: 621	Best.Value: 55548.60683000008
+X - 4	Tempo: 745	Best.Value: 55734.46450000016
+X - 5	Tempo: 897	Best.Value: 55853.765160000105
+X - 28	Tempo: 3516	Best.Value: 56114.660160000145
+X - 56	Tempo: 6788	Best.Value: 56350.238220000196
+X - 74	Tempo: 8855	Best.Value: 56416.048950000084
+X - 279	Tempo: 31869	Best.Value: 56453.602180000205
+X - 306	Tempo: 34830	Best.Value: 56559.59863000022
+
+ 
+ 
+
+X - 0	Tempo: 251	Best.Value: 50098.78370999997
+X - 6	Tempo: 624	Best.Value: 50405.98418999996
+X - 7	Tempo: 680	Best.Value: 50413.27186000008
+X - 8	Tempo: 733	Best.Value: 50535.34623000001
+X - 22	Tempo: 1642	Best.Value: 51368.158930000034
+X - 230	Tempo: 14191	Best.Value: 51571.17059
+
+ 
+ 
+
+X - 0	Tempo: 234	Best.Value: 50546.28105000005
+X - 1	Tempo: 313	Best.Value: 50636.642669999994
+X - 5	Tempo: 602	Best.Value: 50707.17267000004
+X - 14	Tempo: 1328	Best.Value: 51375.61050999999
+X - 134	Tempo: 10599	Best.Value: 51424.257029999964
+X - 138	Tempo: 10938	Best.Value: 51645.08329000005
+X - 272	Tempo: 20952	Best.Value: 52110.27720999997
+
+ 
+ 
+
+X - 0	Tempo: 209	Best.Value: 54014.15682999994
+X - 1	Tempo: 349	Best.Value: 55302.28184000004
+X - 6	Tempo: 787	Best.Value: 55340.06461000007
+X - 47	Tempo: 4892	Best.Value: 55880.59811000006
+X - 208	Tempo: 21795	Best.Value: 56705.09717000003
+
+ 
+ 
+
+X - 0	Tempo: 293	Best.Value: 49411.28111000014
+X - 28	Tempo: 3270	Best.Value: 49491.571889999934
+X - 46	Tempo: 5222	Best.Value: 49619.355800000056
+X - 62	Tempo: 6832	Best.Value: 49699.745949999946
+X - 77	Tempo: 8533	Best.Value: 49998.44887000005
+
+ 
+ 
+
+X - 0	Tempo: 262	Best.Value: 47278.20521000002
+X - 1	Tempo: 355	Best.Value: 47735.01957999992
+X - 4	Tempo: 610	Best.Value: 47751.32709999998
+X - 7	Tempo: 845	Best.Value: 48442.41324999998
+X - 10	Tempo: 1097	Best.Value: 49137.5053899999
+X - 135	Tempo: 11175	Best.Value: 49426.945069999856
+X - 294	Tempo: 24292	Best.Value: 50044.86798999994
+
+ 
+ 
+
+X - 0	Tempo: 277	Best.Value: 46802.6908899999
+X - 31	Tempo: 3527	Best.Value: 46971.81575999991
+X - 54	Tempo: 5965	Best.Value: 47012.00109999993
+X - 87	Tempo: 9572	Best.Value: 47123.54659999992
+
+ 
+ 
+
+X - 0	Tempo: 225	Best.Value: 58054.37006999975
+X - 1	Tempo: 324	Best.Value: 58730.720979999816
+X - 2	Tempo: 418	Best.Value: 59446.544239999865
+X - 12	Tempo: 1228	Best.Value: 59593.046679999825
+X - 19	Tempo: 1823	Best.Value: 59621.388359999815
+X - 20	Tempo: 1896	Best.Value: 59735.20174999982
+X - 24	Tempo: 2211	Best.Value: 59735.488729999815
+X - 44	Tempo: 3900	Best.Value: 59910.61380999983
+X - 90	Tempo: 7617	Best.Value: 60063.434099999824
+X - 154	Tempo: 12848	Best.Value: 60109.48497999985
+
+ 
+ 
+
+X - 0	Tempo: 229	Best.Value: 53728.28290999994
+X - 1	Tempo: 421	Best.Value: 54697.65852999986
+X - 2	Tempo: 559	Best.Value: 56000.67124999983
+
+ 
+ 
+
+X - 0	Tempo: 354	Best.Value: 48258.860750000094
+X - 1	Tempo: 510	Best.Value: 48590.4794200001
+X - 7	Tempo: 1452	Best.Value: 49716.755160000146
+X - 8	Tempo: 1630	Best.Value: 49958.189870000075
+X - 37	Tempo: 6106	Best.Value: 50012.96943000002
+X - 40	Tempo: 6588	Best.Value: 50558.472830000035
+X - 57	Tempo: 9248	Best.Value: 50896.47362000001
+
+ 
+ 
+
+X - 0	Tempo: 238	Best.Value: 54024.22965000007
+X - 1	Tempo: 374	Best.Value: 55371.21263000015
+X - 2	Tempo: 500	Best.Value: 55864.76890000019
+X - 10	Tempo: 1425	Best.Value: 55912.62708000015
+X - 62	Tempo: 7298	Best.Value: 55964.204140000234
+X - 138	Tempo: 15698	Best.Value: 55968.64661000012
+X - 144	Tempo: 16373	Best.Value: 56350.238220000196
+
+ 
+ 
+
+X - 0	Tempo: 192	Best.Value: 50577.083500000015
+X - 13	Tempo: 966	Best.Value: 51426.17509999995
+X - 34	Tempo: 2133	Best.Value: 51650.14860999995
+
+ 
+ 
+
+X - 0	Tempo: 249	Best.Value: 48558.91956999997
+X - 1	Tempo: 330	Best.Value: 50518.46869000006
+X - 8	Tempo: 891	Best.Value: 50605.03116000009
+X - 14	Tempo: 1380	Best.Value: 50636.642669999994
+X - 15	Tempo: 1461	Best.Value: 50807.411650000045
+X - 17	Tempo: 1632	Best.Value: 51424.257029999964
+X - 119	Tempo: 9155	Best.Value: 52110.27720999997
+
+ 
+ 
+
+X - 0	Tempo: 202	Best.Value: 54391.07848000006
+X - 1	Tempo: 352	Best.Value: 55348.40482000003
+X - 8	Tempo: 990	Best.Value: 55486.91452999998
+X - 24	Tempo: 2688	Best.Value: 55865.169670000025
+X - 97	Tempo: 10174	Best.Value: 56768.182530000005
+
+ 
+ 
+
+X - 0	Tempo: 240	Best.Value: 48769.75617000002
+X - 1	Tempo: 378	Best.Value: 48971.81523000004
+X - 5	Tempo: 786	Best.Value: 49567.33575000008
+X - 18	Tempo: 2247	Best.Value: 49582.773120000114
+X - 66	Tempo: 7291	Best.Value: 49713.93029999989
+X - 95	Tempo: 10322	Best.Value: 49749.25965000009
+X - 247	Tempo: 26162	Best.Value: 50049.374059999915
+
+ 
+ 
+
+X - 0	Tempo: 233	Best.Value: 48322.66690999995
+X - 29	Tempo: 2533	Best.Value: 48390.106419999946
+X - 35	Tempo: 3023	Best.Value: 48629.78154999993
+X - 114	Tempo: 9418	Best.Value: 49069.52949999998
+X - 200	Tempo: 16339	Best.Value: 50044.86798999994
+
+ 
+ 
+
+X - 0	Tempo: 256	Best.Value: 46802.6908899999
+X - 31	Tempo: 3659	Best.Value: 47036.15400000002
+
+ 
+ 
+
+X - 0	Tempo: 214	Best.Value: 58099.91493999978
+X - 1	Tempo: 316	Best.Value: 59735.488729999815
+X - 138	Tempo: 11968	Best.Value: 60202.39518999978
+
+ 
+ 
+
+X - 0	Tempo: 285	Best.Value: 54552.59525999988
+X - 5	Tempo: 873	Best.Value: 54662.363079999894
+X - 9	Tempo: 1343	Best.Value: 54896.199369999944
+X - 16	Tempo: 2125	Best.Value: 55176.57074999981
+X - 32	Tempo: 3902	Best.Value: 55395.450879999815
+X - 34	Tempo: 4126	Best.Value: 55835.18826999985
+X - 90	Tempo: 10371	Best.Value: 56048.99836999982
+
+ 
+ 
+
+X - 0	Tempo: 370	Best.Value: 47057.25082999999
+X - 1	Tempo: 569	Best.Value: 48203.75955000003
+X - 2	Tempo: 721	Best.Value: 48524.22073000014
+X - 3	Tempo: 905	Best.Value: 49079.0082600001
+X - 14	Tempo: 2701	Best.Value: 49346.43550000007
+X - 16	Tempo: 3025	Best.Value: 50909.45524000002
+
+ 
+ 
+
+X - 0	Tempo: 255	Best.Value: 54399.50898000014
+X - 1	Tempo: 380	Best.Value: 54987.35836000005
+X - 6	Tempo: 944	Best.Value: 55338.306840000114
+X - 7	Tempo: 1042	Best.Value: 56026.258280000126
+X - 33	Tempo: 3871	Best.Value: 56350.238220000196
+X - 165	Tempo: 18874	Best.Value: 56357.956240000094
+X - 272	Tempo: 31031	Best.Value: 56559.59863000022
+
+ 
+ 
+
+X - 0	Tempo: 200	Best.Value: 50372.240050000015
+X - 4	Tempo: 505	Best.Value: 50534.965860000055
+X - 7	Tempo: 690	Best.Value: 50577.083500000015
+X - 20	Tempo: 1414	Best.Value: 51368.158930000034
+X - 25	Tempo: 1694	Best.Value: 51772.28535
+X - 109	Tempo: 6914	Best.Value: 51804.75158000004
+
+ 
+ 
+
+X - 0	Tempo: 192	Best.Value: 48969.949800000024
+X - 1	Tempo: 321	Best.Value: 50119.97106000003
+X - 2	Tempo: 402	Best.Value: 50636.642669999994
+X - 4	Tempo: 546	Best.Value: 50871.67564000004
+X - 71	Tempo: 5637	Best.Value: 51119.31492
+X - 77	Tempo: 6065	Best.Value: 51248.20323000007
+X - 134	Tempo: 10310	Best.Value: 51258.71885000006
+X - 196	Tempo: 15015	Best.Value: 52110.27720999997
+
+ 
+ 
+
+X - 0	Tempo: 258	Best.Value: 53927.22137000001
+X - 1	Tempo: 392	Best.Value: 54258.28777000007
+X - 6	Tempo: 971	Best.Value: 54429.984329999956
+X - 7	Tempo: 1070	Best.Value: 54573.74441000004
+X - 8	Tempo: 1164	Best.Value: 54972.00727000009
+X - 14	Tempo: 1817	Best.Value: 55064.68912000003
+X - 26	Tempo: 3007	Best.Value: 55253.48373999999
+X - 31	Tempo: 3517	Best.Value: 55302.28184000004
+X - 34	Tempo: 3818	Best.Value: 55436.64432000008
+X - 42	Tempo: 4617	Best.Value: 55592.146190000036
+X - 51	Tempo: 5573	Best.Value: 55612.930649999995
+X - 132	Tempo: 14010	Best.Value: 55684.73497000005
+X - 198	Tempo: 20943	Best.Value: 56212.266760000006
+
+ 
+ 
+
+X - 0	Tempo: 233	Best.Value: 48971.81523000004
+X - 1	Tempo: 347	Best.Value: 49318.88117999989
+X - 9	Tempo: 1186	Best.Value: 49699.745949999946
+X - 10	Tempo: 1303	Best.Value: 49906.81771
+X - 115	Tempo: 12509	Best.Value: 50049.374059999915
+
+ 
+ 
+
+X - 0	Tempo: 277	Best.Value: 46994.48843999998
+X - 1	Tempo: 380	Best.Value: 47520.84262999993
+X - 3	Tempo: 552	Best.Value: 47810.04403999993
+X - 4	Tempo: 644	Best.Value: 47893.039189999974
+X - 7	Tempo: 889	Best.Value: 47925.11320999997
+X - 30	Tempo: 2815	Best.Value: 47935.05120999998
+X - 35	Tempo: 3206	Best.Value: 48896.26724999988
+X - 45	Tempo: 4031	Best.Value: 50044.86798999994
+
+ 
+ 
+
+X - 0	Tempo: 261	Best.Value: 46333.117740000016
+X - 3	Tempo: 606	Best.Value: 46611.94667999991
+X - 9	Tempo: 1297	Best.Value: 46802.6908899999
+X - 17	Tempo: 2089	Best.Value: 47036.15400000002
+
+ 
+ 
+
+X - 0	Tempo: 209	Best.Value: 58444.44714999981
+X - 3	Tempo: 536	Best.Value: 59743.29649999982
+X - 41	Tempo: 3748	Best.Value: 59973.56254999982
+X - 119	Tempo: 10303	Best.Value: 60063.434099999824
+X - 145	Tempo: 12410	Best.Value: 60202.39518999978
+
+ 
+ 
+
+X - 0	Tempo: 273	Best.Value: 53854.47198999987
+X - 1	Tempo: 375	Best.Value: 54523.58717999991
+X - 3	Tempo: 604	Best.Value: 54898.191379999844
+X - 11	Tempo: 1460	Best.Value: 55395.450879999815
+X - 21	Tempo: 2616	Best.Value: 55701.009769999815
+X - 71	Tempo: 8006	Best.Value: 55835.18826999985
+X - 109	Tempo: 12336	Best.Value: 56000.67124999983
+X - 135	Tempo: 15272	Best.Value: 56048.99836999982
+
+ 
+ 
+
+X - 0	Tempo: 292	Best.Value: 48606.70546000013
+X - 1	Tempo: 447	Best.Value: 49856.33269000008
+X - 38	Tempo: 6312	Best.Value: 49863.96364000005
+X - 52	Tempo: 8526	Best.Value: 50246.8647800001
+X - 75	Tempo: 12269	Best.Value: 50896.47362000001
+X - 246	Tempo: 39352	Best.Value: 50909.45524000002
+
+ 
+ 
+
+X - 0	Tempo: 301	Best.Value: 55085.93922000015
+X - 4	Tempo: 810	Best.Value: 55611.19980000014
+X - 7	Tempo: 1126	Best.Value: 55718.5784100001
+X - 20	Tempo: 2690	Best.Value: 55853.765160000105
+X - 46	Tempo: 5721	Best.Value: 56117.32651000014
+X - 65	Tempo: 8035	Best.Value: 56350.238220000196
+X - 275	Tempo: 32120	Best.Value: 56601.60826000015
+
+ 
+ 
+
+X - 0	Tempo: 225	Best.Value: 48993.56936000002
+X - 1	Tempo: 299	Best.Value: 51421.02512000003
+X - 87	Tempo: 5474	Best.Value: 51594.83755000007
+
+ 
+ 
+
+X - 0	Tempo: 176	Best.Value: 48884.947120000084
+X - 1	Tempo: 257	Best.Value: 50685.75535999999
+X - 14	Tempo: 1191	Best.Value: 50691.72991000001
+X - 33	Tempo: 2461	Best.Value: 50701.607720000065
+X - 64	Tempo: 4691	Best.Value: 50984.897819999926
+X - 126	Tempo: 9250	Best.Value: 51287.17425000008
+X - 171	Tempo: 12590	Best.Value: 51645.08329000005
+
+ 
+ 
+
+X - 0	Tempo: 244	Best.Value: 54888.58129000009
+X - 8	Tempo: 1052	Best.Value: 55302.28184000004
+X - 10	Tempo: 1241	Best.Value: 55345.173970000025
+X - 13	Tempo: 1612	Best.Value: 55743.00311000005
+X - 41	Tempo: 4342	Best.Value: 56212.266760000006
+
+ 
+ 
+
+X - 0	Tempo: 224	Best.Value: 48403.30871999999
+X - 1	Tempo: 345	Best.Value: 48971.81523000004
+X - 3	Tempo: 517	Best.Value: 48980.534520000074
+X - 14	Tempo: 1661	Best.Value: 49440.72690999994
+X - 27	Tempo: 3046	Best.Value: 49488.04893000005
+X - 31	Tempo: 3470	Best.Value: 49696.01685000002
+X - 78	Tempo: 8308	Best.Value: 49792.12355000002
+X - 151	Tempo: 16258	Best.Value: 49906.81771
+
+ 
+ 
+
+X - 0	Tempo: 229	Best.Value: 47935.05120999998
+X - 2	Tempo: 414	Best.Value: 48304.380280000005
+X - 8	Tempo: 923	Best.Value: 48417.260219999946
+X - 83	Tempo: 7174	Best.Value: 48567.24358999992
+X - 84	Tempo: 7251	Best.Value: 49069.52949999998
+X - 302	Tempo: 24953	Best.Value: 49426.945069999856
+
+ 
+ 
+
+X - 0	Tempo: 297	Best.Value: 45838.09706999991
+X - 2	Tempo: 539	Best.Value: 46474.84123999984
+X - 7	Tempo: 1202	Best.Value: 46625.791850000074
+X - 8	Tempo: 1306	Best.Value: 46802.6908899999
+X - 40	Tempo: 4893	Best.Value: 47012.00109999993
+X - 78	Tempo: 9256	Best.Value: 47018.01248999987
+X - 99	Tempo: 11548	Best.Value: 47021.74379999989
+X - 229	Tempo: 26787	Best.Value: 47036.15400000002
+X - 292	Tempo: 33859	Best.Value: 47276.34462999992
+
+ 
+ 
+
+X - 0	Tempo: 261	Best.Value: 58420.633309999816
+X - 6	Tempo: 858	Best.Value: 59735.488729999815
+X - 21	Tempo: 2032	Best.Value: 59786.57682999991
+X - 39	Tempo: 3570	Best.Value: 59992.59184999981
+X - 115	Tempo: 9707	Best.Value: 60086.52748999982
+
+ 
+ 
+
+X - 0	Tempo: 226	Best.Value: 54278.882949999854
+X - 5	Tempo: 762	Best.Value: 54318.14135999985
+X - 6	Tempo: 864	Best.Value: 54472.47504999996
+X - 8	Tempo: 1104	Best.Value: 54693.88515999986
+X - 18	Tempo: 2166	Best.Value: 54927.35199999992
+X - 24	Tempo: 2782	Best.Value: 55418.746539999906
+X - 60	Tempo: 6686	Best.Value: 55701.009769999815
+X - 245	Tempo: 26805	Best.Value: 55806.41401999983
+
+ 
+ 
+
+X - 0	Tempo: 281	Best.Value: 48491.59326000003
+X - 1	Tempo: 485	Best.Value: 49079.0082600001
+X - 5	Tempo: 1123	Best.Value: 49135.871680000106
+X - 6	Tempo: 1256	Best.Value: 49346.43550000007
+X - 14	Tempo: 2481	Best.Value: 49716.755160000146
+X - 16	Tempo: 2767	Best.Value: 50441.24925000008
+X - 17	Tempo: 2936	Best.Value: 50909.45524000002
+X - 199	Tempo: 30985	Best.Value: 51111.77861000005
+
+ 
+ 
+
+X - 0	Tempo: 251	Best.Value: 54696.464760000104
+X - 1	Tempo: 394	Best.Value: 55611.19980000014
+X - 3	Tempo: 604	Best.Value: 55868.99409000003
+X - 49	Tempo: 5849	Best.Value: 55878.82466000021
+X - 60	Tempo: 7068	Best.Value: 56416.048950000084
+
+ 
+ 
+
+X - 0	Tempo: 210	Best.Value: 49734.928420000026
+X - 3	Tempo: 418	Best.Value: 50229.65644000008
+X - 7	Tempo: 651	Best.Value: 50577.083500000015
+X - 15	Tempo: 1140	Best.Value: 50764.15150000003
+X - 31	Tempo: 2077	Best.Value: 51206.60332999998
+X - 81	Tempo: 5147	Best.Value: 51421.02512000003
+X - 158	Tempo: 9770	Best.Value: 51454.1395999999
+X - 268	Tempo: 16239	Best.Value: 51804.75158000004
+
+ 
+ 
+
+X - 0	Tempo: 241	Best.Value: 49589.57730000011
+X - 1	Tempo: 325	Best.Value: 50707.17267000004
+X - 11	Tempo: 1075	Best.Value: 52110.27720999997
+
+ 
+ 
+
+X - 0	Tempo: 218	Best.Value: 53990.532920000034
+X - 2	Tempo: 435	Best.Value: 54675.09986000004
+X - 3	Tempo: 517	Best.Value: 55871.97913999998
+X - 42	Tempo: 4548	Best.Value: 56121.26287000011
+X - 159	Tempo: 16316	Best.Value: 56768.182530000005
+
+ 
+ 
+
+X - 0	Tempo: 243	Best.Value: 48796.95924999999
+X - 1	Tempo: 363	Best.Value: 49133.91597999996
+X - 5	Tempo: 788	Best.Value: 49534.316449999875
+X - 26	Tempo: 2929	Best.Value: 49562.67992999991
+X - 65	Tempo: 6903	Best.Value: 49623.23618999991
+X - 80	Tempo: 8362	Best.Value: 49749.25965000009
+X - 94	Tempo: 9788	Best.Value: 49998.44887000005
+X - 299	Tempo: 30907	Best.Value: 50049.374059999915
+
+ 
+ 
+
+X - 0	Tempo: 244	Best.Value: 48047.18813999992
+X - 3	Tempo: 505	Best.Value: 48792.26531999991
+X - 273	Tempo: 22166	Best.Value: 50044.86798999994
+
+ 
+ 
+
+X - 0	Tempo: 259	Best.Value: 45334.124759999955
+X - 1	Tempo: 409	Best.Value: 46294.948129999924
+X - 4	Tempo: 739	Best.Value: 46531.50036999987
+X - 5	Tempo: 866	Best.Value: 46567.88871999996
+X - 11	Tempo: 1601	Best.Value: 46733.88383999988
+X - 16	Tempo: 2199	Best.Value: 46802.6908899999
+X - 68	Tempo: 8553	Best.Value: 47123.54659999992
+
+ 
+ 
+
+X - 0	Tempo: 283	Best.Value: 58146.844259999765
+X - 2	Tempo: 463	Best.Value: 59735.488729999815
+X - 135	Tempo: 11801	Best.Value: 59910.61380999983
+X - 156	Tempo: 13500	Best.Value: 60063.434099999824
+
+ 
+ 
+
+X - 0	Tempo: 274	Best.Value: 54301.27913999985
+X - 3	Tempo: 649	Best.Value: 54898.697939999845
+X - 25	Tempo: 3224	Best.Value: 55003.25506999987
+X - 43	Tempo: 5320	Best.Value: 55332.34187999992
+X - 82	Tempo: 9785	Best.Value: 55745.09651999984
+
+ 
+ 
+
+X - 0	Tempo: 309	Best.Value: 50896.47362000001
+X - 40	Tempo: 6515	Best.Value: 50909.45524000002
+X - 291	Tempo: 45357	Best.Value: 51111.77861000005
+
+ 
+ 
+
+X - 0	Tempo: 248	Best.Value: 55636.3361000001
+X - 8	Tempo: 1174	Best.Value: 55734.46450000016
+X - 23	Tempo: 2930	Best.Value: 55878.82466000021
+X - 61	Tempo: 7180	Best.Value: 56026.258280000126
+X - 78	Tempo: 8961	Best.Value: 56214.57439000013
+X - 185	Tempo: 21017	Best.Value: 56453.602180000205
+X - 256	Tempo: 28903	Best.Value: 56598.282390000146
+
+ 
+ 
+
+X - 0	Tempo: 199	Best.Value: 50577.083500000015
+X - 1	Tempo: 285	Best.Value: 50843.13806000001
+X - 17	Tempo: 1187	Best.Value: 51237.753679999994
+X - 91	Tempo: 5523	Best.Value: 51421.02512000003
+X - 117	Tempo: 7070	Best.Value: 51772.28535
+
+ 
+ 
+
+X - 0	Tempo: 198	Best.Value: 50636.642669999994
+X - 6	Tempo: 669	Best.Value: 50680.02106999997
+X - 11	Tempo: 1060	Best.Value: 50871.67564000004
+X - 50	Tempo: 4039	Best.Value: 51287.17425000008
+X - 53	Tempo: 4299	Best.Value: 51375.61050999999
+X - 160	Tempo: 12537	Best.Value: 51645.08329000005
+
+ 
+ 
+
+X - 0	Tempo: 279	Best.Value: 55302.28184000004
+X - 4	Tempo: 664	Best.Value: 56705.09717000003
+X - 63	Tempo: 6883	Best.Value: 56768.182530000005
+
+ 
+ 
+
+X - 0	Tempo: 283	Best.Value: 48823.758190000015
+X - 1	Tempo: 453	Best.Value: 48971.81523000004
+X - 3	Tempo: 636	Best.Value: 49791.56485999995
+X - 271	Tempo: 29080	Best.Value: 49906.81771
+X - 293	Tempo: 31394	Best.Value: 49998.44887000005
+
+ 
+ 
+
+X - 0	Tempo: 236	Best.Value: 46996.40957999997
+X - 2	Tempo: 436	Best.Value: 47278.57758999998
+X - 4	Tempo: 602	Best.Value: 47473.11229999996
+X - 5	Tempo: 701	Best.Value: 47895.38640000001
+X - 10	Tempo: 1113	Best.Value: 47935.05120999998
+X - 16	Tempo: 1630	Best.Value: 47949.910229999965
+X - 24	Tempo: 2291	Best.Value: 48246.84582999996
+X - 28	Tempo: 2599	Best.Value: 48882.62150999994
+X - 86	Tempo: 7442	Best.Value: 49002.88433999991
+X - 183	Tempo: 15610	Best.Value: 49426.945069999856
+
+ 
+ 
+
+X - 0	Tempo: 253	Best.Value: 45509.464700000055
+X - 1	Tempo: 385	Best.Value: 46474.84123999984
+X - 4	Tempo: 729	Best.Value: 46802.6908899999
+X - 6	Tempo: 942	Best.Value: 46971.81575999991
+X - 28	Tempo: 3442	Best.Value: 47012.00109999993
+X - 73	Tempo: 8570	Best.Value: 47034.16044999999
+
+ 
+ 
+
+X - 0	Tempo: 233	Best.Value: 59735.488729999815
+X - 63	Tempo: 5603	Best.Value: 59742.31841999985
+X - 82	Tempo: 7129	Best.Value: 59786.57682999991
+X - 92	Tempo: 7933	Best.Value: 60109.48497999985
+
+ 
+ 
+
+X - 0	Tempo: 244	Best.Value: 53676.56632999989
+X - 1	Tempo: 352	Best.Value: 53865.724609999845
+X - 2	Tempo: 452	Best.Value: 54466.32125999992
+X - 8	Tempo: 1213	Best.Value: 54764.96264999984
+X - 12	Tempo: 1674	Best.Value: 55245.79038999987
+X - 24	Tempo: 3196	Best.Value: 55282.64653999987
+X - 63	Tempo: 7829	Best.Value: 55806.41401999983
+X - 169	Tempo: 20374	Best.Value: 56000.67124999983
+
+ 
+ 
+
+X - 0	Tempo: 295	Best.Value: 46460.18299000005
+X - 1	Tempo: 520	Best.Value: 47792.02637000007
+X - 3	Tempo: 821	Best.Value: 49318.19597000008
+X - 10	Tempo: 1813	Best.Value: 49436.79123000009
+X - 11	Tempo: 1991	Best.Value: 50646.26869999998
+X - 39	Tempo: 6729	Best.Value: 50881.12383000003
+X - 188	Tempo: 30952	Best.Value: 51111.77861000005
+
+ 
+ 
+
+X - 0	Tempo: 285	Best.Value: 55378.459110000105
+X - 4	Tempo: 757	Best.Value: 55734.46450000016
+X - 42	Tempo: 5287	Best.Value: 56214.57439000013
+X - 51	Tempo: 6273	Best.Value: 56350.238220000196
+X - 58	Tempo: 7148	Best.Value: 56357.956240000094
+X - 179	Tempo: 21380	Best.Value: 56453.602180000205
+
+ 
+ 
+
+X - 0	Tempo: 228	Best.Value: 49688.44172000001
+X - 1	Tempo: 310	Best.Value: 50956.85870999997
+X - 72	Tempo: 4854	Best.Value: 51362.704710000005
+X - 130	Tempo: 8399	Best.Value: 51594.83755000007
+X - 263	Tempo: 16720	Best.Value: 51804.75158000004
+
+ 
+ 
+
+X - 0	Tempo: 205	Best.Value: 50615.919089999945
+X - 4	Tempo: 539	Best.Value: 50688.87196000002
+X - 30	Tempo: 2457	Best.Value: 50984.897819999926
+X - 35	Tempo: 2830	Best.Value: 51645.08329000005
+
+ 
+ 
+
+X - 0	Tempo: 244	Best.Value: 54919.75354000008
+X - 2	Tempo: 505	Best.Value: 55203.209540000025
+X - 9	Tempo: 1203	Best.Value: 55417.69337000004
+X - 34	Tempo: 3818	Best.Value: 55880.59811000006
+X - 181	Tempo: 19105	Best.Value: 56212.266760000006
+
+ 
+ 
+
+X - 0	Tempo: 257	Best.Value: 47536.597970000126
+X - 1	Tempo: 389	Best.Value: 48854.03450000008
+X - 3	Tempo: 595	Best.Value: 48969.792369999836
+X - 14	Tempo: 1793	Best.Value: 49552.28360000009
+X - 108	Tempo: 11485	Best.Value: 49582.773120000114
+X - 119	Tempo: 12641	Best.Value: 49619.355800000056
+X - 178	Tempo: 18449	Best.Value: 50049.374059999915
+
+ 
+ 
+
+X - 0	Tempo: 242	Best.Value: 47810.04403999993
+X - 4	Tempo: 559	Best.Value: 48194.390209999976
+X - 26	Tempo: 2294	Best.Value: 48341.16535999997
+X - 29	Tempo: 2506	Best.Value: 48567.24358999992
+X - 98	Tempo: 8010	Best.Value: 48882.62150999994
+X - 111	Tempo: 9000	Best.Value: 50044.86798999994
+
+ 
+ 
+
+X - 0	Tempo: 243	Best.Value: 46802.6908899999
+X - 3	Tempo: 661	Best.Value: 47123.54659999992
+X - 110	Tempo: 12029	Best.Value: 47276.34462999992
+
+ 
+ 
+
+X - 0	Tempo: 238	Best.Value: 57226.136689999854
+X - 1	Tempo: 348	Best.Value: 59350.65494999976
+X - 13	Tempo: 1393	Best.Value: 59735.488729999815
+X - 30	Tempo: 2853	Best.Value: 59910.61380999983
+X - 53	Tempo: 4751	Best.Value: 60086.52748999982
+X - 95	Tempo: 8192	Best.Value: 60109.48497999985
+X - 221	Tempo: 18686	Best.Value: 60202.39518999978
+
+ 
+ 
+
+X - 0	Tempo: 218	Best.Value: 53308.26231999986
+X - 1	Tempo: 339	Best.Value: 54234.59740999983
+X - 3	Tempo: 586	Best.Value: 54457.167089999886
+X - 13	Tempo: 1694	Best.Value: 55002.964039999875
+X - 22	Tempo: 2685	Best.Value: 55089.21717999987
+X - 27	Tempo: 3210	Best.Value: 55103.34516999985
+X - 35	Tempo: 4059	Best.Value: 55506.285349999845
+X - 209	Tempo: 23104	Best.Value: 55806.41401999983
+
+ 
+ 
+
+X - 0	Tempo: 269	Best.Value: 45671.56452000009
+X - 2	Tempo: 631	Best.Value: 46141.87328000009
+X - 3	Tempo: 809	Best.Value: 46144.94796000009
+X - 4	Tempo: 985	Best.Value: 47937.40664
+X - 5	Tempo: 1162	Best.Value: 47939.11191000017
+X - 8	Tempo: 1662	Best.Value: 49352.335460000126
+X - 20	Tempo: 3516	Best.Value: 50001.7222400001
+X - 29	Tempo: 4984	Best.Value: 50534.25833000005
+X - 56	Tempo: 9246	Best.Value: 50881.12383000003
+X - 72	Tempo: 11600	Best.Value: 51111.77861000005
+
+ 
+ 
+
+X - 0	Tempo: 277	Best.Value: 54869.59674000009
+X - 3	Tempo: 620	Best.Value: 56350.238220000196
+X - 57	Tempo: 6719	Best.Value: 56453.602180000205
+
+ 
+ 
+
+X - 0	Tempo: 208	Best.Value: 50577.083500000015
+X - 11	Tempo: 848	Best.Value: 51804.75158000004
+
+ 
+ 
+
+X - 0	Tempo: 222	Best.Value: 49704.902890000034
+X - 1	Tempo: 314	Best.Value: 50016.63180000007
+X - 2	Tempo: 378	Best.Value: 50164.06449000002
+X - 3	Tempo: 441	Best.Value: 50410.15708000005
+X - 6	Tempo: 631	Best.Value: 50636.642669999994
+X - 18	Tempo: 1515	Best.Value: 50878.38695999998
+X - 25	Tempo: 1991	Best.Value: 51258.71885000006
+X - 156	Tempo: 11596	Best.Value: 51645.08329000005
+X - 187	Tempo: 13985	Best.Value: 52110.27720999997
+
+ 
+ 
+
+X - 0	Tempo: 262	Best.Value: 53851.48868000004
+X - 2	Tempo: 504	Best.Value: 55302.28184000004
+X - 41	Tempo: 4432	Best.Value: 55645.507270000075
+X - 81	Tempo: 8603	Best.Value: 55759.195950000016
+X - 93	Tempo: 9823	Best.Value: 55871.97913999998
+
+ 
+ 
+
+X - 0	Tempo: 272	Best.Value: 48155.38945000008
+X - 1	Tempo: 366	Best.Value: 48857.03495000005
+X - 2	Tempo: 510	Best.Value: 48993.503599999975
+X - 4	Tempo: 716	Best.Value: 49133.91597999996
+X - 7	Tempo: 1015	Best.Value: 49260.97233000001
+X - 9	Tempo: 1211	Best.Value: 49567.33575000008
+X - 14	Tempo: 1667	Best.Value: 49610.84228999997
+X - 42	Tempo: 4535	Best.Value: 49675.19458999999
+X - 94	Tempo: 10187	Best.Value: 49679.69224999992
+X - 135	Tempo: 14310	Best.Value: 50049.374059999915
+
+ 
+ 
+
+X - 0	Tempo: 203	Best.Value: 47643.11427999995
+X - 1	Tempo: 303	Best.Value: 47935.05120999998
+X - 4	Tempo: 565	Best.Value: 48635.22806999993
+X - 13	Tempo: 1279	Best.Value: 48792.26531999991
+X - 117	Tempo: 9760	Best.Value: 48882.62150999994
+X - 235	Tempo: 19284	Best.Value: 49002.88433999991
+
+ 
+ 
+
+X - 0	Tempo: 250	Best.Value: 45900.86520999998
+X - 3	Tempo: 632	Best.Value: 47012.00109999993
+X - 301	Tempo: 32689	Best.Value: 47276.34462999992
+
+ 
+ 
+
+X - 0	Tempo: 208	Best.Value: 58562.300059999805
+X - 3	Tempo: 498	Best.Value: 59735.488729999815
+X - 11	Tempo: 1131	Best.Value: 59973.56254999982
+X - 54	Tempo: 4505	Best.Value: 60109.48497999985
+
+ 
+ 
+
+X - 0	Tempo: 245	Best.Value: 53581.84714999988
+X - 1	Tempo: 370	Best.Value: 54045.4469399999
+X - 3	Tempo: 592	Best.Value: 54437.19708999983
+X - 4	Tempo: 710	Best.Value: 55002.964039999875
+X - 11	Tempo: 1481	Best.Value: 55078.24630999982
+X - 28	Tempo: 3181	Best.Value: 55835.18826999985
+X - 195	Tempo: 21498	Best.Value: 56000.67124999983
+
+ 
+ 
+
+X - 0	Tempo: 328	Best.Value: 49079.0082600001
+X - 6	Tempo: 1241	Best.Value: 49198.88326000012
+X - 14	Tempo: 2451	Best.Value: 50442.88657000011
+X - 134	Tempo: 21371	Best.Value: 50881.12383000003
+
+ 
+ 
+
+X - 0	Tempo: 226	Best.Value: 53928.80058000006
+X - 1	Tempo: 380	Best.Value: 54269.0255700001
+X - 2	Tempo: 496	Best.Value: 55611.19980000014
+X - 21	Tempo: 2640	Best.Value: 56601.60826000015
+
+ 
+ 
+
+X - 0	Tempo: 208	Best.Value: 50577.083500000015
+X - 2	Tempo: 345	Best.Value: 50769.060550000075
+X - 4	Tempo: 444	Best.Value: 51237.753679999994
+X - 9	Tempo: 801	Best.Value: 51399.23914000003
+X - 33	Tempo: 2255	Best.Value: 51426.17509999995
+X - 68	Tempo: 4291	Best.Value: 51772.28535
+
+ 
+ 
+
