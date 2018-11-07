@@ -37,7 +37,6 @@ public class Grasp {
     }
 
     public Solution execute() {
-        System.out.println(TEMPO);
         tempoInicial = System.currentTimeMillis();
         Solution best = null;
 

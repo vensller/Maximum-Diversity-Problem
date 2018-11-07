@@ -7,8 +7,6 @@ package Utilities;
 
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 /**
  *
@@ -34,7 +32,7 @@ public class FileText {
 
             writer.close();
         } catch (IOException ex) {
-            Logger.getLogger(FileText.class.getName()).log(Level.SEVERE, null, ex);
+            ex.printStackTrace();
         }
 
     }

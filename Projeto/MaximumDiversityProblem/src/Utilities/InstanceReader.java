@@ -41,9 +41,9 @@ public class InstanceReader {
             }
             
         } catch (FileNotFoundException ex) {
-            JOptionPane.showMessageDialog(null, ex.getMessage());
+            ex.printStackTrace();
         } catch (IOException ex) {
-            JOptionPane.showMessageDialog(null, ex.getMessage());
+            ex.printStackTrace();
         }
         
         return instance;
