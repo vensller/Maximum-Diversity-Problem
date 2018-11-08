@@ -16,6 +16,7 @@ public class LeitorLog {
     private Map<String, List<Tupla> > hashMapTuplas = new HashMap<>();
 
     private String pasta;
+    private String arquivoEstadoDaArte;
     private final String ARQ1 = "LogDeResultados1.txt";
     private final String ARQ2 = "LogDeResultados2.txt";
     private final String ARQ_FINAL = "resultados.csv";
@@ -26,9 +27,10 @@ public class LeitorLog {
     private final String LOG1 = "LogDeResultados1";
     private final String LOG2 = "LogDeResultados2";
 
-    public LeitorLog(String arquivo) {
+    public LeitorLog(String arquivo, String arquivoEstadoDaArte) {
         super();
         this.pasta = arquivo;
+        this.arquivoEstadoDaArte = arquivoEstadoDaArte;
     }
 
     public void ler() {
@@ -91,40 +93,73 @@ public class LeitorLog {
     }
     
     public void calcular(){
-        texto = "Instancia;Tempo Medio;Melhor Solucao;Solucao Media;";
+        texto = "Instancia;"
+                + "Estado da Arte;"
+                + "Melhor Solucao;"
+                + "Desvio para o melhor;"
+                + "Tempo da melhor solucao;"
+                + "Solucao Media;"
+                + "Desvio medio;"
+                + "Tempo Medio;";
+        
         for (int i = 1; i <= 20; i++) {
             texto += "#"+i+"T;#"+i+"S;";
         }
         texto += "\n";
         
-        double somaTempo, melhorSolucao, somaSolucao, aux;
+        double tempoMedio, melhorSolucao, tempoMelhor, solucaoMedia, aux;
         String linha;
         for( String chave: hashMapTuplas.keySet() ){
-            somaTempo = 0;
+            tempoMedio = 0;
             melhorSolucao = Double.MIN_NORMAL;
-            somaSolucao = 0;
+            solucaoMedia = 0;
             linha = "";
             
             for( Tupla t: hashMapTuplas.get( chave ) ){
                 aux = t.getSolucao();
                 if( aux > melhorSolucao ){
                     melhorSolucao = aux;
+                    tempoMelhor = t.getTempo();
                 }
-                somaSolucao += aux;
+                solucaoMedia += aux;
                 
                 aux = t.getTempo();
-                somaTempo += aux;
+                tempoMedio += aux;
             }
             
-            somaSolucao /= 20;
-            somaTempo /= 20;
+            solucaoMedia /= 20;
+            tempoMedio /= 20;
             
-            linha = chave + ";" + somaTempo + ";" + melhorSolucao + ";" + somaSolucao + ";";
+            linha = chave + ";" + buscarEstadoDaArte(chave) + ";"+ tempoMedio + ";" + melhorSolucao + ";" + solucaoMedia + ";";
             for( Tupla t: hashMapTuplas.get( chave ) ){
                 linha += t.getTempo() + ";" + t.getSolucao() + ";";
             }
             texto += linha + "\n";
         }
+    }
+    
+    private String buscarEstadoDaArte(String buscado){
+        String retorno = "";
+        try {
+            String linha;
+            String[] valores;
+            BufferedReader br = new BufferedReader(new FileReader(arquivoEstadoDaArte));
+            while ((linha = br.readLine()) != null) {
+                if( !linha.startsWith("Instance")){
+                    valores = linha.split(";");
+                    linha = valores[0].substring(0, valores[0].indexOf(".")+1);
+                    if( buscado.equals( linha ) ){
+                        retorno = valores[1];
+                    }
+                }
+            }
+            br.close();
+        } catch (FileNotFoundException ex) {
+            ex.printStackTrace();
+        } catch (IOException ex) {
+            ex.printStackTrace();
+        }
+        return retorno;
     }
     
     public void escrever(){
