@@ -9,7 +9,7 @@ const:
     aleatório: a
     guloso: g
     guloso probabilistico: gp p (aonde p é um valor entre 0.0 e 1.0)
-    Kguloso: kg k (aonde é um valor inteiro)
+    Kguloso: kg k (aonde k é um valor inteiro)
     Kguloso probabilistico: kgp k (aonde é um valor inteiro)
     alfaguloso ag 0.3 (aonde p é um valor entre 0.0 e 1.0)
     alfaguloso probabilistico agp 0.3 (aonde p é um valor entre 0.0 e 1.0)

@@ -1,0 +1,1238 @@
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_10_n500_m50.txt
+Tempo total: 22971
+Melhor solução: 52110.27720999997
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_1_n500_m50.txt
+Tempo total: 31429
+Melhor solução: 56705.09717000003
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_2_n500_m50.txt
+Tempo total: 31469
+Melhor solução: 50049.374059999915
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_3_n500_m50.txt
+Tempo total: 24583
+Melhor solução: 49069.52949999998
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_4_n500_m50.txt
+Tempo total: 32792
+Melhor solução: 47034.16044999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_5_n500_m50.txt
+Tempo total: 25494
+Melhor solução: 60109.48497999985
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_6_n500_m50.txt
+Tempo total: 34033
+Melhor solução: 56000.67124999983
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_7_n500_m50.txt
+Tempo total: 48159
+Melhor solução: 51111.77861000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_8_n500_m50.txt
+Tempo total: 35408
+Melhor solução: 56601.60826000015
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_9_n500_m50.txt
+Tempo total: 18709
+Melhor solução: 51650.14860999995
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_10_n500_m50.txt
+Tempo total: 22821
+Melhor solução: 52110.27720999997
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_1_n500_m50.txt
+Tempo total: 31497
+Melhor solução: 56705.09717000003
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_2_n500_m50.txt
+Tempo total: 31669
+Melhor solução: 50049.374059999915
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_3_n500_m50.txt
+Tempo total: 24875
+Melhor solução: 49426.945069999856
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_4_n500_m50.txt
+Tempo total: 33315
+Melhor solução: 47276.34462999992
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_5_n500_m50.txt
+Tempo total: 25276
+Melhor solução: 60202.39518999978
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_6_n500_m50.txt
+Tempo total: 34486
+Melhor solução: 56048.99836999982
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_7_n500_m50.txt
+Tempo total: 48472
+Melhor solução: 50646.26869999998
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_8_n500_m50.txt
+Tempo total: 35167
+Melhor solução: 56598.282390000146
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_9_n500_m50.txt
+Tempo total: 19550
+Melhor solução: 51804.75158000004
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_10_n500_m50.txt
+Tempo total: 23178
+Melhor solução: 51497.92224000002
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_1_n500_m50.txt
+Tempo total: 31685
+Melhor solução: 56705.09717000003
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_2_n500_m50.txt
+Tempo total: 31213
+Melhor solução: 49906.81771
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_3_n500_m50.txt
+Tempo total: 25172
+Melhor solução: 49426.945069999856
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_4_n500_m50.txt
+Tempo total: 36823
+Melhor solução: 47018.01248999987
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_5_n500_m50.txt
+Tempo total: 25918
+Melhor solução: 60063.434099999824
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_6_n500_m50.txt
+Tempo total: 34117
+Melhor solução: 56048.99836999982
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_7_n500_m50.txt
+Tempo total: 56028
+Melhor solução: 50909.45524000002
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_8_n500_m50.txt
+Tempo total: 34477
+Melhor solução: 56214.57439000013
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_9_n500_m50.txt
+Tempo total: 18918
+Melhor solução: 51650.14860999995
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_10_n500_m50.txt
+Tempo total: 23410
+Melhor solução: 52110.27720999997
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_1_n500_m50.txt
+Tempo total: 31943
+Melhor solução: 56768.182530000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_2_n500_m50.txt
+Tempo total: 31484
+Melhor solução: 50049.374059999915
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_3_n500_m50.txt
+Tempo total: 25356
+Melhor solução: 49426.945069999856
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_4_n500_m50.txt
+Tempo total: 32887
+Melhor solução: 47034.16044999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_5_n500_m50.txt
+Tempo total: 25513
+Melhor solução: 60202.39518999978
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_6_n500_m50.txt
+Tempo total: 34600
+Melhor solução: 56048.99836999982
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_7_n500_m50.txt
+Tempo total: 48722
+Melhor solução: 51111.77861000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_8_n500_m50.txt
+Tempo total: 34206
+Melhor solução: 56598.282390000146
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_9_n500_m50.txt
+Tempo total: 18715
+Melhor solução: 51804.75158000004
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_10_n500_m50.txt
+Tempo total: 23584
+Melhor solução: 52110.27720999997
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_1_n500_m50.txt
+Tempo total: 31924
+Melhor solução: 56705.09717000003
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_2_n500_m50.txt
+Tempo total: 31723
+Melhor solução: 50049.374059999915
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_3_n500_m50.txt
+Tempo total: 29362
+Melhor solução: 49426.945069999856
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_4_n500_m50.txt
+Tempo total: 33337
+Melhor solução: 47036.15400000002
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_5_n500_m50.txt
+Tempo total: 25740
+Melhor solução: 60109.48497999985
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_6_n500_m50.txt
+Tempo total: 35726
+Melhor solução: 55835.18826999985
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_7_n500_m50.txt
+Tempo total: 48162
+Melhor solução: 51111.77861000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_8_n500_m50.txt
+Tempo total: 34818
+Melhor solução: 56601.60826000015
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_9_n500_m50.txt
+Tempo total: 19044
+Melhor solução: 51804.75158000004
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_10_n500_m50.txt
+Tempo total: 23248
+Melhor solução: 52110.27720999997
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_1_n500_m50.txt
+Tempo total: 31755
+Melhor solução: 56768.182530000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_2_n500_m50.txt
+Tempo total: 31664
+Melhor solução: 50049.374059999915
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_3_n500_m50.txt
+Tempo total: 25299
+Melhor solução: 49137.5053899999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_4_n500_m50.txt
+Tempo total: 33570
+Melhor solução: 47276.34462999992
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_5_n500_m50.txt
+Tempo total: 25712
+Melhor solução: 60202.39518999978
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_6_n500_m50.txt
+Tempo total: 34385
+Melhor solução: 56000.67124999983
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_7_n500_m50.txt
+Tempo total: 48171
+Melhor solução: 51111.77861000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_8_n500_m50.txt
+Tempo total: 34571
+Melhor solução: 56601.60826000015
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_9_n500_m50.txt
+Tempo total: 18506
+Melhor solução: 51804.75158000004
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_10_n500_m50.txt
+Tempo total: 22979
+Melhor solução: 51645.08329000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_1_n500_m50.txt
+Tempo total: 32232
+Melhor solução: 55859.39501000004
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_2_n500_m50.txt
+Tempo total: 31962
+Melhor solução: 50049.374059999915
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_3_n500_m50.txt
+Tempo total: 24710
+Melhor solução: 49426.945069999856
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_4_n500_m50.txt
+Tempo total: 33681
+Melhor solução: 47123.54659999992
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_5_n500_m50.txt
+Tempo total: 25430
+Melhor solução: 60202.39518999978
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_6_n500_m50.txt
+Tempo total: 34779
+Melhor solução: 55745.09651999984
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_7_n500_m50.txt
+Tempo total: 49331
+Melhor solução: 50909.45524000002
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_8_n500_m50.txt
+Tempo total: 35360
+Melhor solução: 56416.048950000084
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_9_n500_m50.txt
+Tempo total: 19159
+Melhor solução: 51804.75158000004
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_10_n500_m50.txt
+Tempo total: 23154
+Melhor solução: 52110.27720999997
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_1_n500_m50.txt
+Tempo total: 31439
+Melhor solução: 56212.266760000006
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_2_n500_m50.txt
+Tempo total: 31887
+Melhor solução: 49906.81771
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_3_n500_m50.txt
+Tempo total: 25325
+Melhor solução: 49069.52949999998
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_4_n500_m50.txt
+Tempo total: 34950
+Melhor solução: 47123.54659999992
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_5_n500_m50.txt
+Tempo total: 25111
+Melhor solução: 60202.39518999978
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_6_n500_m50.txt
+Tempo total: 35088
+Melhor solução: 56000.67124999983
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_7_n500_m50.txt
+Tempo total: 49005
+Melhor solução: 51111.77861000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_8_n500_m50.txt
+Tempo total: 34492
+Melhor solução: 56601.60826000015
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_9_n500_m50.txt
+Tempo total: 19194
+Melhor solução: 51454.1395999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_10_n500_m50.txt
+Tempo total: 23267
+Melhor solução: 52110.27720999997
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_1_n500_m50.txt
+Tempo total: 32445
+Melhor solução: 56705.09717000003
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_2_n500_m50.txt
+Tempo total: 33451
+Melhor solução: 49998.44887000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_3_n500_m50.txt
+Tempo total: 25917
+Melhor solução: 49426.945069999856
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_4_n500_m50.txt
+Tempo total: 34532
+Melhor solução: 47123.54659999992
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_5_n500_m50.txt
+Tempo total: 25530
+Melhor solução: 60109.48497999985
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_6_n500_m50.txt
+Tempo total: 35132
+Melhor solução: 56000.67124999983
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_7_n500_m50.txt
+Tempo total: 49827
+Melhor solução: 50534.25833000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_8_n500_m50.txt
+Tempo total: 34732
+Melhor solução: 56601.60826000015
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_9_n500_m50.txt
+Tempo total: 18951
+Melhor solução: 51804.75158000004
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_10_n500_m50.txt
+Tempo total: 23552
+Melhor solução: 51628.11333000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_1_n500_m50.txt
+Tempo total: 31610
+Melhor solução: 56768.182530000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_2_n500_m50.txt
+Tempo total: 32232
+Melhor solução: 49998.44887000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_3_n500_m50.txt
+Tempo total: 25117
+Melhor solução: 49137.5053899999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_4_n500_m50.txt
+Tempo total: 33491
+Melhor solução: 47034.16044999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_5_n500_m50.txt
+Tempo total: 25583
+Melhor solução: 60109.48497999985
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_6_n500_m50.txt
+Tempo total: 34571
+Melhor solução: 56048.99836999982
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_7_n500_m50.txt
+Tempo total: 48066
+Melhor solução: 51111.77861000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_8_n500_m50.txt
+Tempo total: 35058
+Melhor solução: 56601.60826000015
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_9_n500_m50.txt
+Tempo total: 19137
+Melhor solução: 51594.83755000007
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_10_n500_m50.txt
+Tempo total: 23135
+Melhor solução: 51645.08329000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_1_n500_m50.txt
+Tempo total: 32192
+Melhor solução: 56768.182530000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_2_n500_m50.txt
+Tempo total: 32271
+Melhor solução: 50049.374059999915
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_3_n500_m50.txt
+Tempo total: 24968
+Melhor solução: 50044.86798999994
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_4_n500_m50.txt
+Tempo total: 34245
+Melhor solução: 47276.34462999992
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_5_n500_m50.txt
+Tempo total: 25732
+Melhor solução: 60202.39518999978
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_6_n500_m50.txt
+Tempo total: 34523
+Melhor solução: 56048.99836999982
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_7_n500_m50.txt
+Tempo total: 47579
+Melhor solução: 51111.77861000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_8_n500_m50.txt
+Tempo total: 35069
+Melhor solução: 56453.602180000205
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_9_n500_m50.txt
+Tempo total: 18999
+Melhor solução: 51594.83755000007
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_10_n500_m50.txt
+Tempo total: 23243
+Melhor solução: 51645.08329000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_1_n500_m50.txt
+Tempo total: 32042
+Melhor solução: 56768.182530000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_2_n500_m50.txt
+Tempo total: 31792
+Melhor solução: 50049.374059999915
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_3_n500_m50.txt
+Tempo total: 24846
+Melhor solução: 49137.5053899999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_4_n500_m50.txt
+Tempo total: 34070
+Melhor solução: 47123.54659999992
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_5_n500_m50.txt
+Tempo total: 25525
+Melhor solução: 60109.48497999985
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_6_n500_m50.txt
+Tempo total: 34301
+Melhor solução: 56048.99836999982
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_7_n500_m50.txt
+Tempo total: 49364
+Melhor solução: 50909.45524000002
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_8_n500_m50.txt
+Tempo total: 34830
+Melhor solução: 56559.59863000022
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_9_n500_m50.txt
+Tempo total: 18775
+Melhor solução: 51571.17059
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_10_n500_m50.txt
+Tempo total: 23575
+Melhor solução: 52110.27720999997
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_1_n500_m50.txt
+Tempo total: 31916
+Melhor solução: 56705.09717000003
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_2_n500_m50.txt
+Tempo total: 31823
+Melhor solução: 49998.44887000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_3_n500_m50.txt
+Tempo total: 25233
+Melhor solução: 50044.86798999994
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_4_n500_m50.txt
+Tempo total: 33749
+Melhor solução: 47123.54659999992
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_5_n500_m50.txt
+Tempo total: 25439
+Melhor solução: 60109.48497999985
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_6_n500_m50.txt
+Tempo total: 34891
+Melhor solução: 56000.67124999983
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_7_n500_m50.txt
+Tempo total: 47785
+Melhor solução: 50896.47362000001
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_8_n500_m50.txt
+Tempo total: 34726
+Melhor solução: 56350.238220000196
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_9_n500_m50.txt
+Tempo total: 18311
+Melhor solução: 51650.14860999995
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_10_n500_m50.txt
+Tempo total: 23230
+Melhor solução: 52110.27720999997
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_1_n500_m50.txt
+Tempo total: 31584
+Melhor solução: 56768.182530000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_2_n500_m50.txt
+Tempo total: 32242
+Melhor solução: 50049.374059999915
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_3_n500_m50.txt
+Tempo total: 25007
+Melhor solução: 50044.86798999994
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_4_n500_m50.txt
+Tempo total: 33175
+Melhor solução: 47036.15400000002
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_5_n500_m50.txt
+Tempo total: 26092
+Melhor solução: 60202.39518999978
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_6_n500_m50.txt
+Tempo total: 34033
+Melhor solução: 56048.99836999982
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_7_n500_m50.txt
+Tempo total: 48241
+Melhor solução: 50909.45524000002
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_8_n500_m50.txt
+Tempo total: 34777
+Melhor solução: 56559.59863000022
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_9_n500_m50.txt
+Tempo total: 18866
+Melhor solução: 51804.75158000004
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_10_n500_m50.txt
+Tempo total: 23015
+Melhor solução: 52110.27720999997
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_1_n500_m50.txt
+Tempo total: 32112
+Melhor solução: 56212.266760000006
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_2_n500_m50.txt
+Tempo total: 32762
+Melhor solução: 50049.374059999915
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_3_n500_m50.txt
+Tempo total: 25381
+Melhor solução: 50044.86798999994
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_4_n500_m50.txt
+Tempo total: 33319
+Melhor solução: 47036.15400000002
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_5_n500_m50.txt
+Tempo total: 25911
+Melhor solução: 60202.39518999978
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_6_n500_m50.txt
+Tempo total: 34112
+Melhor solução: 56048.99836999982
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_7_n500_m50.txt
+Tempo total: 48901
+Melhor solução: 50909.45524000002
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_8_n500_m50.txt
+Tempo total: 35796
+Melhor solução: 56601.60826000015
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_9_n500_m50.txt
+Tempo total: 18824
+Melhor solução: 51594.83755000007
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_10_n500_m50.txt
+Tempo total: 22399
+Melhor solução: 51645.08329000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_1_n500_m50.txt
+Tempo total: 31130
+Melhor solução: 56212.266760000006
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_2_n500_m50.txt
+Tempo total: 32216
+Melhor solução: 49906.81771
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_3_n500_m50.txt
+Tempo total: 25250
+Melhor solução: 49426.945069999856
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_4_n500_m50.txt
+Tempo total: 35511
+Melhor solução: 47276.34462999992
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_5_n500_m50.txt
+Tempo total: 25542
+Melhor solução: 60086.52748999982
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_6_n500_m50.txt
+Tempo total: 33709
+Melhor solução: 55806.41401999983
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_7_n500_m50.txt
+Tempo total: 47706
+Melhor solução: 51111.77861000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_8_n500_m50.txt
+Tempo total: 34772
+Melhor solução: 56416.048950000084
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_9_n500_m50.txt
+Tempo total: 18445
+Melhor solução: 51804.75158000004
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_10_n500_m50.txt
+Tempo total: 22963
+Melhor solução: 52110.27720999997
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_1_n500_m50.txt
+Tempo total: 30976
+Melhor solução: 56768.182530000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_2_n500_m50.txt
+Tempo total: 31644
+Melhor solução: 50049.374059999915
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_3_n500_m50.txt
+Tempo total: 24706
+Melhor solução: 50044.86798999994
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_4_n500_m50.txt
+Tempo total: 35903
+Melhor solução: 47123.54659999992
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_5_n500_m50.txt
+Tempo total: 26145
+Melhor solução: 60063.434099999824
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_6_n500_m50.txt
+Tempo total: 35871
+Melhor solução: 55745.09651999984
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_7_n500_m50.txt
+Tempo total: 47704
+Melhor solução: 51111.77861000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_8_n500_m50.txt
+Tempo total: 34251
+Melhor solução: 56598.282390000146
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_9_n500_m50.txt
+Tempo total: 18383
+Melhor solução: 51772.28535
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_10_n500_m50.txt
+Tempo total: 23721
+Melhor solução: 51645.08329000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_1_n500_m50.txt
+Tempo total: 31892
+Melhor solução: 56768.182530000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_2_n500_m50.txt
+Tempo total: 32841
+Melhor solução: 49998.44887000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_3_n500_m50.txt
+Tempo total: 25888
+Melhor solução: 49426.945069999856
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_4_n500_m50.txt
+Tempo total: 35529
+Melhor solução: 47034.16044999999
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_5_n500_m50.txt
+Tempo total: 25781
+Melhor solução: 60109.48497999985
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_6_n500_m50.txt
+Tempo total: 36411
+Melhor solução: 56000.67124999983
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_7_n500_m50.txt
+Tempo total: 50001
+Melhor solução: 51111.77861000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_8_n500_m50.txt
+Tempo total: 35902
+Melhor solução: 56453.602180000205
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_9_n500_m50.txt
+Tempo total: 19534
+Melhor solução: 51804.75158000004
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_10_n500_m50.txt
+Tempo total: 23208
+Melhor solução: 51645.08329000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_1_n500_m50.txt
+Tempo total: 32247
+Melhor solução: 56212.266760000006
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_2_n500_m50.txt
+Tempo total: 31576
+Melhor solução: 50049.374059999915
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_3_n500_m50.txt
+Tempo total: 24788
+Melhor solução: 50044.86798999994
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_4_n500_m50.txt
+Tempo total: 33711
+Melhor solução: 47276.34462999992
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_5_n500_m50.txt
+Tempo total: 25732
+Melhor solução: 60202.39518999978
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_6_n500_m50.txt
+Tempo total: 34097
+Melhor solução: 55806.41401999983
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_7_n500_m50.txt
+Tempo total: 48117
+Melhor solução: 51111.77861000005
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_8_n500_m50.txt
+Tempo total: 34819
+Melhor solução: 56453.602180000205
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_9_n500_m50.txt
+Tempo total: 19040
+Melhor solução: 51804.75158000004
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_10_n500_m50.txt
+Tempo total: 22893
+Melhor solução: 52110.27720999997
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_1_n500_m50.txt
+Tempo total: 31900
+Melhor solução: 55871.97913999998
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_2_n500_m50.txt
+Tempo total: 31910
+Melhor solução: 50049.374059999915
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_3_n500_m50.txt
+Tempo total: 25030
+Melhor solução: 49002.88433999991
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_4_n500_m50.txt
+Tempo total: 33257
+Melhor solução: 47276.34462999992
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_5_n500_m50.txt
+Tempo total: 24978
+Melhor solução: 60109.48497999985
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_6_n500_m50.txt
+Tempo total: 33798
+Melhor solução: 56000.67124999983
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_7_n500_m50.txt
+Tempo total: 48904
+Melhor solução: 50881.12383000003
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_8_n500_m50.txt
+Tempo total: 34948
+Melhor solução: 56601.60826000015
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/GKD-c_9_n500_m50.txt
+Tempo total: 18626
+Melhor solução: 51772.28535
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-c/LogDeResultados2.txt

@@ -10,8 +10,6 @@ Melhor solução: 1021.8614699999998
  
  
 
-Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-a/LogDeResultados1.txt
-Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-a/LogDeResultados2.txt
 Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/GKD-a/GKD-a_12_n10_m4.txt
 Tempo total: 14
 Melhor solução: 2806.194880000001

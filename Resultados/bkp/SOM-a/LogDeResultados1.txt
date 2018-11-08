@@ -1,0 +1,6038 @@
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_10_n25_m7.txt
+Tempo total: 34
+Melhor solução: 318.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_11_n50_m5.txt
+Tempo total: 60
+Melhor solução: 254.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_12_n50_m5.txt
+Tempo total: 50
+Melhor solução: 225.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_13_n50_m5.txt
+Tempo total: 41
+Melhor solução: 239.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_14_n50_m5.txt
+Tempo total: 45
+Melhor solução: 243.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_15_n50_m5.txt
+Tempo total: 53
+Melhor solução: 231.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_16_n50_m15.txt
+Tempo total: 119
+Melhor solução: 1391.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_17_n50_m15.txt
+Tempo total: 88
+Melhor solução: 1471.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_18_n50_m15.txt
+Tempo total: 87
+Melhor solução: 1327.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_19_n50_m15.txt
+Tempo total: 106
+Melhor solução: 1247.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_1_n25_m2.txt
+Tempo total: 20
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_20_n50_m15.txt
+Tempo total: 81
+Melhor solução: 1217.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_21_n100_m10.txt
+Tempo total: 177
+Melhor solução: 825.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_22_n100_m10.txt
+Tempo total: 155
+Melhor solução: 947.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_23_n100_m10.txt
+Tempo total: 197
+Melhor solução: 904.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_24_n100_m10.txt
+Tempo total: 164
+Melhor solução: 882.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_25_n100_m10.txt
+Tempo total: 192
+Melhor solução: 810.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_26_n100_m30.txt
+Tempo total: 724
+Melhor solução: 5424.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_27_n100_m30.txt
+Tempo total: 718
+Melhor solução: 4946.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_28_n100_m30.txt
+Tempo total: 1048
+Melhor solução: 5597.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_29_n100_m30.txt
+Tempo total: 686
+Melhor solução: 5452.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_2_n25_m2.txt
+Tempo total: 20
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_30_n100_m30.txt
+Tempo total: 788
+Melhor solução: 5055.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_31_n125_m12.txt
+Tempo total: 272
+Melhor solução: 1288.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_32_n125_m12.txt
+Tempo total: 314
+Melhor solução: 1218.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_33_n125_m12.txt
+Tempo total: 298
+Melhor solução: 1243.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_34_n125_m12.txt
+Tempo total: 324
+Melhor solução: 1216.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_35_n125_m12.txt
+Tempo total: 279
+Melhor solução: 1300.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_36_n125_m37.txt
+Tempo total: 1680
+Melhor solução: 7175.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_37_n125_m37.txt
+Tempo total: 2144
+Melhor solução: 7697.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_38_n125_m37.txt
+Tempo total: 1202
+Melhor solução: 7084.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_39_n125_m37.txt
+Tempo total: 2034
+Melhor solução: 7280.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_3_n25_m2.txt
+Tempo total: 20
+Melhor solução: 20.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_40_n125_m37.txt
+Tempo total: 2120
+Melhor solução: 7601.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_41_n150_m15.txt
+Tempo total: 550
+Melhor solução: 2087.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_42_n150_m15.txt
+Tempo total: 554
+Melhor solução: 1906.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_43_n150_m15.txt
+Tempo total: 589
+Melhor solução: 1873.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_44_n150_m15.txt
+Tempo total: 504
+Melhor solução: 2071.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_45_n150_m15.txt
+Tempo total: 584
+Melhor solução: 1827.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_46_n150_m45.txt
+Tempo total: 4368
+Melhor solução: 10659.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_47_n150_m45.txt
+Tempo total: 3370
+Melhor solução: 10534.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_48_n150_m45.txt
+Tempo total: 3683
+Melhor solução: 11338.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_49_n150_m45.txt
+Tempo total: 4361
+Melhor solução: 11866.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_4_n25_m2.txt
+Tempo total: 20
+Melhor solução: 28.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_50_n150_m45.txt
+Tempo total: 4974
+Melhor solução: 10720.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_5_n25_m2.txt
+Tempo total: 19
+Melhor solução: 21.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_6_n25_m7.txt
+Tempo total: 32
+Melhor solução: 323.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_7_n25_m7.txt
+Tempo total: 33
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_8_n25_m7.txt
+Tempo total: 33
+Melhor solução: 299.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_9_n25_m7.txt
+Tempo total: 31
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_10_n25_m7.txt
+Tempo total: 38
+Melhor solução: 318.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_11_n50_m5.txt
+Tempo total: 54
+Melhor solução: 254.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_12_n50_m5.txt
+Tempo total: 49
+Melhor solução: 225.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_13_n50_m5.txt
+Tempo total: 49
+Melhor solução: 239.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_14_n50_m5.txt
+Tempo total: 53
+Melhor solução: 243.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_15_n50_m5.txt
+Tempo total: 59
+Melhor solução: 231.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_16_n50_m15.txt
+Tempo total: 116
+Melhor solução: 1391.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_17_n50_m15.txt
+Tempo total: 99
+Melhor solução: 1471.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_18_n50_m15.txt
+Tempo total: 103
+Melhor solução: 1327.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_19_n50_m15.txt
+Tempo total: 105
+Melhor solução: 1247.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_1_n25_m2.txt
+Tempo total: 21
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_20_n50_m15.txt
+Tempo total: 82
+Melhor solução: 1217.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_21_n100_m10.txt
+Tempo total: 170
+Melhor solução: 825.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_22_n100_m10.txt
+Tempo total: 168
+Melhor solução: 947.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_23_n100_m10.txt
+Tempo total: 188
+Melhor solução: 904.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_24_n100_m10.txt
+Tempo total: 168
+Melhor solução: 882.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_25_n100_m10.txt
+Tempo total: 156
+Melhor solução: 810.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_26_n100_m30.txt
+Tempo total: 764
+Melhor solução: 5424.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_27_n100_m30.txt
+Tempo total: 761
+Melhor solução: 4946.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_28_n100_m30.txt
+Tempo total: 1192
+Melhor solução: 5597.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_29_n100_m30.txt
+Tempo total: 741
+Melhor solução: 5452.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_2_n25_m2.txt
+Tempo total: 21
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_30_n100_m30.txt
+Tempo total: 856
+Melhor solução: 5055.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_31_n125_m12.txt
+Tempo total: 288
+Melhor solução: 1288.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_32_n125_m12.txt
+Tempo total: 340
+Melhor solução: 1218.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_33_n125_m12.txt
+Tempo total: 302
+Melhor solução: 1243.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_34_n125_m12.txt
+Tempo total: 312
+Melhor solução: 1211.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_35_n125_m12.txt
+Tempo total: 267
+Melhor solução: 1300.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_36_n125_m37.txt
+Tempo total: 1711
+Melhor solução: 7191.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_37_n125_m37.txt
+Tempo total: 2240
+Melhor solução: 7697.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_38_n125_m37.txt
+Tempo total: 1236
+Melhor solução: 7084.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_39_n125_m37.txt
+Tempo total: 2138
+Melhor solução: 7280.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_3_n25_m2.txt
+Tempo total: 23
+Melhor solução: 20.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_40_n125_m37.txt
+Tempo total: 2484
+Melhor solução: 7601.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_41_n150_m15.txt
+Tempo total: 626
+Melhor solução: 2087.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_42_n150_m15.txt
+Tempo total: 618
+Melhor solução: 1906.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_43_n150_m15.txt
+Tempo total: 611
+Melhor solução: 1873.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_44_n150_m15.txt
+Tempo total: 499
+Melhor solução: 2071.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_45_n150_m15.txt
+Tempo total: 586
+Melhor solução: 1880.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_46_n150_m45.txt
+Tempo total: 4327
+Melhor solução: 10659.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_47_n150_m45.txt
+Tempo total: 3383
+Melhor solução: 10534.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_48_n150_m45.txt
+Tempo total: 3617
+Melhor solução: 11338.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_49_n150_m45.txt
+Tempo total: 4392
+Melhor solução: 12050.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_4_n25_m2.txt
+Tempo total: 19
+Melhor solução: 28.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_50_n150_m45.txt
+Tempo total: 5223
+Melhor solução: 10593.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_5_n25_m2.txt
+Tempo total: 20
+Melhor solução: 21.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_6_n25_m7.txt
+Tempo total: 29
+Melhor solução: 323.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_7_n25_m7.txt
+Tempo total: 29
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_8_n25_m7.txt
+Tempo total: 31
+Melhor solução: 299.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_9_n25_m7.txt
+Tempo total: 46
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_10_n25_m7.txt
+Tempo total: 26
+Melhor solução: 318.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_11_n50_m5.txt
+Tempo total: 45
+Melhor solução: 254.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_12_n50_m5.txt
+Tempo total: 67
+Melhor solução: 225.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_13_n50_m5.txt
+Tempo total: 42
+Melhor solução: 239.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_14_n50_m5.txt
+Tempo total: 44
+Melhor solução: 243.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_15_n50_m5.txt
+Tempo total: 42
+Melhor solução: 231.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_16_n50_m15.txt
+Tempo total: 120
+Melhor solução: 1391.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_17_n50_m15.txt
+Tempo total: 85
+Melhor solução: 1471.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_18_n50_m15.txt
+Tempo total: 89
+Melhor solução: 1327.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_19_n50_m15.txt
+Tempo total: 127
+Melhor solução: 1247.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_1_n25_m2.txt
+Tempo total: 19
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_20_n50_m15.txt
+Tempo total: 81
+Melhor solução: 1217.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_21_n100_m10.txt
+Tempo total: 168
+Melhor solução: 825.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_22_n100_m10.txt
+Tempo total: 154
+Melhor solução: 947.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_23_n100_m10.txt
+Tempo total: 188
+Melhor solução: 904.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_24_n100_m10.txt
+Tempo total: 165
+Melhor solução: 882.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_25_n100_m10.txt
+Tempo total: 163
+Melhor solução: 810.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_26_n100_m30.txt
+Tempo total: 745
+Melhor solução: 5424.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_27_n100_m30.txt
+Tempo total: 705
+Melhor solução: 4946.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_28_n100_m30.txt
+Tempo total: 1068
+Melhor solução: 5597.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_29_n100_m30.txt
+Tempo total: 697
+Melhor solução: 5452.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_2_n25_m2.txt
+Tempo total: 24
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_30_n100_m30.txt
+Tempo total: 814
+Melhor solução: 5055.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_31_n125_m12.txt
+Tempo total: 309
+Melhor solução: 1288.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_32_n125_m12.txt
+Tempo total: 322
+Melhor solução: 1218.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_33_n125_m12.txt
+Tempo total: 316
+Melhor solução: 1270.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_34_n125_m12.txt
+Tempo total: 286
+Melhor solução: 1216.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_35_n125_m12.txt
+Tempo total: 302
+Melhor solução: 1300.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_36_n125_m37.txt
+Tempo total: 1731
+Melhor solução: 7191.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_37_n125_m37.txt
+Tempo total: 2070
+Melhor solução: 7697.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_38_n125_m37.txt
+Tempo total: 1224
+Melhor solução: 7084.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_39_n125_m37.txt
+Tempo total: 2044
+Melhor solução: 7280.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_3_n25_m2.txt
+Tempo total: 19
+Melhor solução: 20.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_40_n125_m37.txt
+Tempo total: 2115
+Melhor solução: 7601.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_41_n150_m15.txt
+Tempo total: 564
+Melhor solução: 2087.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_42_n150_m15.txt
+Tempo total: 530
+Melhor solução: 1906.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_43_n150_m15.txt
+Tempo total: 583
+Melhor solução: 1873.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_44_n150_m15.txt
+Tempo total: 527
+Melhor solução: 2071.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_45_n150_m15.txt
+Tempo total: 592
+Melhor solução: 1880.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_46_n150_m45.txt
+Tempo total: 4457
+Melhor solução: 10449.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_47_n150_m45.txt
+Tempo total: 3410
+Melhor solução: 10534.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_48_n150_m45.txt
+Tempo total: 3550
+Melhor solução: 11338.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_49_n150_m45.txt
+Tempo total: 4465
+Melhor solução: 12050.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_4_n25_m2.txt
+Tempo total: 18
+Melhor solução: 28.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_50_n150_m45.txt
+Tempo total: 5087
+Melhor solução: 10720.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_5_n25_m2.txt
+Tempo total: 22
+Melhor solução: 21.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_6_n25_m7.txt
+Tempo total: 49
+Melhor solução: 323.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_7_n25_m7.txt
+Tempo total: 30
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_8_n25_m7.txt
+Tempo total: 30
+Melhor solução: 299.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_9_n25_m7.txt
+Tempo total: 29
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_10_n25_m7.txt
+Tempo total: 27
+Melhor solução: 318.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_11_n50_m5.txt
+Tempo total: 47
+Melhor solução: 254.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_12_n50_m5.txt
+Tempo total: 61
+Melhor solução: 225.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_13_n50_m5.txt
+Tempo total: 43
+Melhor solução: 239.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_14_n50_m5.txt
+Tempo total: 40
+Melhor solução: 243.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_15_n50_m5.txt
+Tempo total: 40
+Melhor solução: 231.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_16_n50_m15.txt
+Tempo total: 116
+Melhor solução: 1391.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_17_n50_m15.txt
+Tempo total: 91
+Melhor solução: 1471.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_18_n50_m15.txt
+Tempo total: 83
+Melhor solução: 1327.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_19_n50_m15.txt
+Tempo total: 126
+Melhor solução: 1247.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_1_n25_m2.txt
+Tempo total: 19
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_20_n50_m15.txt
+Tempo total: 85
+Melhor solução: 1217.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_21_n100_m10.txt
+Tempo total: 155
+Melhor solução: 825.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_22_n100_m10.txt
+Tempo total: 153
+Melhor solução: 898.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_23_n100_m10.txt
+Tempo total: 174
+Melhor solução: 904.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_24_n100_m10.txt
+Tempo total: 169
+Melhor solução: 882.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_25_n100_m10.txt
+Tempo total: 148
+Melhor solução: 810.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_26_n100_m30.txt
+Tempo total: 733
+Melhor solução: 5424.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_27_n100_m30.txt
+Tempo total: 749
+Melhor solução: 4946.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_28_n100_m30.txt
+Tempo total: 1076
+Melhor solução: 5597.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_29_n100_m30.txt
+Tempo total: 701
+Melhor solução: 5452.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_2_n25_m2.txt
+Tempo total: 55
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_30_n100_m30.txt
+Tempo total: 807
+Melhor solução: 5055.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_31_n125_m12.txt
+Tempo total: 338
+Melhor solução: 1288.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_32_n125_m12.txt
+Tempo total: 321
+Melhor solução: 1218.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_33_n125_m12.txt
+Tempo total: 326
+Melhor solução: 1270.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_34_n125_m12.txt
+Tempo total: 303
+Melhor solução: 1216.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_35_n125_m12.txt
+Tempo total: 296
+Melhor solução: 1287.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_36_n125_m37.txt
+Tempo total: 1650
+Melhor solução: 7191.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_37_n125_m37.txt
+Tempo total: 2114
+Melhor solução: 7697.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_38_n125_m37.txt
+Tempo total: 1239
+Melhor solução: 7084.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_39_n125_m37.txt
+Tempo total: 2038
+Melhor solução: 7280.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_3_n25_m2.txt
+Tempo total: 19
+Melhor solução: 20.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_40_n125_m37.txt
+Tempo total: 2149
+Melhor solução: 7601.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_41_n150_m15.txt
+Tempo total: 551
+Melhor solução: 2087.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_42_n150_m15.txt
+Tempo total: 594
+Melhor solução: 1906.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_43_n150_m15.txt
+Tempo total: 563
+Melhor solução: 1873.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_44_n150_m15.txt
+Tempo total: 573
+Melhor solução: 2071.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_45_n150_m15.txt
+Tempo total: 622
+Melhor solução: 1880.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_46_n150_m45.txt
+Tempo total: 4311
+Melhor solução: 10659.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_47_n150_m45.txt
+Tempo total: 3351
+Melhor solução: 10534.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_48_n150_m45.txt
+Tempo total: 3632
+Melhor solução: 11338.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_49_n150_m45.txt
+Tempo total: 4337
+Melhor solução: 12050.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_4_n25_m2.txt
+Tempo total: 19
+Melhor solução: 28.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_50_n150_m45.txt
+Tempo total: 5020
+Melhor solução: 10593.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_5_n25_m2.txt
+Tempo total: 19
+Melhor solução: 21.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_6_n25_m7.txt
+Tempo total: 29
+Melhor solução: 323.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_7_n25_m7.txt
+Tempo total: 50
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_8_n25_m7.txt
+Tempo total: 31
+Melhor solução: 299.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_9_n25_m7.txt
+Tempo total: 38
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_10_n25_m7.txt
+Tempo total: 27
+Melhor solução: 318.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_11_n50_m5.txt
+Tempo total: 45
+Melhor solução: 254.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_12_n50_m5.txt
+Tempo total: 40
+Melhor solução: 225.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_13_n50_m5.txt
+Tempo total: 44
+Melhor solução: 239.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_14_n50_m5.txt
+Tempo total: 41
+Melhor solução: 243.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_15_n50_m5.txt
+Tempo total: 45
+Melhor solução: 231.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_16_n50_m15.txt
+Tempo total: 116
+Melhor solução: 1391.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_17_n50_m15.txt
+Tempo total: 84
+Melhor solução: 1471.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_18_n50_m15.txt
+Tempo total: 94
+Melhor solução: 1327.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_19_n50_m15.txt
+Tempo total: 110
+Melhor solução: 1247.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_1_n25_m2.txt
+Tempo total: 19
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_20_n50_m15.txt
+Tempo total: 80
+Melhor solução: 1217.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_21_n100_m10.txt
+Tempo total: 190
+Melhor solução: 825.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_22_n100_m10.txt
+Tempo total: 155
+Melhor solução: 947.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_23_n100_m10.txt
+Tempo total: 195
+Melhor solução: 904.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_24_n100_m10.txt
+Tempo total: 169
+Melhor solução: 882.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_25_n100_m10.txt
+Tempo total: 160
+Melhor solução: 810.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_26_n100_m30.txt
+Tempo total: 720
+Melhor solução: 5424.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_27_n100_m30.txt
+Tempo total: 723
+Melhor solução: 4946.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_28_n100_m30.txt
+Tempo total: 1018
+Melhor solução: 5597.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_29_n100_m30.txt
+Tempo total: 713
+Melhor solução: 5452.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_2_n25_m2.txt
+Tempo total: 32
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_30_n100_m30.txt
+Tempo total: 799
+Melhor solução: 5055.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_31_n125_m12.txt
+Tempo total: 312
+Melhor solução: 1288.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_32_n125_m12.txt
+Tempo total: 307
+Melhor solução: 1218.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_33_n125_m12.txt
+Tempo total: 283
+Melhor solução: 1270.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_34_n125_m12.txt
+Tempo total: 271
+Melhor solução: 1216.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_35_n125_m12.txt
+Tempo total: 281
+Melhor solução: 1287.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_36_n125_m37.txt
+Tempo total: 1667
+Melhor solução: 7191.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_37_n125_m37.txt
+Tempo total: 2139
+Melhor solução: 7697.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_38_n125_m37.txt
+Tempo total: 1218
+Melhor solução: 7084.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_39_n125_m37.txt
+Tempo total: 1999
+Melhor solução: 7280.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_3_n25_m2.txt
+Tempo total: 19
+Melhor solução: 20.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_40_n125_m37.txt
+Tempo total: 2166
+Melhor solução: 7589.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_41_n150_m15.txt
+Tempo total: 554
+Melhor solução: 1979.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_42_n150_m15.txt
+Tempo total: 622
+Melhor solução: 1906.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_43_n150_m15.txt
+Tempo total: 559
+Melhor solução: 1873.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_44_n150_m15.txt
+Tempo total: 484
+Melhor solução: 2071.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_45_n150_m15.txt
+Tempo total: 577
+Melhor solução: 1880.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_46_n150_m45.txt
+Tempo total: 4342
+Melhor solução: 10449.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_47_n150_m45.txt
+Tempo total: 3420
+Melhor solução: 10534.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_48_n150_m45.txt
+Tempo total: 3586
+Melhor solução: 11338.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_49_n150_m45.txt
+Tempo total: 4374
+Melhor solução: 12050.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_4_n25_m2.txt
+Tempo total: 19
+Melhor solução: 28.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_50_n150_m45.txt
+Tempo total: 5017
+Melhor solução: 10720.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_5_n25_m2.txt
+Tempo total: 36
+Melhor solução: 21.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_6_n25_m7.txt
+Tempo total: 36
+Melhor solução: 323.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_7_n25_m7.txt
+Tempo total: 28
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_8_n25_m7.txt
+Tempo total: 30
+Melhor solução: 299.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_9_n25_m7.txt
+Tempo total: 31
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_10_n25_m7.txt
+Tempo total: 28
+Melhor solução: 318.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_11_n50_m5.txt
+Tempo total: 61
+Melhor solução: 254.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_12_n50_m5.txt
+Tempo total: 42
+Melhor solução: 225.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_13_n50_m5.txt
+Tempo total: 42
+Melhor solução: 239.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_14_n50_m5.txt
+Tempo total: 41
+Melhor solução: 243.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_15_n50_m5.txt
+Tempo total: 66
+Melhor solução: 231.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_16_n50_m15.txt
+Tempo total: 96
+Melhor solução: 1391.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_17_n50_m15.txt
+Tempo total: 82
+Melhor solução: 1471.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_18_n50_m15.txt
+Tempo total: 93
+Melhor solução: 1327.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_19_n50_m15.txt
+Tempo total: 93
+Melhor solução: 1247.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_1_n25_m2.txt
+Tempo total: 18
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_20_n50_m15.txt
+Tempo total: 82
+Melhor solução: 1217.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_21_n100_m10.txt
+Tempo total: 187
+Melhor solução: 825.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_22_n100_m10.txt
+Tempo total: 162
+Melhor solução: 947.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_23_n100_m10.txt
+Tempo total: 217
+Melhor solução: 904.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_24_n100_m10.txt
+Tempo total: 165
+Melhor solução: 882.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_25_n100_m10.txt
+Tempo total: 165
+Melhor solução: 810.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_26_n100_m30.txt
+Tempo total: 708
+Melhor solução: 5424.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_27_n100_m30.txt
+Tempo total: 692
+Melhor solução: 4946.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_28_n100_m30.txt
+Tempo total: 1023
+Melhor solução: 5597.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_29_n100_m30.txt
+Tempo total: 705
+Melhor solução: 5452.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_2_n25_m2.txt
+Tempo total: 43
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_30_n100_m30.txt
+Tempo total: 824
+Melhor solução: 5055.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_31_n125_m12.txt
+Tempo total: 294
+Melhor solução: 1288.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_32_n125_m12.txt
+Tempo total: 295
+Melhor solução: 1218.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_33_n125_m12.txt
+Tempo total: 298
+Melhor solução: 1270.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_34_n125_m12.txt
+Tempo total: 283
+Melhor solução: 1216.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_35_n125_m12.txt
+Tempo total: 285
+Melhor solução: 1300.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_36_n125_m37.txt
+Tempo total: 1617
+Melhor solução: 7191.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_37_n125_m37.txt
+Tempo total: 2110
+Melhor solução: 7697.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_38_n125_m37.txt
+Tempo total: 1246
+Melhor solução: 7084.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_39_n125_m37.txt
+Tempo total: 1970
+Melhor solução: 7280.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_3_n25_m2.txt
+Tempo total: 41
+Melhor solução: 20.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_40_n125_m37.txt
+Tempo total: 2097
+Melhor solução: 7601.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_41_n150_m15.txt
+Tempo total: 552
+Melhor solução: 2087.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_42_n150_m15.txt
+Tempo total: 546
+Melhor solução: 1906.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_43_n150_m15.txt
+Tempo total: 620
+Melhor solução: 1873.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_44_n150_m15.txt
+Tempo total: 536
+Melhor solução: 2071.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_45_n150_m15.txt
+Tempo total: 601
+Melhor solução: 1880.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_46_n150_m45.txt
+Tempo total: 4297
+Melhor solução: 10659.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_47_n150_m45.txt
+Tempo total: 3428
+Melhor solução: 10534.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_48_n150_m45.txt
+Tempo total: 3620
+Melhor solução: 11338.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_49_n150_m45.txt
+Tempo total: 4375
+Melhor solução: 12050.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_4_n25_m2.txt
+Tempo total: 19
+Melhor solução: 28.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_50_n150_m45.txt
+Tempo total: 4895
+Melhor solução: 10720.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_5_n25_m2.txt
+Tempo total: 19
+Melhor solução: 21.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_6_n25_m7.txt
+Tempo total: 30
+Melhor solução: 323.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_7_n25_m7.txt
+Tempo total: 41
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_8_n25_m7.txt
+Tempo total: 27
+Melhor solução: 299.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_9_n25_m7.txt
+Tempo total: 30
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_10_n25_m7.txt
+Tempo total: 30
+Melhor solução: 318.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_11_n50_m5.txt
+Tempo total: 41
+Melhor solução: 254.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_12_n50_m5.txt
+Tempo total: 62
+Melhor solução: 225.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_13_n50_m5.txt
+Tempo total: 39
+Melhor solução: 239.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_14_n50_m5.txt
+Tempo total: 41
+Melhor solução: 243.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_15_n50_m5.txt
+Tempo total: 43
+Melhor solução: 231.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_16_n50_m15.txt
+Tempo total: 152
+Melhor solução: 1391.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_17_n50_m15.txt
+Tempo total: 86
+Melhor solução: 1471.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_18_n50_m15.txt
+Tempo total: 86
+Melhor solução: 1327.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_19_n50_m15.txt
+Tempo total: 109
+Melhor solução: 1247.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_1_n25_m2.txt
+Tempo total: 19
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_20_n50_m15.txt
+Tempo total: 83
+Melhor solução: 1217.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_21_n100_m10.txt
+Tempo total: 179
+Melhor solução: 825.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_22_n100_m10.txt
+Tempo total: 155
+Melhor solução: 947.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_23_n100_m10.txt
+Tempo total: 175
+Melhor solução: 904.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_24_n100_m10.txt
+Tempo total: 165
+Melhor solução: 882.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_25_n100_m10.txt
+Tempo total: 160
+Melhor solução: 810.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_26_n100_m30.txt
+Tempo total: 726
+Melhor solução: 5424.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_27_n100_m30.txt
+Tempo total: 683
+Melhor solução: 4946.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_28_n100_m30.txt
+Tempo total: 1055
+Melhor solução: 5597.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_29_n100_m30.txt
+Tempo total: 697
+Melhor solução: 5452.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_2_n25_m2.txt
+Tempo total: 34
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_30_n100_m30.txt
+Tempo total: 804
+Melhor solução: 5055.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_31_n125_m12.txt
+Tempo total: 326
+Melhor solução: 1288.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_32_n125_m12.txt
+Tempo total: 299
+Melhor solução: 1218.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_33_n125_m12.txt
+Tempo total: 301
+Melhor solução: 1270.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_34_n125_m12.txt
+Tempo total: 271
+Melhor solução: 1216.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_35_n125_m12.txt
+Tempo total: 261
+Melhor solução: 1300.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_36_n125_m37.txt
+Tempo total: 1643
+Melhor solução: 7191.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_37_n125_m37.txt
+Tempo total: 2091
+Melhor solução: 7697.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_38_n125_m37.txt
+Tempo total: 1303
+Melhor solução: 7084.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_39_n125_m37.txt
+Tempo total: 2078
+Melhor solução: 7280.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_3_n25_m2.txt
+Tempo total: 20
+Melhor solução: 20.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_40_n125_m37.txt
+Tempo total: 2203
+Melhor solução: 7601.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_41_n150_m15.txt
+Tempo total: 579
+Melhor solução: 1979.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_42_n150_m15.txt
+Tempo total: 539
+Melhor solução: 1899.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_43_n150_m15.txt
+Tempo total: 581
+Melhor solução: 1873.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_44_n150_m15.txt
+Tempo total: 501
+Melhor solução: 2071.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_45_n150_m15.txt
+Tempo total: 616
+Melhor solução: 1880.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_46_n150_m45.txt
+Tempo total: 4249
+Melhor solução: 10659.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_47_n150_m45.txt
+Tempo total: 3339
+Melhor solução: 10534.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_48_n150_m45.txt
+Tempo total: 3657
+Melhor solução: 11338.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_49_n150_m45.txt
+Tempo total: 4394
+Melhor solução: 12050.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_4_n25_m2.txt
+Tempo total: 35
+Melhor solução: 28.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_50_n150_m45.txt
+Tempo total: 4921
+Melhor solução: 10720.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_5_n25_m2.txt
+Tempo total: 22
+Melhor solução: 21.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_6_n25_m7.txt
+Tempo total: 29
+Melhor solução: 323.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_7_n25_m7.txt
+Tempo total: 54
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_8_n25_m7.txt
+Tempo total: 29
+Melhor solução: 299.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_9_n25_m7.txt
+Tempo total: 31
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_10_n25_m7.txt
+Tempo total: 27
+Melhor solução: 318.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_11_n50_m5.txt
+Tempo total: 43
+Melhor solução: 254.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_12_n50_m5.txt
+Tempo total: 42
+Melhor solução: 225.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_13_n50_m5.txt
+Tempo total: 53
+Melhor solução: 239.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_14_n50_m5.txt
+Tempo total: 63
+Melhor solução: 243.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_15_n50_m5.txt
+Tempo total: 40
+Melhor solução: 231.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_16_n50_m15.txt
+Tempo total: 95
+Melhor solução: 1391.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_17_n50_m15.txt
+Tempo total: 142
+Melhor solução: 1471.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_18_n50_m15.txt
+Tempo total: 87
+Melhor solução: 1327.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_19_n50_m15.txt
+Tempo total: 96
+Melhor solução: 1247.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_1_n25_m2.txt
+Tempo total: 36
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_20_n50_m15.txt
+Tempo total: 80
+Melhor solução: 1217.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_21_n100_m10.txt
+Tempo total: 164
+Melhor solução: 825.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_22_n100_m10.txt
+Tempo total: 191
+Melhor solução: 947.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_23_n100_m10.txt
+Tempo total: 182
+Melhor solução: 904.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_24_n100_m10.txt
+Tempo total: 202
+Melhor solução: 882.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_25_n100_m10.txt
+Tempo total: 150
+Melhor solução: 810.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_26_n100_m30.txt
+Tempo total: 724
+Melhor solução: 5424.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_27_n100_m30.txt
+Tempo total: 704
+Melhor solução: 4946.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_28_n100_m30.txt
+Tempo total: 1041
+Melhor solução: 5597.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_29_n100_m30.txt
+Tempo total: 732
+Melhor solução: 5452.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_2_n25_m2.txt
+Tempo total: 19
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_30_n100_m30.txt
+Tempo total: 810
+Melhor solução: 5055.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_31_n125_m12.txt
+Tempo total: 272
+Melhor solução: 1288.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_32_n125_m12.txt
+Tempo total: 286
+Melhor solução: 1218.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_33_n125_m12.txt
+Tempo total: 315
+Melhor solução: 1270.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_34_n125_m12.txt
+Tempo total: 288
+Melhor solução: 1216.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_35_n125_m12.txt
+Tempo total: 292
+Melhor solução: 1300.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_36_n125_m37.txt
+Tempo total: 1687
+Melhor solução: 7191.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_37_n125_m37.txt
+Tempo total: 2084
+Melhor solução: 7681.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_38_n125_m37.txt
+Tempo total: 1214
+Melhor solução: 7084.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_39_n125_m37.txt
+Tempo total: 2052
+Melhor solução: 7280.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_3_n25_m2.txt
+Tempo total: 19
+Melhor solução: 20.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_40_n125_m37.txt
+Tempo total: 2155
+Melhor solução: 7601.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_41_n150_m15.txt
+Tempo total: 554
+Melhor solução: 2087.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_42_n150_m15.txt
+Tempo total: 553
+Melhor solução: 1906.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_43_n150_m15.txt
+Tempo total: 590
+Melhor solução: 1873.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_44_n150_m15.txt
+Tempo total: 544
+Melhor solução: 2071.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_45_n150_m15.txt
+Tempo total: 605
+Melhor solução: 1880.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_46_n150_m45.txt
+Tempo total: 4381
+Melhor solução: 10659.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_47_n150_m45.txt
+Tempo total: 3417
+Melhor solução: 10534.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_48_n150_m45.txt
+Tempo total: 3627
+Melhor solução: 11338.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_49_n150_m45.txt
+Tempo total: 4394
+Melhor solução: 12050.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_4_n25_m2.txt
+Tempo total: 18
+Melhor solução: 28.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_50_n150_m45.txt
+Tempo total: 5007
+Melhor solução: 10720.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_5_n25_m2.txt
+Tempo total: 19
+Melhor solução: 21.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_6_n25_m7.txt
+Tempo total: 39
+Melhor solução: 323.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_7_n25_m7.txt
+Tempo total: 26
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_8_n25_m7.txt
+Tempo total: 30
+Melhor solução: 299.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_9_n25_m7.txt
+Tempo total: 29
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_10_n25_m7.txt
+Tempo total: 30
+Melhor solução: 318.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_11_n50_m5.txt
+Tempo total: 66
+Melhor solução: 254.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_12_n50_m5.txt
+Tempo total: 40
+Melhor solução: 225.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_13_n50_m5.txt
+Tempo total: 41
+Melhor solução: 239.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_14_n50_m5.txt
+Tempo total: 47
+Melhor solução: 243.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_15_n50_m5.txt
+Tempo total: 44
+Melhor solução: 231.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_16_n50_m15.txt
+Tempo total: 95
+Melhor solução: 1391.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_17_n50_m15.txt
+Tempo total: 83
+Melhor solução: 1471.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_18_n50_m15.txt
+Tempo total: 101
+Melhor solução: 1327.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_19_n50_m15.txt
+Tempo total: 107
+Melhor solução: 1247.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_1_n25_m2.txt
+Tempo total: 19
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_20_n50_m15.txt
+Tempo total: 85
+Melhor solução: 1217.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_21_n100_m10.txt
+Tempo total: 198
+Melhor solução: 825.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_22_n100_m10.txt
+Tempo total: 172
+Melhor solução: 947.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_23_n100_m10.txt
+Tempo total: 197
+Melhor solução: 904.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_24_n100_m10.txt
+Tempo total: 168
+Melhor solução: 882.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_25_n100_m10.txt
+Tempo total: 161
+Melhor solução: 810.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_26_n100_m30.txt
+Tempo total: 729
+Melhor solução: 5424.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_27_n100_m30.txt
+Tempo total: 723
+Melhor solução: 4946.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_28_n100_m30.txt
+Tempo total: 1041
+Melhor solução: 5597.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_29_n100_m30.txt
+Tempo total: 690
+Melhor solução: 5452.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_2_n25_m2.txt
+Tempo total: 19
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_30_n100_m30.txt
+Tempo total: 814
+Melhor solução: 5055.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_31_n125_m12.txt
+Tempo total: 291
+Melhor solução: 1288.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_32_n125_m12.txt
+Tempo total: 295
+Melhor solução: 1218.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_33_n125_m12.txt
+Tempo total: 307
+Melhor solução: 1270.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_34_n125_m12.txt
+Tempo total: 294
+Melhor solução: 1216.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_35_n125_m12.txt
+Tempo total: 315
+Melhor solução: 1287.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_36_n125_m37.txt
+Tempo total: 1653
+Melhor solução: 7191.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_37_n125_m37.txt
+Tempo total: 2062
+Melhor solução: 7697.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_38_n125_m37.txt
+Tempo total: 1214
+Melhor solução: 7084.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_39_n125_m37.txt
+Tempo total: 2025
+Melhor solução: 7050.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_3_n25_m2.txt
+Tempo total: 38
+Melhor solução: 20.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_40_n125_m37.txt
+Tempo total: 2153
+Melhor solução: 7601.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_41_n150_m15.txt
+Tempo total: 576
+Melhor solução: 2087.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_42_n150_m15.txt
+Tempo total: 580
+Melhor solução: 1906.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_43_n150_m15.txt
+Tempo total: 604
+Melhor solução: 1873.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_44_n150_m15.txt
+Tempo total: 518
+Melhor solução: 2071.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_45_n150_m15.txt
+Tempo total: 618
+Melhor solução: 1880.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_46_n150_m45.txt
+Tempo total: 4338
+Melhor solução: 10659.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_47_n150_m45.txt
+Tempo total: 3522
+Melhor solução: 10534.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_48_n150_m45.txt
+Tempo total: 3606
+Melhor solução: 11338.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_49_n150_m45.txt
+Tempo total: 4344
+Melhor solução: 12050.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_4_n25_m2.txt
+Tempo total: 19
+Melhor solução: 28.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_50_n150_m45.txt
+Tempo total: 5030
+Melhor solução: 10720.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_5_n25_m2.txt
+Tempo total: 18
+Melhor solução: 21.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_6_n25_m7.txt
+Tempo total: 29
+Melhor solução: 323.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_7_n25_m7.txt
+Tempo total: 29
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_8_n25_m7.txt
+Tempo total: 35
+Melhor solução: 299.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_9_n25_m7.txt
+Tempo total: 30
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_10_n25_m7.txt
+Tempo total: 26
+Melhor solução: 318.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_11_n50_m5.txt
+Tempo total: 41
+Melhor solução: 254.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_12_n50_m5.txt
+Tempo total: 40
+Melhor solução: 225.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_13_n50_m5.txt
+Tempo total: 39
+Melhor solução: 239.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_14_n50_m5.txt
+Tempo total: 43
+Melhor solução: 243.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_15_n50_m5.txt
+Tempo total: 43
+Melhor solução: 231.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_16_n50_m15.txt
+Tempo total: 109
+Melhor solução: 1391.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_17_n50_m15.txt
+Tempo total: 89
+Melhor solução: 1471.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_18_n50_m15.txt
+Tempo total: 85
+Melhor solução: 1327.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_19_n50_m15.txt
+Tempo total: 104
+Melhor solução: 1247.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_1_n25_m2.txt
+Tempo total: 19
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_20_n50_m15.txt
+Tempo total: 79
+Melhor solução: 1217.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_21_n100_m10.txt
+Tempo total: 174
+Melhor solução: 825.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_22_n100_m10.txt
+Tempo total: 158
+Melhor solução: 947.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_23_n100_m10.txt
+Tempo total: 177
+Melhor solução: 904.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_24_n100_m10.txt
+Tempo total: 160
+Melhor solução: 882.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_25_n100_m10.txt
+Tempo total: 149
+Melhor solução: 810.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_26_n100_m30.txt
+Tempo total: 750
+Melhor solução: 5424.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_27_n100_m30.txt
+Tempo total: 696
+Melhor solução: 4946.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_28_n100_m30.txt
+Tempo total: 1048
+Melhor solução: 5597.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_29_n100_m30.txt
+Tempo total: 710
+Melhor solução: 5452.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_2_n25_m2.txt
+Tempo total: 31
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_30_n100_m30.txt
+Tempo total: 789
+Melhor solução: 5055.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_31_n125_m12.txt
+Tempo total: 312
+Melhor solução: 1288.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_32_n125_m12.txt
+Tempo total: 314
+Melhor solução: 1218.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_33_n125_m12.txt
+Tempo total: 285
+Melhor solução: 1270.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_34_n125_m12.txt
+Tempo total: 290
+Melhor solução: 1216.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_35_n125_m12.txt
+Tempo total: 287
+Melhor solução: 1300.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_36_n125_m37.txt
+Tempo total: 1695
+Melhor solução: 7191.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_37_n125_m37.txt
+Tempo total: 2044
+Melhor solução: 7697.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_38_n125_m37.txt
+Tempo total: 1218
+Melhor solução: 7084.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_39_n125_m37.txt
+Tempo total: 2034
+Melhor solução: 7050.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_3_n25_m2.txt
+Tempo total: 42
+Melhor solução: 20.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_40_n125_m37.txt
+Tempo total: 2118
+Melhor solução: 7601.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_41_n150_m15.txt
+Tempo total: 592
+Melhor solução: 2087.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_42_n150_m15.txt
+Tempo total: 597
+Melhor solução: 1906.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_43_n150_m15.txt
+Tempo total: 603
+Melhor solução: 1873.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_44_n150_m15.txt
+Tempo total: 505
+Melhor solução: 2071.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_45_n150_m15.txt
+Tempo total: 599
+Melhor solução: 1880.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_46_n150_m45.txt
+Tempo total: 4408
+Melhor solução: 10659.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_47_n150_m45.txt
+Tempo total: 3426
+Melhor solução: 10534.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_48_n150_m45.txt
+Tempo total: 3630
+Melhor solução: 11338.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_49_n150_m45.txt
+Tempo total: 4386
+Melhor solução: 12050.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_4_n25_m2.txt
+Tempo total: 25
+Melhor solução: 28.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_50_n150_m45.txt
+Tempo total: 4966
+Melhor solução: 10720.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_5_n25_m2.txt
+Tempo total: 18
+Melhor solução: 21.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_6_n25_m7.txt
+Tempo total: 28
+Melhor solução: 323.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_7_n25_m7.txt
+Tempo total: 27
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_8_n25_m7.txt
+Tempo total: 32
+Melhor solução: 299.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_9_n25_m7.txt
+Tempo total: 29
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_10_n25_m7.txt
+Tempo total: 30
+Melhor solução: 318.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_11_n50_m5.txt
+Tempo total: 44
+Melhor solução: 254.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_12_n50_m5.txt
+Tempo total: 49
+Melhor solução: 225.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_13_n50_m5.txt
+Tempo total: 44
+Melhor solução: 239.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_14_n50_m5.txt
+Tempo total: 44
+Melhor solução: 243.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_15_n50_m5.txt
+Tempo total: 40
+Melhor solução: 231.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_16_n50_m15.txt
+Tempo total: 113
+Melhor solução: 1391.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_17_n50_m15.txt
+Tempo total: 87
+Melhor solução: 1471.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_18_n50_m15.txt
+Tempo total: 86
+Melhor solução: 1327.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_19_n50_m15.txt
+Tempo total: 117
+Melhor solução: 1247.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_1_n25_m2.txt
+Tempo total: 19
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_20_n50_m15.txt
+Tempo total: 79
+Melhor solução: 1217.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_21_n100_m10.txt
+Tempo total: 167
+Melhor solução: 825.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_22_n100_m10.txt
+Tempo total: 153
+Melhor solução: 947.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_23_n100_m10.txt
+Tempo total: 192
+Melhor solução: 904.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_24_n100_m10.txt
+Tempo total: 158
+Melhor solução: 882.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_25_n100_m10.txt
+Tempo total: 149
+Melhor solução: 810.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_26_n100_m30.txt
+Tempo total: 743
+Melhor solução: 5424.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_27_n100_m30.txt
+Tempo total: 704
+Melhor solução: 4946.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_28_n100_m30.txt
+Tempo total: 1022
+Melhor solução: 5597.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_29_n100_m30.txt
+Tempo total: 686
+Melhor solução: 5452.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_2_n25_m2.txt
+Tempo total: 29
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_30_n100_m30.txt
+Tempo total: 800
+Melhor solução: 5055.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_31_n125_m12.txt
+Tempo total: 301
+Melhor solução: 1288.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_32_n125_m12.txt
+Tempo total: 306
+Melhor solução: 1218.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_33_n125_m12.txt
+Tempo total: 287
+Melhor solução: 1270.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_34_n125_m12.txt
+Tempo total: 317
+Melhor solução: 1211.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_35_n125_m12.txt
+Tempo total: 277
+Melhor solução: 1300.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_36_n125_m37.txt
+Tempo total: 1659
+Melhor solução: 7191.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_37_n125_m37.txt
+Tempo total: 2180
+Melhor solução: 7697.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_38_n125_m37.txt
+Tempo total: 1248
+Melhor solução: 7084.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_39_n125_m37.txt
+Tempo total: 2061
+Melhor solução: 7280.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_3_n25_m2.txt
+Tempo total: 19
+Melhor solução: 20.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_40_n125_m37.txt
+Tempo total: 2151
+Melhor solução: 7589.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_41_n150_m15.txt
+Tempo total: 585
+Melhor solução: 2087.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_42_n150_m15.txt
+Tempo total: 554
+Melhor solução: 1906.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_43_n150_m15.txt
+Tempo total: 631
+Melhor solução: 1873.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_44_n150_m15.txt
+Tempo total: 502
+Melhor solução: 2058.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_45_n150_m15.txt
+Tempo total: 600
+Melhor solução: 1880.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_46_n150_m45.txt
+Tempo total: 4440
+Melhor solução: 10659.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_47_n150_m45.txt
+Tempo total: 3467
+Melhor solução: 10534.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_48_n150_m45.txt
+Tempo total: 3703
+Melhor solução: 11338.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_49_n150_m45.txt
+Tempo total: 4317
+Melhor solução: 12050.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_4_n25_m2.txt
+Tempo total: 30
+Melhor solução: 28.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_50_n150_m45.txt
+Tempo total: 5083
+Melhor solução: 10720.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_5_n25_m2.txt
+Tempo total: 30
+Melhor solução: 21.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_6_n25_m7.txt
+Tempo total: 45
+Melhor solução: 323.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_7_n25_m7.txt
+Tempo total: 28
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_8_n25_m7.txt
+Tempo total: 31
+Melhor solução: 299.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_9_n25_m7.txt
+Tempo total: 29
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_10_n25_m7.txt
+Tempo total: 28
+Melhor solução: 318.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_11_n50_m5.txt
+Tempo total: 45
+Melhor solução: 254.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_12_n50_m5.txt
+Tempo total: 42
+Melhor solução: 225.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_13_n50_m5.txt
+Tempo total: 43
+Melhor solução: 239.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_14_n50_m5.txt
+Tempo total: 65
+Melhor solução: 243.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_15_n50_m5.txt
+Tempo total: 60
+Melhor solução: 231.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_16_n50_m15.txt
+Tempo total: 92
+Melhor solução: 1391.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_17_n50_m15.txt
+Tempo total: 92
+Melhor solução: 1471.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_18_n50_m15.txt
+Tempo total: 88
+Melhor solução: 1327.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_19_n50_m15.txt
+Tempo total: 92
+Melhor solução: 1247.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_1_n25_m2.txt
+Tempo total: 20
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_20_n50_m15.txt
+Tempo total: 115
+Melhor solução: 1217.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_21_n100_m10.txt
+Tempo total: 159
+Melhor solução: 825.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_22_n100_m10.txt
+Tempo total: 182
+Melhor solução: 947.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_23_n100_m10.txt
+Tempo total: 176
+Melhor solução: 904.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_24_n100_m10.txt
+Tempo total: 169
+Melhor solução: 882.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_25_n100_m10.txt
+Tempo total: 159
+Melhor solução: 810.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_26_n100_m30.txt
+Tempo total: 714
+Melhor solução: 5424.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_27_n100_m30.txt
+Tempo total: 699
+Melhor solução: 4946.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_28_n100_m30.txt
+Tempo total: 1007
+Melhor solução: 5589.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_29_n100_m30.txt
+Tempo total: 740
+Melhor solução: 5452.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_2_n25_m2.txt
+Tempo total: 19
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_30_n100_m30.txt
+Tempo total: 826
+Melhor solução: 5055.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_31_n125_m12.txt
+Tempo total: 273
+Melhor solução: 1288.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_32_n125_m12.txt
+Tempo total: 343
+Melhor solução: 1218.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_33_n125_m12.txt
+Tempo total: 296
+Melhor solução: 1237.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_34_n125_m12.txt
+Tempo total: 292
+Melhor solução: 1216.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_35_n125_m12.txt
+Tempo total: 275
+Melhor solução: 1300.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_36_n125_m37.txt
+Tempo total: 1665
+Melhor solução: 7191.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_37_n125_m37.txt
+Tempo total: 2060
+Melhor solução: 7697.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_38_n125_m37.txt
+Tempo total: 1251
+Melhor solução: 7084.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_39_n125_m37.txt
+Tempo total: 2049
+Melhor solução: 7280.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_3_n25_m2.txt
+Tempo total: 19
+Melhor solução: 20.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_40_n125_m37.txt
+Tempo total: 2180
+Melhor solução: 7601.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_41_n150_m15.txt
+Tempo total: 524
+Melhor solução: 2087.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_42_n150_m15.txt
+Tempo total: 560
+Melhor solução: 1906.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_43_n150_m15.txt
+Tempo total: 580
+Melhor solução: 1850.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_44_n150_m15.txt
+Tempo total: 508
+Melhor solução: 2071.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_45_n150_m15.txt
+Tempo total: 625
+Melhor solução: 1880.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_46_n150_m45.txt
+Tempo total: 4410
+Melhor solução: 10659.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_47_n150_m45.txt
+Tempo total: 3471
+Melhor solução: 10534.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_48_n150_m45.txt
+Tempo total: 3589
+Melhor solução: 11190.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_49_n150_m45.txt
+Tempo total: 4325
+Melhor solução: 12050.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_4_n25_m2.txt
+Tempo total: 30
+Melhor solução: 28.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_50_n150_m45.txt
+Tempo total: 4937
+Melhor solução: 10720.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_5_n25_m2.txt
+Tempo total: 20
+Melhor solução: 21.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_6_n25_m7.txt
+Tempo total: 30
+Melhor solução: 323.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_7_n25_m7.txt
+Tempo total: 28
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_8_n25_m7.txt
+Tempo total: 29
+Melhor solução: 299.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_9_n25_m7.txt
+Tempo total: 49
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_10_n25_m7.txt
+Tempo total: 30
+Melhor solução: 318.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_11_n50_m5.txt
+Tempo total: 63
+Melhor solução: 254.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_12_n50_m5.txt
+Tempo total: 63
+Melhor solução: 225.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_13_n50_m5.txt
+Tempo total: 41
+Melhor solução: 239.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_14_n50_m5.txt
+Tempo total: 40
+Melhor solução: 243.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_15_n50_m5.txt
+Tempo total: 50
+Melhor solução: 231.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_16_n50_m15.txt
+Tempo total: 96
+Melhor solução: 1391.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_17_n50_m15.txt
+Tempo total: 83
+Melhor solução: 1471.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_18_n50_m15.txt
+Tempo total: 108
+Melhor solução: 1327.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_19_n50_m15.txt
+Tempo total: 91
+Melhor solução: 1247.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_1_n25_m2.txt
+Tempo total: 19
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_20_n50_m15.txt
+Tempo total: 107
+Melhor solução: 1217.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_21_n100_m10.txt
+Tempo total: 193
+Melhor solução: 825.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_22_n100_m10.txt
+Tempo total: 162
+Melhor solução: 947.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_23_n100_m10.txt
+Tempo total: 202
+Melhor solução: 904.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_24_n100_m10.txt
+Tempo total: 162
+Melhor solução: 882.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_25_n100_m10.txt
+Tempo total: 166
+Melhor solução: 810.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_26_n100_m30.txt
+Tempo total: 733
+Melhor solução: 5424.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_27_n100_m30.txt
+Tempo total: 725
+Melhor solução: 4946.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_28_n100_m30.txt
+Tempo total: 1050
+Melhor solução: 5597.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_29_n100_m30.txt
+Tempo total: 718
+Melhor solução: 5452.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_2_n25_m2.txt
+Tempo total: 19
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_30_n100_m30.txt
+Tempo total: 820
+Melhor solução: 5055.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_31_n125_m12.txt
+Tempo total: 284
+Melhor solução: 1288.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_32_n125_m12.txt
+Tempo total: 290
+Melhor solução: 1218.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_33_n125_m12.txt
+Tempo total: 296
+Melhor solução: 1270.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_34_n125_m12.txt
+Tempo total: 296
+Melhor solução: 1216.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_35_n125_m12.txt
+Tempo total: 276
+Melhor solução: 1287.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_36_n125_m37.txt
+Tempo total: 1683
+Melhor solução: 7191.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_37_n125_m37.txt
+Tempo total: 2125
+Melhor solução: 7697.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_38_n125_m37.txt
+Tempo total: 1240
+Melhor solução: 7084.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_39_n125_m37.txt
+Tempo total: 2100
+Melhor solução: 7280.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_3_n25_m2.txt
+Tempo total: 19
+Melhor solução: 20.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_40_n125_m37.txt
+Tempo total: 2144
+Melhor solução: 7601.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_41_n150_m15.txt
+Tempo total: 581
+Melhor solução: 2087.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_42_n150_m15.txt
+Tempo total: 572
+Melhor solução: 1906.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_43_n150_m15.txt
+Tempo total: 598
+Melhor solução: 1873.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_44_n150_m15.txt
+Tempo total: 521
+Melhor solução: 2071.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_45_n150_m15.txt
+Tempo total: 605
+Melhor solução: 1822.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_46_n150_m45.txt
+Tempo total: 4437
+Melhor solução: 10659.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_47_n150_m45.txt
+Tempo total: 3471
+Melhor solução: 10534.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_48_n150_m45.txt
+Tempo total: 3587
+Melhor solução: 11190.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_49_n150_m45.txt
+Tempo total: 4419
+Melhor solução: 12050.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_4_n25_m2.txt
+Tempo total: 20
+Melhor solução: 28.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_50_n150_m45.txt
+Tempo total: 5141
+Melhor solução: 10720.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_5_n25_m2.txt
+Tempo total: 19
+Melhor solução: 21.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_6_n25_m7.txt
+Tempo total: 42
+Melhor solução: 323.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_7_n25_m7.txt
+Tempo total: 33
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_8_n25_m7.txt
+Tempo total: 30
+Melhor solução: 299.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_9_n25_m7.txt
+Tempo total: 29
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_10_n25_m7.txt
+Tempo total: 27
+Melhor solução: 318.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_11_n50_m5.txt
+Tempo total: 76
+Melhor solução: 254.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_12_n50_m5.txt
+Tempo total: 80
+Melhor solução: 225.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_13_n50_m5.txt
+Tempo total: 43
+Melhor solução: 239.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_14_n50_m5.txt
+Tempo total: 45
+Melhor solução: 243.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_15_n50_m5.txt
+Tempo total: 43
+Melhor solução: 231.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_16_n50_m15.txt
+Tempo total: 135
+Melhor solução: 1391.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_17_n50_m15.txt
+Tempo total: 99
+Melhor solução: 1471.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_18_n50_m15.txt
+Tempo total: 88
+Melhor solução: 1327.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_19_n50_m15.txt
+Tempo total: 107
+Melhor solução: 1247.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_1_n25_m2.txt
+Tempo total: 22
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_20_n50_m15.txt
+Tempo total: 79
+Melhor solução: 1217.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_21_n100_m10.txt
+Tempo total: 184
+Melhor solução: 825.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_22_n100_m10.txt
+Tempo total: 158
+Melhor solução: 947.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_23_n100_m10.txt
+Tempo total: 190
+Melhor solução: 904.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_24_n100_m10.txt
+Tempo total: 165
+Melhor solução: 882.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_25_n100_m10.txt
+Tempo total: 194
+Melhor solução: 810.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_26_n100_m30.txt
+Tempo total: 712
+Melhor solução: 5424.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_27_n100_m30.txt
+Tempo total: 715
+Melhor solução: 4946.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_28_n100_m30.txt
+Tempo total: 1089
+Melhor solução: 5597.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_29_n100_m30.txt
+Tempo total: 700
+Melhor solução: 5452.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_2_n25_m2.txt
+Tempo total: 26
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_30_n100_m30.txt
+Tempo total: 788
+Melhor solução: 5055.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_31_n125_m12.txt
+Tempo total: 322
+Melhor solução: 1288.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_32_n125_m12.txt
+Tempo total: 337
+Melhor solução: 1218.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_33_n125_m12.txt
+Tempo total: 301
+Melhor solução: 1270.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_34_n125_m12.txt
+Tempo total: 278
+Melhor solução: 1216.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_35_n125_m12.txt
+Tempo total: 277
+Melhor solução: 1300.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_36_n125_m37.txt
+Tempo total: 1656
+Melhor solução: 7191.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_37_n125_m37.txt
+Tempo total: 2116
+Melhor solução: 7697.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_38_n125_m37.txt
+Tempo total: 1198
+Melhor solução: 7084.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_39_n125_m37.txt
+Tempo total: 2000
+Melhor solução: 7050.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_3_n25_m2.txt
+Tempo total: 31
+Melhor solução: 20.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_40_n125_m37.txt
+Tempo total: 2114
+Melhor solução: 7601.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_41_n150_m15.txt
+Tempo total: 546
+Melhor solução: 2087.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_42_n150_m15.txt
+Tempo total: 591
+Melhor solução: 1899.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_43_n150_m15.txt
+Tempo total: 644
+Melhor solução: 1850.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_44_n150_m15.txt
+Tempo total: 505
+Melhor solução: 2071.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_45_n150_m15.txt
+Tempo total: 595
+Melhor solução: 1880.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_46_n150_m45.txt
+Tempo total: 4364
+Melhor solução: 10449.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_47_n150_m45.txt
+Tempo total: 3390
+Melhor solução: 10534.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_48_n150_m45.txt
+Tempo total: 3658
+Melhor solução: 11338.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_49_n150_m45.txt
+Tempo total: 4337
+Melhor solução: 12050.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_4_n25_m2.txt
+Tempo total: 21
+Melhor solução: 28.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_50_n150_m45.txt
+Tempo total: 4996
+Melhor solução: 10720.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_5_n25_m2.txt
+Tempo total: 19
+Melhor solução: 21.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_6_n25_m7.txt
+Tempo total: 39
+Melhor solução: 323.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_7_n25_m7.txt
+Tempo total: 28
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_8_n25_m7.txt
+Tempo total: 29
+Melhor solução: 299.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_9_n25_m7.txt
+Tempo total: 31
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_10_n25_m7.txt
+Tempo total: 26
+Melhor solução: 318.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_11_n50_m5.txt
+Tempo total: 44
+Melhor solução: 254.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_12_n50_m5.txt
+Tempo total: 48
+Melhor solução: 225.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_13_n50_m5.txt
+Tempo total: 42
+Melhor solução: 239.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_14_n50_m5.txt
+Tempo total: 43
+Melhor solução: 243.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_15_n50_m5.txt
+Tempo total: 46
+Melhor solução: 231.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_16_n50_m15.txt
+Tempo total: 103
+Melhor solução: 1391.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_17_n50_m15.txt
+Tempo total: 85
+Melhor solução: 1471.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_18_n50_m15.txt
+Tempo total: 102
+Melhor solução: 1327.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_19_n50_m15.txt
+Tempo total: 96
+Melhor solução: 1247.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_1_n25_m2.txt
+Tempo total: 19
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_20_n50_m15.txt
+Tempo total: 78
+Melhor solução: 1217.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_21_n100_m10.txt
+Tempo total: 161
+Melhor solução: 825.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_22_n100_m10.txt
+Tempo total: 159
+Melhor solução: 947.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_23_n100_m10.txt
+Tempo total: 175
+Melhor solução: 904.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_24_n100_m10.txt
+Tempo total: 169
+Melhor solução: 848.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_25_n100_m10.txt
+Tempo total: 160
+Melhor solução: 810.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_26_n100_m30.txt
+Tempo total: 719
+Melhor solução: 5424.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_27_n100_m30.txt
+Tempo total: 682
+Melhor solução: 4946.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_28_n100_m30.txt
+Tempo total: 1012
+Melhor solução: 5597.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_29_n100_m30.txt
+Tempo total: 689
+Melhor solução: 5452.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_2_n25_m2.txt
+Tempo total: 20
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_30_n100_m30.txt
+Tempo total: 761
+Melhor solução: 5055.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_31_n125_m12.txt
+Tempo total: 276
+Melhor solução: 1272.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_32_n125_m12.txt
+Tempo total: 290
+Melhor solução: 1218.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_33_n125_m12.txt
+Tempo total: 286
+Melhor solução: 1270.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_34_n125_m12.txt
+Tempo total: 284
+Melhor solução: 1216.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_35_n125_m12.txt
+Tempo total: 254
+Melhor solução: 1300.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_36_n125_m37.txt
+Tempo total: 1644
+Melhor solução: 7191.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_37_n125_m37.txt
+Tempo total: 2009
+Melhor solução: 7697.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_38_n125_m37.txt
+Tempo total: 1184
+Melhor solução: 7084.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_39_n125_m37.txt
+Tempo total: 1918
+Melhor solução: 7280.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_3_n25_m2.txt
+Tempo total: 19
+Melhor solução: 20.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_40_n125_m37.txt
+Tempo total: 2090
+Melhor solução: 7601.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_41_n150_m15.txt
+Tempo total: 549
+Melhor solução: 2087.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_42_n150_m15.txt
+Tempo total: 552
+Melhor solução: 1906.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_43_n150_m15.txt
+Tempo total: 574
+Melhor solução: 1873.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_44_n150_m15.txt
+Tempo total: 514
+Melhor solução: 2071.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_45_n150_m15.txt
+Tempo total: 593
+Melhor solução: 1880.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_46_n150_m45.txt
+Tempo total: 4209
+Melhor solução: 10659.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_47_n150_m45.txt
+Tempo total: 3401
+Melhor solução: 10534.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_48_n150_m45.txt
+Tempo total: 3642
+Melhor solução: 11190.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_49_n150_m45.txt
+Tempo total: 4301
+Melhor solução: 11866.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_4_n25_m2.txt
+Tempo total: 20
+Melhor solução: 28.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_50_n150_m45.txt
+Tempo total: 5076
+Melhor solução: 10720.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_5_n25_m2.txt
+Tempo total: 19
+Melhor solução: 21.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_6_n25_m7.txt
+Tempo total: 31
+Melhor solução: 323.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_7_n25_m7.txt
+Tempo total: 28
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_8_n25_m7.txt
+Tempo total: 28
+Melhor solução: 299.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_9_n25_m7.txt
+Tempo total: 29
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_10_n25_m7.txt
+Tempo total: 29
+Melhor solução: 318.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_11_n50_m5.txt
+Tempo total: 43
+Melhor solução: 254.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_12_n50_m5.txt
+Tempo total: 55
+Melhor solução: 225.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_13_n50_m5.txt
+Tempo total: 41
+Melhor solução: 239.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_14_n50_m5.txt
+Tempo total: 42
+Melhor solução: 243.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_15_n50_m5.txt
+Tempo total: 45
+Melhor solução: 231.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_16_n50_m15.txt
+Tempo total: 107
+Melhor solução: 1391.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_17_n50_m15.txt
+Tempo total: 84
+Melhor solução: 1471.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_18_n50_m15.txt
+Tempo total: 88
+Melhor solução: 1327.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_19_n50_m15.txt
+Tempo total: 121
+Melhor solução: 1247.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_1_n25_m2.txt
+Tempo total: 20
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_20_n50_m15.txt
+Tempo total: 81
+Melhor solução: 1217.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_21_n100_m10.txt
+Tempo total: 153
+Melhor solução: 825.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_22_n100_m10.txt
+Tempo total: 184
+Melhor solução: 947.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_23_n100_m10.txt
+Tempo total: 172
+Melhor solução: 904.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_24_n100_m10.txt
+Tempo total: 192
+Melhor solução: 882.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_25_n100_m10.txt
+Tempo total: 150
+Melhor solução: 810.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_26_n100_m30.txt
+Tempo total: 703
+Melhor solução: 5424.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_27_n100_m30.txt
+Tempo total: 696
+Melhor solução: 4946.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_28_n100_m30.txt
+Tempo total: 1076
+Melhor solução: 5597.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_29_n100_m30.txt
+Tempo total: 723
+Melhor solução: 5452.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_2_n25_m2.txt
+Tempo total: 19
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_30_n100_m30.txt
+Tempo total: 869
+Melhor solução: 5055.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_31_n125_m12.txt
+Tempo total: 282
+Melhor solução: 1288.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_32_n125_m12.txt
+Tempo total: 315
+Melhor solução: 1193.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_33_n125_m12.txt
+Tempo total: 318
+Melhor solução: 1270.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_34_n125_m12.txt
+Tempo total: 320
+Melhor solução: 1216.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_35_n125_m12.txt
+Tempo total: 267
+Melhor solução: 1300.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_36_n125_m37.txt
+Tempo total: 1659
+Melhor solução: 7191.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_37_n125_m37.txt
+Tempo total: 2162
+Melhor solução: 7697.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_38_n125_m37.txt
+Tempo total: 1224
+Melhor solução: 7084.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_39_n125_m37.txt
+Tempo total: 2004
+Melhor solução: 7280.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_3_n25_m2.txt
+Tempo total: 19
+Melhor solução: 20.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_40_n125_m37.txt
+Tempo total: 2149
+Melhor solução: 7601.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_41_n150_m15.txt
+Tempo total: 541
+Melhor solução: 2087.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_42_n150_m15.txt
+Tempo total: 550
+Melhor solução: 1906.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_43_n150_m15.txt
+Tempo total: 609
+Melhor solução: 1873.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_44_n150_m15.txt
+Tempo total: 499
+Melhor solução: 2071.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_45_n150_m15.txt
+Tempo total: 636
+Melhor solução: 1880.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_46_n150_m45.txt
+Tempo total: 4321
+Melhor solução: 10449.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_47_n150_m45.txt
+Tempo total: 3521
+Melhor solução: 10534.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_48_n150_m45.txt
+Tempo total: 3670
+Melhor solução: 11338.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_49_n150_m45.txt
+Tempo total: 4407
+Melhor solução: 11866.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_4_n25_m2.txt
+Tempo total: 20
+Melhor solução: 28.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_50_n150_m45.txt
+Tempo total: 4937
+Melhor solução: 10720.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_5_n25_m2.txt
+Tempo total: 19
+Melhor solução: 21.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_6_n25_m7.txt
+Tempo total: 37
+Melhor solução: 323.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_7_n25_m7.txt
+Tempo total: 28
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_8_n25_m7.txt
+Tempo total: 28
+Melhor solução: 299.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_9_n25_m7.txt
+Tempo total: 28
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_10_n25_m7.txt
+Tempo total: 39
+Melhor solução: 318.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_11_n50_m5.txt
+Tempo total: 44
+Melhor solução: 254.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_12_n50_m5.txt
+Tempo total: 42
+Melhor solução: 225.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_13_n50_m5.txt
+Tempo total: 43
+Melhor solução: 239.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_14_n50_m5.txt
+Tempo total: 40
+Melhor solução: 243.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_15_n50_m5.txt
+Tempo total: 49
+Melhor solução: 231.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_16_n50_m15.txt
+Tempo total: 95
+Melhor solução: 1391.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_17_n50_m15.txt
+Tempo total: 86
+Melhor solução: 1471.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_18_n50_m15.txt
+Tempo total: 101
+Melhor solução: 1327.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_19_n50_m15.txt
+Tempo total: 98
+Melhor solução: 1247.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_1_n25_m2.txt
+Tempo total: 20
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_20_n50_m15.txt
+Tempo total: 93
+Melhor solução: 1217.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_21_n100_m10.txt
+Tempo total: 158
+Melhor solução: 825.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_22_n100_m10.txt
+Tempo total: 172
+Melhor solução: 947.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_23_n100_m10.txt
+Tempo total: 186
+Melhor solução: 904.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_24_n100_m10.txt
+Tempo total: 166
+Melhor solução: 848.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_25_n100_m10.txt
+Tempo total: 161
+Melhor solução: 810.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_26_n100_m30.txt
+Tempo total: 717
+Melhor solução: 5424.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_27_n100_m30.txt
+Tempo total: 715
+Melhor solução: 4946.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_28_n100_m30.txt
+Tempo total: 1067
+Melhor solução: 5597.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_29_n100_m30.txt
+Tempo total: 707
+Melhor solução: 5452.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_2_n25_m2.txt
+Tempo total: 19
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_30_n100_m30.txt
+Tempo total: 791
+Melhor solução: 5055.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_31_n125_m12.txt
+Tempo total: 264
+Melhor solução: 1288.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_32_n125_m12.txt
+Tempo total: 293
+Melhor solução: 1218.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_33_n125_m12.txt
+Tempo total: 317
+Melhor solução: 1270.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_34_n125_m12.txt
+Tempo total: 290
+Melhor solução: 1216.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_35_n125_m12.txt
+Tempo total: 266
+Melhor solução: 1300.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_36_n125_m37.txt
+Tempo total: 1699
+Melhor solução: 7191.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_37_n125_m37.txt
+Tempo total: 2082
+Melhor solução: 7697.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_38_n125_m37.txt
+Tempo total: 1210
+Melhor solução: 7084.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_39_n125_m37.txt
+Tempo total: 1987
+Melhor solução: 7280.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_3_n25_m2.txt
+Tempo total: 36
+Melhor solução: 20.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_40_n125_m37.txt
+Tempo total: 2142
+Melhor solução: 7589.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_41_n150_m15.txt
+Tempo total: 543
+Melhor solução: 2087.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_42_n150_m15.txt
+Tempo total: 548
+Melhor solução: 1906.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_43_n150_m15.txt
+Tempo total: 600
+Melhor solução: 1873.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_44_n150_m15.txt
+Tempo total: 495
+Melhor solução: 2071.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_45_n150_m15.txt
+Tempo total: 582
+Melhor solução: 1827.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_46_n150_m45.txt
+Tempo total: 4411
+Melhor solução: 10659.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_47_n150_m45.txt
+Tempo total: 3361
+Melhor solução: 10498.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_48_n150_m45.txt
+Tempo total: 3576
+Melhor solução: 11338.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_49_n150_m45.txt
+Tempo total: 4397
+Melhor solução: 12050.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_4_n25_m2.txt
+Tempo total: 29
+Melhor solução: 28.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_50_n150_m45.txt
+Tempo total: 5011
+Melhor solução: 10720.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_5_n25_m2.txt
+Tempo total: 20
+Melhor solução: 21.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_6_n25_m7.txt
+Tempo total: 31
+Melhor solução: 323.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_7_n25_m7.txt
+Tempo total: 30
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_8_n25_m7.txt
+Tempo total: 33
+Melhor solução: 299.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_9_n25_m7.txt
+Tempo total: 33
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_10_n25_m7.txt
+Tempo total: 31
+Melhor solução: 318.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_11_n50_m5.txt
+Tempo total: 49
+Melhor solução: 254.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_12_n50_m5.txt
+Tempo total: 50
+Melhor solução: 225.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_13_n50_m5.txt
+Tempo total: 46
+Melhor solução: 239.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_14_n50_m5.txt
+Tempo total: 48
+Melhor solução: 243.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_15_n50_m5.txt
+Tempo total: 42
+Melhor solução: 231.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_16_n50_m15.txt
+Tempo total: 105
+Melhor solução: 1391.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_17_n50_m15.txt
+Tempo total: 88
+Melhor solução: 1471.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_18_n50_m15.txt
+Tempo total: 96
+Melhor solução: 1327.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_19_n50_m15.txt
+Tempo total: 93
+Melhor solução: 1247.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_1_n25_m2.txt
+Tempo total: 41
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_20_n50_m15.txt
+Tempo total: 86
+Melhor solução: 1217.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_21_n100_m10.txt
+Tempo total: 161
+Melhor solução: 824.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_22_n100_m10.txt
+Tempo total: 179
+Melhor solução: 947.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_23_n100_m10.txt
+Tempo total: 190
+Melhor solução: 904.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_24_n100_m10.txt
+Tempo total: 185
+Melhor solução: 882.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_25_n100_m10.txt
+Tempo total: 151
+Melhor solução: 810.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_26_n100_m30.txt
+Tempo total: 720
+Melhor solução: 5424.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_27_n100_m30.txt
+Tempo total: 730
+Melhor solução: 4946.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_28_n100_m30.txt
+Tempo total: 1073
+Melhor solução: 5597.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_29_n100_m30.txt
+Tempo total: 710
+Melhor solução: 5452.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_2_n25_m2.txt
+Tempo total: 20
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_30_n100_m30.txt
+Tempo total: 836
+Melhor solução: 5055.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_31_n125_m12.txt
+Tempo total: 296
+Melhor solução: 1272.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_32_n125_m12.txt
+Tempo total: 311
+Melhor solução: 1218.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_33_n125_m12.txt
+Tempo total: 288
+Melhor solução: 1243.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_34_n125_m12.txt
+Tempo total: 302
+Melhor solução: 1216.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_35_n125_m12.txt
+Tempo total: 276
+Melhor solução: 1300.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_36_n125_m37.txt
+Tempo total: 1713
+Melhor solução: 7191.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_37_n125_m37.txt
+Tempo total: 2205
+Melhor solução: 7697.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_38_n125_m37.txt
+Tempo total: 1249
+Melhor solução: 7084.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_39_n125_m37.txt
+Tempo total: 2092
+Melhor solução: 7280.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_3_n25_m2.txt
+Tempo total: 20
+Melhor solução: 20.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_40_n125_m37.txt
+Tempo total: 2205
+Melhor solução: 7601.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_41_n150_m15.txt
+Tempo total: 562
+Melhor solução: 2087.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_42_n150_m15.txt
+Tempo total: 553
+Melhor solução: 1906.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_43_n150_m15.txt
+Tempo total: 1489
+Melhor solução: 1873.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_44_n150_m15.txt
+Tempo total: 510
+Melhor solução: 2071.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_45_n150_m15.txt
+Tempo total: 612
+Melhor solução: 1880.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_46_n150_m45.txt
+Tempo total: 4413
+Melhor solução: 10659.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_47_n150_m45.txt
+Tempo total: 3691
+Melhor solução: 10534.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_48_n150_m45.txt
+Tempo total: 3856
+Melhor solução: 11338.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_49_n150_m45.txt
+Tempo total: 4521
+Melhor solução: 12050.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_4_n25_m2.txt
+Tempo total: 20
+Melhor solução: 28.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_50_n150_m45.txt
+Tempo total: 5248
+Melhor solução: 10720.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_5_n25_m2.txt
+Tempo total: 34
+Melhor solução: 21.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_6_n25_m7.txt
+Tempo total: 30
+Melhor solução: 323.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_7_n25_m7.txt
+Tempo total: 30
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_8_n25_m7.txt
+Tempo total: 29
+Melhor solução: 299.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_9_n25_m7.txt
+Tempo total: 32
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_10_n25_m7.txt
+Tempo total: 28
+Melhor solução: 318.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_11_n50_m5.txt
+Tempo total: 45
+Melhor solução: 254.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_12_n50_m5.txt
+Tempo total: 42
+Melhor solução: 225.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_13_n50_m5.txt
+Tempo total: 49
+Melhor solução: 239.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_14_n50_m5.txt
+Tempo total: 42
+Melhor solução: 243.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_15_n50_m5.txt
+Tempo total: 41
+Melhor solução: 231.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_16_n50_m15.txt
+Tempo total: 119
+Melhor solução: 1391.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_17_n50_m15.txt
+Tempo total: 87
+Melhor solução: 1471.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_18_n50_m15.txt
+Tempo total: 86
+Melhor solução: 1327.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_19_n50_m15.txt
+Tempo total: 103
+Melhor solução: 1247.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_1_n25_m2.txt
+Tempo total: 19
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_20_n50_m15.txt
+Tempo total: 82
+Melhor solução: 1217.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_21_n100_m10.txt
+Tempo total: 174
+Melhor solução: 825.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_22_n100_m10.txt
+Tempo total: 165
+Melhor solução: 947.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_23_n100_m10.txt
+Tempo total: 175
+Melhor solução: 904.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_24_n100_m10.txt
+Tempo total: 188
+Melhor solução: 882.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_25_n100_m10.txt
+Tempo total: 156
+Melhor solução: 810.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_26_n100_m30.txt
+Tempo total: 717
+Melhor solução: 5424.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_27_n100_m30.txt
+Tempo total: 685
+Melhor solução: 4946.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_28_n100_m30.txt
+Tempo total: 1027
+Melhor solução: 5597.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_29_n100_m30.txt
+Tempo total: 688
+Melhor solução: 5452.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_2_n25_m2.txt
+Tempo total: 19
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_30_n100_m30.txt
+Tempo total: 798
+Melhor solução: 5055.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_31_n125_m12.txt
+Tempo total: 276
+Melhor solução: 1288.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_32_n125_m12.txt
+Tempo total: 307
+Melhor solução: 1218.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_33_n125_m12.txt
+Tempo total: 327
+Melhor solução: 1270.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_34_n125_m12.txt
+Tempo total: 302
+Melhor solução: 1216.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_35_n125_m12.txt
+Tempo total: 276
+Melhor solução: 1300.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_36_n125_m37.txt
+Tempo total: 1704
+Melhor solução: 7191.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_37_n125_m37.txt
+Tempo total: 2094
+Melhor solução: 7697.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_38_n125_m37.txt
+Tempo total: 1261
+Melhor solução: 7084.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_39_n125_m37.txt
+Tempo total: 1998
+Melhor solução: 7280.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_3_n25_m2.txt
+Tempo total: 19
+Melhor solução: 20.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_40_n125_m37.txt
+Tempo total: 2128
+Melhor solução: 7601.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_41_n150_m15.txt
+Tempo total: 559
+Melhor solução: 2087.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_42_n150_m15.txt
+Tempo total: 542
+Melhor solução: 1906.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_43_n150_m15.txt
+Tempo total: 577
+Melhor solução: 1873.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_44_n150_m15.txt
+Tempo total: 492
+Melhor solução: 2071.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_45_n150_m15.txt
+Tempo total: 604
+Melhor solução: 1880.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_46_n150_m45.txt
+Tempo total: 4335
+Melhor solução: 10659.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_47_n150_m45.txt
+Tempo total: 3367
+Melhor solução: 10534.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_48_n150_m45.txt
+Tempo total: 3650
+Melhor solução: 11338.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_49_n150_m45.txt
+Tempo total: 4369
+Melhor solução: 12050.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_4_n25_m2.txt
+Tempo total: 19
+Melhor solução: 28.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_50_n150_m45.txt
+Tempo total: 4937
+Melhor solução: 10720.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_5_n25_m2.txt
+Tempo total: 20
+Melhor solução: 21.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_6_n25_m7.txt
+Tempo total: 30
+Melhor solução: 323.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_7_n25_m7.txt
+Tempo total: 28
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_8_n25_m7.txt
+Tempo total: 33
+Melhor solução: 299.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_9_n25_m7.txt
+Tempo total: 29
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados1.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/LogDeResultados2.txt
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_10_n25_m7.txt
+Tempo total: 29
+Melhor solução: 318.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_11_n50_m5.txt
+Tempo total: 51
+Melhor solução: 254.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_12_n50_m5.txt
+Tempo total: 43
+Melhor solução: 225.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_13_n50_m5.txt
+Tempo total: 42
+Melhor solução: 239.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_14_n50_m5.txt
+Tempo total: 44
+Melhor solução: 243.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_15_n50_m5.txt
+Tempo total: 42
+Melhor solução: 231.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_16_n50_m15.txt
+Tempo total: 94
+Melhor solução: 1391.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_17_n50_m15.txt
+Tempo total: 86
+Melhor solução: 1471.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_18_n50_m15.txt
+Tempo total: 84
+Melhor solução: 1327.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_19_n50_m15.txt
+Tempo total: 89
+Melhor solução: 1247.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_1_n25_m2.txt
+Tempo total: 19
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_20_n50_m15.txt
+Tempo total: 84
+Melhor solução: 1217.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_21_n100_m10.txt
+Tempo total: 165
+Melhor solução: 825.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_22_n100_m10.txt
+Tempo total: 171
+Melhor solução: 947.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_23_n100_m10.txt
+Tempo total: 187
+Melhor solução: 904.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_24_n100_m10.txt
+Tempo total: 161
+Melhor solução: 882.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_25_n100_m10.txt
+Tempo total: 167
+Melhor solução: 810.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_26_n100_m30.txt
+Tempo total: 735
+Melhor solução: 5424.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_27_n100_m30.txt
+Tempo total: 719
+Melhor solução: 4946.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_28_n100_m30.txt
+Tempo total: 1047
+Melhor solução: 5597.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_29_n100_m30.txt
+Tempo total: 705
+Melhor solução: 5452.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_2_n25_m2.txt
+Tempo total: 19
+Melhor solução: 17.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_30_n100_m30.txt
+Tempo total: 802
+Melhor solução: 5055.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_31_n125_m12.txt
+Tempo total: 270
+Melhor solução: 1288.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_32_n125_m12.txt
+Tempo total: 318
+Melhor solução: 1218.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_33_n125_m12.txt
+Tempo total: 329
+Melhor solução: 1270.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_34_n125_m12.txt
+Tempo total: 280
+Melhor solução: 1216.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_35_n125_m12.txt
+Tempo total: 293
+Melhor solução: 1300.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_36_n125_m37.txt
+Tempo total: 1658
+Melhor solução: 7191.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_37_n125_m37.txt
+Tempo total: 2030
+Melhor solução: 7697.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_38_n125_m37.txt
+Tempo total: 1172
+Melhor solução: 7082.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_39_n125_m37.txt
+Tempo total: 1978
+Melhor solução: 7280.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_3_n25_m2.txt
+Tempo total: 20
+Melhor solução: 20.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_40_n125_m37.txt
+Tempo total: 2139
+Melhor solução: 7601.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_41_n150_m15.txt
+Tempo total: 563
+Melhor solução: 2087.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_42_n150_m15.txt
+Tempo total: 560
+Melhor solução: 1899.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_43_n150_m15.txt
+Tempo total: 572
+Melhor solução: 1873.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_44_n150_m15.txt
+Tempo total: 503
+Melhor solução: 2058.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_45_n150_m15.txt
+Tempo total: 582
+Melhor solução: 1880.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_46_n150_m45.txt
+Tempo total: 4358
+Melhor solução: 10659.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_47_n150_m45.txt
+Tempo total: 3308
+Melhor solução: 10534.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_48_n150_m45.txt
+Tempo total: 3614
+Melhor solução: 11338.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_49_n150_m45.txt
+Tempo total: 4280
+Melhor solução: 11866.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_4_n25_m2.txt
+Tempo total: 32
+Melhor solução: 28.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_50_n150_m45.txt
+Tempo total: 5016
+Melhor solução: 10720.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_5_n25_m2.txt
+Tempo total: 19
+Melhor solução: 21.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_6_n25_m7.txt
+Tempo total: 32
+Melhor solução: 323.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_7_n25_m7.txt
+Tempo total: 27
+Melhor solução: 265.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_8_n25_m7.txt
+Tempo total: 30
+Melhor solução: 299.0
+ 
+ 
+
+Arquivo: /home/usuario/Repositorios/Github/mdplib_2010/SOM-a/SOM-a_9_n25_m7.txt
+Tempo total: 43
+Melhor solução: 265.0
+ 
+ 
+
