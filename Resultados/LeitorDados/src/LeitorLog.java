@@ -12,6 +12,7 @@ import java.util.Map;
 public class LeitorLog {
     
     private String texto;
+    private String textoLatex;
     private List<Tupla> listaTuplas;
     private Map<String, List<Tupla> > hashMapTuplas = new HashMap<>();
 
@@ -102,12 +103,13 @@ public class LeitorLog {
                 + "Desvio medio;"
                 + "Tempo Medio;";
         
+        textoLatex += texto + "\n";
         for (int i = 1; i <= 20; i++) {
             texto += "#"+i+"T;#"+i+"S;";
         }
         texto += "\n";
         
-        double tempoMedio, melhorSolucao, tempoMelhor, solucaoMedia, aux;
+        double tempoMedio, melhorSolucao, tempoDoMelhor = 0, solucaoMedia, aux;
         String linha;
         for( String chave: hashMapTuplas.keySet() ){
             tempoMedio = 0;
@@ -119,7 +121,7 @@ public class LeitorLog {
                 aux = t.getSolucao();
                 if( aux > melhorSolucao ){
                     melhorSolucao = aux;
-                    tempoMelhor = t.getTempo();
+                    tempoDoMelhor = t.getTempo();
                 }
                 solucaoMedia += aux;
                 
@@ -130,7 +132,18 @@ public class LeitorLog {
             solucaoMedia /= 20;
             tempoMedio /= 20;
             
-            linha = chave + ";" + buscarEstadoDaArte(chave) + ";"+ tempoMedio + ";" + melhorSolucao + ";" + solucaoMedia + ";";
+            String estadoDaArte = buscarEstadoDaArte(chave).replaceAll(",", ".");
+            
+            if( estadoDaArte.isEmpty() ){
+                linha = chave + ";-;"+ melhorSolucao + ";-;" + tempoDoMelhor + ";"
+                    + solucaoMedia + ";-;" + tempoMedio;
+            }else{
+                linha = chave + ";" + estadoDaArte + ";"+ melhorSolucao + ";" + 
+                    (Double.parseDouble(estadoDaArte)-melhorSolucao) +";" + 
+                    tempoDoMelhor + ";" + solucaoMedia + ";" + 
+                    (Double.parseDouble(estadoDaArte)-solucaoMedia) + ";" + tempoMedio;
+            }
+            textoLatex += linha + "\n";
             for( Tupla t: hashMapTuplas.get( chave ) ){
                 linha += t.getTempo() + ";" + t.getSolucao() + ";";
             }
@@ -147,7 +160,7 @@ public class LeitorLog {
             while ((linha = br.readLine()) != null) {
                 if( !linha.startsWith("Instance")){
                     valores = linha.split(";");
-                    linha = valores[0].substring(0, valores[0].indexOf(".")+1);
+                    linha = valores[0].substring(0, valores[0].indexOf("."));
                     if( buscado.equals( linha ) ){
                         retorno = valores[1];
                     }
@@ -171,7 +184,17 @@ public class LeitorLog {
         } catch (IOException ex) {
             ex.printStackTrace();
         }
-
+    }
+    
+    public void excreverLatex(){
+        FileWriter writer;
+        try {
+            writer = new FileWriter(pasta + "l.txt", false);
+            writer.write(textoLatex.replaceAll(";", "&").replaceAll("_", "\\_").replaceAll("\n", "\\\\\n"));
+            writer.close();
+        } catch (IOException ex) {
+            ex.printStackTrace();
+        }
     }
 
     private class Tupla {

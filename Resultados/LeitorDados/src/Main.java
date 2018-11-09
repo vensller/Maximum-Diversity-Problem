@@ -7,6 +7,7 @@ public class Main {
         ll.separar();
         ll.calcular();
         ll.escrever();
+        ll.excreverLatex();
     }
 
 }
