@@ -43,8 +43,10 @@ public class Solution implements Cloneable{
     public void swap(int remove, int put){
         for (int x = 0; x < set.length; x++){
             if (x != remove && set[x] == 1){
-                this.value -= instance.matrix[x][remove];                                
+                this.value -= instance.matrix[x][remove];  
+                this.value -= instance.matrix[remove][x];
                 this.value += instance.matrix[x][put];
+                this.value += instance.matrix[put][x];
             }
         }
         
