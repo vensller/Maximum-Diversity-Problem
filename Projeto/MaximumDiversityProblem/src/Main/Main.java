@@ -14,12 +14,15 @@ import Utilities.LeitorArgumentos;
 public class Main {
 
     public static long tempoInicialTotal;
+    public static String nomeArquivo;
 
     public static void main(String[] args) {
         tempoInicialTotal = System.currentTimeMillis();
         LeitorArgumentos la = new LeitorArgumentos(args);
         la.processarArgumentos();
-        new FileText().escrever("Arquivo: " + la.getCaminhoArquivo(), 1);
+        
+        nomeArquivo = la.getCaminhoArquivo();
+        
         Instance instance = new InstanceReader().getInstance(la.getCaminhoArquivo());
         la.getConstructionStrategy().setQuantidadeSelecionados(instance.m);
         Grasp grasp = new Grasp(
@@ -30,9 +33,11 @@ public class Main {
         );
         Solution s = grasp.execute();
         System.out.println(s.value * -1);
-        new FileText().escrever("Tempo total: " + (System.currentTimeMillis() - tempoInicialTotal), 1);
-        new FileText().escrever("Melhor solução: " + s.value + "\n \n \n", 1);
-        new FileText().escrever("\n \n \n", 2);
+        
+        String str = la.getCaminhoArquivo() + ";" +
+            (System.currentTimeMillis() - tempoInicialTotal) + ";" +
+            s.value + ";";
+        new FileText().escrever(str, 1);
         
 
 //        JFileChooser fileChooser = new JFileChooser(System.getProperty("user.dir"));;

@@ -47,10 +47,10 @@ public class Grasp {
 
             if (best == null || s.value > best.value) {
                 best = s;
-                String dados = "X - " + x + 
-                        "\tTempo: " + (System.currentTimeMillis() - Main.Main.tempoInicialTotal) + 
-                        "\tBest.Value: " + best.value;
-                new FileText().escrever(dados, 2);
+                String str = Main.Main.nomeArquivo + ";" +
+                    (System.currentTimeMillis() - Main.Main.tempoInicialTotal)
+                    + ";" + best.value + ";";
+                new FileText().escrever(str, 2);
             }
             if (tempoInicial + TEMPO < System.currentTimeMillis()) {
                 break;

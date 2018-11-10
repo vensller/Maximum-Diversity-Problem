@@ -15,8 +15,8 @@ import java.io.IOException;
 public class FileText {
 
     private final String CAMINHO = "/home/usuario/Repositorios/Github/Maximum-Diversity-Problem/";
-    private final String NOME_ARQUIVO1 = "LogDeResultados1.txt";
-    private final String NOME_ARQUIVO2 = "LogDeResultados2.txt";
+    private final String NOME_ARQUIVO1 = "LogDeResultados1.csv";
+    private final String NOME_ARQUIVO2 = "LogDeResultados2.csv";
 
     public void escrever(String dados, int opcao) {
 
