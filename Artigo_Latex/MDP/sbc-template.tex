@@ -1,0 +1,227 @@
+\documentclass[12pt]{article}
+
+\usepackage{sbc-template}
+
+\usepackage{graphicx,url}
+
+\usepackage[brazilian]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\usepackage{amsmath}
+
+\usepackage{lscape}
+     
+\sloppy
+
+\title{Desenvolvimento de uma solução para o problema Maximum Diversity Problem}
+
+\author{Douglas de Souza Martins\inst{1}, Ivens Diego Müller\inst{1}, Tiago Funk\inst{1}}
+
+
+\address{
+  Departamento de Engenharia de Software\\
+  Universidade do Estado de Santa Catarina -- Ibirama, SC -- Brazil
+  \email{ivens.muller@edu.udesc.br, martins.douglas.souza@gmail.br, tiagoff.tf@gmail.com}
+}
+
+\begin{document} 
+
+\maketitle
+
+\begin{abstract}
+  In this document, the problem Maximum Diversity Problem is presented where it consists of the representation of the following situation: A choice of N elements of a set of M elements where the sum of the distances between the elements is maximized. As the reading progresses, a more detailed explanation about the problem, its most frequently used solutions and the solution developed will be the main topic addressed in this text.
+\end{abstract}
+     
+\begin{resumo} 
+  Neste documento, será apresentado o problema Maximum Diversity Problem onde consiste na representação da seguinte situação: Uma escolha de N elementos de um conjunto de M elementos onde a soma das distâncias entre os elementos seja maximizada. Ao andamento da leitura, nota-se uma explicação mais detalhada sobre o problema, suas soluções mais utilizadas e a solução desenvolvida que será o principal tópico abordado neste texto.
+\end{resumo}
+
+\section{Problema}
+
+O problema, denominado Maximum Diversity Problem, é um desafio computacional que estuda a obtenção de N elementos dentre um conjunto de M elementos, onde, para cada elemento selecionado, possua a maior soma de suas distâncias. A distância, neste caso, é definida pelos atributos dos indivíduos onde o problema está sendo implantado. Considerando dois elementos pertencentes ao conjunto N, torna-se a distância entre eles calculada através da seguinte fórmula:
+
+\begin{equation}
+    d_{ij}=\sqrt{ \sum_{k=1}^{k} (s_{ik}-s_{jk})^{2} }
+\end{equation}
+
+Sendo i e j os dois elementos selecionados. Neste caso, a formulação dij representa a distância euclidiana entre estes elementos. Com as distâncias então estabelecidas, pegam-se os valores obtidos e transforma-se o MDP em um problema binário quadrático, onde a variável xi recebe como valor 1 se o elemento em questão foi selecionado ou 0 se caso não for. Então o problema fica definido matematicamente como:
+
+\begin{equation}
+    \text{Maximize }\sum_{i=1}^{n-1} \sum_{j=i+1}^{n} d_{ij} x_{i} x_{j}
+\end{equation}
+
+\newpage
+\begin{equation}
+    \text{Sujeito a } \sum_{i=1}^{n} x_{i} = m
+\end{equation}
+\begin{center}
+    $x_i=\{0,1\}, 1 \leq i \leq n$
+\end{center}
+
+\section{Heurísticas e Meta-Heurísticas}
+
+Heurísticas possuem como objetivo resolver problemas com dificuldade estimada em difícil. Nota-se que, em sua solução estabelecida, não necessariamente é a mais indicada ou mais utilizada que satisfaça uma melhor performance em sua  resolução. Heurísticas são conhecidas por chegar a uma solução de forma rápida e simples, por conta disso,  não é considerado um método mais utilizado, pois restrições como tempo e processamento, por exemplo, não são levados em conta.
+
+Já as meta-heurísticas são meios utilizados usualmente em problemas envolvendo maximização de uma função cujas as variáveis deste problema possuem certas restrições. Meta-heurísticas são muito usadas na resolução de problemas NP - Difíceis por entregarem uma melhor solução levando em conta fatores como tempo e processamento, diferentemente de heurísticas.
+
+\section{Instâncias}
+
+As instâncias são os possíveis casos do problema, por exemplo, se o nosso problema for somar dois números, cada par de números vai ser uma nova instância do problema para ser resolvida.
+
+As instâncias que mais são utilizadas são as que estão disponiveis no site da optsicom (http://www.optsicom.es/mdp) e elas serão descritas rápidamente:
+
+\begin{itemize}
+    \item SOM: são 70 matrizes que estão preenchidas com números entre  e 9 gerados por um distribuição inteira uniforme.
+    
+    \item GKD: 145 matrizes preenchidas com valores que foram calculados com as distâncias euclidianas de pontos randomicamente gerados com suas coordenadas no intervalo de 0 a 10.
+    
+    \item MDG: Consiste em 100 matrizes com números selecionados randomicamente entre 0 e 10 em uma distribuição uniforme.
+\end{itemize}
+
+\section{Estado-da-arte}
+
+Existem muitos algoritmos computacionais para resolver este problema, mas há aqueles em que se destacam, onde aqui são denominados de métodos de estado-da-arte. Dentre os existentes, destacam-se:
+
+\subsection{Métodos GRASP}
+O método GRASP é multi-start, onde a cada iteração ele chama um método de construção e após isso, aplica um método de melhoria para encontrar um local ótimo, que seria a solução final para a iteração. \cite{silva2004experimental}, implementou o método GRASP utilizando os métodos de construção KLD, KLDv2, e MDI, e o BLS como método de melhoria. Abaixo, segue a descrição dos métodos mencionados anteriormente:
+
+Métodos de construção:
+\begin{itemize}
+    \item KLD: O método de construção KLD trabalha com estimativas de contribuições entre um elemento e uma solução. Estas estimativas são construídas através da soma das maiores distâncias entre os elementos selecionados e não selecionados. Ao decorrer do algoritmo, forma-se uma lista com estes elementos. Após a lista ser concluída, é escolhida aleatoriamente 1 único elemento que será parte da solução desta construção. O algoritmo só termina quando todos os N elementos forem selecionados.
+    \item KLDv2: O método de construção KLDv2 é apenas uma versão um pouco melhorada do método KLD, onde sua diferença é notada na lista de elementos de maiores distâncias, que, para formá-la, é utilizado um método adaptativo para isso.
+    \item MDI: o método MDI também é um aperfeiçoamento de outro método, só que este vem do método KLDv2. O método KLDv2 calcula sua estimativa através das distâncias de elementos selecionados e não selecionados, já o método MDI obtêm sua estimativa através da soma das distâncias de um elemento com todos os outros elementos não selecionados e os elementos não selecionados com os elementos selecionados.
+\end{itemize}
+
+Método de melhoria:
+\begin{itemize}
+    \item BLS (Best improvement local search): Este método de melhoria seria, em curtas palavras, um método de busca local. Esta busca local é realizada por uma heurística que visa a melhor substituição de um elemento selecionado por um não selecionado. O método varre os elementos selecionados e verifica a melhor troca que trará a maior diversidade entre os elementos verificados, ou seja, maior aumento da função objetivo. O algoritmo só finaliza quando todas as iterações forem concluídas e não for detectado uma diversidade maior do que a já realizada.
+\end{itemize}
+
+\subsection{Métodos baseados em pesquisa local}
+
+\begin{itemize}
+    \item ITS – Iterated Tabu Search: A Busca Tabu é uma meta-heurística que seu princípio básico é realizar uma busca local sempre que o algoritmo encontra um ótimo local. Este método permite realizar movimentos não aprimorados mas não permite voltar atrás para soluções já visitadas, onde este último é barrado pelo uso de memórias denominadas listas tabu, que realiza um histórico das buscas recentes.
+    \item A\_VNS – Variable Neighborhood Search: O método VNS é, além de uma metaheurística, um método de otimização que realiza também uma busca local, muito similar ao método ITS descrito anteriormente. Este método explora uma vizinhança iterativa cada vez maior até encontrar um local ótimo para que um algoritmo de melhoria seja implementado ali. Ao localizar, todo o procedimento de expansão é repetido.
+\end{itemize}
+
+\subsection{Métodos baseados em população}
+
+\begin{itemize}
+    \item G\_SS: O método Scatter Search (SS) é um método baseado em população que é muito aplicado a problemas de otimização. Este método também se assemelha a Busca Tabu, já mencionada neste documento. Inclusive, este método pertence ao mesmo autor do algoritmo da Busca Tabu. De modo geral, o SS busca soluções o mais diversificadas possíveis com alta qualidade. De acordo com Jason Brownlee: “A estratégia envolve um processo iterativo, em que uma população de soluções candidatas diversas e de alta qualidade é particionada em subconjuntos e linearmente recombinada para criar centróides ponderados de vizinhanças baseadas em amostras. Os resultados da recombinação são refinados usando uma heurística embutida e avaliados no contexto do conjunto de referência quanto a serem ou não retidos.”
+    \item MA: O algoritmo Memético tem como objetivo hibridar diferentes metaheuristicas para a resolução de um mesmo problema.  De modo geral, utilizam uma abordagem baseada em população, onde um conjunto de agentes cooperantes e concorrentes, utilizando busca local, são melhorados individualmente simultaneamente que interagem ocasionalmente.
+\end{itemize}
+
+\section{Implementação inicial}
+
+A implementação inicial baseia-se, basicamente, em um leitor de instâncias, um calculador da solução, uma instância e um algoritmo que cria uma solução. A implementação inicial foi desenvolvida utilizando a linguagem de programação Java, onde foram criadas as classes InstanceReader (Leitor das instâncias), Solution (Calculador da solução), Instance (Instância) e RandomicAlg (Algoritmo que realiza a solução). 
+
+Na classe principal do projeto, é lido uma instância pelo leitor de instâncias e solicitado ao algoritmo que realiza a solução para começar sua execução. Nas subseções seguintes são detalhadas as funcionalidades de cada uma das classes criadas.
+
+\subsection{InstanceReader}
+
+O leitor de instâncias tem um método chamado getInstance que recebe como parâmetro o caminho onde se encontra o arquivo com a instância e retorna um objeto da classe Instance. Esse leitor, baseado no padrão de formatação do arquivo da instância, cria uma nova instância contendo uma matriz n x n, já preenchida com os valores presentes no arquivo.
+
+\subsection{Instance}
+
+A classe Instance possui três atributos públicos, para aumentar a performance na hora de acessá-los, sendo que eles foram nomeados de n, m e matrix. Os atributos n e m são dois inteiros, n define a quantidade de elementos e m define a quantidade de elementos que devem ser escolhidos. O atributo matrix é uma matriz de double com tamanho n x n.
+
+\subsection{Solution}
+
+A classe Solution possui um atributo privado do tipo Instance e dois atributos públicos, sendo que estes atributos são denominados de value e set. O atributo value é utilizado para armazenar o valor total da solução, já o atributo set é um vetor de tamanho n, onde m elementos são preenchidos com 1 e n – m elementos preenchidos com 0. Quem preenche esses valores é o algoritmo que cria uma solução. 
+
+Para definir o valor total da solução, é utilizado o método evaluate. Este método percorre a matriz da instância e, verifica se a posição x e a posição y da matriz estão preenchidas com 1 no set e, caso estejam, o método soma no atributo value o valor do elemento na matriz.
+
+\subsection{RandomicAlg}
+
+A classe RandomicAlg é composta, basicamente, por um método chamado execute que recebe uma instância por parâmetro. Este método é executado por um tempo x e contém um algoritmo que fica criando, randomicamente, soluções da instância e guarda em uma variável qual foi o melhor resultado obtido.
+
+Para ser criada a solução da instância, este método preenche uma lista com tamanho n e adiciona nesta lista números inteiros de 0 até n – 1. Após, é utilizado o método shuffle presente na classe Collections do próprio Java. Este método pega a lista criada e embaralha os dados. Após, é selecionado os números presentes entre as posições 0 e m – 1 desta lista e, no set da Solution, é definido as posições respectivas a estes números como 1. 
+
+Ao final do tempo de execução do algoritmo, ele imprime no console o valor da melhor solução obtida e set definido desta solução.
+
+\section{Proposta do trabalho}
+
+Para proposta do documento será desenvolvido um novo algoritmo que visa retornar a melhor solução do problema em um menor tempo. A forma como será abordado esse método consiste em estudar algoritmos já consagrados na literatura e mudar alguns componentes do algoritmo buscando formas de resolver o problema, mesclando técnicas ainda não utilizadas juntas e avaliar o seu desempenho, levando em conta buscar a melhor solução.
+
+Para fazer isso será modificado o método já conhecido GRASP (nome autor) composto por métodos construtivos e seu método de melhoria da solução. Para tal modificação será subtistuido o seu principal método de melhoria, o BLS, para um tipo de busca local denominada Iterated Tabu Search, aonde espera-se obter a melhor solução utilizando uma forma diferente.
+
+\section{Desenvolvimento}
+Para o desenvolvimento do trabalho, adotamos o método GRASP para implementação e obtenção das soluções das instâncias.
+Conforme já falado anteriormente, o GRASP é executado e cria uma solução inicial a partir de um algoritmo construtivo e, depois desta solução inicial, ele aplica um método de melhoria até que não seja mais possível melhorar a solução.
+
+Para isso, criamos uma classe chamada Grasp que, na sua criação, recebe por parâmetro a instância a ser analisada, uma estratégia de construção, uma estratégia de busca local e um número inteiro para ser definido como o máximo de iterações.
+
+Portanto, tornou-se necessário a implementação de uma classe chamada Greedy e outra chamada LocalSearch. Cada uma destas classes receberá por parâmetro a sua estratégia para realização da solução. Estas estratégias serão explicadas nos tópicos posteriores.
+
+Para a execução do GRASP, sua respectiva classe possui um método chamado execute, que ao final da execução retorna a melhor solução encontrada. O algoritmo implementado no método execute é simples, ele realiza um laço iniciando em 0 e indo até o número máximo de repetições que foi recebido como parâmetro na construção da classe. Nisso, em cada iteração, o GRASP cria uma nova solução através da classe Greedy e depois aplica uma busca local nesta solução criada, utilizando a classe LocalSearch. Após, é verificado se esta nova solução é a melhor encontrada até o momento e, caso for, é salva em uma variável para retornar no final da execução do método.
+
+\subsection{Algoritmos gulosos de construção}
+
+Abaixo, será descrito quais técnicas e métodos foram utlizados para construir a solução inicial do GRASP. Para o feito, foram implementados 7 algoritmos que montam uma solução inicial cada um da sua maneira.
+
+\subsubsection{Algoritmo Aleatório}
+
+O Algoritmo Aleatório, desenvolvido e utilizado em várias técnicas de construção de solução, apenas seleciona posições aleatórias para ser construída uma solução. É o algoritmo mais simples dentre os listados nesta sessão. Para cada posição escolhida, ele atribuirá o valor inteiro 1 no vetor de solução.
+
+\subsubsection{Algoritmo Guloso}
+
+O Algoritmo Guloso é um dos princípais métodos para para resolver problemas de otimização com o objetivo de encontrar um ótimo local. Ele se torna muito atrativo ao trabalhar com problemas NP-completo ou NP-difícil, pois ele obtêm uma solução aproximada da melhor em tempo polinomial. A cada iteração, o algoritmo guloso escolhe a solução que lhe parece mais "apetitosa" que lhe vem pela frente (neste caso, a solução apetitosa seria a que mais atende a F.O). Vale ressaltar, que o Algoritmo Guloso toma decisões com base nas informações que ele possui sem se importar com as consequências em que estas decisões podem acarretar. Ele também nunca volta atrás, suas decisões tomadas são definitivas em cada iteração. A grande vantagem de sua utilização é que ele é muito rápido e eficiente. No projeto do MDP, o Algoritmo Guloso foi apenas uma das estratégias utilizadas para construção de uma solução. O Algoritmo Guloso seleciona o próximo elemento onde ele possui o maior de diferença para selecionar. Diferença, neste contexto, refere-se a soma da diferença do elemento i com relação a todos os elementos que já foram selecionados.
+
+\subsubsection{Guloso Ponderado}
+
+O Algoritmo Guloso Ponderado funciona de forma semelhante ao próprio Algoritmo Guloso, porém sua diferença está no momento de obter o maior valor da soma das linhas. Para calcular esta soma, o Guloso Ponderado irá percorrer a matriz e na iteração i ele irá calcular um coeficiente, onde é uma soma ponderada aonde os elementos já selecionados possuem um peso x e os não selecionados possuem um peso y.  
+
+\subsubsection{K Guloso}
+
+O Algoritmo K Guloso recebe um valor "m" de elementos das quais ele precisa selecionar "k", onde o mesmo realiza a soma de cada linha da matriz calculada e coloca em uma lista, após finalizar, ele pega os "k" elementos maiores dessa lista e aleatóriamente escolhe um único elemento e atribui o valor booleano 'true' na lista de soluções.
+
+\subsubsection{K Guloso Probabilístico}
+
+O Algoritmo K Guloso Probabilístico realiza as primeiras operações de um algoritmo K Guloso comum, onde sua diferença está na hora de escolher, na lista de valores resultantes da soma das linhas, um elemento. No Algoritmo K Guloso comum, a escolha é feita aleatoriamente e grava no vetor de solução. Já neste caso, o K Guloso probabilístico soma todos os valores desta lista de somas e atribui-se 100(por cento) como todo o conjunto da lista. A probabilidade ocorre quando, cada valor desta lista é dividido pela soma total e atribuído a porcentagem deste valor em ser escolhido para a solução final. Nota-se que, quanto maior for a soma, maior será sua porcentagem de ser escolhido, e, consequentemente, quanto menor o valor da soma do conjuntos de elementos K que foram escolhidos, menor será a chance de se selecionado para a solução final.
+
+\subsubsection{Alfa Guloso}
+
+O Algoritmo Alfa Guloso é extremamente semelhante ao K Guloso, toda via ele não irá selecionar k elementos maiores da lista de somas e sim, uma porcentagem de elementos desta lista, ou seja, se o valor de alfa for 0,2, o algoritmo irá selecionar 20(por cento) de elementos desta lista de somas, e dentre este valor, ele irá escolher um elemento aleatório para adicionar ao vetor solução.
+
+\subsubsection{Alfa Guloso Probabilístico}
+
+Semelhante ao Algoritmo Alfa Guloso e K Guloso Probabilístico, o Algoritmo Alfa Guloso Probabilístico irá selecionar os elementos da lista de somas da mesma forma que o Alfa Guloso faz, toda via, desta lista, ele irá utilizar a mesma técnica que o K Guloso utiliza: soma todos os valores desta lista de soma e atribui uma porcentagem para cada valor com base na soma total realizada anteriormente. Logo, é visível notar que quanto maior o valor desta lista obtida, maior será sua probabilidade de ser selecionado.
+
+\subsection{Algoritmos de busca local}
+Como adotamos o GRASP como algoritmo para resolução das instâncias, precisamos de algoritmos de busca local para executarmos a segunda parte do GRASP. Após a construção da solução por meio do algoritmo guloso, a classe GRASP solicita a classe LocalSearch para que aplique uma estratégia de busca local para melhorar a solução inicial criada.
+
+Portanto, a classe LocalSearch inicia sua execução com uma solução inicial e, a partir desta solução, ela aplica uma estratégia de busca de uma nova solução. Durante a busca, é verificado o par de posições do set da solução que pode ser trocado, realizando um swap dessas posições para verificar se há um incremento no valor total da solução. Para realizar este swap, é necessário que uma posição do set que esteja com o valor 1 vire 0 e a outra posição do set escolhida esteja com valor 0, para que esta possa ser definida com o valor 1. Foram implementadas duas estratégias de busca para incrementar a solução. Sendo elas a busca da primeira melhora e a busca da melhor melhora.
+
+Para as estratégias implementadas, criou-se uma interface chamada SearchStrategy. Esta interface possui um método movement, que recebe uma solução e retorna verdadeiro caso seja possível realizar um swap que incremente a função objetivo da solução recebida. Portanto, como foram implementadas duas estratégias de busca, criou-se as classes FirstImprovementSearch e BestImprovementSearch. Estas classes implementam a interface SearchStrategy e possuem comportamentos diferentes no método movement, que são explicados nas partes \ref{fis} e \ref{bis}.
+
+Como tornou-se necessário verificar a possibilidade de swap em uma solução, implementou-se dentro da classe Solution uma função chamada Delta que, passando duas posições do set, a função calcula o valor Delta e retorna ao usuário este valor. O valor delta é a diferença do valor da função objetivo com o swap e o valor da função objetivo atual. Baseando-se nisso, criou-se outro método dentro da classe Solution chamado Swap, este método recebe um posição a ser setada para 0 e outra posição a ser setada para 1 e calcula o valor da função objetivo tendo como base este swap.
+
+\subsubsection{Busca da primeira melhora (FirstImprovementSearch)}\label{fis}
+O algoritmo que realiza a busca da primeira melhora é executado até que ele encontre um par de posições do set para realizar o swap que o valor delta deste swap seja maior do que 0. Caso não tenha um par de posições possíveis para realizar o swap, a busca da primeira melhora retorna o valor false, fazendo com que termine a execução da busca local e passe para a próxima iteração do GRASP.
+
+A execução do algoritmo é bem simples, são dois laços encadeados no partindo de 0 até o tamanho do set – 1. O primeiro laço verifica as posições do set que estão definidas com o valor 1 e, caso a posição atual esteja com este valor, ele passa para o laço 2. O laço 2 verifica as posições que estão com o valor 0 e, caso esteja, ele chama o método Delta da classe Solution para retornar o delta do swap destas posições. Caso o delta retornado for maior do que 0, o método movement retorna true.
+
+\subsubsection{Busca da melhor melhora (BestImprovementSearch)}\label{bis}
+O algoritmo que realiza a busca da melhor melhora é executado de maneira parecida ao algoritmo do tópico anterior. A diferença dele é que ele verifica todas as possibilidades de swap presentes na solução. 
+
+Portanto, a execução dele se torna um pouco mais demorada em relação ao algoritmo anterior. Esta demora se da por que o algoritmo não para quando o delta retornado é maior do que 0, o algoritmo guarda o maior delta encontrado e as posições do swap para que, no final da execução desta estratégia, ela tenha guardado o melhor delta e o melhor par de posições para swap. Portanto, no fim de todas as iterações dos laços, a solução retorna true caso o maior delta encontrado for maior do que zero.
+
+\section{Parametrizações}
+Para obtermos flexibilidade na tentativa de encontrar a solução para cada instância, o sistema foi parametrizado por um todo. Existindo parâmetros para definição do algoritmo guloso que será escolhido, dos parâmetros específicos para cada algoritmo guloso, do total de repetições do GRASP, do algoritmo de busca local, entre outros.
+Para isso, também se tornou necessário utilizar uma ferramenta chamada IRACE. O IRACE é uma ferramenta que automatiza a configuração dos parâmetros e define a melhor configuração possível baseado em seus cenários.
+
+\subsection{Parâmetros}
+\subsection{Iterated Race (IRACE)}
+
+
+\section{Resultados}
+\input{tabelas/tabela_gkd_c.tex}
+\input{tabelas/tabela_mdg_a.tex}
+\input{tabelas/tabela_mdg_b.tex}
+\input{tabelas/tabela_som_b.tex}
+
+\bibliographystyle{sbc}
+\bibliography{sbc-template}
+
+\end{document}

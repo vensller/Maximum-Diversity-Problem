@@ -12,63 +12,42 @@ import java.util.Map;
 public class LeitorLog {
     
     private String texto;
-    private String textoLatex;
     private List<Tupla> listaTuplas;
     private Map<String, List<Tupla> > hashMapTuplas = new HashMap<>();
+    
+    private int numeroRepiticoes;
 
     private String pasta;
     private String arquivoEstadoDaArte;
-    private final String ARQ1 = "LogDeResultados1.txt";
-    private final String ARQ2 = "LogDeResultados2.txt";
-    private final String ARQ_FINAL = "resultados.csv";
+    private final String ARQ1 = "LogDeResultados1.csv";
+    private final String ARQ2 = "LogDeResultados2.csv";
+    private final String ARQ_FINAL = "tabela%.tex";
+    private String sufixoArqFinal;
 
-    private final String ARQUIVO = "Arquivo: ";
-    private final String TEMPO = "Tempo total: ";
-    private final String SOLUCAO = "Melhor solução: ";
-    private final String LOG1 = "LogDeResultados1";
-    private final String LOG2 = "LogDeResultados2";
-
-    public LeitorLog(String arquivo, String arquivoEstadoDaArte) {
+    public LeitorLog(String arquivo, int numeroRepiticoes, String arquivoEstadoDaArte, String sufixoArqFinal) {
         super();
+        this.numeroRepiticoes = numeroRepiticoes;
         this.pasta = arquivo;
         this.arquivoEstadoDaArte = arquivoEstadoDaArte;
+        this.sufixoArqFinal = sufixoArqFinal;
     }
 
     public void ler() {
         try {
-            boolean gravouInstancia = false, gravouTempo = false, gravouSolucao = false;
             String linha;
-            Tupla tupla = new Tupla();
+            String[] valores;
             listaTuplas = new ArrayList<>();
             
             BufferedReader br = new BufferedReader(new FileReader(pasta+ARQ1));
             while ((linha = br.readLine()) != null) {
-                if (linha.startsWith(ARQUIVO)
-                        && !linha.contains(LOG1)
-                        && !linha.contains(LOG2)) {
-                    linha = linha.substring(linha.lastIndexOf("/")+1, linha.length() - 4);
-                    tupla.setInstancia(linha);
-                    gravouInstancia = true;
-                    
-                } else if (linha.startsWith(TEMPO)) {
-                    linha = linha.substring(linha.lastIndexOf(" ")+1, linha.length()).trim();
-                    tupla.setTempo(Double.parseDouble(linha));
-                    gravouTempo = true;
-                    
-                } else if (linha.startsWith(SOLUCAO)) {
-                    linha = linha.substring(linha.lastIndexOf(" ")+1, linha.length()).trim();
-                    tupla.setSolucao(Double.parseDouble(linha));
-                    gravouSolucao = true;
-                    
-                }
-
-                if (gravouInstancia && gravouSolucao && gravouTempo) {
-                    gravouInstancia = false;
-                    gravouSolucao = false;
-                    gravouTempo = false;
-                    listaTuplas.add(tupla);
-                    tupla = new Tupla();
-                }
+                valores = linha.split(";");
+                listaTuplas.add(
+                    new Tupla(
+                        valores[0].substring( valores[0].lastIndexOf("/")+1, valores[0].length()),
+                        Double.parseDouble(valores[1]),
+                        Double.parseDouble(valores[2])
+                    )
+                );
             }
             br.close();
         } catch (FileNotFoundException ex) {
@@ -93,27 +72,41 @@ public class LeitorLog {
         }
     }
     
-    public void calcular(){
-        texto = "Instancia;"
-                + "Estado da Arte;"
-                + "Melhor Solucao;"
-                + "Desvio para o melhor;"
-                + "Tempo da melhor solucao;"
-                + "Solucao Media;"
-                + "Desvio medio;"
-                + "Tempo Medio;";
+    public void processar(){
+        final String cabecalho =
+            "\\begin{landscape}\n" +
+            "\t\\begin{table}[ht]\n" +
+            "\t\\centering\n" +
+            "\t\\begin{tabular}{| c | r | r | r | r | r | r | r |  }\n" +
+            "\\hline\n";
         
-        textoLatex += texto + "\n";
-        for (int i = 1; i <= 20; i++) {
-            texto += "#"+i+"T;#"+i+"S;";
-        }
-        texto += "\n";
+        final String rodape =
+            "\\hline\n" +
+            "\t\\end{tabular}\n" +
+            "\t\\caption{Legenda da tabela}\n" +
+            "\t\\label{seu_label}\n" +
+            "\t\\end{table}\n" +
+            "\\end{landscape}\n";
         
-        double tempoMedio, melhorSolucao, tempoDoMelhor = 0, solucaoMedia, aux;
+        texto = "Instancia&"
+                + "Estado da Arte&"
+                + "Melhor Solucao&"
+                + "Desvio melhor&"
+                + "Tempo do melhor&"
+                + "Solucao Media&"
+                + "Desvio medio&"
+                + "Tempo Medio\\\\ \\hline \n";
+        
+        double estadoDaArte, melhorSolucao, desvioMelhor, 
+            tempoDoMelhor = 0, solucaoMedia, desvioMedio, tempoMedio, aux;
+        double[] medias = new double[7];
         String linha;
         for( String chave: hashMapTuplas.keySet() ){
-            tempoMedio = 0;
+            estadoDaArte = Double.parseDouble( 
+                buscarEstadoDaArte(chave).replaceAll(",", ".") );
+            
             melhorSolucao = Double.MIN_NORMAL;
+            tempoMedio = 0;
             solucaoMedia = 0;
             linha = "";
             
@@ -128,27 +121,40 @@ public class LeitorLog {
                 aux = t.getTempo();
                 tempoMedio += aux;
             }
+            medias[1] += melhorSolucao;
+            medias[3] += tempoDoMelhor;
+            medias[4] += solucaoMedia;
             
-            solucaoMedia /= 20;
-            tempoMedio /= 20;
+            solucaoMedia /= numeroRepiticoes;
+            tempoMedio /= numeroRepiticoes;
             
-            String estadoDaArte = buscarEstadoDaArte(chave).replaceAll(",", ".");
-            
-            if( estadoDaArte.isEmpty() ){
-                linha = chave + ";-;"+ melhorSolucao + ";-;" + tempoDoMelhor + ";"
-                    + solucaoMedia + ";-;" + tempoMedio;
-            }else{
-                linha = chave + ";" + estadoDaArte + ";"+ melhorSolucao + ";" + 
-                    (Double.parseDouble(estadoDaArte)-melhorSolucao) +";" + 
-                    tempoDoMelhor + ";" + solucaoMedia + ";" + 
-                    (Double.parseDouble(estadoDaArte)-solucaoMedia) + ";" + tempoMedio;
-            }
-            textoLatex += linha + "\n";
-            for( Tupla t: hashMapTuplas.get( chave ) ){
-                linha += t.getTempo() + ";" + t.getSolucao() + ";";
-            }
-            texto += linha + "\n";
+            String f = "%.2f";
+                linha = 
+                    substiruirUnderscore(chave, "\\_") + "&" +
+                    String.format(f, estadoDaArte ) + "&" +
+                    String.format(f, melhorSolucao) + "&" + 
+                    String.format(f, estadoDaArte-melhorSolucao) +"&" + 
+                    String.format(f, tempoDoMelhor) + "&" +
+                    String.format(f, solucaoMedia) + "&" + 
+                    String.format(f, estadoDaArte-solucaoMedia) + "&" +
+                    String.format(f, tempoMedio);
+            texto += "\t\t" + linha + "\\\\\n";
         }
+        texto = cabecalho + texto + rodape;
+    }
+    
+    private String substiruirUnderscore(String s, String p){
+        char c;
+        String str = "";
+        for (int i = 0; i < s.length(); i++) {
+            c = s.charAt( i );
+            if( c == '_'){
+                str += p;
+            }else{
+                str += c;
+            }
+        }
+        return str;
     }
     
     private String buscarEstadoDaArte(String buscado){
@@ -158,12 +164,11 @@ public class LeitorLog {
             String[] valores;
             BufferedReader br = new BufferedReader(new FileReader(arquivoEstadoDaArte));
             while ((linha = br.readLine()) != null) {
-                if( !linha.startsWith("Instance")){
-                    valores = linha.split(";");
-                    linha = valores[0].substring(0, valores[0].indexOf("."));
-                    if( buscado.equals( linha ) ){
-                        retorno = valores[1];
-                    }
+                linha = linha.replaceAll(",", ";");
+                valores = linha.split(";");
+                if( buscado.equals( valores[0] ) ){
+                    retorno = valores[1];
+                    break;
                 }
             }
             br.close();
@@ -178,19 +183,9 @@ public class LeitorLog {
     public void escrever(){
         FileWriter writer;
         try {
-            writer = new FileWriter(pasta + ARQ_FINAL, false);
+            writer = new FileWriter(pasta + 
+                ARQ_FINAL.replaceAll("%", "_" + sufixoArqFinal), false);
             writer.write(texto);
-            writer.close();
-        } catch (IOException ex) {
-            ex.printStackTrace();
-        }
-    }
-    
-    public void excreverLatex(){
-        FileWriter writer;
-        try {
-            writer = new FileWriter(pasta + "l.txt", false);
-            writer.write(textoLatex.replaceAll(";", "&").replaceAll("_", "\\_").replaceAll("\n", "\\\\\n"));
             writer.close();
         } catch (IOException ex) {
             ex.printStackTrace();
