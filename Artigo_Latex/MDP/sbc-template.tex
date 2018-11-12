@@ -3,10 +3,9 @@
 \usepackage{sbc-template}
 
 \usepackage{graphicx,url}
-
-\usepackage[brazilian]{babel}
 \usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+\usepackage{float}
 
 \usepackage{amsmath}
 
@@ -212,10 +211,60 @@ Para obtermos flexibilidade na tentativa de encontrar a solução para cada inst
 Para isso, também se tornou necessário utilizar uma ferramenta chamada IRACE. O IRACE é uma ferramenta que automatiza a configuração dos parâmetros e define a melhor configuração possível baseado em seus cenários.
 
 \subsection{Parâmetros}
-\subsection{Iterated Race (IRACE)}
 
+Foram utilizados cinco parâmetros no sistema, que podem ser visto na tabela \ref{tabela_parametros}. Um que controla o número de repetições que algoritmo GRASP deve executar antes de finalizar e dar o resultado final. Um parâmetro que indica ao GRASP qual algoritmo construtivo deve ser utilizado para construir a primeira solução e depois tentar melhora-la. O parâmetro p possue duas funções, indica para o guloso ponderado que é o peso a diferença entre o elemento \textit{i} possue para os elementos selecionados e o peso para os não selecionados (1-p neste caso). Para os algoritmos alfa-guloso e alfa-guloso probabilistico, indica qual a proporção de alfa.
+
+O parâmetro k indica para os algoritmos k-guloso e k-guloso probabilistico qual o valor da parcela que deve ser considerada para a escolha. O parâmetro search indica para o GRASP qual dos algoritmos de busca deve ser ulitizado.
+
+\begin{table}[t]
+	\centering
+	\begin{tabular}{| c | p{3.5cm} | p{3.5cm} | p{3.5cm} | }
+		\hline
+		Parâmetro&Função&Possiveis valores&Dependencias\\ \hline
+		nr&Indica o número de repetições que GRASP deve executar&Um inteiro entre 100 e 400&-\\ \hline
+		const&Indica qual algoritmo construtivo deve ser executado&Aleatório (a), Guloso(g), Guloso ponderado (gp), k-guloso (kg), k-guloso probabilisitico (kgp), alfa-guloso (ag) e alfa-guloso probabilistico (agp)&-\\ \hline
+		p&Indica uma probabilidade ou peso (Utilização diferente entre cada algoritmo)&Um real entre 0.1 e 1.0&const seja gp ou const seja ag ou const seja agp\\ \hline
+		k&Indica parcela para algoritmo k-guloso&Um inteiro que pertence ao conjunto {1,5,10,15,20,25}&const seja kg ou const seja kgp\\ \hline
+		search&Indica qual algoritmo de busca deve ser executado& Best Improvement Search (bis) e First Improvement Search (fis)&-\\ \hline
+	\end{tabular}
+	\caption{Parâmetros do sistema.}
+	\label{tabela_parametros}
+\end{table}
+
+
+\subsection{Iterated Race (IRACE)}
+Nesta subseção é apresentada os resultados obtidos para a calibração de parâmetros no IRACE. O experimento consistiui na execução de 150 Instancias \footnote{Só lembrando que esse texto não bate com os resultados finais, pois havia um bug que inválidou os resultados e precisa ser refeito.}, em quatro interações de 5000 experimentos cada.
+
+A saída gerada pelo programa ao final da execução esta descrito na tabela \ref{tabela_resultado_irace}. A segunda opção foi escolhida pois esta representa uma média dos valores obtidos.
+
+\begin{table}[t]
+	\centering
+	\begin{tabular}{| c | c | c | c | c |}
+		\hline
+		nr&const&search&p&k\\ \hline
+		350&gp&fis&0.14&-\\ \hline
+		307&gp&fis&0.13&-\\ \hline
+		322&gp&fis&0.14&-\\ \hline
+		236&gp&fis&0.12&-\\ \hline
+	\end{tabular}
+	\caption{Resultados gerados pelo IRACE.}
+	\label{tabela_resultado_irace}
+\end{table}
 
 \section{Resultados}
+
+Nesta seção é apresentado os resultados finais obtidos com execução do algoritmo com os parâmetros que o IRACE indicou serem os melhores. O experimento final consiste na execução de três vezes as seguintes instâncias. Vinte instâncias do tipo GKD-c, vinte do tipo MDG-a, vinte do tipo MGD-b e vinte do tipo SOM-b. Foram coletados dados sobre o tempo total de execução e solução final do problema, além de dados sobre cada uma das melhoras apresentadas pelo algoritmo e quanto tempo levou para essa melhora. Todos os experimento foram realizados em um computador com Intel Celeron(R) CPU B820 de 1.70GHz x 2 com 3,7 GiB de memória RAM e instalado o sistema operacional Ubuntu 16.04 LTS.
+
+Para a apresentação dos dados obtidos para cada instância, sera montada uma tabela que resume as três execuções de cada instância, com as seguintes colunas. O nome da instância em Instancia, a melhor solução gerada por algum algoritmo na coluna em Estado da Arte, melhor solução gerada pelo algoritmo deste artigo em Melhor solução, diferença entre o estado da arte e a melhor solução em Desvio Melhor. A coluna Tempo Melhor indica quanto tempo levou em milisegundos a execução que deu a melhor solução, a Solução Média indica a média da solução gerada pelas três execuções do algoritmo na instância. Desvio Medio mostra a diferença entre o estado da arte e a solução média e por ultimo a média do tempo em milisegundos que as intâncias executam.
+
+Na tabela \ref{tabela_gkd_c} esta listado os resultados obtidos para as instância GKD-c, o Desvio para o melhor e o Desvio para o resultado médio tendem a zero, ou seja, o algoritmo conseguiu chegar ao estado da arte ou muito próximo dele. O tempo ficou no intervalo entre 60 e 160 segundos.
+
+Os resultados obtidos para as instâncias MDG-a esta listado na tabela \ref{tabela_mdg_a}, o desvio para o melhor foi maior, assim como o desvio para a média. Ficando no intervalo entre 0 e 57 para o desvio melhor e no tervalo de 2 e 60 para o desvio para a solução média. O tempo de execução ficou no intervalo entre 200 e 260 segundos.
+
+Na tabela \ref{tabela_mdg_b} estão os resultados obtidos para as instâncias MDG-b, estas foram as que apresentaram a maior diferença entre a solução do algoritmo e estado da arte. O desvio para o melhor ficou no intervalo entre 0,1 e 6650 e o intervalo para o desvio para a solução média ficou no intervalo entre 0,1 e 7000. O tempo médio para estas instâncias ficou no intervalo de 210 segundos e 270 segundos.
+
+Os valores obtidos para as instâncias SOM-b estão na tabela \ref{tabela_som_b}, o desvio para o melhor ficou no intervalo entre 0 e 61 e o desvio para a solução média ficou entre 	0 e 75. O tempo médio ficou no intervalo de 1,5 e 2200 segundos.
+
 \input{tabelas/tabela_gkd_c.tex}
 \input{tabelas/tabela_mdg_a.tex}
 \input{tabelas/tabela_mdg_b.tex}

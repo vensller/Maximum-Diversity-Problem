@@ -1,13 +1,13 @@
-library(ggplot2)
 
-tempo <-table( teste$Tempo_a)
-solucao <- table( teste$Solucao_a)
+sa <- table( Dados$MDGa_12_Solucao )
+ta <- table( Dados$MDGa_12_Tempo )
 
-plot( solucao~tempo )
+i1 <- approx(sa, ta, method="linear")
 
-riqueza <- c(15,18,22,24,25,30,31,34,37,39,41,45)
-area <- c(2,4.5,6,10,30,34,50,56,60,77.5,80,85)
-area.cate <- rep(c("pequeno", "grande"), each=6)
+grafico <- plot(ta, sa, type = "l", ylim=c(100000, 20000))
+# grafico
 
-plot(riqueza~area)
-
+x <- seq(0.5, 1.5, 0.25)
+y <- rep(1, length(x))
+plot(x, y, type="n")
+points(x, y)
