@@ -169,11 +169,7 @@ public class LeitorLog {
         }
         texto += "\\hline \t\tMédia&";
         for (int i = 0; i < medias.length; i++) {
-            System.out.println( medias[i] );
-            System.out.println( listaDuplas.size() );
             medias[i] = medias[i] / listaDuplas.size();
-            System.out.println( medias[i] );
-            System.out.println(">>>>");
             
             texto += String.format("%.2f", medias[i] );
             if( i == 2 || i == 5 ){
