@@ -12,6 +12,7 @@ import java.util.Map;
 public class LeitorLog {
     
     private String texto;
+    private List<Dupla> listaDuplas;
     private List<Tupla> listaTuplas;
     private Map<String, List<Tupla> > hashMapTuplas = new HashMap<>();
     
@@ -97,7 +98,8 @@ public class LeitorLog {
                 + "Desvio medio&"
                 + "Tempo Medio\\\\ \\hline \n";
         
-        double estadoDaArte, melhorSolucao, desvioMelhor, 
+        listaDuplas = new ArrayList<>();
+        double estadoDaArte, melhorSolucao, desvioDoMelhor, 
             tempoDoMelhor = 0, solucaoMedia, desvioMedio, tempoMedio, aux;
         double[] medias = new double[7];
         String linha;
@@ -121,26 +123,62 @@ public class LeitorLog {
                 aux = t.getTempo();
                 tempoMedio += aux;
             }
-            medias[1] += melhorSolucao;
-            medias[3] += tempoDoMelhor;
-            medias[4] += solucaoMedia;
             
             solucaoMedia /= numeroRepiticoes;
             tempoMedio /= numeroRepiticoes;
             
+            desvioDoMelhor = ( (estadoDaArte-melhorSolucao) / estadoDaArte ) * 100.0 ;
+            desvioMedio = ( (estadoDaArte-solucaoMedia) / estadoDaArte ) * 100.0;
+            
+            medias[0] += estadoDaArte;
+            medias[1] += melhorSolucao;
+            medias[2] += desvioDoMelhor;
+            medias[3] += tempoDoMelhor;
+            medias[4] += solucaoMedia;
+            medias[5] += desvioMedio;
+            medias[6] += tempoMedio;
+            
             String f = "%.2f";
-                linha = 
-                    substiruirUnderscore(chave, "\\_") + "&" +
-                    String.format(f, estadoDaArte ) + "&" +
-                    String.format(f, melhorSolucao) + "&" + 
-                    String.format(f, estadoDaArte-melhorSolucao) +"&" + 
-                    String.format(f, tempoDoMelhor) + "&" +
-                    String.format(f, solucaoMedia) + "&" + 
-                    String.format(f, estadoDaArte-solucaoMedia) + "&" +
-                    String.format(f, tempoMedio);
-            texto += "\t\t" + linha + "\\\\\n";
+            linha = 
+                substiruirUnderscore(chave, "\\_") + "&" +
+                String.format(f, estadoDaArte ) + "&" +
+                String.format(f, melhorSolucao) + "&" + 
+                String.format(f, desvioDoMelhor ) + " \\%&" + 
+                String.format(f, tempoDoMelhor) + "&" +
+                String.format(f, solucaoMedia) + "&" + 
+                String.format(f, desvioMedio ) + " \\%&" +
+                String.format(f, tempoMedio);
+            linha = "\t\t" + linha + "\\\\\n";
+            
+            listaDuplas.add( new Dupla(chave, linha) );
         }
-        texto = cabecalho + texto + rodape;
+        
+        for (int i = 0; i < listaDuplas.size(); i++) {
+            for (int j = i+1; j < listaDuplas.size(); j++) {
+                if( listaDuplas.get(i).getNome().compareTo( listaDuplas.get(j).getNome() ) > 0 ){
+                    Dupla d = listaDuplas.get(i);
+                    listaDuplas.set( i, listaDuplas.get(j) );
+                    listaDuplas.set(j, d);
+                }
+            }
+        }
+        
+        texto = cabecalho + texto;
+        for (int i = 0; i < listaDuplas.size(); i++) {
+            texto += listaDuplas.get(i).getLinha();
+        }
+        texto += "\\hline \t\tMédia&";
+        for (int i = 0; i < medias.length; i++) {
+            medias[i] = medias[i] / listaDuplas.size();
+            
+            texto += String.format("%.2f", medias[i] );
+            if( i == 2 || i == 5 ){
+                texto += "\\%&";
+            }else if( i != medias.length-1 ){
+                texto += "&";
+            }
+        }
+        texto += "\\\\ \n" + rodape;
     }
     
     private String substiruirUnderscore(String s, String p){
@@ -189,6 +227,36 @@ public class LeitorLog {
             writer.close();
         } catch (IOException ex) {
             ex.printStackTrace();
+        }
+    }
+    
+    private class Dupla{
+        
+        private String nome;
+        private String linha;
+
+        public Dupla() {
+        }
+
+        public Dupla(String nome, String linha) {
+            this.nome = nome;
+            this.linha = linha;
+        }
+
+        public String getNome() {
+            return nome;
+        }
+
+        public void setNome(String nome) {
+            this.nome = nome;
+        }
+
+        public String getLinha() {
+            return linha;
+        }
+
+        public void setLinha(String linha) {
+            this.linha = linha;
         }
     }
 
